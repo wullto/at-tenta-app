@@ -15,7 +15,15 @@ export default async function Home() {
   const serverStatusMap = Object.fromEntries(
     progressRows.map((row) => [row.examId, row.completedAt ? "completed" : "in-progress"] as const)
   )
-  const examSummaries = allExams.map((e) => ({ id: e.id, totalPoints: e.totalPoints }))
+  const examSummaries = allExams.map((e) => ({
+    id: e.id,
+    totalPoints: e.totalPoints,
+    cases: e.cases.map((c) => ({
+      title: c.title,
+      points: c.points,
+      questionIds: c.pages.flatMap((p) => p.questions.map((q) => q.id)),
+    })),
+  }))
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
@@ -36,8 +44,10 @@ export default async function Home() {
               inProgressCount: dashboard.inProgressCount,
               averageEarnedPoints: dashboard.averageEarnedPoints,
               averagePercentage: dashboard.averagePercentage,
+              totalExamCount: allExams.length,
             }}
             examSummaries={examSummaries}
+            areaAverages={dashboard.areaAverages}
           />
         </section>
 
@@ -62,34 +72,6 @@ export default async function Home() {
           )}
         </section>
       </div>
-
-      {dashboard.areaAverages.length > 0 && (
-        <section className="mt-8 rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
-          <div className="flex items-center justify-between gap-4">
-            <div>
-              <h2 className="text-lg font-semibold text-slate-900">Områdesöversikt</h2>
-              <p className="text-sm text-slate-500">Genomsnittlig prestation per falltyp bland avslutade tentor.</p>
-            </div>
-          </div>
-
-          <div className="mt-6 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
-            {dashboard.areaAverages.map((area) => (
-              <div key={area.label} className="rounded-2xl border border-slate-100 bg-slate-50 p-4">
-                <div className="flex items-start justify-between gap-4">
-                  <p className="text-sm font-medium text-slate-800">{area.label}</p>
-                  <span className="rounded-full bg-white px-2.5 py-1 text-xs font-semibold text-slate-700 shadow-sm">
-                    {area.percentage}%
-                  </span>
-                </div>
-                <div className="mt-4 h-2 rounded-full bg-slate-200">
-                  <div className="h-2 rounded-full bg-slate-900" style={{ width: `${area.percentage}%` }} />
-                </div>
-                <p className="mt-2 text-xs text-slate-500">{area.completedExams} genomförda tentor</p>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
 
       <section className="mt-10">
         <h2 className="text-xl font-semibold text-slate-900">Tentor</h2>
