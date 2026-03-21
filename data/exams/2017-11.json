@@ -7,7 +7,7 @@
     {
       "id": "1",
       "number": 1,
-      "title": "Fall 1 – Kirurgi frågan",
+      "title": "Fall 1 – Kirurgi",
       "points": 20,
       "intro": "Du är inne på slutet av din AT och tjänstgör på Vårdcentralen i X-stad. Det är drygt tre timmars bilfärd till närmaste sjukhus så denna vårdcentral är välutrustad med såväl laboratorieresurser samt en liten röntgenavdelning. Röntgenbilder får du granska själv primärt. Den sista patienten innan lunch söker med anledning av vänstersidig knäsmärta. Hon har med sig sin 12 åriga dotter på besöket. Det rör sig om en 43 årig kvinna som är relativt motionsaktiv, joggar några km 1-2 gånger per vecka samt är värd på friskvårds inrättning. Ur anamnesen framkommer att hon skadat det vänstra knäet i ”ungdomen” under fotbollsspel och genomgick en korsbandsoperation ”samt något med den inre menisken”. Hon har ”känt av knäet” till och från de senaste åren men under förra torsdagens gympapass högg det plötsligt till i det vänstra knäet som svullnade till något dagen därpå. Svullnaden har nu nästan lagt sig men värken har inte riktigt gett med sig och hon har fortfarande svårt att gå utan smärta.",
       "pages": [
@@ -259,7 +259,7 @@
     {
       "id": "2",
       "number": 2,
-      "title": "Fall 2 – Psykiatrifrågan",
+      "title": "Fall 2 – Psykiatri",
       "points": 20,
       "intro": "Du är i slutet på din AT-placering inom primärvården på en vårdcentral. Den sista patienten som är uppsatt på mottagningen denna dag är Faia 46 år. Ur journalen hämtar du följande information: Faia är skild och bor med sin mor. Hon har en vuxen son. Faia kom som flykting till Sverige från norra Irak för 8 år sedan. Tillhörde där en utsatt kristen minoritet. Hon har lärt sig tala relativt bra svenska och arbetar idag som butiksbiträde. Har tidigare sökt på vårdcentralen för ospecifika magbesvär, smärre gynekologiska besvär, urininfektion och utreddes tidigare för TBC, vilket kunde uteslutas. Behandlas med läkemedel mot hypertoni. Remitterades för något år sedan till hudklinik för psoriasis som förvärrats genom åren. Har också tidigare sökt för sömnbesvär och haft kortvarig kontakt med kurator.\n\nSöker nu på åter på vårdcentralen då hon sedan en längre tid inte mår bra: känner sig nedstämd, upplever tydlig oro, ibland med attacker av hjärtklappning och har svårt att sova. Har sjukskrivit sig själv sista veckan.",
       "pages": [
@@ -466,7 +466,7 @@
     {
       "id": "3",
       "number": 3,
-      "title": "Fall 3 – 3 Internmedicin",
+      "title": "Fall 3 – Internmedicin",
       "points": 20,
       "intro": "Du är AT-läkare på en medicinklinik, det är lördag och du är medicinjour på akutmottagningen. Du informeras om att det finns två stökiga unga män på akutrummet och en som verkar vara dålig. Ansvarig akutsköterska vill att du skall bedöma patienten snarast. Du finner Carl, en 20-årig man, med blodtryck 100/60 mmHg och med sänkt medvetandegrad (RLS-85 grad 3/GCS 9 poäng).",
       "pages": [

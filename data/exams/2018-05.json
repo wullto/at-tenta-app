@@ -7,7 +7,7 @@
     {
       "id": "1",
       "number": 1,
-      "title": "Fall 1 – Fall 1 Kirurgifrågan",
+      "title": "Fall 1 – Kirurgi",
       "points": 20,
       "intro": "Du arbetar på ett länssjukhus och går ett pass på akuten som kvällsjour. Det går ett traumalarm och du får höra att en patient har ramlat från ett traktorsläp och initialt haft ett lågt blodtryck uppmätt till 100/60 mm Hg, puls 110 och saturation 97% men är vaken och pratbar. Han har fått smärtstillande i ambulansen och klagat över ont i ryggen och i magen.\n\nPatienten anländer på en scoop-bår. Det rör sig om en 62-årig man, tidigare väsentligen frisk förutom hypertoni och hyperlipidemi.  Han är aldrig tidigare opererad. Han är 175 cm lång och väger 103 kg.\n\nI anamnesen framkommer att han stått på ett traktorsläp lastat med stora stenar, som har vält och där han har slagit i sidan av kroppen mot ett hårt underlag.\n\nDu undersöker patienten enligt ATLS och finner att andningsvägarna är fria, men på grund av hans kroppsstorlek är lungorna svårauskulterade, andningsljuden förefaller liksidiga. Du ser att han har hudavskrap på vänster sida av kroppen som sträcker sig från revbenen via flanken mot vänster höft. Buken är adipös och svårvärderad, ömmar dock vid palpation. Extremiteterna verkar oskadda.",
       "pages": [
@@ -356,7 +356,7 @@
     {
       "id": "2",
       "number": 2,
-      "title": "Fall 2 – Psykiatrifrågan",
+      "title": "Fall 2 – Psykiatri",
       "points": 20,
       "intro": "Du är legitimerad läkare och vikarie på en vårdcentral. Vårdcentralen ligger i ett samhälle på 3 000 personer sex mil utanför en medelstor stad där det också finns ett sjukhus med de flesta grundspecialiteter inklusive en psykiatrisk klinik.\n\nEn 20-årig ung kvinna söker på grund av ångest, sömnsvårigheter och självmordstankar. Under ditt samtal med henne framkommer att hon under det senaste året också skurit sig på underarmarna. Hon arbetar nu på en hamburgerrestaurang, men har haft svårt att klara detta på grund av problem att komma i tid till sina arbetspass.\n\nVid den fortsatta genomgången av hennes livshistoria framkommer att hon gjorde abort vid 16 års ålder, skolgången var problematisk och hon fick inte godkända slutbetyg i gymnasiet. Hon bor hemma hos sin mor. Föräldrarna är skilda sedan flera år tillbaka. Hon har en pojkvän, men relationen är problematisk. Han är ofta ute med sina kompisar och dricker alkohol och använder sannolikt också hasch. Patienten har också själv druckit sig berusad ett antal gånger tillsammans med pojkvännen. Han har vid några tillfällen i berusat tillstånd varit så hotfull mot henne på grund av svartsjuka att hon varit med på sex för att han skulle lugna ner sig.\n\nVid besöket är hon inte så lätt att intervjua, hon hoppar ofta över till ett nytt samtalsämne utan att tala färdigt. Hon ger ett allmänt oroligt intryck och du uppfattar hennes sinnesstämning som något sänkt. Hon har svårt att förklara varför hon skär sig.",
       "pages": [
@@ -669,7 +669,7 @@
     {
       "id": "3",
       "number": 3,
-      "title": "Fall 3 – Internmedicinfrågan",
+      "title": "Fall 3 – Internmedicin",
       "points": 20,
       "intro": "En 64-årig kvinna inkommer i ambulans till sjukhusets akutmottagning med anamnes på feber i 5 dagar, cirka 38,5°C och hosta. Hon förnekar bröstsmärtor. Du är medicinjour och undersöker patienten.\n\nI inkomststatus noterar du bland annat följande. AT: Ser trött ut och svarar fåordigt. Perifert varm. Andningsfrekvens 22/min. Lättare underbenssvullnad bilateralt. Hjärta: Regelbunden rytm. Snabb, något tunn puls, cirka 120/min. Blodtryck: 120/80 mmHg. Lungor: Hypersonor perkussionston, svaga bronkiella andningsljud och enstaka rassel över vänster lungbas.\n\nMedföljande make berättar att hustrun har rökt sedan 20-års ålder och sedan lång tid tillbaka haft hosta som nu förvärrats senaste veckan. Hon har också minskat nästan 10 kg i vikt de senaste åren.",
       "pages": [
@@ -868,7 +868,7 @@
     {
       "id": "4",
       "number": 4,
-      "title": "Fall 4 – Allmänmedicinfrågan",
+      "title": "Fall 4 – Allmänmedicin",
       "points": 20,
       "intro": "Du arbetar som underläkare vid en vårdcentral. Denna dag i mitten av augusti börjar du arbetsdagen med telefontid.\n\nPeter, 21 år, ringer med begäran om att få en ny kur antibiotika eftersom den klamydiainfektion han fick behandling för en månad tidigare inte blivit bra.",
       "pages": [

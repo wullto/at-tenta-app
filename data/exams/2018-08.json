@@ -7,7 +7,7 @@
     {
       "id": "1",
       "number": 1,
-      "title": "Fall 1 – Fall 1 Psykiatri",
+      "title": "Fall 1 – Psykiatri",
       "points": 20,
       "intro": "Du går en av dina första jourer som nylegitimerad läkare efter AT på den psykiatriska kliniken i Gammalköping. Det har varit en lugn kväll när jourtelefonen ringer. Det är sjuksköterskan som ringer från en av avdelningarna. Sjuksköterskan har en ensamstående 35 årig somatisk frisk man på avdelningen som vårdas för svår depression och ett nyligen genomfört ett allvarligt suicidförsök med tabletter. Han beskriver tidigare episoder med nedstämdhet men har varken vårdats inneliggande tidigare eller har haft kontakt med den psykiatriska öppenvården. Det finns en ärftlig belastning för affektiv sjukdom och patientens morbror suiciderade i ung ålder.\n\nPatienten vårdas nu sedan sju dagar enligt Hälso- och sjukvårdslagen (HSL). På plats berättar sjuksköterskan att hon är orolig för patienten. Under vårdtiden har antidepressiv behandling påbörjats. Patienten har inte sovit bra de senaste nätterna och har mycket ångest. Sjuksköterskan berättar även att modern precis ringt och berättat att hennes son SMS:at att han inte vill leva längre eller vill vara kvar på sjukhuset.\n\nSjuksköterskan vill att du bedömer patienten. Under samtalet är patienten ångestdriven och nedstämd, han nekar aktuella suicidala tankar samt planer och bagatelliserar meddelandet till modern: ”Det är ju sådant men säger ibland utan att mena det”. Han insisterar på att bli utskriven nu och går inte att övertala att kvarstanna på vårdavdelningen.",
       "pages": [
@@ -437,7 +437,7 @@
     {
       "id": "3",
       "number": 3,
-      "title": "Fall 3 – Fall 3 Kirurgi",
+      "title": "Fall 3 – Kirurgi",
       "points": 20,
       "intro": "Det är måndag morgon och du går jour på akutmottagningen där du förväntas bedöma patienter med kirurgiska och urologiska sjukdomar.\n\nDin första patient heter Michael och är 47 år. Han är gift och har en 17 årig son. Michael arbetar som försäljare. Sedan 3 dagar har han tilltagande ont i magen och nu tillkomst av feber. Han berättar att han hade en episod av frossa före ankomst till sjukhuset. Han har kräkts en gång. Han förnekar förändrade vattenkastnings- eller avföringsvanor.\n\nHan uppger att han inte har några allergier eller överkänslighet. Han blev appendektomerad vid 18 års ålder. På vårdcentralen har man något år tidigare diagnosticerat ett förmaksflimmer och något förhöjda blodfetter. I läkemedelslistan, som han lämnar fram, står det tablett Waran enligt behandlingsschema samt Tablett Metoprolol 50 mg x1.\n\nI status finner du följande: AT: Smärtpåverkad. Ter sig orienterad. Kroppstemperatur 38,8. Ögonvitorna är antytt ikteriska. Saturation: 97% Hjärta: Oregelbunden rytm. Puls 94 slag/min. Blodtryck 150/95 mmHg. Lungor: Vesikulära andningsljud. Inga krepitationer eller rassel. Buk: Överviktig. Tvärgående ca 5 cm lång väl läkt ärr vid McBurneys punkt. Ömmar distinkt under höger arcus med antydd defence. Ingen palpabel resistens. Per rektum: Tomt i ampullen. Oömt.\n\nVid blodprovstagning finner man följande värden:\n\nB-Hb: 136 (ref 117-153 g/L) P- CRP: 162 (< 3 mg/L) B-LPK:17,8 (3,5-8,8 x10/L) P-GT: 1,9 (< 2.0 mikrokat/L) P-Natrium:142 (137-145 mmol/L) P- Kalium: 3,4 (3,5-4,6 mmol/L) P-Kreatinin: 96 (< 90 mikromol/L) P- Bilirubin: 68 (< 26 mikromol/L) P-ASAT: 0,38 (< 0,76 mikrokat/L) P- glukos: 5,8 (4,0-6,0 mmol/L) P-ALAT: 0,42 (< 1,1 mikrokat/L) P-ALP: 2,3 (< 1,9 mikrokat/L) P-albumin: 36 (36-45 g/L) Urinsticka: 2+ ketoner",
       "pages": [
@@ -699,7 +699,7 @@
     {
       "id": "4",
       "number": 4,
-      "title": "Fall 4 – Fall 4 Internmedicin",
+      "title": "Fall 4 – Internmedicin",
       "points": 20,
       "intro": "Du är medicinjour på ett mellanstort sjukhus i Sverige, när du får ett stroke-larm. Sture 86 år som bor hemma med sin hustru, har insjuknat med högersidig svaghet och hustrun har larmat ambulans. Sture är vanligen uppegående, tar inga mediciner. Blodtrycket i ambulansen var 190/100.\n\nDetta är den information du har, du väljer att avstå från att komplettera den utan går snabbt vidare i din handläggning.",
       "pages": [
