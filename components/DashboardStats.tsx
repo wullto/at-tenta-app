@@ -24,6 +24,17 @@ function round(value: number) {
   return Math.round(value * 10) / 10
 }
 
+const SPECIALTY_COLORS: Record<string, { card: string }> = {
+  internmedicin: { card: "bg-blue-50 border-blue-200" },
+  kirurgi:       { card: "bg-rose-50 border-rose-200" },
+  allmänmedicin: { card: "bg-emerald-50 border-emerald-200" },
+  psykiatri:     { card: "bg-violet-50 border-violet-200" },
+}
+
+function specialtyCardColor(name: string) {
+  return SPECIALTY_COLORS[name.toLowerCase()]?.card ?? "bg-white border-slate-200"
+}
+
 function specialtyName(caseTitle: string): string {
   const parts = caseTitle.split("–")
   return parts.length > 1 ? parts[parts.length - 1].trim() : caseTitle
@@ -118,7 +129,7 @@ export default function DashboardStats({
       {displayAreaAverages.length > 0 && (
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
           {displayAreaAverages.map((area) => (
-            <div key={area.label} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+            <div key={area.label} className={`rounded-2xl border p-5 shadow-sm ${specialtyCardColor(area.label)}`}>
               <p className="text-xs uppercase tracking-wide text-slate-500">Snittpoäng – {area.label}</p>
               <p className="mt-2 text-3xl font-semibold text-slate-900">{area.percentage}%</p>
             </div>

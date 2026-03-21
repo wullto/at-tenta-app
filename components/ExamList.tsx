@@ -15,9 +15,21 @@ type ExamProgress = {
 
 type ProgressMap = Record<string, ExamProgress>
 
+const SPECIALTY_COLORS: Record<string, { badge: string }> = {
+  internmedicin: { badge: "bg-blue-100 text-blue-700" },
+  kirurgi:       { badge: "bg-rose-100 text-rose-700" },
+  allmänmedicin: { badge: "bg-emerald-100 text-emerald-700" },
+  psykiatri:     { badge: "bg-violet-100 text-violet-700" },
+}
+
+function specialtyColor(name: string) {
+  return SPECIALTY_COLORS[name.toLowerCase()] ?? { badge: "bg-slate-100 text-slate-500" }
+}
+
 function examLabel(date: string): string {
   const d = new Date(date + "T12:00:00")
-  return d.toLocaleDateString("sv-SE", { month: "long", year: "numeric" })
+  const s = d.toLocaleDateString("sv-SE", { month: "long", year: "numeric" })
+  return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
 function specialtyName(caseTitle: string): string {
@@ -69,14 +81,15 @@ export default function ExamList({
   }
 
   return (
-    <div className="mt-5 flex flex-col gap-3">
-      {years.map((year) => {
+    <div className="mt-5 flex flex-col">
+      {years.map((year, yearIndex) => {
         const group = examsByYear[year]
         const isOpen = !!openYears[year]
         const completedInYear = group.filter((e) => progressMap[e.id]?.status === "completed").length
 
         return (
           <div key={year}>
+            {yearIndex > 0 && <hr className="border-slate-200 mb-3" />}
             <button
               onClick={() => toggleYear(year)}
               className="w-full flex items-center justify-between px-2 py-2 rounded-xl hover:bg-slate-50 transition-colors group"
@@ -120,11 +133,14 @@ export default function ExamList({
                           </span>
                         </div>
                         <div className="mt-4 flex flex-wrap gap-2">
-                          {exam.cases.map((c) => (
-                            <span key={c.id} className="rounded bg-slate-100 px-2 py-1 text-xs text-slate-400">
-                              {specialtyName(c.title)}
-                            </span>
-                          ))}
+                          {exam.cases.map((c) => {
+                            const name = specialtyName(c.title)
+                            return (
+                              <span key={c.id} className={`rounded px-2 py-1 text-xs opacity-60 ${specialtyColor(name).badge}`}>
+                                {name}
+                              </span>
+                            )
+                          })}
                         </div>
                       </div>
                     )
@@ -165,16 +181,17 @@ export default function ExamList({
                       <div className="mt-4 flex flex-wrap gap-2">
                         {exam.cases.map((c) => {
                           const name = specialtyName(c.title)
+                          const color = specialtyColor(name).badge
                           if (!hasProgress) {
                             return (
-                              <span key={c.id} className="rounded bg-slate-100 px-2 py-1 text-xs text-slate-500">
+                              <span key={c.id} className={`rounded px-2 py-1 text-xs ${color}`}>
                                 {name}
                               </span>
                             )
                           }
                           const caseEarned = getCaseEarnedPoints(exam, c.id, scores)
                           return (
-                            <span key={c.id} className="rounded bg-slate-100 px-2 py-1 text-xs text-slate-600 font-medium">
+                            <span key={c.id} className={`rounded px-2 py-1 text-xs font-medium ${color}`}>
                               {name}: {caseEarned}/{c.points}
                             </span>
                           )
