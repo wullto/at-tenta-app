@@ -16,10 +16,10 @@ type ExamProgress = {
 type ProgressMap = Record<string, ExamProgress>
 
 const SPECIALTY_COLORS: Record<string, { badge: string }> = {
-  internmedicin: { badge: "bg-blue-100 text-blue-700" },
-  kirurgi:       { badge: "bg-rose-100 text-rose-700" },
-  allmänmedicin: { badge: "bg-emerald-100 text-emerald-700" },
-  psykiatri:     { badge: "bg-violet-100 text-violet-700" },
+  internmedicin: { badge: "bg-blue-200 text-blue-800" },
+  kirurgi:       { badge: "bg-rose-200 text-rose-800" },
+  allmänmedicin: { badge: "bg-emerald-200 text-emerald-800" },
+  psykiatri:     { badge: "bg-violet-200 text-violet-800" },
 }
 
 function specialtyColor(name: string) {
@@ -136,7 +136,7 @@ export default function ExamList({
                           {exam.cases.map((c) => {
                             const name = specialtyName(c.title)
                             return (
-                              <span key={c.id} className={`rounded px-2 py-1 text-xs opacity-60 ${specialtyColor(name).badge}`}>
+                              <span key={c.id} className={`rounded px-2 py-1 text-xs ${specialtyColor(name).badge}`}>
                                 {name}
                               </span>
                             )
