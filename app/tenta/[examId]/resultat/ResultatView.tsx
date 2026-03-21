@@ -31,7 +31,7 @@ export default function ResultatView({
   const [startedAt] = useState(seedSession?.startedAt ?? new Date().toISOString())
   const [scores, setScores] = useState<Record<string, number>>(() => seedSession?.scores ?? {})
   const [openCases, setOpenCases] = useState<Record<string, boolean>>(() =>
-    exam.cases[0] ? { [exam.cases[0].id]: true } : {}
+    Object.fromEntries(exam.cases.map((c) => [c.id, true]))
   )
 
   useEffect(() => {
@@ -85,6 +85,12 @@ export default function ResultatView({
 
   const totalEarned = getTotalEarnedPoints(scores)
 
+  const completedAt = initialSession?.completedAt
+  const durationMinutes =
+    completedAt && startedAt
+      ? Math.round((new Date(completedAt).getTime() - new Date(startedAt).getTime()) / 60000)
+      : null
+
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
       <Link href={`/tenta/${exam.id}`} className="text-sm text-blue-600 hover:underline mb-6 inline-block">
@@ -107,6 +113,10 @@ export default function ResultatView({
             style={{ width: `${Math.min((totalEarned / exam.totalPoints) * 100, 100)}%` }}
           />
         </div>
+        {durationMinutes !== null && (
+          <p className="text-sm text-gray-500 mb-4">Tid: {durationMinutes} min</p>
+        )}
+
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
           {exam.cases.map((c) => {
             const earned = getCaseEarnedPoints(exam, c.id, scores)

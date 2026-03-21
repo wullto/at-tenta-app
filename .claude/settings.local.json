@@ -29,7 +29,13 @@
       "Bash(npm run:*)",
       "WebSearch",
       "WebFetch(domain:supabase.com)",
-      "WebFetch(domain:support.google.com)"
+      "WebFetch(domain:support.google.com)",
+      "Bash(find app/tenta/[examId] -name \"*.tsx\")",
+      "Bash(ls -la app/tenta/[examId]/prov/)",
+      "Bash(ls -la app/tenta/[examId]/resultat/)",
+      "Bash(wc -l data/exams/*.json)",
+      "Bash(head -50 app/api/exam-progress/[examId]/route.ts)",
+      "Bash(grep -r \"min-h\\\\|h-\\\\|w-\" components/ExamList.tsx app/tenta/[examId]/prov/ExamFlow.tsx)"
     ]
   }
 }

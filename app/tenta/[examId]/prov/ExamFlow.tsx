@@ -57,6 +57,7 @@ export default function ExamFlow({
   const [localAnswers, setLocalAnswers] = useState<Record<string, string>>(seedSession.answers)
   const [localScores, setLocalScores] = useState<Record<string, number>>(seedSession.scores)
   const [revealedFacit, setRevealedFacit] = useState<Record<string, boolean>>({})
+  const [showSaved, setShowSaved] = useState(false)
 
   useEffect(() => {
     if (initialSession) {
@@ -87,9 +88,12 @@ export default function ExamFlow({
     if (persistRemotely) {
       await persistSession(exam.id, nextSession)
     }
+    setShowSaved(true)
+    setTimeout(() => setShowSaved(false), 2000)
   }
 
   async function handleGoHome() {
+    if (!window.confirm("Vill du lämna tentan? Dina svar är sparade.")) return
     await syncSession()
     router.push("/")
     router.refresh()
@@ -115,6 +119,11 @@ export default function ExamFlow({
   }
 
   async function handleNext() {
+    const hasEmptyAnswer = currentPage.questions.some((q) => !(localAnswers[q.id] ?? "").trim())
+    if (hasEmptyAnswer) {
+      if (!window.confirm("Du har inte fyllt i alla svar på den här sidan. Vill du fortsätta ändå?")) return
+    }
+
     currentPage.questions.forEach((q) => {
       saveAnswer(exam.id, q.id, localAnswers[q.id] ?? "")
     })
@@ -132,13 +141,18 @@ export default function ExamFlow({
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
-      <div className="sticky top-4 z-20 mb-5 flex justify-between">
+      <div className="sticky top-4 z-20 mb-5 flex justify-between items-center">
         <button
           onClick={handleGoHome}
           className="rounded-full border border-slate-200 bg-white/95 px-4 py-2 text-sm font-semibold tracking-[0.18em] text-slate-900 shadow-sm backdrop-blur hover:bg-slate-50"
         >
           Hem
         </button>
+        <span
+          className={`text-xs text-green-600 font-medium transition-opacity duration-300 ${showSaved ? "opacity-100" : "opacity-0"}`}
+        >
+          Sparad ✓
+        </span>
         <button
           onClick={handleGoToFacit}
           className="rounded-full border border-slate-200 bg-white/95 px-4 py-2 text-sm font-medium text-slate-600 shadow-sm backdrop-blur hover:bg-slate-50"

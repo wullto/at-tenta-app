@@ -46,6 +46,8 @@ export default function DashboardStats({
     })
   }, [hasServerData, examSummaries])
 
+  const isEmpty = stats.completedCount === 0 && stats.inProgressCount === 0
+
   return (
     <div className="mt-8 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
       <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
@@ -64,6 +66,11 @@ export default function DashboardStats({
         <p className="text-xs uppercase tracking-wide text-slate-500">Snitt i procent</p>
         <p className="mt-2 text-3xl font-semibold text-slate-900">{stats.averagePercentage}%</p>
       </div>
+      {isEmpty && (
+        <p className="col-span-full text-sm text-slate-400 pt-1">
+          Välj en tenta nedan för att komma igång — statistiken dyker upp här när du är klar.
+        </p>
+      )}
     </div>
   )
 }
