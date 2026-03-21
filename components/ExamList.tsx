@@ -15,6 +15,11 @@ type ExamProgress = {
 
 type ProgressMap = Record<string, ExamProgress>
 
+function examLabel(date: string): string {
+  const d = new Date(date + "T12:00:00")
+  return d.toLocaleDateString("sv-SE", { month: "long", year: "numeric" })
+}
+
 function specialtyName(caseTitle: string): string {
   const parts = caseTitle.split("–")
   return parts.length > 1 ? parts[parts.length - 1].trim() : caseTitle
@@ -107,7 +112,7 @@ export default function ExamList({
                       >
                         <div className="flex justify-between items-start">
                           <div>
-                            <h3 className="text-lg font-semibold text-slate-900">{exam.title}</h3>
+                            <h3 className="text-lg font-semibold text-slate-900">{examLabel(exam.date)}</h3>
                             <p className="mt-1 text-sm text-slate-500">{exam.date}</p>
                           </div>
                           <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-500">
@@ -133,7 +138,7 @@ export default function ExamList({
                     >
                       <div className="flex justify-between items-start">
                         <div>
-                          <h3 className="text-lg font-semibold text-slate-900">{exam.title}</h3>
+                          <h3 className="text-lg font-semibold text-slate-900">{examLabel(exam.date)}</h3>
                           <p className="mt-1 text-sm text-slate-500">{exam.date}</p>
                         </div>
                         <div className="flex flex-col items-end gap-2">
