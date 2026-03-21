@@ -2,6 +2,7 @@ import Link from "next/link"
 import { notFound } from "next/navigation"
 import { getExamById, getExamIds } from "@/lib/exams"
 import ModeSelector from "./ModeSelector"
+import ClearExamButton from "@/components/ClearExamButton"
 
 export async function generateStaticParams() {
   const examIds = await getExamIds()
@@ -49,6 +50,7 @@ export default async function TentaIntroPage({ params }: { params: Promise<{ exa
       <div className="mb-8">
         <h2 className="font-semibold mb-3">Välj läge</h2>
         <ModeSelector examId={examId} />
+        <ClearExamButton examId={examId} />
       </div>
 
       <div>

@@ -95,6 +95,12 @@ export default function ExamFlow({
     router.refresh()
   }
 
+  async function handleGoToFacit() {
+    const completedAt = new Date().toISOString()
+    await syncSession(completedAt)
+    router.push(`/tenta/${exam.id}/resultat`)
+  }
+
   function handleScore(questionId: string, score: number) {
     saveScore(exam.id, questionId, score)
     setLocalScores((prev) => {
@@ -126,12 +132,18 @@ export default function ExamFlow({
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
-      <div className="sticky top-4 z-20 mb-5 flex justify-start">
+      <div className="sticky top-4 z-20 mb-5 flex justify-between">
         <button
           onClick={handleGoHome}
           className="rounded-full border border-slate-200 bg-white/95 px-4 py-2 text-sm font-semibold tracking-[0.18em] text-slate-900 shadow-sm backdrop-blur hover:bg-slate-50"
         >
           Hem
+        </button>
+        <button
+          onClick={handleGoToFacit}
+          className="rounded-full border border-slate-200 bg-white/95 px-4 py-2 text-sm font-medium text-slate-600 shadow-sm backdrop-blur hover:bg-slate-50"
+        >
+          Hoppa till facit →
         </button>
       </div>
 

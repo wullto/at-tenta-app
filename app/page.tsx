@@ -1,6 +1,7 @@
-import Link from "next/link"
 import { getAllExams } from "@/lib/exams"
 import AuthPanel from "@/components/AuthPanel"
+import ExamList from "@/components/ExamList"
+import DashboardStats from "@/components/DashboardStats"
 import { buildDashboardStats, getAllProgress } from "@/lib/progress"
 import { getAuthorizedUser, getCurrentUser } from "@/lib/authz"
 import { hasSupabaseEnv } from "@/lib/supabase/config"
@@ -10,6 +11,11 @@ export default async function Home() {
   const [user, authorizedUser, progressRows] = await Promise.all([getCurrentUser(), getAuthorizedUser(), getAllProgress()])
   const dashboard = buildDashboardStats(allExams, progressRows)
   const isSupabaseEnabled = hasSupabaseEnv()
+
+  const serverStatusMap = Object.fromEntries(
+    progressRows.map((row) => [row.examId, row.completedAt ? "completed" : "in-progress"] as const)
+  )
+  const examSummaries = allExams.map((e) => ({ id: e.id, totalPoints: e.totalPoints }))
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
@@ -24,24 +30,15 @@ export default async function Home() {
             </p>
           </div>
 
-          <div className="mt-8 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-            <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <p className="text-xs uppercase tracking-wide text-slate-500">Klara tentor</p>
-              <p className="mt-2 text-3xl font-semibold text-slate-900">{dashboard.completedCount}</p>
-            </div>
-            <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <p className="text-xs uppercase tracking-wide text-slate-500">Pågående</p>
-              <p className="mt-2 text-3xl font-semibold text-slate-900">{dashboard.inProgressCount}</p>
-            </div>
-            <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <p className="text-xs uppercase tracking-wide text-slate-500">Snittpoäng</p>
-              <p className="mt-2 text-3xl font-semibold text-slate-900">{dashboard.averageEarnedPoints}</p>
-            </div>
-            <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <p className="text-xs uppercase tracking-wide text-slate-500">Snitt i procent</p>
-              <p className="mt-2 text-3xl font-semibold text-slate-900">{dashboard.averagePercentage}%</p>
-            </div>
-          </div>
+          <DashboardStats
+            serverStats={{
+              completedCount: dashboard.completedCount,
+              inProgressCount: dashboard.inProgressCount,
+              averageEarnedPoints: dashboard.averageEarnedPoints,
+              averagePercentage: dashboard.averagePercentage,
+            }}
+            examSummaries={examSummaries}
+          />
         </section>
 
         <section className="space-y-5">
@@ -98,36 +95,7 @@ export default async function Home() {
         <h2 className="text-xl font-semibold text-slate-900">Tentor</h2>
         <p className="mt-1 text-sm text-slate-500">Välj en tenta att öva på eller fortsätta.</p>
 
-        <div className="mt-5 flex flex-col gap-4">
-          {allExams.map((exam) => (
-            <Link
-              key={exam.id}
-              href={`/tenta/${exam.id}`}
-              className="block rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-all hover:-translate-y-0.5 hover:border-slate-300 hover:shadow-md"
-            >
-              <div className="flex justify-between items-start">
-                <div>
-                  <h3 className="text-lg font-semibold text-slate-900">{exam.title}</h3>
-                  <p className="mt-1 text-sm text-slate-500">{exam.date}</p>
-                </div>
-                <div className="text-right">
-                  <span className="rounded-full bg-slate-100 px-3 py-1 text-sm font-medium text-slate-700">
-                    {exam.totalPoints} poäng
-                  </span>
-                  <p className="mt-1 text-xs text-slate-400">{exam.cases.length} fall</p>
-                </div>
-              </div>
-
-              <div className="mt-4 flex flex-wrap gap-2">
-                {exam.cases.map((c) => (
-                  <span key={c.id} className="rounded bg-slate-100 px-2 py-1 text-xs text-slate-500">
-                    {c.title}
-                  </span>
-                ))}
-              </div>
-            </Link>
-          ))}
-        </div>
+        <ExamList exams={allExams} serverStatusMap={serverStatusMap} />
       </section>
     </main>
   )
