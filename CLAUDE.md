@@ -77,6 +77,21 @@ Controlled by the `showFacitPerQuestion` prop in `ExamFlow.tsx`:
 
 Self-scoring uses 0.5-point steps when `question.maxPoints` is non-integer (e.g. 2.5 → buttons 0, 0.5, 1 … 2.5), otherwise whole-number steps.
 
+### Subject area colors
+
+Each specialty has a fixed color used throughout the UI:
+- **Internmedicin** → green
+- **Kirurgi** → red
+- **Allmänmedicin** → amber/yellow
+- **Psykiatri** → purple
+
+Colors appear in three places:
+1. **Badges** on exam cards on the home screen (`components/ExamList.tsx` — `SPECIALTY_COLORS`)
+2. **Statistics cards** per subject area (`components/DashboardStats.tsx` — `SPECIALTY_COLORS`)
+3. **Facit/results view** (`app/tenta/[examId]/resultat/ResultatView.tsx` — `SPECIALTY_STYLE`): case header buttons, expanded content background, and mini summary cards in the score summary grid
+
+The specialty name is extracted from the case title by splitting on `–` and taking the last part (e.g. `"Fall 1 – Kirurgi"` → `"Kirurgi"`). Always lowercase when looking up in color maps.
+
 ## Conventions
 
 - UI text is in Swedish throughout

@@ -8,11 +8,27 @@ import { Exam, ExamSession } from "@/types/exam"
 import { getSession, saveScore, setSession } from "@/lib/storage"
 import { getTotalEarnedPoints, getCaseEarnedPoints } from "@/lib/scoring"
 
-const SPECIALTY_BG: Record<string, string> = {
-  internmedicin: "bg-green-50",
-  kirurgi:       "bg-red-50",
-  allmänmedicin: "bg-amber-50",
-  psykiatri:     "bg-purple-50",
+const SPECIALTY_STYLE: Record<string, { header: string; content: string; miniCard: string }> = {
+  internmedicin: {
+    header:   "bg-green-100 hover:bg-green-200 border-green-200",
+    content:  "bg-green-50 border-green-200",
+    miniCard: "bg-green-100",
+  },
+  kirurgi: {
+    header:   "bg-red-100 hover:bg-red-200 border-red-200",
+    content:  "bg-red-50 border-red-200",
+    miniCard: "bg-red-100",
+  },
+  allmänmedicin: {
+    header:   "bg-amber-100 hover:bg-amber-200 border-amber-200",
+    content:  "bg-amber-50 border-amber-200",
+    miniCard: "bg-amber-100",
+  },
+  psykiatri: {
+    header:   "bg-purple-100 hover:bg-purple-200 border-purple-200",
+    content:  "bg-purple-50 border-purple-200",
+    miniCard: "bg-purple-100",
+  },
 }
 
 function specialtyName(caseTitle: string): string {
@@ -20,8 +36,13 @@ function specialtyName(caseTitle: string): string {
   return parts.length > 1 ? parts[parts.length - 1].trim() : caseTitle
 }
 
-function specialtyBg(caseTitle: string): string {
-  return SPECIALTY_BG[specialtyName(caseTitle).toLowerCase()] ?? "bg-gray-50"
+function specialtyStyle(caseTitle: string) {
+  const name = specialtyName(caseTitle).toLowerCase()
+  return SPECIALTY_STYLE[name] ?? {
+    header:   "bg-white hover:bg-gray-50 border-gray-200",
+    content:  "bg-gray-50 border-gray-200",
+    miniCard: "bg-gray-50",
+  }
 }
 
 async function persistSession(examId: string, session: ExamSession) {
@@ -137,7 +158,7 @@ export default function ResultatView({
           {exam.cases.map((c) => {
             const earned = getCaseEarnedPoints(exam, c.id, scores)
             return (
-              <div key={c.id} className="bg-gray-50 rounded-lg p-3 text-center">
+              <div key={c.id} className={`${specialtyStyle(c.title).miniCard} rounded-lg p-3 text-center`}>
                 <div className="text-xs text-gray-500 mb-1 truncate">{c.title}</div>
                 <div className="font-semibold text-sm">
                   {earned} / {c.points}
@@ -157,7 +178,7 @@ export default function ResultatView({
         <div key={c.id} className="mb-4">
           <button
             onClick={() => toggleCase(c.id)}
-            className="w-full flex justify-between items-center bg-white border border-gray-200 rounded-xl px-5 py-4 hover:bg-gray-50 transition-colors"
+            className={`w-full flex justify-between items-center border rounded-xl px-5 py-4 transition-colors ${specialtyStyle(c.title).header}`}
           >
             <span className="font-semibold">{c.title}</span>
             <div className="flex items-center gap-3">
@@ -169,7 +190,7 @@ export default function ResultatView({
           </button>
 
           {openCases[c.id] && (
-            <div className={`border border-t-0 border-gray-200 rounded-b-xl overflow-hidden ${specialtyBg(c.title)}`}>
+            <div className={`border border-t-0 rounded-b-xl overflow-hidden ${specialtyStyle(c.title).content}`}>
               {c.pages.map((page) =>
                 page.questions.map((q) => (
                   <div key={q.id} className="border-t border-gray-100 p-5">
