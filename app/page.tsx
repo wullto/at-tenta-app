@@ -12,8 +12,11 @@ export default async function Home() {
   const dashboard = buildDashboardStats(allExams, progressRows)
   const isSupabaseEnabled = hasSupabaseEnv()
 
-  const serverStatusMap = Object.fromEntries(
-    progressRows.map((row) => [row.examId, row.completedAt ? "completed" : "in-progress"] as const)
+  const serverProgressMap = Object.fromEntries(
+    progressRows.map((row) => [row.examId, {
+      status: (row.completedAt ? "completed" : "in-progress") as "completed" | "in-progress",
+      scores: row.scores,
+    }])
   )
   const examSummaries = allExams.map((e) => ({
     id: e.id,
@@ -77,7 +80,7 @@ export default async function Home() {
         <h2 className="text-xl font-semibold text-slate-900">Tentor</h2>
         <p className="mt-1 text-sm text-slate-500">Välj en tenta att öva på eller fortsätta.</p>
 
-        <ExamList exams={allExams} serverStatusMap={serverStatusMap} />
+        <ExamList exams={allExams} serverProgressMap={serverProgressMap} />
       </section>
     </main>
   )
