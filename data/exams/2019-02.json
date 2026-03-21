@@ -1,0 +1,758 @@
+{
+  "id": "2019-02",
+  "title": "AT-prov februari 2019",
+  "date": "2019-02-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin frågan",
+      "points": 20,
+      "intro": "Som AT-läkare vid en vårdcentral möter du Stefan som är 44 år och arbetar inom IT-branschen. Stefan är tidigare frisk, icke-rökare och använder ingen medicinering. Stefan önskar hjälp då han under senaste halvåret noterat tilltagande besvär av allmän trötthet, ökad törst och även noterat att han har svårare att läsa text i mobiltelefonen. En av dina misstankar är att Stefans besvär orsakas av diabetes mellitus.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Ange ett sätt att samma dag på vårdcentralen ställa diagnosen diabetes mellitus? Motivera. (2p) Ett akut prov på mottagningen visar att Stefan har ett icke-fastande P-glucos på 14 (≥ 11,1 mmol/L med symtom är diagnostiskt), varför du berättar för Stefan att tillsammans med hans symtom innebär det att diabetes mellitus med stor sannolikhet är orsaken till hans besvär. Stefan blir inte helt överraskad då han innan besöket läst att diabetes ger symtom som törst. Stefan funderar över vilken typ av diabetes han har, är det typ1 eller typ2.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Icke-fastande P-glucos ≥ 11,1 mmol/L och symtom är diagnostiskt för diabetes mellitus (2 poäng).\n\nTyp 1 Typ 2"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-1",
+              "text": "Ange fyra relevanta skillnader mellan diabetes mellitus typ 1 och typ 2. (2 p) Mot bakgrunden att vid en debutålder mer än 40 år dominerar diabetes mellitus typ 2 och att Stefan berättar att hans mor har diabetes typ 2 sedan flera år bedömer du att Stefan med största sannolikhet har diabetes mellitus typ 2.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(2poäng) Ärftlighet\n\nlåg hög\n\nVanlig insjuknandetid\n\nbarn vuxen\n\nBMI\n\nnormal hög\n\nAutoimmun destruktion av β-celler ja nej\n\nNedsatt insulinkänslighet nej ja\n\nLipidrubbning\n\nnej ja\n\nHypertoni\n\nnej ja"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-1",
+              "text": "Ange fyra behandlingsstrategier för diabetes typ 2. (2p) Du informerar Stefan att grunden för behandling av diabetes mellitus typ 2 innebär förändring av levnadsvanor som kost och fysisk aktivitet och tablettbehandling med metformin. Du bokar tid till Stefan för ett uppföljande mottagningsbesök om tre dagar. Tills dess har Stefan lämnat kompletterande labprover, med svar enligt nedan.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fysisk aktivitet, kostbehandling, peroral glukossänkande behandling, insulinbehandling (2 poäng)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Vid återbesöket gör du en noggrann klinisk undersökning som visar blodtryck 120/70 mmHg, hjärta med regelbunden rytm och hjärtfrekvens 60 och utan biljud, viss bukfetma och ingen ikterus. Neurologisk undersökning med extremitetsreflexer, sensibilitet händer, underben och fötter är utan anmärkning.\n\nDu informerar Stefan om olika koster och mängden fysisk aktivitet som rekommenderas. Dessutom förordar du blodglukossänkande medicinsk behandling med tablett metformin, som är förstahandsmedel vid diabetes mellitus typ 2.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Beskriv två viktiga verkningsmekanismer för metformins blodglukossänkande effekt.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-02/page3_img1.jpeg",
+              "facit": [
+                "Minskad glukosnybildning i levern och förbättrat glukosupptag i muskulaturen (2 poäng)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Beskriv två kontraindikationer för behandling med metformin",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nedsatt njurfunktion med eGFR <30 ml/minut, svår leverinsufficiens, känd intolerans mot läkemedlet (2 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-3",
+              "text": "Nämn 4 allvarliga bieffekter (följdsjukdomar) av diabetes mellitus typ 2. (2 p) När ni ses igen efter 3 månader säger Stefan att han känner sig nöjd med den medicinska behandlingen och tackar dig för din hjälp. Stefan berättar att törsten är borta och han känner sig pigg igen. Han berättar att han också joggar c:a 5 km per vecka och tränar på gym 1 gång per vecka. Du återkopplar till Stefan att det även",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Retinopati, makulopati, nefropati, perifer neuropati (2 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "laboratoriemässigt ser bra ut. HbA1c har sjunkit till 52. Du berömmer Stefan för hans goda insats.\n\nStefan känner då att han önskar ta upp ytterligare ett problem. Han berättar att han sedan två år har en ny partner. Problemet är att han relativt ofta besvärats av erektionssvikt. Det räcker med ett litet störmoment i rummet så ger erektionen plötsligt vika och återkommer inte vid det tillfället. Stefan önskar få hjälp med utredning av sin erektionssvikt och hoppas på en effektiv behandling.\n\nVid utredning av erektionssvikt är anamnesen den viktigaste informationskällan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Ange 4 viktiga sexual-anamnestiska frågor du vill ställa till Stefan. (2 p) Stefan berättar att han noterar nattliga erektioner, känner sexuell lust och tycker att relationen till sambon är bra. Stefan berättar också att han kan få orgasm och utlösning. Du berättar för Stefan att i utredning av erektionssvikt ingår klinisk undersökning som Stefan vill att du utför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Natt- eller morgonerektioner, sexuell lust, orgasm och utlösning, relationen till partner (2 poäng)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-1",
+              "text": "Ange fyra viktiga kliniska undersökningsmoment du behöver göra. (2p) När du undersöker Stefan noterar du: At, psykiskt status utan anmärkning, ytliga lymfkörtlar utan anmärkning inguinalt bilateralt. Penis, testiklar och bitestiklar utan anmärkning. Prostata palperas normalstor med fast elastisk konsistens och utan hårda partier. A. femoralis med bra pulsationer bilateralt. Känsel för lätt beröring i underlivet utan anmärkning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Penis, testiklar och bitestiklar, prostata, känsel i underlivet, A femoralis, hjärtauskultation, blodtryck och EKG (2 poäng)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-1",
+              "text": "Argumentera för de två troligaste orsakerna till Stefans erektionssvikt, utifrån dina data från anamnes och status. (2p) Tillsammans med Stefans sexual-anamnes med varierande sexuell förmåga, bibehållen nattlig erektion och sexuell lust, bra relation till nuvarande partner och normal klinisk undersökning blir din bedömning att Stefans erektionssvikt huvudsakligen har psykogen orsak.\n\nDu informerar Stefan om fysiologin bakom erektionen där kväveoxid från parasympatiska nerver har en avgörande funktion och att fosfodiesteras-5- hämmare förstärker den effekten och därför används i behandling för att förbättra den erektila funktionen.\n\nDu rekommenderar Stefan behandling med fosfodiesteras-5-hämmare som ofta har god effekt vid psykogen erektionssvikt. Stefan känner sig lättad och hoppas att medicineringen verkligen kommer att hjälpa. Efter en stunds eftertanke börjar han fundera över bieffekter.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Psykogen orsak. Positiv sexualanamnes, normalt somatiskt och psykiskt status. Störd mikrocirkulation: mot bakgrund av Stefans diabetes mellitus (2 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8-1",
+              "text": "Nämn en vanlig bieffekt och en viktig kontraindikation för behandling med fosfodiesteras-5-hämmare.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Generell vasodilatation med ansiktsrodnad, huvudvärk och nästäppa. Samtidig medicinering med nitroglycerinpreparat är kontraindicerat, eftersom det kan leda till kraftigt blodtrycksfall, samtidig hjärtinfarkt och död (2 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin frågan",
+      "points": 20,
+      "intro": "En medvetslös man i 50-årsåldern inkommer till akutrummet 1 november via ambulans. Han hittades ”sovande” av en kvinna vid en parkbänk och hon ringde polisen. Okänd identitet.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka tre åtgärder vidtar du först med denna patient och i vilken ordning? (1.5 p) Via ambulans, och medföljande polis, kommer en medvetslös man i 50-årsåldern in till akutrummet 1 november. Han hittades ”sovande” av en kvinna vid en parkbänk och hon ringde polisen. Okänd identitet. Du startar med att kontrollera A, B, C i den ordningen, dvs: 1. Ser att han har fri luftväg så att bröstkorgen höjer sig och andningsljud kan höras på lungorna. 2. Du iakttar andningsmönstret och räknar andningsfrekvensen och kontrollerar SatO2 med mätare. 3. Du kontrollerar puls och blodtryck. I detta fall verkade luftvägen vara fri, andningsfrekvensen 10/min, SatO2 93%, puls 88 och blodtryck 100/75 mmHg. EKG som kopplas upp visar en normal sinusrytm. Kroppstemperatur 36,6 grader Celcius. Du får ingen kontakt med patienten.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontrollerar fri luftväg, andning/saturation, cirkulation: puls/blodtryck (1,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-1",
+              "text": "Du fortsätter nu med ett neurologstatus och patienten har likstora normalstora pupiller som svarar något trögt på ljus samt drar undan på smärtstimulering i extremiteter på båda sidor (lokaliserar ej). Babinski negativ bilateralt. Vilken medvetandegrad motsvarar detta status? Svara enligt Reaction Level Scale -85 (RLS-85) skalan?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "grad 5 (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Sjuksköterskan har satt en venös nål och frågar dig nu vilka blodprover du vill ha. Ange 5 stycken som är relevanta prover i denna situation.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "glukos, Hb, CRP, LPK, Krea, Na, Ca, etanol, ASAT, ALAT, bilirubin, venös blodgas (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Undersköterskan börjar förbereda för att sätta urinkateter. Hon frågar dig om du vill ha något urinprov då. Vilket vill du ha? (2 p) Via ambulans, och medföljande polis, kommer en medvetslös man i 50-årsåldern in till akutrummet 1 november. Han hittades ”sovande” av en kvinna vid en parkbänk och hon ringde polisen. Okänd identitet. Du startar med att kontrollera A, B, C i den ordningen, dvs 1. Ser att han har fri luftväg så att bröstkorgen höjer sig och andningsljud kan höras på lungorna. 2. Du iakttar andningsmönstret och räknar andningsfrekvensen och kontrollerar SatO2 med mätare. 3. Du kontrollerar puls och blodtryck. I detta fall verkade luftvägen vara fri, andningsfrekvensen 10/min, SatO2 93%, puls 88 och blodtryck 100/75 mmHg. EKG som kopplas upp visar en normal",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "drogscreening (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "sinusrytm. Patienten har likstora pupiller som svarar något trögt på ljud samt drar undan på smärtstimulering i extremiteter på båda sidor. Ingen annan kontakt med patienten. Babinski negativ bilateralt. Detta motsvarar RLS grad 5. Akutprover tas för glukos, Hb, CRP, LPK, Krea, Na, Ca, ASAT, ALAT, bilirubin, etanol och en drogscreening på urinen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Patienten har fått syrgas via mask och du tar en arteriell blodgas som visar pO2 12 kPa, pCO2 10 kPa, pH 7,22, Base Excess +3. Vad är din tolkning av blodgasen (i termer acidos/alkalos, respiratoriskt/metabolt, kompenserad/icke-kompenserad) och vilka sjukdomar/tillstånd som är relevanta för denna patient passar med denna blodgas (ange 2 stycken)? (2 p). Referensområden: pH 7,35-7,45, pO2 > 10 kPa, pCO2 4,6-6,0 kPa, Base Excess +-3 mmol/l.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "icke-kompenserad respiratorisk acidos 1p,  hypoventilation pga intoxikation, akut respiratorisk svikt (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Bortse nu från blodgasen i fråga 2:3:1. Om blodgasen istället hade visat pO2 12 kPa, pCO2 3,8, pH 7,22, Base Excess -16, vilken tolkning gör du då av blodgasen (i termer acidos/alkalos, respiratoriskt/metabolt, kompenserad/icke-kompenserad) och vilka sjukdomar/tillstånd som kan vara förenliga med denna blodgas (ange 2 stycken)?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "icke-kompenserad metabol acidos 1p,  diabetescoma, intoxikation med t ex etylenglykol, metanol, ASA (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-3",
+              "text": "Du kontrollerar nu om neurologstatus och om du finner att patienten har sjunkit i medvetandegrad (t ex sterotypa sträck eller böjmönster), vad kan detta bero på och vilka två akuta terapeutiska åtgärder tar du till.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ökat intrakraniellt tryck alt. metabol påverkan 1p, mannitolinfusion och intubation med lätt hyperventilation (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-4",
+              "text": "Förutom A, B, C och neurologstatus finns det några andra statusfynd som du kan se vid en utökad kroppsundersökning som kan vara ledtrådar till sjukdomar/tillstånd som kan ge coma. Ange fem sådana sjukdomar/tillstånd som kan ge koma och de typiska statusfynd som man kan då upptäcka? (2,5 p) Via ambulans, och medföljande polis, kommer en medvetslös man i 50-årsåldern in till akutrummet 1 november. Han hittades ”sovande” av en kvinna vid en parkbänk och hon ringde polisen. Okänd identitet. Du startar med att kontrollera A, B, C i den ordningen, dvs 1. Ser att han har fri luftväg så att bröstkorgen höjer sig och andningsljud kan höras på lungorna. 2. Du iakttar andningsmönstret och räknar andningsfrekvensen och kontrollerar SatO2 med mätare. 3. Du kontrollerar puls och blodtryck. I detta fall verkade luftvägen vara fri, andningsfrekvensen 10/min, SatO2 93%, puls 88 och blodtryck 100/75 mmHg. EKG som kopplas upp visar en normal sinusrytm. Patienten har likstora pupiller som svarar något trögt på ljud samt drar undan på smärtstimulering i extremiteter på båda sidor. Ingen annan kontakt med patienten. Babinski negativ bilateralt. Detta motsvarar RLS grad 5.\n\nAkutprover tas för glukos, Hb, CRP, LPK, Krea, Na, Ca, ASAT, ALAT, bilirubin,",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "uremi – urinlukt+ grå hud, leverkoma –spider nevi, palmarerytem, icterus, caput medusa, CO-intox – körsbärsröd hud, KOL – tunnformad thorax, ronki, cigarettgula fingrar, diabeteskoma -Kussmaulandning, traumatisk hjärnblödning/subdural/epiduralblödning – tecken på trauma i huvudet (2,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "etanol och en drogscreening på urinen. Den blodgas som togs i verkligheten i detta fall var normal och visade pO2 12 kPa, pCO2 5,1 kPa, pH 7,41, Base Excess +1.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Om förnyat neurologstatus är oförändrat, kan du prova två antidoter mot två typer av läkemedel som kan ge koma vid överdosering. Dessa två antidoter brukar snabbt kunna reversera medvetandesänkningen. Ange dessa två läkemedelsklasser (ej enskilda preparat) och respektive antidot (specifika preparat).",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "opioider – Naloxon, partiell benzodiazepinagonist – Lanexat) generiskt namn, prep namn – båda rätt (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Patienten har nu blivit identifierad och visar sig ha anamnes på långvarigt alkkoholmissbruk Vilken alkohol-relaterad sjukdom kan leda till koma där det inte finns några undersökningar som säkert kan fastställa diagnos? Vilken terapi skall man ge på misstanke om denna sjukdom (ge förslag på ordination (preparat och administeringssätt))?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Wernicke-Korsakoff, B1-vitamin, tiamin, iv tillförsel (2 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Kirurgi frågan",
+      "points": 20,
+      "intro": "Du arbetar som jour på primärvårdsakuten belägen cirka 3 km från stadens akutsjukhus en söndag eftermiddag. Risto söker med cirka 2 månaders anamnes på tidig mättnadskänsla, illamående och aptitlöshet. Han har minskat ungefär 5 kg i vikt under denna tid och väger nu 69 kg och är 180 cm lång. Han har även känt sig oförklarligt trött senaste månaden. Risto har varit frisk tidigare frånsett ett duodenalulcus som diagnosticerades för 7 år sedan. Fysikalisk undersökning inkluderande bukpalpation och lymfkörtelstatus är utan anmärkning.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka diagnoser misstänker du i första hand? Nämn minst 3 specifika diagnoser som du tycker behöver uteslutas. (1,5 p) Du arbetar som jour på primärvårdsakuten en söndag eftermiddag. Risto söker med cirka 2 månaders anamnes på tidig mättnadskänsla, illamående och aptitlöshet. Han har minskat ungefär 5 kg i vikt under denna tid och väger nu 69 kg och är 180 cm lång. Han har även känt sig oförklarligt trött senaste månaden. Risto har varit frisk tidigare frånsett ett duodenalulcus som diagnosticerades för 7 år sedan. Fysikalisk undersökning inkluderande bukpalpation och lymfkörtelstatus är ua. Du vill utesluta ulcus ventrikuli/duodeni, ventrikelcancer, pancreascancer, levermetastaser, hepatit.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du vill utesluta ulcus ventrikuli/duodeni, ventrikelcancer, pancreascancer, levermetastaser, hepatit. (1.5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-1",
+              "text": "Du bestämmer dig för att själv inleda en poliklinisk utredning. Vilka undersökningar ordinerar Du? Motivera! (1,5 p) Du arbetar som jour på primärvårdsakuten en söndag eftermiddag. Risto söker med cirka 2 månaders anamnes på tidig mättnadskänsla, illamående och aptitlöshet. Han har minskat ungefär 5 kg i vikt under denna tid och väger nu 69 kg och är 180 cm lång. Han har även känt sig oförklarligt trött senaste månaden. Risto har varit frisk tidigare frånsett ett duodenalulcus som diagnosticerades för 7 år sedan. Fysikalisk undersökning inkluderande bukpalpation och lymfkörtelstatus är ua. Du vill utesluta ulcus ventrikuli/duodeni, ventrikelcancer, pancreascancer, hepatit eller levermetastaser. Du skriver remiss för esofagogastroduodenoskopi (EGD) eftersom den undersökningen kan påvisa patologi i slemhinnan i esofagus, ventrikel och duoudenum. Du skriver också remiss för datortomografi buk eftersom den undersökningen kan hitta tumörer i lever och pancreas. Vidare tar Du ett labstatus för att påvisa eventuell anemi, inflammation, och påverkad leverfunktion.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du skriver remiss för esofagogastroduodenoskopi (EGD) eftersom den undersökningen kan påvisa patologi i slemhinnan i esofagus, ventrikel och duoudenum. Du skriver också remiss för datortomografi buk eftersom den undersökningen kan hitta tumörer i lever och pancreas. Vidare tar Du ett labstatus för att påvisa eventuell anemi, inflammation, och påverkad leverfunktion. (1.5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "EGD visar ett duodenalulcus ca 10 mm i diameter i bulbus duodeni (bild 1). Datortomografi visar normalfynd i buken. Laboratoriestatus status visar Hb 108 (ref 130-170 g/l), CRP 38 (ref <5 mg/l), Leverstatus utan anmärkning. Du bestämmer dig för att sätta in trippelbehandling mot duodenalulcus. Beskriv de olika delarna i trippelbehandling (1.5 p), principiell verkningsmekanism för de olika delarna i trippelbehandling (1.5 p) och  även hur verkningsmekanismen medieras på molekylär nivå för de olika delarna (1.5 p, totalt 4.5 p). Du arbetar som jour på primärvårdsakuten en söndag eftermiddag. Risto söker med cirka 2 månaders anamnes på tidig mättnadskänsla, illamående och aptitlöshet. Han har minskat ungefär 5 kg i vikt under denna tid och väger nu 69 kg och är 180 cm lång. Han har även känt sig oförklarligt trött senaste månaden. Risto har varit frisk tidigare frånsett ett duodenalulcus som diagnosticerades för 7 år sedan. Fysikalisk undersökning inkluderande bukpalpation och lymfkörtelstatus är ua. Du misstänker ulcus ventrikuli/duodeni, ventrikelcancer, pancreascancer, hepatit eller levermetastaser. Du skriver remiss för esofagogastroduodenoskopi eftersom den undersökningen kan påvisa patologi i slemhinnan i esofagus, ventrikel och duodenum. Du skriver också remiss för datortomografi buk eftersom den undersökningen kan hitta tumörer i lever och pancreas. Vidare tar Du ett labstatus för att påvisa eventuell anemi, inflammation, och påverkad leverfunktion. EGD visar ett flackt ulcus ca 10 mm i diameter i bulbus duodeni. Datortomografi visar normalfynd i buken. Laboratoriestatus visar Hb 108 (ref 130-170 g/l), CRP 38 (ref <5 mg/l), Leverstatus utan anmärkning. Du bestämmer dig för att sätta in trippelbehandling mot duodenalulcus. Trippelbehandling består av protonpumpshämmare, amoxicillin och",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-02/page10_img1.jpeg",
+              "facit": [
+                "Trippelbehandling består av protonpumpshämmare, amoxicillin och metronidazol/tinidazol. Alternativt kan protonpumpshämmare, klaritromycin och amoxicillin ges. Protonpumpshämmare minskar syrasekretionen i ventrikeln genom en målstyrd verkningsmekanism och hämmar specifikt syrapumpen i parietalcellen. Amoxicillin har antibakteriell effekt mot helicobakter pylori via hämning av peptidoglykansyntesen som leder till försvagade cellväggar, vilket  leder till att cellen bryts ned och dör. Klaritromycin har bakteriostatisk effekt som uppnås genom bindning till bakteriernas ribosomer, vilket medför hämning av proteinsyntesen. Metronidazol  har också antibakteriell effekt mot helicobakter pylori som medieras genom att medlet efter anaerob reduktion interagerar med DNA och olika metaboliska processer. (4.5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "metronidazol/tinidazol. Alternativt kan protonpumpshämmare, klaritromycin och amoxicillin ges. Protonpumpshämmare minskar syrasekretionen i ventrikeln genom en målstyrd verkningsmekanism och hämmar specifikt syrapumpen i parietalcellen. Amoxicillin har antibakteriell effekt mot helicobakter pylori via hämning av peptidoglykansyntesen som leder till försvagade cellväggar, vilket leder till att cellen bryts ned och dör. Klaritromycin har bakteriostatisk effekt som uppnås genom bindning till bakteriernas ribosomer, vilket medför hämning av proteinsyntesen. Metronidazol  har också antibakteriell effekt mot helicobakter pylori som medieras genom att medlet efter anaerob reduktion interagerar med DNA och olika metaboliska processer.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Beskriv administrationssätt och behandlingstidens längd vid trippelbehandling för eradikering av Helikobakter pylori. (1,5 p) Du ordinerar per oral trippelbehandling under 1 vecka. Du är åter i tjänst som jour på primärvårdsakuten 3 veckor senare då Risto söker igen denna gång på grund av trötthet, yrsel och andfåddhet. Han berättar att han inte orkar gå i trappor och att han noterat mörk och något lös avföring. Du tycker han ser något blek ut och pulsen är 140 men regelbunden.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandlingen ges per os under 1 vecka. (1.5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-1",
+              "text": "Ange den mest sannolika orsaken till att Risto har försämrats (0.5p). Beskriv hur du med klinisk undersökning kan bekräfta denna orsak (0.5p). Du är åter i tjänst som jour på primärvårdsakuten 3 veckor senare då Risto söker igen denna gång på grund av trötthet, yrsel och andfåddhet. Han berättar att han inte orkar gå i trappor och att han noterat mörk och lös avföring. Du tycker han ser något blek ut och pulsen är 140 men regelbunden, blodtryck uppmäts till 90/60. Du misstänker blödande ulcus och detta bekräftas vid rektalpalpation där du ser mörkröd melena på handsken. Du kontrollerar pulsen igen som är 146.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du misstänker blödande ulcus och detta kan bekräftas vid rektalpalpation där du ser mörkröd melena på handsken. (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-1",
+              "text": "Vad gör du nu? Beskriv både omedelbara åtgärder och åtgärder närmaste timmen. (2p) Du sätter en intravenös infart, ger ringeracetat, syrgas, beställer ambulanstransport till akutsjukhuset och remitterar till kirurgkliniken.\n\nTransporten går bra och Risto bedöms av jourhavande kirurg. Han har nu 152 i puls, systoliskt blodtryck hö arm 60 mm Hg.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du sätter en intravenös infart, ger ringeracetat, syrgas, beställer ambulanstransport och remitterar akut till kirurgkliniken. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-1",
+              "text": "Vilka diagnostiska- och behandlingsåtgärder är indicerade akut? Nämn två åtgärder som bör ske direkt (1p). Vilken vårdnivå är lämplig.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pat ges omedelbar blodtransfusion och genomgår akut gastroskopi för att diagnosticera och stoppa blödningen. Han läggs in på IVA eller avdelning med motsvarande övervakning. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du är åter i tjänst som jour på primärvårdsakuten 3 veckor senare då Risto söker igen denna gång på grund av trötthet, yrsel och andfåddhet. Han berättar att han inte orkar gå i trappor och att han noterat mörk och ngt lös avföring. Du tycker han ser något blek ut och pulsen är 140 men regelbunden. Du misstänker blödande ulcus och detta bekräftas vid rektalpalpation där du ser mörkröd melena på handsken. Du kontrollerar pulsen igen som är 146 och blodtryck 90/60. Du sätter en intravenös infart, ger ringeracetat, syrgas, beställer ambulanstransport och remitterar akut till kirurgkliniken. Transporten går bra och Risto läggs in på kirurgkliniken. Han har nu 152 i puls, systoliskt blodtryck höger arm 60 mm Hg. Pat ges omedelbar blodtransfusion och genomgår akut gastroskopi för att stoppa blödningen. Han läggs in på IVA eller avdelning med motsvarande övervakning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vid urakut tranfusionsbehov hinner man inte alltid vänta på blodgruppering och korstest. Vilken typ av blodprodukt kan ges i denna situation?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "0-blod. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-8-2",
+              "text": "Vid massiv blödning ska transfusion av erytrocytkoncentrat kombineras med andra komponenter – vilka? (1p) Vilken är den rekommenderade procentuella fördelningen mellan dessa komponenter. (1p) Du är åter i tjänst som jour på primärvårdsakuten 3 veckor senare då Risto söker igen denna gång pga trötthet, yrsel och andfåddhet. Han berättar att han inte orkar gå i trappor och att han noterat mörk och lös avföring. Du tycker han ser något blek ut och pulsen är 140 men regelbunden. Du misstänker blödande ulcus och detta bekräftas vid rektalpalpation där du ser mörkröd melena på handsken. Du kontrollerar pulsen igen som är 146 och blodtryck 90/60. Du sätter en intravenös infart, ger ringeracetat, syrgas, beställer ambulanstransport och remitterar akut till kirurgkliniken. Transporten går bra och Risto läggs in på kirurgkliniken. Han har nu 152 i puls, systoliskt blodtryck hö arm 60 mm Hg. Patienten ges omedelbar blodtransfusion initialt med 0-blod och genomgår akut gastroskopi för att stoppa blödningen. Han läggs in på IVA eller avdelning med motsvarande övervakning. Patienten ges sedan blodtransfusion enligt ”transfusionspaket” (erytrocytkoncentrat, plasma och trombocyter) i proportion 4:4:1 och genomgår akut gastroskopi där det blödande duodenalsåret behandlades med adrenalin injektion och clips. Han läggs in på IVA eller avdelning med motsvarande övervakning.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Erytrocytkoncenterat, plasma och trombocyter i proportion 4:4:1 (2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-9-1",
+              "text": "Under natten försämras Risto och har upprepade melenor och det kommer stora mängder färskt blod i den ventrikelsond som sattes efter gastroskopin. IVA jouren ringer kirurgjouren och säger att man inte har möjlighet att transfundera i samma takt som blödningen. Vilken åtgärd kan vara aktuell nu? (1p) Det ges omedelbar blodtransfusion enligt ”transfusionspaket” med erytrocytkoncentrat, plasma och trombocyter i proportioner 4:4:1 och genomgår akut gastroskopi där det blödande duodenalsåret behandlades med adrenalin",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Regastroskopi med laparotomiberedskap, alternativt endovaskulär behandling med embolisering. (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "injektion och clips. Han läggs in på IVA eller avdelning med motsvarande övervakning. På grund av försämring under natten med upprepade melenor och stora mängder färskt blod i den ventrikelsond som sattes efter gastroskopin beslutas om omedelbar regastroskopi med laparotomiberedskap. Vid gastroskopi ses massiv pågående blödning och man tvingas till laparotomi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Vilka operationer kan göras vid akut duodenalblödning? Ange två olika ingrepp som båda kan användas i denna situation (1 p) Du är åter i tjänst 3 veckor senare då Risto söker igen denna gång på grund av trötthet, yrsel och andfåddhet. Han berättar att han inte orkar gå i trappor och att han noterat mörk och lös avföring. Du tycker han ser något blek ut och pulsen är 140 men regelbunden. Du misstänker blödande ulcus och detta bekräftas vid rektalpalpation där du ser mörkröd melena på handsken. Du kontrollerar pulsen igen som är 146 och blodtryck 90/60. Du sätter en intravenös infart, ger ringeracetat, syrgas, beställer ambulanstransport och remitterar akut till kirurgkliniken. Transporten går bra och Risto läggs in på kirurgkliniken. Han har nu 152 i puls, systoliskt blodtryck hö arm 60 mm Hg. Pat ges omedelbar blodtransfusion enligt ”transfusionspaket” och genomgår akut gastroskopi där det blödande duodenalsåret behandlades med adrenalin injektion och clips. Han läggs in på IVA eller avdelning med motsvarande övervakning. På grund av försämring under natten med upprepade melenor och stora mängder färskt blod i den ventrikelsond som sattes efter gastroskopin beslutas om omedelbar regastroskopi med laparotomiberedskap. Vid gastroskopi ses massiv pågående blödning och man tvingas till laparotomi. Vid operationen öppnas ventrikel och duodenum men man har svårt att sy över det blödande kärlet och tvingas göra en resektion av antrum, pylorus och bulbus duodeni (Bild 2).",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Omstickning av blödande kärl via gastrotomi, alternativt resektion av bulbus duodeni och pylorus. (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Bild 2.  Den receserade delen av ventrikel-duodenum omfattar del 10, 9, och 4, resektionslinjen går mellan siffrorna 5 och 6.",
+          "contextImageUrl": "/images/exams/2019-02/page14_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-11-1",
+              "text": "Hur kan kontinuiteten återställas efter resektionen? Nämn två alternativ för att återställa passagen mellan magsäck och duodenum/tunntarm.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontinuiteten kan återställas genom direktanastomos mellan magsäck och duodenum enligt Billroth I eller genom en gastrojejunostomi enligt Billroth II. (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatri frågan",
+      "points": 20,
+      "intro": "Du är nylegitimerad läkare och vikarierar nu som underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon, du är jourhavande psykiater och din bakjour finns i hemmet. När ditt arbetspass börjar presenteras du för 62-åriga Harriet som suttit i väntrummet någon timme tillsammans med medföljande bekant. Den bekanta personen visar sig vara Harriets vän i jaktlaget. Hon hade på morgonen kommit för att hämta Harriet till den förestående älgjakten. Harriet hade då inte klätt sig. Hon satt i köket och sade sig varken vilja eller orka delta. Vännen berättar att Harriets liv varit problematiskt senaste tiden och att Harriet genomgått en slitsam skilsmässa för åtta månader sedan. Vidare berättar hon att Harriet varit en duktig och entusiastisk jägare sedan ungdomen. När vännen nu såg Harriet på morgonen var Harriet helt mimiklös, talade långsamt och fåordigt. Vännen beslutade att ta med Harriet till den psykiatriska akutmottagningen. Du ser framför dig en åldrad och avmagrad kvinna. Du får inte mycket till kontakt, personen verkar försjunken i sig själv och mumlar om att allt hon gjort blivit galet. Du misstänker även att hon hör röster. Du gör en noggrant kroppsstatus som inte ger någon vägledning.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Du väljer nu att ta några blodprover för att fånga upp i sammanhanget relevanta patofysiologiska tillstånd. Nämn de tre viktigaste proverna du väljer att prioritera i detta läge. Motivera varje prov.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tre grupper av prover; 0,5 poäng för ett rimligt exempel från varje grupp, 0,5 för var; max 1 för hela\n\nHypotyreos: TSH\n\nIntorkning: el-lyter, krea\n\nSomatisk screen: exv Hb, CRP"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vad blir din preliminära psykiatriska diagnos?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(melankolisk) depression; andra uttryck för depression ger avdrag"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Vilka uppgifter ovan kan kopplas till symtomkriterier för den föreslagna diagnosen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "i) Klart minskat intresse för aktiviteter  = \"Vare sig vill ...följa med\"; ii) Psykomotorisk hämning = \"mimiklös, talade långsamt och fåordigt\"; iii) Viktnedgång =\"avmagrad\"; iv) Känslor av värdelöshet eller överdrivna eller obefogade skuldkänslor = \"mumlar om att allt hon gjort blivit galet\"; v) Svaghetskänsla eller brist på energi  = \"vare sig… orka följa med\";   0,5 p för var, max 2,0 p totalt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-4",
+              "text": "Vilken ytterligare information anser du vara mest angelägen för att du skall kunna bedöma Harriets tillstånd adekvat? (2p) Du är nylegitimerad läkare och vikarierar nu som underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon, du är jourhavande psykiater och din bakjour finns i hemmet. Du har nyss träffat 62-åriga Harriet som suttit i väntrummet någon timme tillsammans med medföljande bekant som visar sig vara Harriets vän i jaktlaget: hon hade kommit för att hämta Harriet till den planerade jakten och då funnit sin vän i ett allvarligt psykiatriskt tillstånd. Anamnesen omfattar intresseförlust, viktförlust, trötthet, skuld och hämningssymtom vilket ger stöd för att det rör sig om en melankolisk depression. Du har fått svar på de blodprover du tagit (P-Na 139; P-K 3,9; S-TSH 1,7; B-Hb 128; P-CRP 1,7), gör tolkningen att de samtliga ligger inom laboratoriets referensområden och att värdena talar emot somatisk",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Suicidbedömning skall specifikt nämnas (1p);  Tidigare psykiatrisk anamnes (0,5p); Bipolaritet skall specifikt nämnas (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "sjukdom eller elektrolytrubbning pga intorkning. Vid telefonsamtal med Harriets dotter har framkommit att Harriet tidigare varit djupt deprimerad vid ett par tillfällen, att insjuknandena har varit drastiska och att Harriet försökt ta sitt liv i samband med en tidigare depression. Vid den suicidriskbedömning du själv genomfört blir du bekymrad på grund av Harriets oförmåga att svara konklusivt. Nu är frågan hur du skall gå vidare baserat på den information du har.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilken vårdnivå bedömer du rimlig? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "sluten vård med tät tillsyn pga suicidrisk;  (LPT kan övervägas om hon inte vill) (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vilken behandling vill du föreslå under förutsättning att diagnosen är korrekt? Motivera. (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression med melankoliska drag med uttalad psykomotorisk hämning. Eftersom hon svarade vagt och osäkert på dina frågor relaterade till självmordsrisk har du kommit överens med din bakjour att lägga in Harriet med extra observation var femtonde minut. Den planerade behandlingen blir ECT baserat på att denna ger det snabbaste och mest effektiva behandlingssvaret vid melankolisk depression med uttalad psykomotorisk hämning. När du är på väg att avsluta ditt diktat kommer en sjuksköterska och vill att du skall komma till akutrummet. Du ser där en ung man som står i ett hörn av rummet och ser panikslagen ut. Du ser fasa i hans blick. Det framkommer att personer på stan ringt polisen efter att han uppträtt aggressivt. När polisen närmade sig försökte han gömma sig. När poliserna frågade varför han var rädd sade han att domedagen närmade sig och att soldater var på väg att invadera staden. Efter övertalning följde han med till akutmottagningen – men bara under förevändning att få skydd. När du går fram för att hälsa på mannen - som heter Jack - kastar han sig först åt sidan, skriker och håller för öronen. I nästa sekund tar han sats mot dig, och höjer knytnävarna. Sjuksköterskan och en mentalskötare som följt med in på samtalsrummet kommer till din räddning.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ECT som har snabbast och bäst effekt vid djup melankolisk depression  (möjligen kan viss poäng ges för annat om det finns utvecklat resonemang baserat på tidigare svar på läkemedel). 0 poäng om det utöver ECT ges flera alternativ som är felaktiga. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-1",
+              "text": "Vilken diagnos överväger du i detta skede? (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression. Du träffar nu Jack som uppträtt aggressivt på stan. Han har nu en akut psykos som domineras av vanföreställningar och hallucinos. Då hans journal till sist påträffas framkommer att Jack är känd och har en schizofreni. Du tolkar detta som ett återinsjuknande.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(akut) psykos-inget annat ger poäng; specificerad undergrupp ger bara 0,5 p. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vad är den troligaste orsaken till återinsjuknade i psykos vid schizofreni? (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression. Du träffar nu Jack som uppträtt aggressivt på stan. Han har en känd schizofreni och uppvisar nu en bild av återinsjuknande med vanföreställningar och hallucinos, rimligen till följd av bristande läkemedelsföljsamhet. När du går fram för att hälsa på Jack kastar han sig först åt sidan, skriker och håller för öronen. I nästa sekund tar han sats mot dig, och höjer knytnävarna. Sjuksköterskan och en mentalskötare som följt med in på samtalsrummet kommer till din räddning. Du och de andra ur vårdpersonalen gör flera försök att få kontakt med Jack och minska hans rädsla. Det går inget vidare. Han lugnar dock ner sig, men vill omedelbart lämna akutmottagningen. Du bedömer att detta inte kan ske.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "bristande följsamhet till antipsykotisk medicinering (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-1",
+              "text": "Vad fattar du för beslut i detta läge? (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression, och nu Jack som har en känd schizofreni i en bild av återinsjuknande med vanföreställningar och hallucinos. Du bedömer att LPT krävs för att kunna ge honom nödvändig vård. Du skriver intyg enligt LPT, beslutar om kvarhållning och informerar din bakjour. Den unga mentalskötaren som varit delaktig i omhändertagande av Jack är påtagligt skakad av situationen. Det är hennes första arbetsvecka. Du sätter dig ner en stund och försöker lugna henne. Hon har bland annat frågor om behandling och ärftlighet.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "i) Skriva vårdintyg (4§ LPT), ii) besluta om kvarhållning (6§ LPT), iii) kontakta bakjour.  0,5 p för var. De två första räcker för 1 p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-1",
+              "text": "Du berättar lite om behandling med antipsykotiska läkemedel. Du berättar därvid för henne att de dominerande preparaten alla har en gemensam verkningsmekanism. Vilken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dopaminreceptorantagonism; D2-receptorantagonism (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Hon frågar även om risken för att ett barn skall drabbas av schizofreni om någon av föräldrarna har den sjukdomen. Hur stor är den risken? (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression och sedan Jack som återinsjuknat i en schizofreni. Du har berättat för den unga mentalskötaren att den gemensamma mekanismen för de flesta antipsykotiska läkemedlen är en dopamin D2- receptorblockad, och att risken för att ett barn skall drabbas av sjukdomen om",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Cirka 10 procent (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "någon av föräldrarna har schizofreni är cirka 10 procent. Efter en snabb kaffekopp och några vänliga ord till arbetskamrater ombeds du gå till en somatisk vårdavdelning där en patient börjat bete sig förvirrat. På medicinavdelningen finner du en 78-årig kvinna, Krystyna, som lagts in för hjärtinfarktobservation för två dagar sedan. Hon bor ensam och har ett rikt aktivt liv med teater och bridge. Hon har de senaste åren vårdats flera gånger på grund av en kronisk obstruktiv lungsjukdom. För tre år sedan opererades hon för arteriosklerotiska förträngningar i benen och i fjol misstänkte man en TIA. Hon klagade redan första dygnet över att hon hade svårt att sova. Nu har hon tagit sig upp från sin säng i en stökig fyrbäddssal, vandrade längs fönsterraden i vårdrummet och sade sig plantera apelsiner vid den norska gränsen. Hon förnekar att hon är på sjukhus och blev irriterad över att ingen ville hjälpa henne. Varje försök att lugnt få henne åter till sängen misslyckades och hon blev vid varje tillfälle uppretad.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilken är den troliga diagnosen",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Konfusion. Inget annat ger poäng. (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-2",
+              "text": "Vilken är den troliga fysiologiska orsaken/mekanismen? (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression och sedan Jack som återinsjuknat i en schizofreni. Du har även ombetts att bedöma den 78 åriga patienten Krystyna på en somatisk vårdavdelning. Nu har hon drabbats av en organisk konfusion under en vårdperiod på grund av en misstänkt hjärtinfarkt. Du misstänker att denna till stor del kan förklaras av cerebral hypoxi där hennes lungsjukdom och hennes arteriosklerossjukdom samverkat.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Visserligen är organisk konfusion vanligen multiorsakad, men här är det rimligt att i första hand misstänka stor påverkan av arteriosklerossjukdomen (0,5 p) och/eller den kroniska obstruktiva lungsjukdomen (0,5 p) med cerebral hypoxi som följd (detta sista måste med). Bara cerebral hypoxi ger 0,5 p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-1",
+              "text": "Innan du lämnar vårdavdelningen ger du vårdpersonalen några allmänna omvårdnadsråd. Ge exempel på tre av de viktigaste av dessa. (1,5p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression och sedan Jack som återinsjuknat i en schizofreni. Du har även ombetts att bedöma den 78 åriga patienten Krystyna på en somatisk vårdavdelning som har drabbats av en organisk konfusion. Du har givit personalen råd att på olika sätt gynna lugn och dygnsrytm med mörker, tystnad och sömn på natten och ljus/aktivitet på dagen, trygghet i form av social interaktion, till exempel i form av närståendenärvaro eller med hjälp av",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tre olika grupper av råd: Gynna lugn och dygnsrytm – och sömn, ljus-mörker, tystnad- ljud;    Social interaktion/trygghet – personal, närstående;  Kontroll av mat och vätska (0,5 p för var)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "extravak som samtalar med Krystyna, samt kontroll av mat och (framförallt) dryck. Väl åter på akutmottagningen, efter en god lunch möter du Axel. Axel har kommit till mottagningen tillsammans med sin syster. Axels barn, 7 respektive 9 år gamla, har kommit hem till henne som bor i andra änden av staden, hungriga och smutsiga, och har berättat för henne att pappa inte lagar någon mat åt dem. Systern har även förstått att Axel inte sett till att de gått till skolan. Axels förra hustru, de skilde sig nyligen, har åkt till Algarve och Axel har då ensam ansvaret för de gemensamma barnen. Axel är sedan tidigare känd på mottagningen. Han har periodvis druckit mycket sprit, däremellan med längre, ibland årslånga perioder, av helnykterhet. Det opredicerbara livet, tillsammans med att Axel i berusat tillstånd varit aggressiv och vid flera tillfällen slagit sin hustru, gjorde att hon till sist begärde skilsmässa. Axel är känd för att brusa upp lätt, omväxlande med en överdriven vänlighet som gör att han har en ganska stor, men ytlig bekantskapskrets. Efter aggressiva utbrott har han ångrat sig djupt, varit förtvivlad, druckit excessivt mycket, uttalat livsleda och flera gånger hotat att ta sitt liv. Vid din undersökning noterar du att han är ovårdad och luktar illa, även av alkohol, men är inte noterbart berusad. Han är nu darrig, närmast gråtmild och förtvivlad. Han ångrar sig djupt och vill ha hjälp.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Eftersom avgiftning i öppen vård misslyckats vid tidigare tillfällen beslutar ni att detta skall ske i sluten vård. Vilken läkemedelsgrupp anser du att han skall behandlas med för att underlätta avgiftningen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bensodiazepiner (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-9-2",
+              "text": "Vilka skyldigheter har Du avseende barnen? (1p) Du är nylegitimerad vikarierande underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon och du är jourhavande psykiater. Du har träffat Harriet med recidiv av allvarlig depression och sedan Jack som återinsjuknat i en schizofreni. Du har även ombetts att bedöma den 78 åriga patienten Krystyna på en somatisk vårdavdelning som har drabbats av en organisk konfusion. Du möter nu Axel som kommit till mottagningen tillsammans med sin syster. Axels barn, 7 respektive 9 år gamla, har kommit hem till henne som bor i andra änden av staden, hungriga och smutsiga, och har berättat för henne att pappa inte lagar någon mat åt dem. Systern har även förstått att Axel inte sett till att de gått till skolan. Axel bär just nu ensam ansvaret för de gemensamma barnen. Axel är sedan tidigare känd på mottagningen. Han har periodvis druckit mycket sprit, däremellan med längre, ibland årslånga perioder, av helnykterhet. Det opredicerbara livet, tillsammans med att Axel i berusat tillstånd varit aggressiv och vid flera tillfällen slagit sin hustru, gjorde att hon till sist begärde skilsmässa. Axel är känd för att brusa upp lätt, omväxlande med en överdriven vänlighet som gör att han har en ganska stor, men ytlig bekantskapskrets. Efter aggressiva utbrott har han ångrat sig djupt, varit förtvivlad, druckit excessivt mycket, uttalat livsleda och flera gånger",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Orosanmälan enligt Socialtjänstlagen (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "planerat ta sitt liv. Vid din undersökning noterar du att han är ovårdad och luktar illa, även av alkohol, men är inte noterbart berusad. Han är nu darrig, närmast gråtmild och förtvivlad. Han ångrar sig djupt och vill ha hjälp. Eftersom avgiftning i öppen vård misslyckats vid tidigare tillfällen beslutar ni att detta skall ske i sluten vård. Han behandlas då med bensodiazepiner, som är baspreparat vid avgiftning. Du gör även en orosanmälan enligt SoL 14 kap 1§.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Ge nu, baserat på den korta anamnesen ovan, tre förslag på ytterligare diagnoser det finns skäl att framför allt misstänka utöver återfall i substansrelaterad problematik? Motivera kortfattat. (1,5p) Den tidigare anamnesen ger framförallt misstanke om att Axel kan ha ett personlighetssyndrom. Alternativt är det rimligt att tänka sig att Axel kan uppfylla kriterier för en ADHD-diagnos, och/eller en bipolär sjukdom. Epilog Harriet blev frisk efter behandling med ECT. En fördjupad utredning med s.k. life- chartering visade att hon uppfyllde kriterier för en bipolär sjukdom. Hon sattes på långtidsprofylax med litium och vårdas enligt de vårdplaner som finns. Jack vårdades enligt LPT och hans läkemedelsbehandling styrdes upp. Tyvärr blev Jack inte besvärsfri. Visserligen lade sig hans vanföreställningar, men hans hallucinos lämnade honom inte. Han blev de kommande åren allt initiativlösare och känslomässigt flackare. Nu bor han i särskilt boende med stöd från den psykiatriska klinikens öppenvårdsteam. Krystyna visade sig ha en liten hjärtinfarkt. Efter att man skapat mer lugna förhållande och givit henne god omvårdnad på vårdavdelningen klingade hennes konfusion av. Axel behandlades för sitt alkoholmissbruk och finns nu i en stödorganisation. Han visade sig uppfylla kriterierna för ett personlighetssyndrom. Under den första tiden fick han, med hjälp av de sociala myndigheterna, stöd i sin föräldraroll. Barnen fick tillfälligtvis bo hos systern, men bor nu hemma tillsammans med pappa.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Personlighetssyndrom, ADHD, bipolär sjukdom (3 x 0,5 p = 1,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

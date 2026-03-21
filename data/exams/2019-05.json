@@ -1,0 +1,1123 @@
+{
+  "id": "2019-05",
+  "title": "AT-prov maj 2019",
+  "date": "2019-05-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Fall 1",
+      "points": 20,
+      "intro": "Page 2 of 52\n\nFALL 1\n\nDu är medicinjour på ett medelstort sjukhus en lördag i slutet av februari under din AT. Du går jour tillsammans med en legitimerad kollega. Klockan 21.30 inkommer en medvetandesänkt och nedkyld kvinna med ambulans. Hon påträffades av en förbipasserande utomhus i ett bostadsområde. Hon är mycket tunt klädd för årstiden och har en kroppstemperatur på 33°C. Du ser ett stort hematom runt höger öga. Enligt en ID-handling som funnits på patienten är hon 21 år gammal och heter Angelica.\n\nDu handlägger patienten med stöd av din legitimerade kollega. Angelica är väckbar men mycket somnolent. Puls 120/min, blodtryck 150/80 mmHg. Saturation 92%. Akuta prover visar serumetanol på 112 mmol/L (motsvarande promillehalt på 4,21), lätt hyponatremi och lätt stegrade leukocyter, samt måttligt förhöjda leverprover. Paracetamol och salicylat är negativa. Övriga prover väsentligen utan anmärkning. EKG utan anmärkning. CT hjärna visar inga frakturer eller tecken till intrakraniell blödning.\n\nUr journalen framkommer att Angelica tidigare har inkommit kraftigt alkoholpåverkad flera gånger under senaste halvåret, dock ej så här illa och inte heller nedkyld tidigare. Hon har varit i kontakt med psykiatrin på grund av missbruket men inte velat ha deras insatser.\n\nAngelica läggs in på medicinsk akutvårdsavdelning för fortsatt vård. Hon är då vaken men slö. Du ordinerar Tiamin intravenöst men avvaktar abstinensbehandling med tanke på den höga promillehalten. Vid kl. 04 blir du uppringd från avdelningen. Angelica är då helt vaken och mycket orolig. När du kommer dit vill hon inte gärna prata. ”Dom kan ändå inte hjälpa mig” säger hon när du försöker övertala henne att bedömas av en psykiater. Hon nekar till att hon skulle ha försökt ta sitt liv. Hon vill inte berätta hur hon har fått sin ansiktsskada.\n\nI psykiskt status noterar du att Angelica är orienterad förutom till datum men ger ganska dålig formell och emotionell kontakt. Hon ter sig inte särskilt alkoholpåverkad längre trots att promillehalten sannolikt fortfarande är hög. Du noterar inget påtagligt avvikande i grundstämning och du finner inga tecken till psykotiska symtom. Sjuksköterskan på avdelningen undrar om man inte kan tvångsomhänderta Angelica för att ge vård för hennes missbruk.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Enligt vilken lag kan man omhänderta någon för missbruk? Ange hela namnet eller vedertagen förkortning.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "”Lagen om vård av missbrukare (i vissa fall)” eller förkortningen (LVM) ger 1 poäng. Alla andra förslag 0 poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Page 3 of 52\n\nDu arbetar som medicinjour en natt i februari när du får in Angelica 21 år som är medvetandesänkt på grund av mycket stort alkoholintag. Hon är initialt lätt nedkyld efter att ha påträffats utomhus, tunt klädd. Hon är dock stabil somatiskt och börjar vakna till men har behov av övervakning och läggs in på akutavdelning för tillnyktring. När hon piggnar till framåt morgonen vill hon gå hem och inte ha kontakt med psykiatrin. Både sjuksköterskan och du blir bekymrade och funderar på om man kan tvinga Angelica till behandling för missbruket.  Du erinrar dig att det finns en lag som heter ”Lag om vård av missbrukare i vissa fall”, förkortat LVM.\n\nDu funderar också kring om det skulle kunna vara aktuellt med omhändertagande enligt lagen om psykiatrisk tvångsvård (LPT).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Är Angelica aktuell för omhändertagande enligt LPT? Resonera utifrån de kriterier som enligt lagtext ska föreligga vid LPT vård och om Angelica uppfyller dessa.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Angelica uppfyller inte kriterier för vård enligt LPT. Detta eftersom hon inte har någon allvarlig psykisk störning i juridisk mening (första kriteriet enligt LPT). Det andra kriteriet enligt LPT om oundgängligt vårdbehov uppfyller hon inte heller då vård i annan form (LVM) skulle vara mer tillämpbar. Beträffande tredje kriteriet (inställning till vården) vägrar hon vård. För full poäng krävs ett resonemang kring de tre kriterierna samt att man landar i att LPT sannolikt ej är tillämpbart i detta fall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Page 4 of 52\n\nDu arbetar som medicinjour en natt i februari när du får in Angelica 21 år som är medvetandesänkt på grund av mycket stort alkoholintag. Hon är initialt lätt nedkyld efter att ha påträffats utomhus, tunt klädd. Hon är dock stabil somatiskt och börjar vakna till men har behov av övervakning och läggs in på akutavdelning för tillnyktring. När hon piggnar till framåt morgonen vill hon gå hem och inte ha kontakt med psykiatrin. Både sjuksköterskan och du blir bekymrade och funderar på om man kan tvinga Angelica till behandling för missbruket.  Du erinrar dig att det finns en lag som heter ”Lag om vård av missbrukare i vissa fall”, förkortat LVM.\n\nDu resonerar med din kollega kring kriterier för vårdintyg. Ni enas om att det inte föreligger någon allvarlig psykisk störning i juridisk mening (såsom t.ex. psykos, maniskt skov av bipolär sjukdom, eller allvarlig depression med hög suicidrisk). Således är det första kriteriet för tvångsvård inte uppfyllt. För kriterium två om oundgängligt vårdbehov kan detta bättre tillgodoses genom LVM. Kriterium tre handlar om inställningen till vården.\n\nSåledes bedömer du att LVM är mer tillämpbart än LPT i detta sammanhang.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Ange vilka tre kriterier som gäller för omhändertagande enligt LVM",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "4 § LVM. Tvångsvård skall beslutas om, 1. någon till följd av ett fortgående missbruk av alkohol, narkotika eller flyktiga lösningsmedel är i behov av vård för att komma ifrån sitt missbruk, 2. vårdbehovet inte kan tillgodoses enligt socialtjänstlagen (2001:453) eller på något annat sätt, och 3. han eller hon till följd av missbruket a) utsätter sin fysiska eller psykiska hälsa för allvarlig fara, b) löper en uppenbar risk att förstöra sitt liv, eller c) kan befaras komma att allvarligt skada sig själv eller någon närstående.\n\nFör full poäng krävs att samtliga tre kriterier har identifierats, dock behövs inte alla underrubriker på kriterium 3."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Page 5 of 52\n\nDu arbetar som medicinjour en natt i februari när du får in Angelica 21 år som är medvetandesänkt på grund av mycket stort alkoholintag. Hon är initialt lätt nedkyld efter att ha påträffats utomhus, tunt klädd. Hon är dock stabil somatiskt och börjar vakna till men har behov av övervakning och läggs in på akutvårdsavdelning för tillnyktring. När hon piggnar till framåt morgonen vill hon gå hem och inte ha kontakt med psykiatrin. Både sköterskan och du blir bekymrade och funderar på om man kan tvinga Angelica till behandling för missbruket. Du erinrar dig att det finns en lag som heter ”Lag om vård av missbrukare” (LVM) och funderar kring om Angelica skulle kunna vara aktuell för omhändertagande enligt denna lag. Du bedömer inte att hon uppfyller kriterier för vård enligt lagen om psykiatrisk tvångsvård (LPT).\n\nDu känner dig ändå villrådig kring handläggningen och ringer psykiatrin för att få hjälp. Du blir hänvisad till deras bakjour. Bakjouren håller med om att kriterier för vårdintyg inte verkar vara uppfyllda men tycker däremot att man måste överväga akut omhändertagande enligt § 13 LVM då Angelica till följd av sitt missbruk utsätter sin fysiska hälsa för allvarliga risker och kan riskera att dö om hon hamnar i en liknande situation igen. Angelica verkar inte heller vilja ta emot frivillig hjälp och hon är i uppenbart behov av vård för sitt missbruk. Som sjukvårdspersonal har du en anmälningsskyldighet enligt denna lag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vem kontaktar du nu som kan fatta beslut i frågan om LVM?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Socialnämndens ordförande eller sociala jouren ger full poäng. Endast socialnämnden/socialtjänsten ger halv poäng då det framgår av frågetexten att ärendet handläggs under jourtid och det är fråga om akut omhändertagande. Förvaltningsrätten ger 0 poäng, det är inte den man kontaktar jourtid även om de (efter en viss tid) fattar det slutgiltiga beslutet om fortsatt omhändertagande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Kan du hindra Angelica från att lämna sjukhuset innan ett beslut om LVM är fattat?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej, kvarhållande enligt LVM kan endast fattas efter ett beslut om LVM.\n\n3"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Page 6 of 52\n\nSju månader senare gör du din psykiatritjänstgöring. Du är placerad på psykiatriska akutmottagningen där Angelica inkommer med sin socialsekreterare. Du minns att du kontaktade sociala beredskapsjouren som kom och träffade Angelica på medicinavdelningen och efter överläggning med ordförande i socialnämnden fattades beslut om akut LVM enligt § 13. Detta prövades sedan och fastställdes i Förvaltningsrätten. I journalen läser du att Angelica genomgick avgiftning på psykiatriska kliniken, därefter placerades hon på ett LVM- hem.\n\nAngelica har nu kontaktat sin socialsekreterare då hon är rädd att återfalla i missbruk. Hon har svår ångest, sover dåligt och känner sig helt oförmögen att reda ut sin situation. Socialsekreteraren berättar att Angelica för två dagar sedan blev misshandlad och dödshotad av sin före detta pojkvän. Angelica vill inte polisanmäla händelsen då hon är rädd för repressalier. Hon har efter händelsen känt sig alldeles ”bortkopplad” från sig själv och tyckt att omvärlden känts overklig och främmande. Hon har mardrömmar och är väldigt rädd. Under det senaste dygnet har hon övervägt att ta sitt liv. Innan misshandeln mådde hon ganska bra, säger Angelica. Hon har inte återfallit i missbruk sedan hon lämnade behandlingshemmet och har haft planer på att börja läsa in gymnasiekompetens.\n\nDu anser att du har tillräcklig information för att ställa en diagnos som beskriver Angelicas problem.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Vilken psykiatrisk diagnos beskriver Angelicas akuta symtom bäst? Motivera ditt svar. (2 p)\n\nDu behöver också göra en suicidriskbedömning för att ta ställning till vidare handläggning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akut stressreaktion med motivering ger full poäng. PTSD, depression, ångestsyndrom, panikattack eller liknande ger ingen poäng, liksom krisreaktion (som inte är en diagnos.) Motiveringen bör innehålla beaktande av tidsaspekten, som är för kort för att ovanstående differentialdiagnoser kan vara aktuella, samt föreliggande symtom.\n\nDu behöver också göra en suicidriskbedömning för att ta ställning till vidare handläggning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vilka är de två starkaste statistiska riskfaktorerna för suicid?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förekomst av psykisk sjukdom (psykiatrisk diagnos) och tidigare genomfört suicidförsök. Andra förslag kan ge delpoäng men inte full poäng då de två angivna riskfaktorerna för suicid är de enskilt viktigaste."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Page 7 of 52\n\nDu har som psykiatrijour nu träffat Angelica som kommer in med sin socialsekreterare. Du har också träffat Angelica innan under din medicinplacering när du gick jour. Hon var då kraftigt alkoholpåverkad och nedkyld. Beslut togs av socialnämnden om akut LVM enligt § 13 och Angelica vårdades enligt LVM i sex månader p.g.a. sitt svåra alkoholmissbruk. Behandlingstiden gick bra och Angelica har klarat av fortsatt nykterhet i en månad sedan dess.\n\nAngelica har nu en akut stressreaktion efter dödshot och misshandel av sin f.d. pojkvän för två dagar sedan. Du tänker igenom riskfaktorer och skyddsfaktorer när du ska göra din suicidriskbedömning och minns att tidigare suicidförsök samt psykisk sjukdom är de starkaste statistiska riskfaktorerna för suicid.\n\nAngelica har i tonåren ett suicidförsök med moderns tabletter men sökte aldrig vård för det. Hon skar sig lindrigt under tonåren men slutade sedan med detta.\n\nDu bedömer suicidrisken som påtagligt förhöjd med tanke på den aktuella situationen. Angelica kan tänka sig att läggas in på psykiatriska kliniken. Hon vill gärna ha hjälp med sömn och ångest och önskar medicin för detta. Angelica läggs in på intagningsavdelning. Hon blåser noll promille samt lämnar urinprov för drogscreening, som är negativ för samtliga testade preparat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilka läkemedel ordinerar du till Angelica? Ge förslag på två olika preparat och motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Icke vanebildande preparat med motivering ger poäng. Läkemedel med risk för beroendeutveckling (både bensodiazepiner och z preparat) ger inte poäng om det inte på något sätt särskilt motiveras varför man vill ge det. I så fall endast halv poäng. Antidepressiva ger inga poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Page 8 of 52\n\nDu träffade igår som psykiatrijour Angelica som kom in med sin socialsekreterare till psykiatriska akutmottagningen. Angelica har en akut stressreaktion efter dödshot och misshandel av sin f.d. pojkvän för två dagar sedan. Du har träffat Angelica tidigare och vet att hon har ett svårt alkoholmissbruk bakom sig som hon nyligen fått LVM-vård för. Hon har klarat av en månads nykterhet sedan LVM- vården avslutades. Du bedömer suicidrisken som förhöjd och lade därför in Angelica på intagningsavdelning med extra tillsyn. Hon accepterade en frivillig inläggning och var hjälpsökande.\n\nDu satte in propiomazin (Propavan®) 50 mg som sömnmedicin samt alimemazin (Theralen®) 40 mg/ml, 1 ml vid behov mot ångest. Du väljer dessa preparat då du vill undvika beroendeframkallande läkemedel med tanke på hennes svåra alkoholberoende.\n\nNär överläkaren ska prata med Angelica föreslår hon att du är med på samtalet då det är ovanligt lugnt på akutmottagningen. Angelica har sovit ganska bra på den medicin hon fick. Hon är klart mer samlad och har ett tämligen neutralt stämningsläge men är ångestdriven. Mot slutet av samtalet undrar Angelica om hon kan ha ADHD (attention deficit hyperactivity disorder) eftersom ”allt bara går fel för henne”. Hennes syster har fått diagnosen för ett halvår sedan och när Angelica fick veta det har hon läst på och känner själv igen sig i att hon alltid är rastlös och impulsiv. Hon har svårt för att koncentrera sig och avsluta sådant hon påbörjar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vad saknar ni för viktig anamnestisk information relaterat till eventuell frågeställning om ADHD? Det som efterfrågas utgör i sig ett obligatoriskt kriterium för att diagnosen ska kunna ställas.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Utvecklingsanamnes/barndomsanamnes. Förslag av liknande karaktär som endast täcker vissa aspekter av utvecklingen (”Hur det gick för henne i skolan” eller dylikt) ger en halv poäng, liksom förslag på ADHD-symtom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Page 9 of 52\n\nDu har handlagt Angelica 21 år gammal som inkom för två dagar sedan med en akut stressreaktion efter misshandel och dödshot. Du har träffat Angelica tidigare och vet att hon har ett svårt alkoholmissbruk bakom sig som hon nyligen fått LVM-vård för. Hon har klarat av en månads nykterhet sedan LVM-vården avslutades.\n\nPå grund av förhöjd suicidrisk blev Angelica inlagd inom psykiatrin för frivillig vård. Hon ville gärna ha hjälp med sömn och ångest. Du satte in Propavan® som sömnmedicin samt Theralen® mot ångest. Detta har haft ganska god effekt när du träffar Angelica nästa dag tillsammans med överläkare. Det framkommer då att Angelica undrar om hon kan ha ADHD.\n\nNi frågar om symtom på uppmärksamhetsstörning och hyperaktivitet förelegat sedan barndomen eftersom ADHD är en utvecklingsrelaterad funktionsavvikelse. Angelica bekräftar att hon hade svårt med koncentrationen och hade svårt att sitta stilla, men inte så att hon sprang runt hela tiden. Grundskolan gick inte bra, hon började tidigt dricka alkohol. Dock fick hon med hjälp av stödundervisning godkänt i kärnämnen så att hon kom in på gymnasiet. Efter ett halvår i gymnasiet hoppade hon av och tog olika ströjobb men blev uppsagd p.g.a. att hon inte klarade att passa tider och hade hög frånvaro. Hon hade ett lindrigt självskadebeteende som upphörde när hon började missbruka mer intensivt. På fråga om uppväxtförhållanden berättar hon om misshandel hemma och flera sexuella övergrepp i tidiga tonår av en bekant till familjen. Därefter har hon de senaste åren vid ett flertal tillfällen blivit misshandlad av sin före detta pojkvän. Det märks att hon tycker det är jobbigt att prata om dessa händelser, ångestnivån stiger, hon ter sig alltmer avskärmad och tittar bort. När Angelica har samlat sig lite avslutar ni samtalet. Ni planerar att fortsätta under morgondagen då Angelica ändå behöver kvarstanna för ytterligare stabilisering.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Ge förslag på ytterligare en diagnos som med hänsyn till vad som har framkommit anamnestiskt, behöver utredas ytterligare (utöver ADHD).",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Posttraumatiskt stressyndrom (PTSD). Emotionellt instabilt personlighetssyndrom (EIPS) alternativt låg kognitiv nivå kan också ge poäng. Bipolär sjukdom samt depression ger inte poäng då inget i anamnesen har framkommit som kan tyda på detta."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Page 10 of 52\n\nDu har handlagt Angelica 21 år gammal som inkom för två dagar sedan i med en akut stressreaktion efter misshandel och dödshot. Du har träffat Angelica tidigare och vet att hon har ett svårt alkoholmissbruk bakom sig som hon nyligen fått LVM vård för. Hon har klarat av en månads nykterhet sedan LVM vården avslutades.\n\nPå grund av förhöjd suicidrisk blev Angelica inlagd inom psykiatrin på frivillig vård. Hon ville gärna ha hjälp med sömn och ångest. Du satte in Propavan® som sömnmedicin samt Theralen® mot ångest. Du har träffat Angelica vid ett tillfälle tillsammans med överläkare där ni har penetrerat barndomsanamnes med hänsyn till att Angelica undrade om hon kunde ha ADHD.\n\nDet finns anamnes på svårigheter med koncentration och uppmärksamhet i skolan, tidig debut av alkoholmissbruk samt oavslutad skolgång och svårigheter att behålla arbeten.\n\nDå Angelica har omfattande psykologiska trauman i sin historia går ni igenom symtom på posttraumatiskt stressyndrom (PTSD).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Med hänsyn till diagnoskriterier för PTSD, ange två frågor som du anser är viktiga att ställa till patienten.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "T.ex förekomst av mardrömmar, återupplevande, ökad anspänning/arousal, undvikande, humörsvängningar/irritabilitet mm. Frågor ska vara relevanta för aktuella diagnoskriterier för PTSD. Andra frågor ger endast delpoäng.\n\n4"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Page 11 of 52\n\nDu har handlagt Angelica 21 år gammal som inkom för två dagar sedan i bilden av en akut stressreaktion efter misshandel och dödshot. Du har träffat Angelica tidigare och vet att hon har ett svårt alkoholmissbruk bakom sig som hon nyligen fått LVM-vård för. Hon har klarat av en månads nykterhet sedan LVM-vården avslutades.\n\nPå grund av förhöjd suicidrisk blev Angelica inlagd inom psykiatrin för frivillig vård. Hon ville gärna ha hjälp med sömn och ångest. Du satte in Propavan® som sömnmedicin samt Theralen® mot ångest. Du har träffat Angelica vid ett tillfälle tillsammans med överläkare där ni har penetrerat barndomsanamnes med hänsyn till att Angelica undrade om hon kunde ha ADHD. Det finns anamnes på svårigheter med koncentration och uppmärksamhet i skolan, tidig debut av alkoholmissbruk samt oavslutad skolgång och svårigheter att behålla arbeten.\n\nDå Angelica har omfattande psykologiska trauman i sin historia går ni igenom symtom på posttraumatiskt stressyndrom (PTSD). Vid fördjupad intervju framkommer att Angelica uppfyller kriterier för detta syndrom. Ni identifierar återupplevande, mardrömmar med traumarelaterat innehåll, undvikande av minnen och platser kopplat till händelser, äckelkänsla inför sig själv och upplevelse av skuld och skam samt förhöjd vaksamhet. Dessa symtom stämmer väl överens med kriterier för PTSD. Symtomen har funnits under lång tid men varierar i intensitet. Hon är i perioder påtagligt plågad av sina symtom men har aldrig berättat om dem förr då hon har skämts så mycket. Hon undrar om det går att få någon hjälp för dessa besvär.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Vilken behandling har bäst evidens och bör i första hand erbjudas patienter med posttraumatiskt stressyndrom? (1 p)\n\nUnder samtalet fördjupades även missbruksanamnes och det framkommer att Angelica förutom ett omfattande alkoholberoende har provat olika droger, bland annat amfetamin. Dock blev hon mycket paranoid efter amfetaminintag och upplevde detta som extremt obehagligt.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Traumafokuserad KBT (TF-KBT), eller Prolonged Exposure (PE) ger full poäng. Eye movement Desensitization and Reprocessing (EMDR) har sämre evidensstöd och ger därför halv poäng, liksom KBT utan närmre specifikation och farmakologiska interventioner som SSRI. KBT med förklaring kring hur man arbetar enligt tramafokuserat protokoll (utan att man kan ange det exakta namnet) kan generera full poäng.\n\nUnder samtalet fördjupades även missbruksanamnes och det framkommer att Angelica förutom ett omfattande alkoholberoende har provat olika droger, bland annat amfetamin. Dock blev hon mycket paranoid efter amfetaminintag och upplevde detta som extremt obehagligt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-10-2",
+              "text": "Vilka är de två viktigaste signalsubstanser som frisätts i samband med amfetaminrus?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Noradrenalin och Dopamin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Page 12 of 52\n\nDu har handlagt Angelica 21 år gammal som inkom för tre dagar sedan i bilden av en akut stressreaktion efter misshandel och dödshot. Du har träffat Angelica tidigare och vet att hon har ett svårt alkoholmissbruk bakom sig som hon nyligen fått LVM-vård för. Hon har klarat av en månads nykterhet sedan LVM-vården avslutades.\n\nPå grund av förhöjd suicidrisk blev Angelica inlagd inom psykiatrin på frivillig vård. Hon ville gärna ha hjälp med sömn och ångest. Du satte in Propavan® som sömnmedicin samt Theralen® mot ångest. Du har träffat Angelica vid två tillfällen tillsammans med överläkare där ni har ställt diagnos PTSD samt konstaterat att det finns misstanke om ADHD som behöver utredas vidare i öppen vård.\n\nNär ni tar missbruksanamnes framkommer att Angelica provat diverse olika droger, bland annat amfetamin. De viktigaste signalsubstanserna som frisätts vid amfetaminrus är amfetamin och noradrenalin.\n\nAngelica vill gärna ha hjälp för sin PTSD och ni diskuterar olika behandlingsalternativ där du på sikt rekommenderar psykoterapeutisk behandling enligt kognitiv beteendeterapeutisk modell där den specifika terapeutiska interventionen är traumafokuserad kognitiv beteendeterapi. För detta samt vidare utredning remitteras Angelica till en allmänpsykiatrisk mottagning. Hon vill gärna ha kvar sömnmedicin och ångestdämpande då hon tycker det hjälper hyfsat. Hon efterfrågar hjälp att inte återfalla i missbruk då hon känner sig instabil och stressad nu och ni diskuterar att disulfiram (Antabus®) under en period är lämpligt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Redogör kortfattat för verkningsmekanismen för disulfiram (Antabus®).",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Disulfiram (Antabus) hämmar enzymet aldehyddehydrogenas vilket ger en anhopning av acetaldehyd viket ger upphov till en rad obehagliga symtom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-11-2",
+              "text": "Förklara för Angelica vad hon absolut måste känna till angående behandlingen (Antabus®).",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du måste helt avstå från att dricka alkohol. Stort alkoholintag under behandling med disulfiram kan ge upphov till blodtrycksfall, svimning och i värsta fall cirkulationskollaps. Även mindre alkoholintag ger upphov till mycket obehagliga symtom som ansiktsrodnad, huvudvärk, hjärtklappning och känsla av andnöd. För full poäng måste tydlig redogörelse göras beträffande riskerna. Förslag i stil med ”att det är farligt” ger endast halv poäng, liksom beskrivning av den sällsynta risken för allvarlig leverskada, som visserligen är viktig att känna till, men sekundär till de allvarliga följder som alkoholintag kan föra med sig.  Dessutom är kontroll av leverprover huvudsakligen sjukvårdens uppgift att ombesörja.\n\n5 Svarsförslag till fall 2 – internmedicin (20 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Fall 2",
+      "points": 20,
+      "intro": "Page 14 of 52\n\nFALL 2\n\nDu har nattjour som nylegitimerad läkare på medicinakuten på ett länsdelssjukhus. Anna, 52 år, inkommer med ambulans med uttalad dyspne, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter. Hon har inte brytt sig om att söka läkare för symtomen eftersom de alltid försvunnit spontant efter några minuters vila. Sedan 36 timmar har symtomen emellertid inte försvunnit varför hon ringde efter ambulans. Anna är lite blek i hudkostymen och lätt kallsvettig. Kan svara adekvat på frågor om än kortfattat pga andfåddheten. Utöver hypertoni sedan 12 år tillbaka, som behandlas med enalapril 20 mg 1x1, är hon tidigare frisk. Brukar ej tobak. Enligt ambulanssjuksköterskan har blodtrycket legat kring 100/65 mmHg och saturation på 90% under transporten in till akuten. Anna är feberfri. Någon rytmremsa kan du dock inte få då denna har slarvats bort. Du tycker att Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Du väljer att för tillfället avvakta med vidare anamnes. Vilka är de 4 viktigaste prover/undersökningar inklusive statusfynd med svar inom högst 5 minuter du efterfrågar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Arteriell blodgas, EKG, kontroll av blodtryck, hjärt- och lungauskultation. (Puls ger 0 P eftersom du får denna information via EKG och saturation ger 0 P eftersom du får denna information i artärgasen)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Page 15 of 52\n\nDu har nattjour på medicinakuten på ett länsdelssjukhus. Anna, 52 år, inkommer med ambulans med uttalad dyspne, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter. Hon har inte brytt sig om att söka läkare för symtomen eftersom de alltid försvunnit spontant efter några minuters vila. Sedan 36 timmar har symtomen emellertid inte försvunnit varför hon ringde efter ambulans. Anna är lite blek i hudkostymen och lätt kallsvettig. Kan svara adekvat på frågor om än kortfattat pga andfåddheten. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Brukar ej tobak. Enligt ambulanssjuksköterskan har blodtrycket legat kring 100/65 mmHg och saturation på 90% under transporten in till akuten. Anna är feberfri. Någon rytmremsa kan du dock inte få då denna har slarvats bort. Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.\n\nVid lungauskultation hör du nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. När du perkuterar lungfälten hörs dämpning basalt bilateralt. Pga snabb hjärtrytm och biljud från andningen har du svårt att höra eventuella blåsljud på hjärtat. Blodtryck 90/60 mmHg. Artärgasen visar pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22-27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134-170), laktat 2,2 mmol/L (0,5-1,6)",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Tolka artärgasen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Metabol acidos"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Beskriv patofysiologin bakom patientens laktatstegring? (2 p)\n\nEKG",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-05/page15_img1.jpeg",
+              "facit": [
+                "Laktatstegring pga anaerob metabolism i vävnaden pga global hypoxi samt systemisk hypoperfusion pga hypotension/chock."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Efter 4 minuter får du ett EKG. Tolka detta.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ventrikeltakykardi"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Page 16 of 52\n\nAnna, 52 år, inkommer med ambulans med uttalad dyspné, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter. Symtomen har alltid försvunnit spontant efter några minuters vila. Sedan 36 timmar har symtomen emellertid inte försvunnit varför hon ringde efter ambulans. Anna är blek i hudkostymen och lätt kallsvettig. Kan svara adekvat på frågor om än kortfattat pga andfåddheten. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Under transporten in till sjukhuset har blodtrycket legat kring 100/65 mmHg och saturation på 90%. Feberfri. Rytmremsa saknas. Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. När du perkuterar lungfälten hörs dämpning basalt bilateralt. Pga snabb hjärtrytm och biljud från andningen har du svårt att höra eventuella blåsljud på hjärtat. Blodtryck 90/60 mmHg. Artärgasen visar pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22-27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134-170), laktat 2,2 mmol/L (0,5-1,6)\n\nUnder tiden som du auskulterar hjärta och lungor samt analyserar artärgasen blir patienten alltmer allmänpåverkad och grumlig i medvetandet men inte okontaktbar. Blodtrycket är nu på 70/40 mmHg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilken åtgärd är nu indicerad?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förbereder för akut elkonvertering"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Page 17 of 52\n\nAnna, 52 år, inkommer med ambulans med uttalad dyspne, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter. Symtomen har alltid försvunnit spontant efter några minuters vila. Sedan 36 timmar har symtomen emellertid inte försvunnit varför hon ringde efter ambulans. Anna är blek i hudkostymen och lätt kallsvettig. Kan svara adekvat på frågor om än kortfattat pga andfåddheten. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Under transporten in till sjukhuset har blodtrycket legat kring 100/65 mmHg och saturation på 90%. Feberfri. Rytmremsa saknas. Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. När du perkuterar lungfälten hörs dämpning basalt bilateralt. Pga snabb hjärtrytm och biljud från andningen har du svårt att höra eventuella blåsljud på hjärtat. Blodtryck 90/60 mmHg. Artärgasen visar pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22-27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134-170), laktat 2,2 mmol/L (0,5-1,6)\n\nUnder tiden som du auskulterar hjärta och lungor samt analyserar artärgasen blir patienten alltmer allmänpåverkad och grumlig i medvetandet men inte okontaktbar. Blodtrycket är nu på 70/40 mmHg.\n\nDu förbereder för akut elkonvertering.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Hur förbereder du för denna elkonvertering? Beskriv varje delmoment.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kalla på narkosteam urakut för sövning kopplar defibrillerings plattor på patienten, ställer in defibrillering på låga energital tex 50 Joule samt ställer defibrillatorn på synkroniserat läge."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Page 18 of 52\n\nAnna inkommer med ambulans med uttalad dyspné, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter, försvinner i vila. Sedan 36 timmar har symtomen emellertid inte försvunnit varför hon ringde efter ambulans. Anna är blek och kallsvettig. Kan svara adekvat på frågor. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Under transporten in till sjukhuset har blodtrycket legat kring 100/65 mmHg och saturation på 90%. Feberfri. Rytmremsa saknas. Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. När du perkuterar lungfälten hörs dämpning basalt bilateralt. Pga snabb hjärtrytm och biljud från andningen har du svårt att höra eventuella blåsljud på hjärtat. Blodtryck 90/60 mmHg. Artärgasen visar pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22-27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134-170), laktat 2,2 mmol/L (0,5-1,6)\n\nUnder tiden som du auskulterar hjärta och lungor samt analyserar artärgasen blir patienten alltmer allmänpåverkad och grumlig i medvetandet men inte okontaktbar. Blodtrycket är nu på 70/40 mmHg.\n\nEftersom patienten nu är påtagligt cirkulatoriskt påverkad, sannolikt pga ventrikeltakykardin, (kardiogen chock) kopplar du defibrilleringsplattor på patienten, kallar på narkosteam urakut för sövning, ställer in defibrillatorn på 50 Joule samt på synkroniserat läge. Patienten sövs av narkosteamet med propofol och du elkonverterar patienten till sinusrytm. Blodtrycket, efter elkonverteringen, ligger nu på 120/75 mmHg. Patienten är fortfarande tungandad och saturationen ligger på 88%.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vad innebär det att elkonvertera i synkroniserat läge och vad kan hända om du inte gör detta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elchocken ska vara synkroniserad till QRS-komplexet för att undvika simultan depolarisation av kardiomyocyterna i den vulnerabla repolarisationsfasen och därmed minska risken för t.ex. ventrikelflimmer.\n\n6"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Vilka undersökningar/åtgärder anser du vara indicerade inom den närmaste timmen och varför?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Monitorering av hjärtfrekvens (1 p). Röntgen alternativt ultraljud av lungorna för att kvantifiera mängden misstänkt pleuravätska (1 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Page 19 of 52\n\nAnna inkommer blek och kallsvettig med uttalad dyspne, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter, försvinner i vila. Sedan 36 timmar har symtomen emellertid inte försvunnit. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Blodtrycket under ambulanstransporten har legat kring 100/65 mmHg och saturation på 90%. Feberfri. Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. Dämpning basalt bilateralt. Svårauskulterade hjärtljud. Blodtryck 90/60 mmHg. Artärgas; pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22- 27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134-170), laktat 2,2 mmol/L (0,5-1,6)\n\nPatienten alltmer allmänpåverkad och grumligt medvetande men inte okontaktbar. Blodtryck nu 70/40 mmHg.\n\nEftersom patienten nu är påtagligt cirkulatoriskt påverkad, sannolikt pga ventrikeltakykardin, (kardiogen chock) kopplar du defibrilleringsplattor på patienten, kallar på narkosteam urakut för sövning, ställer in defibrillatorn på 50 Joule samt på synkroniserat läge. Patienten sövs av narkosteamet med propofol och du elkonverterar patienten till sinusrytm. Blodtrycket, efter elkonverteringen, ligger nu på 120/75 mmHg. Patienten är fortfarande tungandad och saturationen ligger på 88%.\n\nRöntgen av lungorna visade betydande mängd pleuravätska, 5,5 cm på höger sida och 2,5 cm på vänster sida. Man såg även ökad kärlteckning som tecken på inkompensation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vilken avdelningsnivå beslutar du dig för efter att patienten genomgått lungröntgen?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Avdelning med hjärtövervakning såsom HIA eller MAVA alt IVA"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Hur åtgärdar du pleuravätskan och hjärtinkompensationen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ordinerar eller lägger in Pleuradrän höger sida för att tömma pleuravätskan samt Furorsemid iv för att häva inkompensationen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Page 20 of 52\n\nAnna inkommer blek och kallsvettig med uttalad dyspne, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter, försvinner i vila. Sedan 36 timmar har symtomen emellertid inte försvunnit. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Blodtrycket under ambulanstransporten har legat kring 100/65 mmHg och saturation på 90%. Feberfri. Anna blir successivt något mer tungandad och allmänpåverkad under ert korta samtal.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. Dämpning basalt bilateralt. Svårauskulterade hjärtljud. Blodtryck 90/60 mmHg. Artärgas; pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22- 27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134-170), laktat 2,2 mmol/L (0,5-1,6)\n\nPatienten alltmer allmänpåverkad och grumligt medvetande men inte okontaktbar. Blodtryck nu 70/40 mmHg.\n\nEftersom patienten nu är påtagligt cirkulatoriskt påverkad, sannolikt pga ventrikeltakykardin, (kardiogen chock) kopplar du defibrilleringsplattor på patienten, kallar på narkosteam urakut för sövning, ställer in defibrillatorn på 50 Joule samt på synkroniserat läge. Patienten sövs av narkosteamet. Elkonverteras till sinusrytm. Blodtrycket, efter elkonverteringen, 120/75 mmHg. Alltjämt tungandad och saturationen ligger på 88%. Röntgen av lungorna visade på 5,5 cm pleuravätska höger sida och 2,5 cm vänster sida. Man såg även ökad kärlteckning som tecken på inkompensation.\n\nI väntan på tid för inläggning av pleuradrän tas ett nytt EKG och det anänder även svar på kompletterande blodprover som du beställt. Dessa visar troponin T 222 ng/L (<15), CRP 88 mg/L (<3)\n\nPage 21 of 52 EKG",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Beskriv vad det nya EKG:t visar? Ange ingen diagnos.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-05/page21_img1.jpeg",
+              "facit": [
+                "Generella ST-höjningar. Sinusrytm"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Page 22 of 52 Anna inkommer blek och kallsvettig med uttalad dyspne, tryck i bröstet och yrsel. Symtomen har efter en infektion för 10 dagar sedan kommit intermittent med duration på 5-15 minuter, försvinner i vila. Sedan 36 timmar har symtomen emellertid inte försvunnit. Utöver hypertoni sedan 12 år tillbaka, som behandlas med Enalapril 20 mg 1x1, är hon tidigare frisk. Blodtrycket under ambulanstransporten har legat kring 100/65 mmHg och saturation på 90%. Feberfri. Anna blir successivt något mer tungandad och allmänpåverkad.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. Dämpning basalt bilateralt. Svårauskulterade hjärtljud. Artärgas; pH 7,29 (7,35-7,45), pO2 8,6 kPa (10-13), pCO2 4,8 kPa (4,6-6,0), oxygenmättnad 90% (95-98), BE -8,1 mmol/L (-3 - 3), HCO3 18 mmol/L (22-27), natrium 142 mmol/L (137-145), kalium 3,6 mmol/L (3,5-4,4), kreatinin 81 umol/L 60-105, Hb 135 g/L (134- 170), laktat 2,2 mmol/L (0,5-1,6)\n\nPatienten alltmer allmänpåverkad och grumligt medvetande men inte okontaktbar. Blodtryck nu 70/40 mmHg.\n\nEftersom patienten nu är påtagligt cirkulatoriskt påverkad, sannolikt pga ventrikeltakykardin, (kardiogen chock) kopplar du defibrilleringsplattor på patienten, kallar på narkosteam urakut för sövning, ställer in defibrillatorn på 50 Joule samt på synkroniserat läge. Patienten sövs av narkosteamet. Elkonverteras till sinusrytm. Blodtrycket, efter elkonverteringen, 120/75 mmHg. Alltjämt tungandad och saturationen ligger på 88%. Röntgen av lungorna visade på 5,5 cm pleuravätska höger sida och 2,5 cm vänster sida. Man såg även ökad kärlteckning som tecken på inkompensation.\n\nI väntan på tid för inläggning av pleuradrän tas ett nytt EKG och även svar på kompletterande blodprover som du beställt. Dessa visar troponin T 222 ng/L (<15), CRP 88 mg/L (<3)\n\nDet nya EKG:t visar sinusrytm och generella ST-höjningar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vad blir din arbetsdiagnos med den information du nu har?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Perimyokardit. Osannolikt med STEMI då det föreligger ST-höjning i de flesta avledningarna."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Page 23 of 52\n\nAnna inkommer blek och kallsvettig med uttalad dyspne, tryck i bröstet och yrsel.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. Dämpning basalt bilateralt. Svårauskulterade hjärtljud.\n\nPatienten alltmer allmänpåverkad och grumligt medvetande men inte okontaktbar. Blodtryck nu 70/40 mmHg.\n\nEftersom patienten nu är påtagligt cirkulatoriskt påverkad, sannolikt pga ventrikeltakykardin, (kardiogen chock) elkonverteras hon till sinusrytm. Blodtrycket, efter elkonvertering, 120/75 mmHg. Alltjämt tungandad och saturationen ligger på 88%.\n\nRöntgen av lungorna visade på 5,5 cm pleuravätska höger sida och 2,5 cm vänster sida. Man såg även ökad kärlteckning som tecken på inkompensation.\n\nI väntan på tid för inläggning av pleuradrän tas ett nytt EKG som visar sinusrytm och generella ST-höjningar. Kompletterande troponin T 222 ng/L (<15) och CRP 88 mg/L (<3).\n\nI väntan på tid för inläggning av pleuradrän tas ett nytt EKG och även svar på kompletterande blodprover som du beställt. Dessa visar troponin T 222 ng/L (<15), CRP 88 mg/L (<3). Det nya EKG:t visar sinusrytm och generella ST-höjningar.\n\nMed bakgrund av anamnes, förändringarna på EKG och labprover blir din preliminära arbetsdiagnos perimyokardit med globalt myokardengagemang. Du lägger därför in Anna på HIA. På HIA görs ultraljud av hjärtat som visar nedsatt vänsterkammarfunktion med global hypokinesi och måttligt dilaterad vänster kammare. EF 25%. Cirka 3-4 mm perikardvätska utan hemodynamisk påverkan. I pleuradränet som anlades har det kommit ca 1800 ml klar vätska.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vilka analyser bör göras på pleuravätskan och med vilken frågeställning/varför?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Odling (laktat och/eller glucos i pleuravätskan ger också rätt), och proteiner eller albumin i plasma och pleuravätska (transudat eller exsudat)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-2",
+              "text": "Vilken undersökning bör nu patienten remitteras till för att bekräfta din misstänkta diagnos och genes?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MR hjärta"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Page 24 of 52\n\nAnna inkommer blek och kallsvettig med uttalad dyspné, tryck i bröstet och yrsel.\n\nVid lungauskultation hörs nedsatta andningsljud basalt bilateralt och ovan denna hör du tydliga bilaterala rassel upp till mitten av lungfälten. Dämpning basalt bilateralt. Svårauskulterade hjärtljud.\n\nPatienten alltmer allmänpåverkad och grumligt medvetande men inte okontaktbar. Blodtryck nu 70/40 mmHg.\n\nEftersom patienten nu är påtagligt cirkulatoriskt påverkad, sannolikt pga ventrikeltakykardin, (kardiogen chock) elkonverteras hon till sinusrytm. Blodtrycket, efter elkonvertering, 120/75 mmHg. Alltjämt tungandad och saturationen ligger på 88%. Röntgen av lungorna visade på 5,5 cm pleuravätska höger sida och 2,5 cm vänster sida. Man såg även ökad kärlteckning som tecken på inkompensation.\n\nI väntan på tid för inläggning av pleuradrän tas ett nytt EKG som visar sinusrytm och generella ST- höjningar. Kompletterande troponin T 222 ng/L (<15) och CRP 88 mg/L (<3). Preliminära arbetsdiagnos perimyokardit med globalt myokardengagemang. Anna läggs in på HIA där ultraljud av hjärtat görs som visar nedsatt vänsterkammarfunktion med global hypokinesi och måttligt dilaterad vänster kammare. EF 25%. Cirka 3-4 mm perikardvätska utan hemodynamisk påverkan.\n\nPleuradränet kunde dras efter 2 dygn och efterföljande kontrollröntgen av lungorna visade god regress av pleuravätskan och inkompensationen. MR hjärta påvisar inga tecken på myokardit. Däremot ses uttalat dilaterad vänster kammare med EF 18%. Inga tecken på inlagringssjukdom. Diagnosen blir därför dilaterad kardiomyopati. Som ett led i utredningen görs koronarangiografi som ej påvisar några stenoser. Ingen atheromatos.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Vilken är den mest sannolika genesen till Annas hjärtsvikt?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mångårig oreglerad hypertoni"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-2",
+              "text": "Vilka läkemedel som påverkar prognosen bör Anna stå på med diagnosen dilaterad kardiomyopati?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "B-blockad (metoprolol eller bisoprolol), ACEi (tex ramipril, enalapril) eller ARB (tex candesartan, diovan) eller entresto, aldosteronblockad (spironolakton eller eplerenon). Furix eller tiazid diuretika ger inget poäng då dessa endast är symtomlindrande.\n\n7"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-3",
+              "text": "Vilken annan icke farmakologisk behandling/åtgärd, som är symtomlindrande och kan vara direkt livräddande, bör man överväga i Annas fall innan hemgång?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Biventrikulär pacemaker med implanterbar defibrillator ICD\n\n8 Svarsförslag till fall 3 – allmänmedicin (20 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Fall 3",
+      "points": 20,
+      "intro": "Page 26 of 52\n\nFALL 3\n\nLotta, 30 år, söker dig akut på vårdcentralen för huvudvärk. Sedan 2 år har hon besvärats av anfall med pulserande, intensiv huvudvärk, förenad med illamående men ej kopplat till speciell mat. Attackerna har kommit ungefär varannan månad, varar ungefär en halv dag och ibland har hon fått vara hemma från sitt arbete några dagar. Lotta arbetar på ett bokförlag, och arbetssituationen har det senaste året blivit alltmer pressad med mycket övertid. Nu ryktas det om försäljning av företaget, och Lotta mådde så dåligt häromdagen att hon fick åka hem. Hon har fått alltmer huvudvärk, och den senaste månaden har hon haft intensiva anfall 3-4 gånger tillsammans med illamående. Idag vaknade hon med svår huvudvärk och illamående, och fick stanna hemma från arbetet igen. Hon har själv trott att huvudvärken kan röra sig om migrän, som hennes mamma har.\n\nI somatiskt status noterar du normalt blodtryck och normal rutinneurologi inklusive ögonbottnar.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Ange två viktiga anamnesuppgifter du vill fråga om för att skilja diagnosen migrän från annan huvudvärk (2p).\n\nDu får diagnosen migrän bekräftad och vill nu föreslå icke-farmakologisk behandling till Lotta.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid differentialdiagnos mot den vanligaste huvudvärksformen spänningshuvudvärk dvs vid normalt somatiskt status, står ensidig värk och förvärring genom fysisk aktivitet som särskiljande tecken vid migrän. Se Läkemedelsboken om huvudvärk och differentialdiagnostik vid huvudvärkstyper, tabell 2"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Ge Lotta tre råd om olika levnadsvanor som kan minska risken för migränanfall",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Främsta åtgärderna för att undvika migrän är att undvika migränframkallande faktorer inom områdena sömn, föda och stress (sova lagom (varken för mycket eller för lite1), inte hoppa över måltider och/eller äta oregelbundet samt att minska på stressen). Även specifika faktorer för den enskilde kan ha betydelse; alkohol, p-piller, födoämnen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Page 27 of 52\n\nLotta, 30 år, har huvudvärksanfall med pulserande, intensiv huvudvärk, förenad med illamående, ungefär varannan månad. Du bedömer att Lotta lider av migrän genom att anamnesen bekräftar ensidig värk och accentuering av smärta vid kroppsansträngning.\n\nFrämsta åtgärderna Lotta kan göra själv är att se till att sova lagom (varken för mycket eller för lite), inte hoppa över måltider och/eller äta oregelbundet samt att minska på stressen.\n\nDu vill också föreslå farmakologisk anfallsbehandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Föreslå två preparattyper som i första hand rekommenderas för anfallskupering",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förstahandspreparat för anfallskupering av migrän är antingen paracetamol eller NSAID/ASA. Först efter högre doser NSAID och eventuellt tillägg av metoklopramid mot illamående kommer triptaner som behandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Ange förstahandspreparat för profylaktisk behandling av migrän. (1p)\n\nLotta har nu varit hemma en vecka pga huvudvärken och säger nu att hon inte orkar gå till arbetet men att hon behöver sjukintyg. Du ser att hon är pressad och tagen av sin migrän och beslutar att sjukskriva henne 100% i 5 dagar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förstahandsmedel för profylax är betablockare (propranolol, metoprolol). Lotta har nu varit hemma en vecka pga huvudvärken och säger nu att hon inte orkar gå till arbetet men att hon behöver sjukintyg. Du ser att hon är pressad och tagen av sin migrän och beslutar att sjukskriva henne 100% i 5 dagar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-3",
+              "text": "Till vem ska sjukintyget lämnas och vad kallas den ersättning hon får?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För ersättning de första 14 dagarna i en sjukperiod lämnas sjukintyget till arbetsgivaren, som då betalar sjuklön. Vid sjukskrivning efter två veckor utgår sjukpenning (om Försäkringskassan så godkänner).\n\n9"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Page 28 of 52\n\nSom förstahandspreparat för anfallskupering av migrän föreslår du antingen paracetamol eller NSAID/ASA. Förstahandsmedel för profylax är betablockare (propranolol eller metoprolol).\n\nDe första 14 dagarna lämnas sjukintyget till arbetsgivaren, som då betalar sjuklön.\n\nTre månader senare träffar du Lotta igen när hon söker akut med sin 3-åriga dotter Anna. Anna har ont i båda öronen sedan två dagar samt feber kring 38-38,5. I natt har hon haft rejält ont och har haft svårt att sova. Mamma tycker att Anna är trött och hängig och dricker lite dåligt. På grund av smärtan har Lotta gett Anna paracetamol regelbundet senaste dygnet. Anna har en känd penicillinallergi och har tidigare reagerat med uttalad urticaria när hon fick flytande Kåvepenin®.\n\nStatus: Allmäntillstånd: sitter stilla i mammas knä, ser trött och hängig ut och känns varm, normal hudturgor. Mun och svalg: u.a. Öron: höger röd, matt, buktande och trögrörlig trumhinna, vänster röd trumhinna, gulaktigt sekret i hörselgången.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad rekommenderar du för behandling? Motivera ditt beslut",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Då Anna är påverkad och har dubbelsidig mediaotit med misstänkt perforation, väljer du att behandla med antibiotika."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Page 29 of 52\n\nAnna har ont i bägge öronen sedan två dagar samt feber kring 38-38,5. I natt har hon haft rejält ont och har haft svårt att sova. Mamma tycker att Anna är trött och hängig och dricker lite dåligt. På grund av smärtan har Lotta gett Anna Alvedon® regelbundet senaste dygnet. Anna har en känd penicillinallergi och har tidigare reagerat med uttalad urticaria.\n\nStatus: At.: sitter stilla i mammas knä, ser trött och hängig ut och känns varm, normal hudturgor. Mun och svalg: u.a. Öron: höger röd, matt, buktande trumhinna, vänster röd trumhinna, gulaktigt sekret i hörselgången.\n\nDu väljer behandling med antibiotika då hon har påverkat allmäntillstånd och bilateral otit med misstänkt perforation vänster sida.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilken bakterie är troligast orsak till Annas otit?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den vanligaste bakterien vid otit är pneumokocker."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Vilket preparat väljer du att behandla med och hur länge?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "På grund av penicillinallergi väljer du att behandla med erytromycin (Erymax®) under 7 dagar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Page 30 of 52\n\nAnna har ont i bägge öronen sedan två dagar samt feber kring 38-38,5. I natt har hon haft rejält ont och har haft svårt att sova. Mamma tycker att Anna är trött och hängig och dricker lite dåligt. På grund av smärtan har Lotta fått ge Anna Alvedon® regelbundet senaste dygnet. Anna har en känd penicillinallergi och har reagerat med uttalad urticaria.\n\nStatus: At.: sitter stilla i mammas knä, ser trött och hängig ut och känns varm, normal hudturgor. MoS: u.a. Öron: höger röd, matt, buktande trumhinna, vänster röd trumhinna, gulaktigt sekret i hörselgången.\n\nDu väljer att behandla med antibiotika då hon har påverkat allmäntillstånd och bilateral otit med misstänkt perforation vänster sida.\n\nDen vanligaste bakterien vid otit är pneumokocker. På grund av penicillinallergi väljer du att behandla med erytromycin (Erymax®) under 7 dagar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Skall Anna kontrolleras efter sin öroninflammation och när i så fall? (1p)\n\nEnligt Läkemedelsverket rekommendationer skall barn <4 år med dubbelsidig akut media otit (AMO) kontrolleras efter tre månader.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Enligt Läkemedelsverket rekommendationer skall barn <4 år med dubbelsidig akut media otit (AMO) kontrolleras efter tre månader."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-1",
+              "text": "Varför ska kontroll ske och vad är det som ska kontrolleras?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Anna ska kontrolleras efter tre månader för att kunna upptäcka och behandla eventuell hörselnedsättning. Vid återbesök kontrolleras trumhinnans utseende och rörlighet (siegling, tympanometri) och hörsel (audiogram)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Page 31 of 52\n\nAnna ska kontrolleras efter tre månader för att kunna upptäcka och behandla eventuell hörselnedsättning. Vid återbesök kontrolleras trumhinnans utseende och rörlighet (siegling, tympanometri) och hörsel (audiogram).\n\nNågra månader senare träffar du Annas pappa Nathan, som inte bor med Lotta och Anna. Nathan är 45 år, arbetslös och söker nu akut på grund av \"smärtor i foten\". I förrgår kom Nathan hem från en veckas semester på Mallorca, och i går morse vaknade han med svåra smärtor i foten. Han kunde inte ens ha täcket på. Och han kan inte förstå hur han har fått detta – han har absolut inte råkat ut för något trauma. Nathan har tidigare varit frisk, och tar inga mediciner.\n\nStatus: Allmäntillstånd: Lite rödbrusig, smärtpåverkad, går med hälta, och har svårt att stödja på höger fot. Höger fot: kraftig svullnad, rodnad och värmeökning över stortåns grundled, där också rörligheten är upphävd och smärtande. Viss rodnad och svullnad finns också över hela framfoten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vilken diagnos är mest sannolik?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kraftig monoartrit hos medelålders man utan septisk feber, där utrymme finns för misstanke om alkoholöverkonsumtion, är den mest sannolika diagnosen giktattack."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Page 32 of 52 Några månader senare träffar du Anna pappa Nathan, som inte bor med Lotta och Anna. Nathan är 45 år och söker nu akut på grund av ”smärtor i foten”. Nathan har blivit bjuden på en två veckors charterresa till Mallorca av en gammal arbetskamrat, som planerar att starta eget företag i resebranschen och vill ha med Nathan i företaget, då Nathan tidigare varit reseledare. I förrgår kom Nathan hem från Mallorca, och i går morse vaknade han med svåra smärtor i foten. Han kunde inte ens ha täcket på. Och han kan inte begripa hur han har fått detta – han har absolut inte råkat ut för något trauma. Nathan har tidigare varit frisk, och tar inga mediciner.\n\nStatus: Allmäntillstånd: Smal, lite rödbrusig, smärtpåverkad, går med hälta, och har svårt att stödja på höger fot. Höger fot: kraftig svullnad, rodnad och värmeökning över stortåns grundled, där också rörligheten är upphävd och smärtande. Viss rodnad och svullnad finns också över hela framfoten.\n\nDen mest sannolika diagnosen är giktattack.\n\nDet finns ett flertal kända riskfaktorer för gikt. Bland dem finns vissa levnadsvanor som Nathans själv kan påverka.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vad bör du efterfråga för levnadsvanor av betydelse?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hög alkoholkonsumtion ökar produktionen av urinsyra och interfererar med eliminationen, vilket kan orsaka utfällning av giktkristaller i stortåns grundled, vilket ger giktanfall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-8-2",
+              "text": "Vad är uppkomstmekanismen för giktanfall hos Nathan?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övriga riskfaktorer inkluderar fetma (BMI > 30), metabola syndromet, hypertoni och psoriasis."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Page 33 of 52\n\nDu vill diskutera Nathans alkoholkonsumtion då hög konsumtion ökar produktionen av urinsyra och interfererar med eliminationen, vilket kan orsaka utfällning av giktkristaller i stortåns grundled.\n\nÖvriga riskfaktorer inkluderar fetma (BMI > 30), metabola syndromet, typ 2 diabetes, hypertoni och psoriasis.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Med tanke på diagnosen gikt, vilket läkemedel vill föreslå som akutbehandling?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akutbehandling vid gikt är NSAID, alternativ är kolkicin eller kortison, systematiskt eller lokalt. Immobilisering av leden hör också till.\n\n10"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Page 34 of 52\n\nDu väljer att sätta in NSAID i tablettform som akutbehandling, En alternativ akutbehandling är kolkicin eller kortison.\n\nDet kan bli aktuellt med profylaktisk farmakologisk behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "När är profylaktisk behandling att rekommendera och beskriv verkningsmekanismen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Allopurinol används som förebyggande behandling då det sänker uratproduktionen (hämning av enzymet xantinoxidas som katalyserar oxidationen av hypoxantin till xantin och xantin till urinsyra). Allopurinol är kontraindicerat i akutskedet pga risk för utlösning av giktattacker.\n\n11 Svarsförslag till fall 4 – kirurgi (20 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Fall 4",
+      "points": 20,
+      "intro": "Page 36 of 52\n\nFALL 4\n\nEn 23-årig patient Elise\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna (Elise) med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon med sina vänner till en nattklubb. Efter att hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg. Hennes EKG visar sinusrytm utan patologiska förändringar.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilken är den mest sannolika diagnosen och vilken undersökning ordinerar du nu för att bekräfta dina misstankar? (0,5p var)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Spontan pneumothorax (0,5p) - Pulmröntgen/DT thorax eller ultraljud lunga (även diagnostisk punktion godkänns) (0,5p) Du misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar följande:"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Page 37 of 52 Du arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min. Bukundersökningen visar normala tarmljud och ingen palpationsömhet. Blodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar följande:",
+          "contextImageUrl": "/images/exams/2019-05/page37_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Beskriv två patologiska fynd på röntgenbilden. (0,5 p var)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- pneumothorax på höger sida med komplett kollaps av höger lunga (0,5p) - förskjutning av mediastinum och trakea åt vänster (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Page 38 of 52\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilken akut åtgärd måste du nu tänka på?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- dekomprimera ventilpneumothorax (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Page 39 of 52\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster.\n\nHennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Du bestämmer dig för att dekomprimera ventilpneumothorax. Hur går du tillväga (Hjälpmedel, lokalisation, riktning) (1 p) och vad gör du sedan (1 p)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Storlumig kanyl och penetration av patientens bröstkorg i 90 grader vinkel mot huden direkt kranialt om ett revben. Antingen väljer du intercostalutrymme 3 midklavikulärt eller främre axillarlinje i höjd med mamillen (intercostal 5). Vid punktion pyser det direkt luft ur kanylen. (1p) - Sedan förbereder du dig för anläggning av ett thoraxdränage. (1p)\n\n12"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Page 40 of 52\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare. Medan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.\n\nDu bestämmer dig för att dekomprimera ventilpneumothorax.\n\nDu väljer en storlumig kanyl och penetrerar patientens bröstkorg i 90 grader vinkel mot huden direkt kranialt om ett revben. Antingen väljer du intercostalutrymme 3 midklavikulärt eller främre axillarlinje i höjd med mamillen (intercostal 5). Vid punktion pyser det direkt luft ur kanylen. Sedan förbereder du dig för anläggning av ett thoraxdränage.\n\nDu får stöd av akutläkaren som sederar patienten och du anlägger ett 20 french-thoraxdrän under lokalanestesi. Du får luftutbyte i dränet och suturerar fast den efter du har anslutit ett vattenlås.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vilken undersökning bör nu göras och varför?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Kontrollröntgen / Pulmröntgen (1p) - Dränläge, minskning av pneumothorax (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Page 41 of 52\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.\n\nDu bestämmer dig för att dekomprimera ventilpneumothorax.\n\nDu väljer en storlumig kanyl och penetrerar patientens bröstkorg i 90 grader vinkel mot huden direkt kranialt om ett revben. Antingen väljer du intercostalutrymme 3 midklavikulärt eller främre axillarlinje i höjd med mamillen (intercostal 5). Vid punktion pyser det direkt luft ur kanylen. Sedan förbereder du dig för anläggning av ett thoraxdränage.\n\nDu får stöd av akutläkaren som procedursederar patienten med Propofol och du anlägger ett 20 french-thoraxdrän under lokalanestesi. Du får luftutbyte i dränet och sututerar fast den efter du\n\nPage 42 of 52 har anslutit ett vattenlås.\n\nNu skriver du självklart en kontrollröntgenremiss.\n\nHögersidigt pleuradrän där spetsen projiceras apikalt. Höger lunga har nu expanderat och på liggande frontalbild avgränsas endast en knappt centimeter bred spalt apikalt och 3-4 millimeters pneumothoraxspalt lateralt. Smärre atelektasstråk i hilusnivå. Nytillkommet subcutant emfysem i höger bröstkorgsvägg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Varför ordinerar du kontinuerligt undertryck med -15cm vatten, smärtlindring vid behov, samt monitorering av luftläckage? (0,5 p var)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-05/page42_img1.jpeg",
+              "facit": [
+                "- Syftet med undertrycksbehandling är att återskapa ett vakuum i pleuraspalten. Smärtlindring behövs på grund av dränets placering genom intercostalrumm och i pleura, vilket innebär uttalad sensorisk stimulering av intercostalnerver och pleura. Vid luftläckage efter flera dagar måste thoraxkirurgisk konsultation övervägas. (0,5p var)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Hur länge bör dränet sitta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Du planerar för dränbehandling i 3 dagar. (1p) (Godkänd 3-5 dagar)\n\nDu ordinerar kontinuerligt undertryck med -15cm vatten, smärtlindring vid behov samt monitorering av luftläckage. Du planerar för dränbehandling i 3 dagar, sedan drändragning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Page 43 of 52\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.   Medan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.\n\nDu bestämmer dig för att dekomprimera ventilpneumothorax.\n\nDu väljer en storlumig kanyl och penetrerar patientens bröstkorg i 90 grader vinkel mot huden direkt kranialt om ett revben. Antingen väljer du intercostalutrymme 3 midklavikulärt eller främre axillarlinje i höjd med mamillen (intercostal 5). Det pyser direkt luft ur kanylen. Sedan förbereder du dig för anläggning av ett thoraxdränage.\n\nDu får stöd av akutläkaren som procedursederar patienten med Propofol och du anlägger ett 20 french-thoraxdrän under lokalanestesi. Du får luftutbyte i dränet och sututerar fast den efter du har anslutit ett vattenlås.\n\nDärefter skriver du självklart en kontrollröntgenremiss som visar bra dränläge med en liten kvarvarande pneumothoraxspalt samt lätt subkutant emfysem.\n\nPage 44 of 52\n\nDu ordinerar kontinuerligt undertryck med -15cm vatten, smärtlindring vid behov samt monitorering av luftläckage. Du planerar för dränbehandling i 3 dagar, sedan drändragning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Nästa kväll blir du uppringd av avdelningen och informerad att dränet har ett kvarstående luftläckage på 100 ml/dygn. Elise är stabil och smärtlindras adekvat. Hur bedömmer du situationen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Ett lindrigt luftläckage inom de första dagarna kan behandlas med expektans. Vid kvarvarande läckage efter flera dagars undertrycksbehandling måste thoraxkirurgisk kompetens konsulteras. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Page 45 of 52\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.Lungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.\n\nDu bestämmer dig för att dekomprimera ventilpneumothorax.\n\nDu väljer en storlumig kanyl och penetrerar patientens bröstkorg i 90 grader vinkel mot huden direkt kranialt om ett revben. Antingen väljer du intercostalutrymme 3 midklavikulärt eller främre axillarlinje i höjd med mamillen (intercostal 5). Det pyser direkt luft ur kanylen. Sedan förbereder du dig för anläggning av ett thoraxdränage.\n\nDu får stöd av akutläkaren som procedursederar patienten med Propofol och du anlägger ett 20 french-thoraxdrän under lokalanestesi. Du får luftutbyte i dränet och sututerar fast den efter du har anslutit ett vattenlås.\n\nDärefter skriver du självklart en kontrollröntgenremiss som visar bra dränläge med en liten kvarvarande pneumothoraxspalt samt lätt subkutant emfysem.\n\nPage 46 of 52\n\nDu ordinerar kontinuerligt undertryck med -15cm vatten, smärtlindring vid behov samt monitorering av luftläckage. Du planerar för dränbehandling i 3 dagar, sedan drändragning.\n\nNästa dag blir du uppringd av avdelningen och informerad att patienten har ett luftläckage på 100 ml per dygn. Hon är stabil och smärtlindras adekvat.\n\nDu bedömer situationen stabil och förordar expektans.\n\nSyftet med undertrycksbehandlingen är att återskapa ett vakuum i pleuraspalten. Smärtlindring behövs på grund av främmande material i patienten. Vid luftläckage efter flera dagar måste thoraxkirurgisk konsultation övervägas.\n\n2 dagar senare upphör luftläckaget och dränet kan dras efter sammanlagt 5 dagar. Kontrollröntgen efter drändragning visar ingen kvarvarande patologi. Elise mår väl och vill komma hem igen. Men innan hon går tackar hon för den goda vården och undrar varför hon har fått en pneumothorax och om hon ska undvika något särskilt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Nämn fyra relevanta riskfaktorer för en spontan pneumothorax.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Riskfaktorer för spontan pneumothorax är KOL, Cystisk fibros, lungmalignitet, nekrotiserande pneumoni, manligt kön, rökning, genetisk predisposition (Birt- Hogg-Dubé or FLCN), Marfan-syndrom (lång och smal), homocystinuri, thorakal endometrios och anorexia nervosa. Ovanliga orsaker är ankyloserande\n\n13 spondylitis, asthma, interstitiell lungsjukdom, lymphangioleiomyomatos, Sjögren's syndrome, rheumatoid arthrit, sarkoidos och övertryck (till exempel i samband med apparat/SCUBA-dykning). (0,5p per två rätta svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-2",
+              "text": "Vilka två förhållningsregler ger du patienten?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Du förordar totalt rökstopp samt ingen flygresa under de närmaste 2 veckor. Apparat/SCUBA dykning är kontraindicerat i samband med spontanpneumothorax. (0,5p per rätt svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Page 48 of 52 har anslutit ett vattenlås.\n\nDärefter skriver du självklart en kontrollröntgenremiss som visar bra dränläge med en liten kvarvarande pneumothoraxspalt samt lätt subkutant emfysem.\n\nDu ordinerar kontinuerligt undertryck med -15cm vatten, smärtlindring vid behov samt monitorering av luftläckage. Du planerar för dränbehandling i 3 dagar, sedan drändragning.\n\nNästa dag blir du uppringd av avdelningen och informerad att patienten har ett luftläckage på 100 ml per dygn. Hon är stabil och smärtlindras adekvat. Du förordar expektans.\n\n2 dagar senare upphör luftläckaget och dränet kan dras efter 5 dagar sammanlagd.\n\nElise mår väl och vill komma hem igen. Men innan hon går tackar hon för den goda vården och undrar varför hon har fått en pneumothorax och om hon ska undvika något särskild.\n\nRiskfaktorer för spontan pneumothorax är KOL, Cystisk fibros, lungmalignitet, nekrotiserande pneumoni, manlig kön, rökning, genetisk predisposition (Birt-Hogg-Dubé or FLCN), Marfan- syndrom, homocystinuri, thorakal endometrios och anorexia nervosa. Ovanliga orsaker är ankyloserande spondylitis, asthma, interstitiell lungsjukdom, lymphangioleiomyomatos, Sjögren's syndrome, rheumatoid arthrit, sarkoidos och övertryck (till exempel i samband med apparat/SCUBA-dykning).\n\nDu förordar totalt rökstopp samt ingen flygresa under de närmaste 2 veckor. Apparat/SCUBA dykning är kontraindicerat i samband med spontanpneumothorax.\n\nPage 47 of 52\n\nEPILOG\n\nDu arbetar lördag natt på en medelstor akutmottagning som jourläkare. Klockan fyra på morgonen söker en 23-årig kvinna med bröstsmärtor. Hon berättar att hon har festat med sina vänner och druckit en del vin. Senare gick hon och sina vänner till en nattklubb. Efter hon beställde något i baren satte hon sig ner och fick plötsligt kraftigt ont till höger i bröstkorgen. Hon tog direkt en taxi till akuten. Smärtan blir värre vid djupandning och hon får dyspné när hon ligger ner. Hon har aldrig haft något liknande tidigare.\n\nMedan sjuksköterskan mäter blodtryck, puls, saturation, andningsfrekvens och temperatur berättar Elise att hon studerar på högskolan, har en pojkvän sedan några år och röker då och då, men inte dagligen. Hon är 175 cm lång och väger 60 kg.\n\nHennes allmäntillstånd i sittande verkar väsentligen opåverkad förutom att hon doftar alkohol. Hon är afebril.\n\nHennes hjärta auskulteras med en regelbunden rytm på 105, inga hörbara biljud och ett blodtryck på 110/70 mmHg.\n\nLungorna auskulteras med avlägsna andningsljud på höger sida jämfört med vänster. Hennes saturation är 92% på rumsluft med en andningsfrekvens på 24/min.\n\nBukundersökningen visar normala tarmljud och ingen palpationsömhet.\n\nBlodprover visar CRP mindre än 6 mg/l (<6), Troponin-T mindre än 5 ng/l (<15) och Serum- Etanol på 46 mmol/l (<3).\n\nDu misstänker en spontan pneumothorax och skriver en remiss till röntgen thorax.\n\nBilden visar en ventilpneumothorax på höger sida med komplett kollaps av höger lunga samt en förskjutning av mediastinum och trakea åt vänster. Elise uppvisar nu dyspné. Hennes saturation är 85% på 12 liter/min syrgas.\n\nDu bestämmer dig för att dekomprimera ventilpneumothorax.\n\nDu väljer en storlumig kanyl och penetrerar patientens bröstkorg i 90 grader vinkel mot huden direkt kranialt om ett revben. Antingen väljer du intercostalutrymme 3 midklavikulärt eller främre axillarlinje i höjd med mamillen (intercostal 5). Det pyser direkt luft ur kanylen. Sedan förbereder du dig för anläggning av ett thoraxdränage.\n\nDu får stöd av akutläkaren som procedursederar patienten med Propofol och du anlägger ett 20 french-thoraxdrän under lokalanestesi. Du får luftutbyte i dränet och sututerar fast den efter du\n\nPage 49 of 52\n\nEn 2-årig patient\n\nDu arbetar på akutmottagningen på ett litet lasarett när du blir kallad till akutrummet. Ett 2- årigt barn (ca. 10 kg enligt pappan) har fått het vätska på sig. Barnet skriker högt men låter sig undersökas.\n\nEn snabb genomgång av ABCDE visar inga uppenbara avvikelser från normalvärden förutom brännskador på nedre delen av ryggen, hela stjärten och baksidan av båda ben. Det syns ljusröda och mörkröda områden, delvis trasiga blåsor samt lätt fuktiga sårytor i detta område. När du testar kapillär återfyllnad i det brännskadade området ser du en snabb återfyllnad och barnet uppvisar smärta och blödning vid nålstick i brännskadeområdet. Inför planering av vidare vård måste du bedöma brännskadan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Hur skattar du djupet av brännskadan utifrån den givna informationen (djup eller gradindelning)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Delvis ytlig dermal, delvis djup dermal (Grad 2a, delvis Grad 2b). (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-9-2",
+              "text": "Hur stor skattar du den brända kroppsytan till och hur kommer du fram till siffran?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- ’rule of nines’ men barn har en annan fördelning av kroppsytor än vuxna. Cirka 23 % (godkänd 20-25%). (0,5p var)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Page 50 of 52\n\nDu arbetar på akutmottagningen på ett litet lasarett när du blir kallad till akutrummet. Ett 2- årigt barn (ca. 10 kg enligt pappan) har fått het vätska på sig. Barnet skriker högt men låter sig undersökas.\n\nEn snabb genomgång av ABCDE visar inga uppenbara avvikelser från normalvärden förutom brännskador på nedre delen av ryggen, hela stjärten och baksidan av båda ben. Det syns ljusröda och mörkröda områden, delvis trasiga blåsor samt lätt fuktiga sårytor i detta område. När du testar kapillär återfyllnad i det brännskadade området ser du en snabb återfyllnad och barnet uppvisar smärta och blödning vid nålstick i brännskadeområdet.\n\nDu bedömer brännskadan som delvis ytlig, delvis djup dermal (Grad 2a, delvis Grad 2b).\n\nSom hjälpmedel för att grovt skatta brännskadeytan använder du ’rule of nines’ men tänker på att barn har en annan fördelning av kroppsytor än vuxna. Du kommer fram till cirka 23 %.\n\nDu vill beräkna vätskevolymen som patienten behöver.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "På vilka variabler baseras vätskebehovet det första dygnet?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-10-2",
+              "text": "Hur mycket vätska behöver patienten?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-10-3",
+              "text": "Vad ska beaktas med tanke på infusionshastigheten?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-10-4",
+              "text": "Vilken annan metod kan du använda för att bedöma patientens vätskebehov?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Parklands formel (2-4ml x kg x % bränd kroppsyta), 460-920ml. (0,5p per rätt svar) - Halva mängden ska ges under de första 8 timmar och andra halvan under de följande 16 timmar. (1p) - Timdiures, sträva efter minst 0,5ml/kg/timme (5ml/timme) (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "Page 51 of 52\n\nDu arbetar på akutmottagningen på ett litet lasarett när du blir kallad till akutrummet. Ett 2- årigt barn (ca. 10 kg enligt pappan) har fått het vätska på sig. Barnet skriker högt men låter sig undersökas.  En snabb genomgång av ABCDE visar inga uppenbara avvikelser från normalvärden förutom brännskador på nedre delen av ryggen, hela stjärten och baksidan av båda ben. Det syns ljusröda och mörkröda områden, delvis trasiga blåsor samt lätt fuktiga sårytor i detta område. När du testar kapillär återfyllnad i det brännskadade området ser du en snabb återfyllnad och barnet uppvisar smärta och blödning vid nålstick i brännskadeområdet.\n\nDu bedömer brännskadan som delvis ytlig, delvis djup dermal (Grad 2a, delvis Grad 2b)\n\nSom hjälpmedel för att grovt skatta brännskadeytan använder du ’rule of nines’ men tänker på att barn har en annan fördelning av kroppsytor än vuxna. Du kommer fram till ca. 23 %.\n\nDu vill beräkna vätskevolymen som patienten behöver. Vilken formel använder du och vad kommer du fram till? Vad ska beaktas med tanke på infusionshastigheten? Vilken annan metod kan du använda för att bedöma patientens vätskebehov?\n\nDu använder Parklands formel (2-4ml x kg x % bränd kroppsyta) och kommer fram till 460- 920ml.\n\nDu minns att halva mängden ska ges under de första 8 timmar och andra halvan under de följande 16 timmar.\n\nEn annan metod är att mäta timdiuresen som bör vara minst 0,5ml/kg/timme (5ml/timme).\n\nDu ordinerar vätska och börjar fundera vad du nu ska göra med patienten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Hur hanterar du brännskadan?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-11-2",
+              "text": "Vilken vårdnivå ska patienten ha?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-11-3",
+              "text": "Om inte det beskrivna olycksförloppet och skadan verkar stämma överens, vad bör du då tänka på?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Smärtstillning för barnet och bandagering av brännskadan för att undvika sekundärinfektion. (0,5p per svar)\n\n14 - Kontakt med närmaste brännskadecentrum (Uppsala eller Linköping) och efterlyser om de ska ta över patienten. (1p) - Närmare penetration av olyckshändelsen, och vid behov orosanmälan som skickas till socialtjänsten samt information till föräldrarna om detta. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

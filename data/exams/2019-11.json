@@ -1,0 +1,885 @@
+{
+  "id": "2019-11",
+  "title": "AT-prov november 2019",
+  "date": "2019-11-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Fall 1",
+      "points": 20,
+      "intro": "Fall 1 har två patientfall: Patientfall Axel och patientfall Tanja Patientfall Axel 82 år Det är maj månad och du träffar Axel, en 82-årig man som bor ensam i radhus med tillhörande trädgård. Han är känd på vårdcentralen sedan flera år och kontrolleras regelbundet för förhöjt blodtryck, paroxysmalt förmaksflimmer och typ 2-diabetes. Vid senaste besöket för tre månader sedan hos diabetessköterskan var s-kreatinin, e- GFR, B-Hb, blodtryck och HbA1c-värden normala.\n\nNu kommer han på ett akutbesök, uppmuntrad av sina barn, eftersom han känner sig tröttare än vanligt och känner sig osäker när han promenerar. De aktuella läkemedlen är; enalapril/hydrochlortiazid 20 mg/12,5 mg en tablett dagligen, apixaban 2,5 mg en tablett var morgon och kväll samt metformin 500 mg en tablett i samband med lunchen. Metformindosen har inte kunnat höjas p.g.a. mag- tarmbiverkningar.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1",
+              "text": "Beskriv hur du vill fördjupa anamnesen inom tre relevanta områden.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Be honom att berätta mer om tröttheten/vad tänker han att tröttheten beror på (0,5p)? - Be honom att berätta mera om osäkerheten när han går- hur yttrar den sig (0,5p)? - Har det inträffat något som Axel relaterar till hur han mår (0,5p)? Inom detta svar kan också t.ex. ändrad medicinering och ändringar i tarm och blåsfunktion rymmas. För den som rättar är ovanstående svar huvudinriktningen med tanke på frågans formulering. Samtidigt kan det finnas svar som t.ex. att man fördjupar frågan om det har förekommit hjärtbesvär med ökad arytmi, om intag av mat och dryck ändrats så att diabetesläget försämrats, om något nytt som att han träffat en ny partner eller slutat ta några läkemedel. Dessa och liknande svar kan ge visst rätt även om de första svarsalternativen är de om man borde svara med. Rättningsgruppen är informerad och får stämma av detta under arbetet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Det är maj månad och du träffar Axel, en 82-årig man som har förhöjt blodtryck, behandling av paroxysmalt förmaksflimmer och tablettbehandlad typ 2-diabetes. Vid senaste besöket för tre månader sedan hos diabetessköterskan var blodproven och blodtryck normala. Nu kommer han på ett extra akutbesök p.g.a. trötthet och en osäkerhetskänsla. De aktuella läkemedlen är; enalapril/hydrochlortiazid 20 mg/12,5 mg en tablett dagligen, apixaban 2,5 mg en tablett morgon och kväll samt metformin 500 mg en tablett i samband med lunchen.\n\nAxel berättar att han brukar vara mycket i trädgården där han sår frön och planterar i pallkragar. För några veckor sedan snubblade han på trädgårdsslangen och slog huvudet mot en pallkrage.  Sedan dess har han känt sig tröttare än vanligt och det känns som om han tar snedsteg när han går. Däremot tycker han inte att det känns som om att åka karusell och han har inte känt sig svimfärdig. Han funderar på om det är så här det brukar bli när man blir äldre.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vad undersöker du i status? Ge fyra svar och motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Vilka akuta prover/andra undersökningar är det rimligt att genomföra på vårdcentralen? Ge tre svar och motivera dina val.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a. 2 p Bedömning av allmäntillstånd, framför allt om det finns någon allmänpåverkan (andningsfrekvens, hudfärg, bensvullnad) (0,5p), auskultation av hjärtat, för att undersöka om det kan finnas en rimlig orsak till besvären här (0,5p), Perkussion och auskultation av lungorna, för att undersöka om det kan finnas en rimlig orsak till besvären här (0,5p), blodtrycksmätning sittande och stående, för att undersöka om det kan finnas en rimlig orsak till besvären här (0,5p), ögonbottenundersökning, för att bedöma om det kan finnas en påverkan i ögat (0,5p), [ögonbottnarna kan påverkas av ett subduralhematom] och nervstatus status (0,5p), (med minst reflexer, grov kraft, sensibilitet, ”Grasset”, Romberg, diadochokinesis, finger-näs). Poäng ges enligt instruktionen – varje svar som bedöms rimligt upp till sex stycken räknas).  Utan tydlighet och motivering blir det inte poäng. b. 1,5 p Hb (0,5 p), glukos (0,5p), EKG (0,5p). Blodvärde och glukos är enkla att mäta och ger samtidigt mycket information. EKG är också lätt att genomföra och kan ge kompletterande information speciellt hos en man med diabetes där symptomen för t.ex. hjärtinfarkt kan vara svaga.   [Vi får inte svar på kreatinin eller e-GFR akut på VC. CRP ska inte tas som ett ”rutinprov”]."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Det är maj månad och du träffar Axel, en 82-årig man som har förhöjt blodtryck, behandling av paroxysmalt förmaksflimmer och tablettbehandlad typ 2-diabetes. Vid senaste besöket för tre månader sedan hos diabetessköterskan var blodproven och blodtryck normala. Han har blivit trött och tar snedsteg sedan han fallit och slagit i huvudet mot en pallkrage i trädgården.\n\nAllmäntillståndet visade ingen cirkulatorisk allmänpåverkan men Axel rörde sig försiktigt. Hjärtat auskulterades utan biljud med regelbunden rytm, 65 slag/minut, och vid lungundersökning var lunggränserna normala liksom andningsljudet. Blodtrycket var i sittande 135/85 mmHg, i stående 133/ 90 mmHg. Inspektion av ögonbotten var normal i det högra ögat men sikten skymdes av misstänkt grå starr på det vänstra. Nervstatus visade samtliga reflexer normala, något nedsatt grov kraft i höger ben jämfört med vänster, normal sensibilitet, ”Grasset” normal, osäker Romberg, viss fumlighet vid diadochokinesis, några felpekningar vid finger-näs på båda sidor. Blodvärdet och blodsocker var normala, EKG visade normofrekvent sinusrytm.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3",
+              "text": "Vilken diagnos är mest rimlig? Motivera ditt val.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Subduralhematom, med tanke på fall och behandling med NOAK (0,5p) är det mest rimliga alternativet och ska uteslutas först. När detta är uteslutet går man vidare med andra alternativ."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Det är maj månad och du träffar Axel, en 82-årig man som har förhöjt blodtryck, behandling av paroxysmalt förmaksflimmer och tablettbehandlad typ 2-diabetes. Vid senaste besöket för tre månader sedan hos diabetessköterskan var blodproven och blodtryck normala. Han har blivit trött och tar snedsteg sedan han fallit och slagit i huvudet mot en pallkrage i trädgården.\n\nEfter undersökning och provtagning fann du att Axel rörde sig försiktigt, att den grova kraften var nedsatt i höger ben, att Rombergs test var osäkert, viss fumlighet vid diadochokinesis och några felpekningar vid finger-näs på båda sidor.\n\nNu har du funderat vidare och har kommit fram till att den diagnos du i första hand tänker på är att Axel har fått subduralhematom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4",
+              "text": "Hur handlägger du nu Axels misstänkta subduralhematom?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För rätt svar krävs att svaret blir att patienten remitteras till akut medicinsk handläggning. Subduralhematom hos en person som behandlas med NOAK är en komplikation som man måste beakta både efter trauma, som kan vara förhållandevis litet men också som en komplikation till behandlingen i sig. För full poäng krävs tillfredställande svar på båda frågorna (1p). Detta kan inte vänta utan ska ske snabbt även om det inte behöver ske med ambulanstransport. Transportsättet beror på hur patienten ter sig och hur långt det är till sjukhus m.m. (0,5 p). Du berättar att det läkemedel som Axel har fått för att minska risken för blodproppar kan ge blödningar som en biverkan eller som ett resultat efter att man har fallit och slagit i huvudet. Därför behöver han undersökas akut (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Det är maj månad och du träffar Axel, en 82-årig man som har förhöjt blodtryck, behandling av paroxysmalt förmaksflimmer och tablettbehandlad typ 2-diabetes. Vid senaste besöket för tre månader sedan hos diabetessköterskan var blodproven och blodtryck normala.  Han har blivit trött och tar snedsteg sedan han fallit och slagit i huvudet mot en pallkrage i trädgården.\n\nEfter undersökning och provtagning fann du att Axel rörde sig försiktigt, att den grova kraften var nedsatt i höger ben, att Rombergs test var osäkert, viss fumlighet vid diadochokinesis och några felpekningar vid finger-näs på båda sidor.\n\nSubduralhematom är en känd komplikation till NOAK-behandling, både med och utan trauma och ska handläggas akut, även om ambulanstransport inte alltid krävs. Du behöver berätta detta för Axel.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5",
+              "text": "Axel undrar varför han har ordinerats ett läkemedel som kan ge blödningar. Beskriv den medicinska grunden för behandling med apixaban i Axels fall.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du frågar först om han vet varför han tar läkemedlet. Så berättar du att vetenskapliga studier har visat att förmaksflimmer med vissa faktorer är förknippade med en ökad risk för att få en blodpropp (1,0 p). Detta förkortas CHA2DS2VASC (0,5p) och innehåller uppgifter om hjärtsvikt, högt blodtryck, diabetes, tidigare stroke/emboli, ateroskleros samt tar hänsyn till patientens kön och ålder. Om fyra eller fler områden nämns ger det 1,0 p, annars inga poäng. ASA är verkningslöst som strokeprofylax vid flimmer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Patientfall Tanja 17 år\n\nTanja, en 17-årig kvinna, har beställt tid akut på din allmänläkarmottagning via internet. I sökrutan står det att hon plötsligt blev andfådd för tre dagar sedan. När du träffar henne och frågar om varför hon kommer så berättar hon att det plötsligt blev svårt att andas för tre dagar sedan. Sedan dess har hon haft attacker med andfåddhet av och till. På din fråga om det är något särskilt som har hänt henne eller runt henne berättar hon att hennes föräldrar ska skilja sig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6",
+              "text": "Ange tre tänkbara differentialdiagnoser.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lungemboli (0,5p), pneumothorax (0,5p) och panikattack/psykogent utlösta andningsproblem (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Tanja, en 17-årig kvinna, har beställt tid akut på din allmänläkarmottagning via internet. I sökrutan står det att hon plötsligt blev andfådd för tre dagar sedan. När du träffar henne och frågar om varför hon kommer så berättar hon att det plötsligt blev svårt att andas för tre dagar sedan. Sedan dess har hon haft attacker med andfåddhet av och till. På din fråga om det är något särskilt som har hänt henne eller runt henne berättar hon att hennes föräldrar ska skilja sig.\n\nTanja är orolig inför besöket och tänker att föräldrarnas skilsmässa kanske har påverkat henne och att det är obehagligt att hon så lätt blir andfådd, vid minsta lilla ansträngning. Hon har inga infektionstecken, påtaglig hjärtklappning eller bröstsmärtor. Det fungerar bra på gymnasiet där hon studerar. Hon röker inte och är tidigare frisk. Diabetes finns i familjen men inga andra sjukdomar. Hon berättar också att hon började med p-piller för tre veckor sedan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7",
+              "text": "Vad fokuserar du på i din kliniska undersökning? Ge fem förslag och motivera.",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du fokuserar på bedömning av allmäntillståndet, hjärta, blodtrycket, lungor och underben (0,5 p per uppgift). Det kan vara en koagulationsrubbning/lungemboli p.g.a. p-piller som ligger bakom besvären och då är dessa områden viktiga att undersöka. Pneumothorax och panikattack/psykogent utlösta andningsproblem kan också påverka de nämnda områdena och statusfynd kan därför hjälpa till vid differentialdiagnostiken. Pat ser opåverkad ut och andningsfrevens 22 andetag/minut. Blodtrycket är 130/85 mm Hg sittande i höger arm, hjärtat auskulteras med normala toner och rytm, frekvens 96 slag/minut, lungorna perkuteras med liksidiga lunggränser och normalt perkussionsljud bilateralt. Det finns ingen ömhet eller svullnad över vaderna vilket kan vara fallet vid DVT/embolikälla. Utan motivering blir det inga poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Tanja, en 17-årig kvinna, har beställt tid akut på din allmänläkarmottagning via internet. I sökrutan står det att hon plötsligt blev andfådd för tre dagar sedan. När du träffar henne och frågar om varför hon kommer så berättar hon att det plötsligt blev svårt att andas för tre dagar sedan. Sedan dess har hon haft attacker med andfåddhet av och till.\n\nTanjas föräldrar ska skiljas och hon undrar om detta påverkar henne. Hon röker inte, är tidigare frisk, har diabetes men inga andra sjukdomar i familjen och började med p-piller för tre veckor sedan.\n\nI status bedömer du att Tanja ser opåverkad ut, har andningsfrevens 22 andetag /minut. Blodtrycket är 130/85 mm Hg sittande i höger arm, hjärtat auskulteras med normala toner och rytm, frekvens 96 slag/minut, över bägge lungorna hörs vesikulärt andningsljud och vid perkussion ses liksidiga lunggränser och normalt perkussionsljud bilateralt. Det finns ingen ömhet eller svullnad över vaderna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8",
+              "text": "Nämn tre kompletterande utredningar, som kan göras på vårdcentralen och bidrar till att du kommer framåt i diagnostiken. Motivera.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "POX – för att mäta syrgashalten, som sjunker vid lungemboli men inte vid psykisk påverkan (1p).  EKG- kan visa högerbelastning om det rör sig om en lungemboli (1p). D-dimer kan användas, men ska INTE användas i detta fall. Eftersom pretest probablity (Well’s score) talar MKT starkt för lungemboli är korrekt utredning AKUT remiss till sjukhus för omedelbar DT pulmonalis angiografi alt. lungscinitigrafi. Vid låg pretest probablity är det däremot korrekt att använda för att undvika överanvändning av radiologisk undersökning (1p). Resonemanget om d- dimer ska vara finnas med för poäng och de andra svaren ska också vara motiverade för poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Tanja, en 17-årig kvinna, har beställt tid akut på din allmänläkarmottagning via internet. I sökrutan står det att hon plötsligt blev andfådd för tre dagar sedan. När du träffar henne och frågar om varför hon kommer så berättar hon att det plötsligt blev svårt att andas för tre dagar sedan. Sedan dess har hon haft attacker med andfåddhet av och till.\n\nTanjas föräldrar ska skiljas och hon undrar om detta påverkar henne. Hon röker inte, är tidigare frisk, har diabetes men inga andra sjukdomar i familjen och började med p-piller för tre veckor sedan.\n\nI status bedömer du att Tanja ser opåverkad ut, har andningsfrekvens 22. Blodtrycket är 130/85 mm Hg, hjärtfrekvensen är regelbunden 96 slag/minut, inga biljud, lungorna auskulteras utan biljud och perkuteras normalt. Det finns ingen ömhet över vaderna.\n\nDu har kompletterat din kliniska undersökning med POX som visade 92%. D-dimer, som du också ordinerade var normal och så togs ett EKG.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Vad visar EKG (se bild)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-11/page10_img1.jpeg",
+              "facit": [
+                ""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-9-2",
+              "text": "Vilken är den troliga diagnosen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "EKG visar en högerbelastning(1p) och förändringen stämmer väl med att Tanja hade en lungemboli (1p).\n\nSvarsförslag till fall 2 – Kirurgi (20 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Fall 2",
+      "points": 20,
+      "intro": "På akutmottagningen på ett länssjukhus möter du Linda Svärd, 29 år. Hon söker för buksmärtor och illamående. Linda är tidigare frisk förutom att hon för tre år sedan gick igenom en laparoskopisk gastric by-pass operation med syfte att gå ner i vikt. Före ingreppet vägde hon 98 kg och i dag 62 kg; hon är själv mycket nöjd med utfallet av operationen. De aktuella smärtorna sitter i bukens övre del och startade för ca åtta timmar sedan; de kom i anslutning till måltid.\n\nStatus: AT: Smärtpåverkad, VAS 7. Temp 37,1. Cor: Ua, frekvens 110. Pulm auskulteras ua. Buk: Ömhet ovan naveln utan klar sidoskillnad; ingen peritoneal retning. PR: ua. Ingen ömhet. Lab: Hb 124 (117-153) g/L; CRP 14 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,9 (3,6-4,6) mmol/L; S-Krea 66 (45-90) µmol/L.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Fråga 2:1:1 Vilka tre differentialdiagnoser (med principiellt olika patofysiologiska mekanismer) bedömer du mest sannolika? Endast dina tre första förslag kommer att bedömas.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ileus, gallstensproblematik (stenanfall eller choledochussten), pancreatit. Organperforation, uretärsten eller tillstånd i nedre delen av buken med eller utan inflammation är inte korrekt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Fråga 2:1:2 Hur utreder du Linda i nästa steg (utöver eventuell komplettering av anamnes/status)? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Leverprover + amylas + CT buk. Ömheten ovan naveln motiverar utredning av gallvägar + pancreas. GBP gör att obstruktion är en viktig differentialdiagnos; därav CT."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "På akutmottagningen på ett länssjukhus möter du Linda Svärd, 29 år. Hon söker för buksmärtor och illamående. Hon är tidigare frisk förutom att hon för tre år sedan gick igenom en laparoskopisk gastric by-pass operation. Före ingreppet vägde hon 98 kg och i dag 62 kg. De aktuella smärtorna sitter i bukens övre del och startade för ca åtta timmar sedan; de kom i anslutning till måltid. Status: AT: Opåverkad, VAS 7. Temp 37,1. Buk: Ömhet ovan naveln; ingen peritoneal retning.  Lab: Hb 124 (117-153) g/L; CRP 14 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,9 (3,6-4,6) mmol/L; S- Krea 66 (45-90) µmol/L.\n\nDu kompletterar provtagningen: ALAT 1,0 (0,15-1,1) µkat/L; ASAT 0,65 (0,25-0,75) µkat/L; ALP 0,9 (0,7-1,9) µkat/L; Bilirubin 13 (5-25) µmol/L; Amylas 0,90 (0,15-1,1) µkat/L.\n\nDin bedömning är att Linda också behöver utredas radiologiskt. Du remitterar henne till CT av buken med intravenös kontrast.",
+          "contextImageUrl": "/images/exams/2019-11/page13_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-2",
+              "text": "Fråga 2.2 Bilden är tagen från denna undersökning. Vilket avvikande fynd kan identifieras på bilden?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ventrikeldilatation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "På akutmottagningen på ett länssjukhus möter du Linda Svärd, 29 år. Hon söker för buksmärtor och illamående. Hon är tidigare frisk förutom att hon för tre år sedan gick igenom en laparoskopisk gastric by-pass operation. Före ingreppet vägde hon 98 kg och i dag 62 kg. De aktuella smärtorna sitter i bukens övre del och startade för ca åtta timmar sedan; de kom i anslutning till måltid. Status: AT: Opåverkad, VAS 7. Temp 37,1. Buk: Ömhet ovan naveln; ingen peritoneal retning.  Lab: Hb 124 (117-153) g/L; CRP 14 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,9 (3,6-4,6) mmol/L; S- Krea 66 (45-90) µmol/L. ALAT 1,0 (0,15-1,1) µkat/L; ASAT 0,65 (0,25-0,75) µkat/L; ALP 0,9 (0,7-1,9) µkat/L; Bilirubin 13 (5-25) µmol/L; Amylas 0,90 (0,15-1,1) µkat/L.\n\nDu utreder Linda med CT av buken.\n\nDu identifierar en dilaterad ventrikel. Utlåtandet av CT-undersökningen är nu klart. ”Status efter gastric by-pass. Ingen fri gas. I bukens övre del finns en lätt dilaterad tunntarmsslynga med ökad venös kärlteckning. Tarmväggen i slyngan förefaller normal. Ventrikeln är dilaterad. Vätskefylld, lätt dilaterad Roux-slynga. Övriga delar av tarmkanalen är ua.”",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Fråga 2:3:1 Hur förklarar du CT-fynden? Vilken/vilka mekanismer kan ligga bakom den aktuella situationen? (2,5p) Lindas syster har nu anlänt till akutmottagningen. Det visar sig att hon apotekare och väl förtrogen med mag-tarmkanalens anatomi. Hon ber dig förklara hur en gastric by-passoperation är konstruerad.",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Obstruktion på tunntarmsnivå. Mest sannolikt är att tunntarmen hernierat in genom en mesenteriell lucka (inre bråckport) med viss cirkulationspåverkan som följd. Viktnedgången kan ha betydelse för att bråckporten skapas. Ventrikeln är blint försluten i sin övre del och dilateras vid avflödeshinder. En annan möjlighet är att postoperativa adherenser orsakar obstruktionen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Fråga 2:3:2 Vilket alternativ beskriver bäst en konventionell gastric by- passoperation? (1p)\n\nA. Ventrikeln delas proximalt.  Duodenum delas. Distala duodenumändan anastomoseras till den delade ventrikelns övre del. Proximala duodenum anastomoseras till ventrikelns distala del.\n\nB. Ventrikeln delas proximalt och mellersta jejunum delas. Distala jejunumändan anastomoseras till proximala delen av ventrikeln. Proximala jejunumändan anastomoseras till jejunum distalt om anastomosen till ventrikeln.\n\nC. Ventrikeln delas just nedom cardia.  Duodenum delas. Distala duodenumändan anastomoseras till den delade ventrikelns övre del. Proximala duodenum anastomoseras till jejunum.\n\nD. Eosohagus delas just ovan cardia.  Duodenum delas distalt. Distala duodenumändan anastomoseras till den delade eosophagus. Du planerar inläggning av Linda och ordinerar fasta, Ringeracetat och 5 mg oxynorm sc.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "B"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-3",
+              "text": "Fråga 2:3:3 Mottagningssköterskan frågar om du även vill att patienten får ventrikelsond. Vad svarar du? Vilka för-och nackdelar finns med denna åtgärd? (1,5p?)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ja. Sond minskar risken för aspiration. Nackdelen är obehag för patienten; det är svårare att vara säker på att sondens läge är optimalt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-4",
+              "text": "Fråga 2:3:4 Du ringer din bakjour och rapporterar patienten enligt SBAR (Situation, Bakgrund, Aktuellt, Rekommendation). Vilken är din rekommendation? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Snar operationsanmälan. Risk för cirkulationssvikt i tunntarmssegment."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "På akutmottagningen på ett länssjukhus möter du Linda Svärd, 29 år. Hon söker för buksmärtor och illamående. Hon är tidigare frisk förutom att hon för tre år sedan gick igenom en laparoskopisk gastric by-pass operation. Före ingreppet vägde hon 98 kg och i dag 62 kg. De aktuella smärtorna sitter i bukens övre del och startade för ca åtta timmar sedan; de kom i anslutning till måltid. Status: AT: Opåverkad, VAS 7. Temp 37,1. Buk: Ömhet ovan naveln; ingen peritoneal retning.  Lab: Hb 124 (117-153) g/L; CRP 14 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,9 (3,6-4,6) mmol/L; S- Krea 66 (45-90) µmol/L. ALAT 1,0 (0,15-1,1) µkat/L; ASAT 0,65 (0,25-0,75) µkat/L; ALP 0,9 (0,7-1,9) µkat/L; Bilirubin 13 (5-25) µmol/L; Amylas 0,90 (0,15-1,1) µkat/L.\n\nCT av buken: ”Status efter gastric by-pass. Ingen fri gas. I bukens övre del finns en lätt dilaterad tunntarmsslynga med ökad venös kärlteckning. Tarmväggen i slyngan förefaller normal. Huvudmagen är lätt dilaterad. Vätskefylld, lätt dilaterad Roux-slynga.  Övriga delar av tarmkanalen är ua.\"\n\nVid en konventionell gastric by-pass delas ventrikeln högt upp och anastomoseras till en delad jejunum. Proximala delen av jejunum anastomoseras sedan till jejunum nedom denna anastomos. Mekanismen bakom CT-fyndet kan vara att det vid ingreppet skapats möjligheter för inre bråckportar (inre hernierning); problematiken ökar efter den förväntade viktnedgången. En annan möjlighet är att obstruktionen orsakas av postoperativa adherenser; patienten erhåller ventrikelsond.\n\nDu rekommenderar snar operation då det finns risk för cirkulationssviktande tarmsegment.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4",
+              "text": "Fråga 2:4 Linda frågar hur en operation för inre herniering går till. Du berättar att ingreppet kan göras öppet eller laparoskopiskt, men att momenten som utförs i buken ändå är de samma. Beskriv översiktligt dessa moment.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Reposition av tarmen, kontroll av tarmens cirkulation och förslutning av samtliga mesenteriella slitsar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "På akutmottagningen på ett länssjukhus möter du Linda Svärd, 29 år. Hon söker för buksmärtor och illamående sedan åtta timmar. För tre år sedan gick hon igenom en gastric by-pass operation. CT av buken ger nu misstanke om inre herniering.  Du rekommenderar snar operation.\n\nLinda genomgår en komplikationsfri laparoskopisk exploration där tunntarmens anatomiska läge reponeras; samtliga mesenteriella slitsar försluts. Cirkulation bedöms tillräcklig i det påverkade tarmsegmentet.\n\nTvå år senare möter du Linda igen, även denna gång på akutmottagningen; hon har varit besvärsfri sedan förra episoden. Även denna gång har Linda buksmärta. Smärtan har kommit och gått under två-tre dygn och sitter mest i övre delen av buken. Av och till har hon mått illa och har haft svårt att äta.\n\nStatus: AT: Opåverkad. Temp 36,9. Cor: Ua, frekvens 85. Pulm auskulteras ua. Buk: Ingen ömhet; ingen peritoneal retning. PR: ua. Ingen ömhet. Lab: Hb 129 (117-153) g/L; CRP 11 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,7 (3,6-4,6) mmol/L; S-Krea 76 (45-90) µmol/L. ALAT 1,8 (0,15-1,1) µkat/L; ASAT 1,2 (0,25-0,75) µkat/L; ALP 3,1 (0,7-1,9) µkat/L; Bilirubin 62 (5-25) µmol/L; Amylas 1,05 (0,15-1,1) µkat/L.\n\nNär du möter henne har hon väntat ett par timmar på mottagningen och klockan är 22.30. Hon känner sig i stort sett besvärsfri och vill helst åka hem och vila.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5",
+              "text": "Fråga 2:5 Hur bedömer du situationen och vilken är din handläggning?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Leverpåverkan förklarar sannolikt hennes aktuella problematik; stasvärden. Hon behöver utredas skyndsamt. Rimligen ultraljud under morgondagen. Observation inneliggande, alt i hemmet under natten. Om hon åker hem, instruktion om att söka akut vid försämring, fr a vid feber. Inte fel att utesluta tarmobstruktion med CT först, men gallvägarna behöver utredas under alla omständigheter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Linda har tidigare opererats med gastric bypass och reopererats för inre bråck. Två år senare söker hon på nytt för buksmärta. Smärtan har kommit och gått under två-tre dygn och sitter mest i övre delen av buken. Av och till har hon mått illa och har haft svårt att äta. Status: AT: Opåverkad. Temp 36,9.Cor: Ua, frekvens 85. Pulm auskulteras ua. Buk: Ingen ömhet; ingen peritoneal retning.  PR: ua. Ingen ömhet. Lab: Hb 129 (117-153) g/L; CRP 11 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,7 (3,6-4,6) mmol/L; S-Krea 76 (45-90) µmol/L. ALAT 1,8 (0,15-1,1) µkat/L; ASAT 1,2 (0,25-0,75) µkat/L; ALP 3,1 (0,7-1,9) µkat/L; Bilirubin 62 (5-25) µmol/L; Amylas 1,05 (0,15-1,1) µkat/L.\n\nDu bedömer att det är sannolikt att Lindas patologiska levervärden relaterar till symtombilden och beslutar dig för att starta med utredning av hennes gallvägar. Du erbjuder henne att stanna för observation över natten, men Linda åker hellre hem. Du rekommenderar henne att söka akut under natten vid försämring.\n\nNästa morgon genomgår Linda ultraljud av lever och gallvägar: ”Multipla konkrement i gallblåsan. D. choledochus är vidgad till 12 mm; sannolikt finns ett distalt choledochuskonkrement, men fyndet är osäkert p.g.a. skymmande tarmgas. Gallvägshinder?”.\n\nTrots att Linda fortfarande är opåverkad och smärtfri bedömer du att hon måste läggas in. Du diskuterar situationen med bakjouren och ni gör bedömningen att (pga Lindas tidigare operation är) handläggningen i nästa steg inte är självklar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6",
+              "text": "Fråga 2:6 Vilka möjligheter till handläggning finns i den aktuella situationen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pga patientens anatomi kan en konventionell behandling som inkluderar ERCP på vanligt sätt inte genomföras. Flera alternativ är möjliga: Om patienten är opåverkad kan expektans med MRCP vara ett alternativ. Skulle stenen avgå spontant (levervärdena normaliseras; patienten besvärsfri) kan hon planeras för snar cholecystectomi. Choledochusstenen kan avlägsnas med olika teknik: Stenextraktion via transcystisk teknik (skopi) ERCP via ventrikeln. Under en laparoskopisk operation anläggs en temporär gastrostomi. Genom denna införs endoskopet\n\nERCP via Roux-slyngan Choledochotomi Vanligen adderas cholecystectomi till ovanstående ingrepp."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Linda har tidigare opererats med gastric bypass och reopererats för inre bråck. Två år senare söker hon för buksmärta. Smärtan har kommit och gått under två-tre dygn och sitter i övre delen av buken. Av och till har hon mått illa och har haft svårt att äta. Status: AT: Opåverkad. Temp 36,9.Cor: Ua, frekvens 85. Pulm auskulteras ua. Buk: Ingen ömhet; ingen peritoneal retning.  PR: ua. Ingen ömhet. Lab: Hb 129 (117-153) g/L; CRP 11 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,7 (3,6-4,6) mmol/L; S-Krea 76 (45-90) µmol/L. ALAT 1,8 (0,15-1,1) µkat/L; ASAT 1,2 (0,25-0,75) µkat/L; ALP 3,1 (0,7-1,9) µkat/L; Bilirubin 62 (5-25) µmol/L; Amylas 1,05 (0,15-1,1) µkat/L. Nästa morgon genomgår Linda ultraljud av lever och gallvägar: ”Multipla konkrement i gallblåsan. D. choledochus är vidgad till 12 mm; sannolikt finns ett distalt choledochuskonkrement, men fyndet är något osäkert p.g.a. skymmande tarmgas. Gallvägshinder?”.\n\nDu planerar för operation med målsättningen att avlägsna choledochuskonkrementet, men även gallblåsan. På det sjukhus du arbetar väljer man att planera för laparoskopiskt assisterad ERCP via ventrikeln, med samtidig cholecystectomi.\n\nLindas operation är planerad till nästa dag. Under kvällen före operationen blir du uppringd av sköterskan på avdelningen där Linda vårdas. Linda har plötsligt fått hög feber och mår inte alls bra. När Du kommer till avdelningen har man just genomfört en NEWS (national early warning score)-kontroll: Medvetandegrad: RLS 1; andningsfrekvens: 22/min; syremättnad: 93%; puls: 105/min; systoliskt blodtryck: 95mmHg; Temp: 39,3. Du uppfattar att Linda är lätt slö, men hon förefaller inte smärtpåverkad. Buken är sammanfallen och mjuk, med lätt ömhet i övre delen; du uppfattar ingen peritoneal retning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Fråga 2:7:1 Vilken är din preliminära diagnos? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "cholangit. Känd gallvägsobstruktion, feber och tecken på sepsis."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-7-2",
+              "text": "Fråga 2:7:2 Vilka är dina ordinationer direkt till avdelningssköterskan? För de ordinationer som gäller läkemedel – ange preparat och dosering.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "starta syrgasbehandling, ringeracetat, blododling och start av antibiotikabehandling (t.ex Piperacillin/Tazobaktam 4 g / 0,5 g x3 iv)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Linda har tidigare opererats med gastric bypass. Två år senare söker hon för buksmärta. Smärtan har kommit och gått under två-tre dygn och sitter i övre delen av buken. Hon är opåverkad och afebril. Lab: Hb 129 (117-153) g/L; CRP 11 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,7 (3,6-4,6) mmol/L; S-Krea 76 (45-90) µmol/L. ALAT 1,8 (0,15-1,1) µkat/L; ASAT 1,2 (0,25-0,75) µkat/L; ALP 3,1 (0,7-1,9) µkat/L; Bilirubin 62 (5-25) µmol/L; Amylas 1,05 (0,15-1,1) µkat/L. Ultraljud av lever och gallvägar: ”Multipla konkrement i gallblåsan. D. choledochus är vidgad till 8 mm; sannolikt finns ett distalt choledochuskonkrement, men fyndet är något osäkert p.g.a. skymmande tarmgas. Gallvägshinder?”.\n\nDu planerar för operation med målsättningen att avlägsna choledochuskonkrementet, men även gallblåsan. Preoperativt har Linda har försämrats: Andningsfrekvens: 22/min; puls 105/min; Systoliskt bltr 95mmHg; Temp 39,3. Du uppfattar att Linda är lätt slö men förefaller inte smärtpåverkad. Buken är sammanfallen och mjuk, med lätt ömhet i övre delen; du uppfattar ingen peritoneal retning.\n\nDu bedömer att Linda drabbats av cholangit och ordinerar start av syrgasbehandling, snabb infusion av klar vätska (ringeracetat), blododling följt av antibiotikabehandling. Regelbundna kontroller.\n\nInitialt förbättras Linda, men under senare delen av natten blir den septiska bilden allt mer uttalad och Linda flyttas till IVA.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8",
+              "text": "Fråga 2:8 Du ringer din bakjour och rapporterar patienten enligt SBAR (Situation, Bakgrund, Aktuellt, Rekommendation). Vilken är din rekommendation? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Snar operation med målsättning att dränera gallvägarna.\n\nSvarsförslag till fall 3 – Psykiatri (20 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Fall 3",
+      "points": 20,
+      "intro": "Du är legitimerad underläkare på en psykiatrisk klinik. Du tjänstgör denna kväll på psykiatriska akutmottagningen.\n\nFredrik, en 34 årig-man inkommer med polis till psykiatriska akutmottagningen efter att ha tett sig uppvarvad och varit verbalt hotfull mot andra medpassagerare på en buss. Polisen har rapporterat att han uppfattades som misstänksam och lätt förvirrad under transporten. Det framkommer att patienten är bosatt i en annan region och du har därmed inte tillgång till hans journal.\n\nPatienten pratar något osammanhängande, men han nämner att SÄPO har misshandlat honom. Han vill inte prata om eventuella kontakter med psykiatrin på hemorten. Han kan inte sitta stilla och han är mycket psykomotorisk orolig. Han ter sig rädd, men även agiterad.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Nämn fyra möjliga akuta psykiatriska tillstånd som kan ligga bakom denna symtombild. Motivera varje tillstånd.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(Icke affektivt) Psykotiskt tillstånd, drogutlöst tillstånd, maniskt/affektivt skov, (organiskt, icke drogrelaterat) delirium (0,5 p för varje rätt svar) Akut stressreaktion, depression, utmattningstillstånd räknas som fel svar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilket prov är viktigaste att ta redan under kvällen? Varför?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Drogscreening (0,5p) bör göras på kvällen då en del inte kan fångas nästa dag (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Du bedömer att Fredrik ter sig psykomotoriskt agiterad. Nämn fyra somatiska tillstånd som kan ge denna symtombild (exklusive läkemedelsrelaterade tillstånd)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skalltrauma, Encefalit, Toxiska tillstånd, Metabola störningar, Hyper- /hypoglykemi, Hypoxi, Tyreotoxikos, Epilepsi (0,5 p för varje rätt svar) Infektioner räknas som fel svar med hänsyn till hans ålder."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Du ringer din bakjour som undrar om patienten egentligen är agiterad eller aggressiv. Vad är skillnaden mellan agitation och aggressivitet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Agitation är en excessiv motorisk eller verbal aktivitet utan större fokus eller avsikt dvs det är inte riktat mot någon eller något (låg intentionalitet) medan aggressivitet är provocerat eller oprovocerat beteende med intention att skada någon eller något (intentionalt tillstånd, hög intentionalitet) (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Du är legitimerad underläkare på en psykiatrisk klinik. Du tjänstgör denna kväll på psykiatriska akutmottagningen.\n\nFredrik, en 34 årig-man inkommer med polis till psykiatriska akutmottagningen efter att ha tett sig uppvarvad och varit verbalt hotfull mot andra medpassagerare på en buss. Polisen har rapporterat att han uppfattades som misstänksam och lätt förvirrad under transporten. Det framkommer att patienten är bosatt i en annan region och du har därmed inte tillgång till hans journal.\n\nPatienten pratar något osammanhängande, men han nämner att SÄPO har misshandlat honom. Han vill inte prata om eventuella kontakter med psykiatrin på hemorten. Han kan inte sitta stilla och han är mycket psykomotorisk orolig. Han ter sig rädd, men även agiterad.\n\nDrogscreeningen som togs samma kväll visade positivt resultat för amfetamin. Du bedömer tillståndet som en drogutlöst psykos och utfärdar ett vårdintyg enligt §4 LPT samt fattar kvarhållningsbeslut enligt §6a LPT.\n\nFredrik går runt i väntrummet där andra medpatienter befinner sig. Han ter sig rädd, uppjagad och han blir alltmer högljudd. Han kräver att han blir frisläppt och att säpo- personalen ska sluta låtsas vara besökare på psykiatrikuten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Nämn tre konkreta åtgärder som bör prioriteras för att hantera situationen i väntrummet (exklusive tvångsåtgärder)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Flytta honom eller medpatienter till annat rum (0,5 p); Prioritera (nytt) samtal med honom (0,5 p); Erbjud frivillig (lugnande) medicinering (0,5 p); Eventuellt kalla in extra personal, diskret övervakning.  Närvaro av vaktmästare kan eventuellt förvärra situationen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Sjuksköterskan ber dig om att ta ställning till tvångsåtgärder. Vilka tvångsåtgärder, innan intagningsbeslut har fattats, får du som legitimerad läkare fatta beslut enligt LPT (om det bedöms nödvändigt)?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fastspänning, avskiljande och tvångsbehandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-3",
+              "text": "Du överväger samtidig användning av intramuskulärt olanzapin och bensodiazepiner, men är medveten om att behandlingen kan ha risker. Nämn två risker som finns med denna kombinationsbehandling.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ökad risk för hypotoni, bradykardi och andningsdepression."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-4",
+              "text": "Det framkommer sedan att patienten har avvikit från ett LVM-hem sedan en månad tillbaka. Personalen undrar nu om man kan vårdas både enligt LVM och LPT. Vad ger du för vägledande svar till dem?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "LVM är ¨vilande¨ så länge LPT-vård pågår. Det inte är något hinder att vårda enligt LPT bara för att det finns LVM. Om vårdtiden blir väldigt lång, kan det förekomma att LVM avskrivs men inte för kortare vårdtid."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du är legitimerad underläkare på en psykiatrisk klinik. Du tjänstgör denna kväll på psykiatriska akutmottagningen.\n\nFredrik, en 34 årig-man inkommer med polis till psykiatriska akutmottagningen efter att ha tett sig uppvarvad och varit verbalt hotfull mot andra medpassagerare på en buss. Polisen har rapporterat att han uppfattades som misstänksam och lätt förvirrad under transporten. Det framkommer att patienten är bosatt i en annan region och du har därmed inte tillgång till hans journal.\n\nPatienten pratar något osammanhängande, men han nämner att SÄPO har misshandlat honom. Han vill inte prata om eventuella kontakter med psykiatrin på hemorten. Han kan inte sitta stilla och han är mycket psykomotorisk orolig. Han ter sig rädd, men även agiterad.\n\nFredrik avvek från ett LVM-hem för en månad sedan och vårdas nu på en psykiatrisk avdelning enligt LPT efter att bakjouren fattade intagningsbeslutet. LVM är vilande så länge patienten vårdas enligt LPT. Efter fyra dagar, uppvisar patienten fortsatt ett forcerat talflöde och vanföreställningar, men det är lättare att kommunicera med honom. Han vill däremot inte ge information om sin historia och vill inte att vi kontaktar hans anhöriga.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "En anhörig ringer till avdelningen och berättar att det finns journaluppgifter angående Fredriks psykiska ohälsa på annat sjukhus. Fredrik begär sekretess mot alla och vägrar att ge sitt medgivande till inhämtning av journal från annan vårdgivare. Får du beställa journalkopior utan hans medgivande? Motivera ditt svar (1 p) Drogscreeningen som togs på psykiatriakuten, visade positivt resultat för amfetamin. Fredrik uppger nu att han känner sig ett intensivt drogsug och efterfrågar medicininsättning. Du misstänker att Fredrik börjar visa abstinenssymtom mot amfetamin.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ja. Enligt Lagen om Psykiatrisk Tvångsvård (LPT) ska offentliga verksamheter, såsom offentliga sjukhus och socialtjänst, lämna ut de uppgifter om en patient som behövs för att chefsöverläkarens uppdrag enligt LPT ska kunna fullgöras. För detta behöver chefsöverläkaren inte patientens medgivande. Oftast är det dock lämpligt att ändå informera patienten om att man inhämtar information från andra instanser. (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "Nämn tre vanligt förekommande symptom vid amfetaminabstinens. (1,5p) (bort med frågetecken)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Symtom: dysfori/irritabilitet/aggressivitet; hyperfagi/ökad aptit; Sömnbrist/hypersomni; misstänksamhet/förföljelseidéer; takykardi kan förekomma (1,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-3",
+              "text": "Hur behandlar du amfetaminabstinens?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Abstinensbehandling: Vila och mat; sömnreglering; Benzodiazepiner (ex Diazepam). Neuroleptika kan behövas vid kvarstående paranoia (1,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du är legitimerad underläkare på en psykiatrisk klinik. Du tjänstgör denna kväll på psykiatriska akutmottagningen.\n\nFredrik, en 34 årig-man inkommer med polis till psykiatriska akutmottagningen efter att ha tett sig uppvarvad och varit verbalt hotfull mot andra medpassagerare på en buss. Polisen har rapporterat att han uppfattades som misstänksam och lätt förvirrad under transporten. Det framkommer att patienten är bosatt i en annan region och du har därmed inte tillgång till hans journal.\n\nPatienten pratar något osammanhängande, men han nämner att SÄPO har misshandlat honom. Han vill inte prata om eventuella kontakter med psykiatrin på hemorten. Han kan inte sitta stilla och han är mycket psykomotorisk orolig. Han ter sig rädd, men även agiterad.\n\nFredrik fortsätter vårdas på en psykiatrisk avdelning enligt LPT. Du har beställt journalkopior utan hans medgivande med stöd av LPT. Du har initierat behandling mot amfetaminabstinens i form sömnreglering (Zopiklon), benzodiazepiner (Diazepam) och neuroleptika (Haloperidol). Det framkommer att Fredrik lider av schizofreni och inte tagit sin sedvanliga behandling (Klozapin) sedan han avvek från LVM-hemmet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilken är den vanligaste typen av hallucination som förekommer vid schizofreni?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hörsel/auditiv"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Sjuksköterskan berättar att Fredrik ¨ser saker som inte är där¨ men hen är osäker om det handlar om hallucination eller illusion. Vad är skillnaden mellan hallucination och illusion?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hallucination är en förnimmelse som har samma tydlighet och åskådlighet som ett sinnesintryck men utan att det finns någon yttre motsvarighet till upplevelsen. Illusion är snarare ett misstag i uppfattningen av en befintlig företeelse oftast beroende på otillräcklig information via sinnena eller på förväntningar eller tidigare erfarenheter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-3",
+              "text": "Personer med schizofreni har en förkortad livslängd, minst 12–15 år kortare än för befolkningen i övrigt. Självmord förklarar inte denna sorgliga statistik. Vad är de två vanligaste somatiska orsaker till detta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärt- och kärlsjukdomar men också cancer som i sin tur delvis är orsakad av att sjukdomarna inte diagnosticeras i vården. (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-4",
+              "text": "Dessa somatiska tillstånd kan diagnostiseras och behandlas i god tid. Hur kan vården förebygga denna problematik?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Återkommande undersökningar, förebyggande läkemedelsbehandling och stöd till förändrade levnadsvanor. (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-5",
+              "text": "Du överväger att sätta in klozapin igen. Varför behövs det strikt blodprovsmonitotering under denna behandling?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kan ge allvarlig blodbiverkan i form av granulocytopeni/agranulocytos hos ca 0,5–1 % av patienterna.\n\nSvarsförslag till fall 4 – Internmedicin (20p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Fall 4",
+      "points": 20,
+      "intro": "Du arbetar på medicinakuten en fredagskväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Tolka EKG?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2019-11/page27_img1.jpeg",
+              "facit": [
+                "Förmaksflimmer med laterala ST-sänkningar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilken ytterligare anamnestisk uppgift behövs för att prioritera patienten?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Om patienten inte har bröstsmärta kan hon vänta men om pågående bröstsmärta bör hon prioriteras."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen.\n\nEKG visar snabbt förmaksflimmer (130/min) med laterala ST-sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3).\n\nDu bedömer att hon behöver läggas in.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2",
+              "text": "Hur vill du behandla henne första dygnet och vilken övervakning ordinerar du? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Frekvensreglering med betablockad (digitalis el möjligen isoptin). Inte elkonvertering nu då hon haft symptom mer än 48 h, telemetriövervakning alt täta frekvenskontroller."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3).\n\nDu väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilken diagnos bedömer du som mest sannolik? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lunginflammation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-2",
+              "text": "Vilka prover och undersökningar ordinerar du utifrån din diagnos i 4:3:1? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rtg Pulm, Blod odling sputum el NPH odling, CRP (LPK)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3). Du väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft.\n\nDu ordinerar blod- och sputumodling eller Nasopharynx odling om det inte går att få henne att hosta upp, samt beställer CRP, LPK och en lungröntgen.",
+          "contextImageUrl": "/images/exams/2019-11/page30_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-4",
+              "text": "Hur tolkar du röntgen bilden utifrån hennes kliniska status?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Höger sidigt basalt infiltrat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3). Du väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft. Du ordinerar blod- och sputumodling eller Nasopharynx odling om det inte går att få henne att hosta upp, samt beställer CRP, LPK och en lungröntgen.\n\nLungröntgen visar högersidigt basalt infiltrat, CRP 220 mg/l (<5) och LPK 12 x 10*9/l (3,5-8,8).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5",
+              "text": "Vilken läkemedelsbehandling ordinerar du? Dos och beredningsform? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "T Kåvepenin 1g x 3 alt bensylpc 1g x3. Då hon inkom till sjukhuset med luftvägssymptom bedöms det som samhällsförvärvat. Om bredare antibiotika ges 1 p om motivering att det är vårdrelaterat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3). Du väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft. Du ordinerar blod- och sputumodling eller Nasopharynx odling om det inte går att få henne att hosta upp, samt beställer CRP, LPK och en lungröntgen. Lungröntgen visar högersidigt basalt infiltrat, CRP 220 mg/l (<5) och LPK 12 x 10*9/l (3,5-8,8).\n\nDå hon är helt kapabel att svälja och cirkulatoriskt stabil väljer du att behandla med t Kåvepenin 1g x 3. Efter ytterligare två dygn är hon feberfri och flimmerfrekvensen acceptabel på t Metoprolol 50 mg x 1. Du har fått svar ytterligare prover som tagits: S-T4 21pmol/L (12-22) och S-TSH 1,2 mlU/L (0,3-4,2) Under vårdtiden har du övervägt att sätta in henne på anti-koagulation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6",
+              "text": "Beskriv hur gör du detta övervägande generellt hos patienter med förmaksflimmer och vad du kommer fram till för denna specifika patient? Motivera?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "På CHA2DS2-VASC skalan får hon 3 poäng utifrån hypertoni,  ålder och kön och därmed har hon indikation för antikoagulation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3). Du väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft. Du ordinerar blod- och sputumodling eller Nasopharynx odling om det inte går att få henne att hosta upp, samt beställer CRP, LPK och en lungröntgen. Lungröntgen visar högersidigt basalt infiltrat, CRP 220 mg/l (<5) och LPK 12 x 10*9/l (3,5-8,8). Då hon är helt kapabel att svälja och cirkulatoriskt stabil väljer du att behandla med t Kåvepenin 1g x 3. Efter ytterligare två dygn är hon feberfri och flimmerfrekvensen acceptabel på t Metoprolol 50 mg x 1. Du har fått svar ytterligare prover som tagits: S-T4 21pmol/L (12-22) och S-TSH 1,2 mlU/L (0,3-4,2). Under vårdtiden har du övervägt att sätta in henne på anti-koagulation.\n\nUtifrån de data du har får hon 3 poäng på CHA2DS2-VASC skalan och har därmed indikation för antikoagulation. Hon har inga kontraindikationer mot sådan behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7",
+              "text": "Vilka preparat har du att välja mellan och vad har de för olika verkningsmekanismer? Vilket väljer du hos denna patient? Motivera",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Trombinhämmare ex Dabigatran är en direkt trombinhämmare, Faktor Xa hämmare ex Apixaban ger en selektiv direkt faktor Xa hämning, Anti Vitamin K ex Warfarin hämmar omvandlingen av Vitamin K som hämmar aktiveringen av K-vitamin beroende koagulationsfaktorer. Du väljer något av de två första då Waran numera är andrahandspreparat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3). Du väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft. Du ordinerar blod- och sputumodling eller Nasopharynx odling om det inte går att få henne att hosta upp, samt beställer CRP, LPK och en lungröntgen. Lungröntgen visar högersidigt basalt infiltrat, CRP 220 mg/l (<5) och LPK 12 x 10*9/l (3,5-8,8). Då hon är helt kapabel att svälja och cirkulatoriskt stabil väljer du att behandla med t Kåvepenin 1g x 3. Efter ytterligare två dygn är hon feberfri och flimmerfrekvensen acceptabel på t Metoprolol 50 mg x 1. Du har fått svar ytterligare prover som tagits: S-T4 21pmol/L (12-22) och S-TSH 1,2 mlU/L (0,3-4,2). Under vårdtiden har du övervägt att sätta in henne på anti-koagulation. Utifrån de data du har får hon 3 poäng på CHA2DS2-VASC skalan och har därmed indikation för antikoagulation. Hon har inga kontraindikationer mot sådan behandling.\n\nDu väljer att sätta in henne på Apixaban 5 mg x 2 efter noggrann information. Vid utskrivningen frågar patienten om det finns något ytterligare att göra åt flimret då hon tycker det är obehagligt att hjärtat slår oregelbundet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8",
+              "text": "Vad finns det för behandlingar som syftar till att återfå sinusrytm hos patienter med persisterande förmaksflimmer? Ange minst två och vilken du bedömer rimligast i detta fall? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elkonvertering rimligaste alternativ vid persisterande förstagångsflimmer, Andrahandsalternativ är rytmreglerande medicin som dronedaron el amiodaron. Vid återkommande högsymptomatiska flimmer kan invasiv elektrofysiologisk behandling övervägas alt HIS-ablation och pacemaker. Farmakologisk konvertering med Vernakalant är inte aktuellt annat än i akutsituationer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Du arbetar på medicinakuten en fredags kväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen. EKG visar snabbt förmaksflimmer (130/min) med laterala ST- sänkningar. Då patienten förnekar bröstsmärta bedömer du att andra patienter har högre prioritet. När du efter ett tag kommer in till henne ser du en ganska opåverkad kvinna. Hon bekräftar anamnesen från anteckningen ovan. Hon berättar att hon har tablettbehandlad hypertoni (Losartan 50 mg x 1) men i övrigt varit frisk. Hon har känt av hjärtklappning sista veckan men anledningen att hon sökt är att hon mår så dåligt pga andnöd och hosta. Vid kroppsundersökning finner du inga underbensödem, Hjärta: oregelbunden rytm 120/min, Lungor: Inga biljud. Du har fått svar på prover: Hb 138 g/l (117-153), P-Na 144 mmol/l (137-145), P-K 3,8 mmol/l (3,6-4,6), P-Kreatinin 78 umol/l (45-90), P-glu 5,7 mmol/l (4,2-6,3). Du väljer att lägga in patienten på avdelning med telemetri övervakning. Du sätter in betablockad som frekvensreglering och morgonen efter är hjärtfrekvensen 80/min och du överväger att hon skall få gå hem och följas upp polikliniskt men innan du har haft utskrivningssamtal kommer sköterskan och meddelar att hon blivit sämre: Hon har fått hög feber, är andfådd och pulsen har gått upp. Du går in och undersöker henne och finner förutom ovanstående att hon är klar men febril och trött.  Du gör kroppsundersökning och finner krepitationer basalt hö vid lungauskultation. Blodtryck 140/80mm Hg, hjärtfrekvens 110 slag/min och syrgasmättnad 92% på luft. Du ordinerar blod- och sputumodling eller Nasopharynx odling om det inte går att få henne att hosta upp, samt beställer CRP, LPK och en lungröntgen. Lungröntgen visar högersidigt basalt infiltrat, CRP 220 mg/l (<5) och LPK 12 x 10*9/l (3,5-8,8). Då hon är helt kapabel att svälja och cirkulatoriskt stabil väljer du att behandla med t Kåvepenin 1g x 3. Efter ytterligare två dygn är hon feberfri och flimmerfrekvensen acceptabel på t Metoprolol 50 mg x 1. Du har fått svar ytterligare prover som tagits: S-T4 21pmol/L (12-22) och S-TSH 1,2 mlU/L (0,3-4,2). Under vårdtiden har du övervägt att sätta in henne på anti-koagulation. Utifrån de data du har får hon 3 poäng på CHA2DS2-VASC skalan och har därmed indikation för antikoagulation. Hon har inga kontraindikationer mot sådan behandling. Du väljer att sätta in henne på Apixaban 5 mg x 2 efter noggrann information. Vid utskrivningen frågar patienten om det finns något ytterligare att göra åt flimret då hon tycker det är obehagligt att hjärtat slår oregelbundet.\n\nDu planerar att göra en elkonvertering polikliniskt tidigast efter 4 veckors behandling med antikoagulation. Då du en månad senare skall elkonvertera henne har hon gjort ultraljud av hjärtat som visar god vänsterkammarfunktion och lätt förstorade förmak.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Hur stor bedömer du sannolikheten att denna patienten skall återfå sinusrytm vid elkonvertering? Motivera?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ganska stor 70-90% utifrån fynd på UCG och inte alltför lång duration."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-9-2",
+              "text": "Beskriv hur elkonverteringen går till?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fastande sövd patient. och man ger en synkroniserad bifasisk elstöt (100-200J initialt) med anterioposterior alt anterolateral elektodplacering."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

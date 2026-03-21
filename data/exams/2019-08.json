@@ -1,0 +1,1061 @@
+{
+  "id": "2019-08",
+  "title": "AT-prov augusti 2019",
+  "date": "2019-08-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Fall 1",
+      "points": 20,
+      "intro": "Page 2 of 44 FALL 1\n\nAzra, 60 år, inkommer i sällskap av anhöriga till akutmottagningen pga hög feber. Azra är från Syrien och är frisk i övrigt frånsett blodtrycksbehandling med enalapril. Hon pratar god svenska men känner sig dåsig, trött och har svårt att stå på benen. Hon är högfebril med uppmätt örontemp 40,3 °C.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilka 3 initiala åtgärder vidtar du i detta fall på akuten och i vilken ordning?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Initiala åtgärder vid handläggning av allmänpåverkad patient med medvetandegrumling och feber: a) Snabb klinisk värdering, nackstyv, hudkostym (täckets test, sår/petechier/septiska embolier, erysipelas) b) Handläggning enligt ABCDE, kontrollerar fri luftväg, andning (frekvens och saturation), cirkulation (puls, blodtryck, EKG, blodgas). ABCDEFG = ABC don’t ever forget glucose ssk viktigt på patienter med nedsatt vakenhetsgrad c) Först Blododling + rundodling + (ev Lumbalpunktion om nackstelhet eller andra tecken på meningit) sedan antibiotika enligt STRAMA d) Initial diagnostik; vitala parametrar (puls, blodtryck, saturation, medvetandegrad) och laboriatorieprover (Hb, EPK, LPK, Trombocyter, CRP, bilirubin, ASAT, ALAT, INR, APTT, kreatinin, Na, K, Laktat) bedöms i kombination med anamnes och övriga symtom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Feber i allmänhet kan orsakas av olika typer av åkommor. Nämn, förutom infektion, 4 olika orsaker till feber. De 4 första svaren kommer att beaktas",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Orsaker till feber:  Icke infektiösa inflammationer t ex autoimmuna sjukdomar, sarkoidos m fl  Maligniteter tex lymfom, leukemier, renalt adedocarcinom, myelom, ovarialcancer, lungcancer m fl)  Läkemedel tex ARB, ACEI; Fenytoin, Lamotrigin, Rifampicin m fl)  Endokrina sjukdomar (hyperthyreos)  Tromboembolisk sjukdom och cerebrovaskulär lesion  Faktitia  Post myocard infarkt syndrom  Malign hypertermi  Överhettning tex bastubad, extrem hetta, starkt fysisk ansträngning under längre tid  Hyper IGD  Medelhavsfeber"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Page 3 of 44 Azra, 60 år, inkommer i sällskap av anhöriga till akutmottagningen pga hög feber. Azra är från Syrien och är frisk i övrigt frånsett blodtrycksbehandling med enalapril. Hon pratar god svenska men känner sig dåsig, trött och har svårt att stå på benen. Hon är högfebril med uppmätt örontemp 40,3 °C. Med tanke på allmänpåverkad patient med medvetandegrumling säkerställer du initialt vitalparametrar enligt ABC (luftväg, andning och cirkulation) klinisk bedömning med kontroll av neurologstatus inklusive nackstelhet. Infektion med hög feber kan ge organpåverkan vilket kräver en adekvat handläggning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vad kallas infektionsutlöst organsvikt och hur definieras detta tillstånd?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sepsis ett tillstånd med livshotande organdysfunktion som orsakas av ett stört systemiskt svar (dysregulated host response) på infektion. Alt Sepsis är ett tillstånd av livshotande organdysfunktion som orsakas av stört systemiskt svar (dysregulated host response) på infektion. (definitioner enligt internationell klassifikation Sepsis-3)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Page 4 of 44 Azra, 60 år, inkommer i sällskap av anhöriga till akutmottagningen pga hög feber. Azra är från Syrien och är frisk i övrigt frånsett blodtrycksbehandling med enalapril. Hon pratar god svenska men känner sig dåsig, trött och har svårt att stå på benen. Hon är högfebril med uppmätt örontemp 40,3 °C. Med tanke på allmänpåverkad patient med medvetande grumling säkerställer du initialt vitalparametrar enligt ABC (luftväg, andning och cirkulation) du gör klinisk bedömning med kontroll av neurologstatus inklusive nackstelhet. Du misstänker sepsis.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Hur ska en patient med sepsis monitoreras?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontinuerlig klinisk bedömning enligt NEWS 2 ( SOFA ger också rätt) för att bedöma grad av systempåverkan genom att utgå från symtom i kombination med vitala parametrar; puls, blodtryck, andningsfrekvens, saturation, medvetandegrad (RLS/GCS/AVPU), temp och timdiures (den senare ingår dock ej i NEWS 2)), och förändringar i laboriatorieprover (TPK, APTT INR för att monitorera för DIC, blodgas och laktat för att monitorera behandlingseffekten, vidare eGFR (kreatinin) och ASAT, ALAT. Ref för NEWS 2: https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Page 5 of 44 Azra, 60 år, inkommer i sällskap av anhöriga till akutmottagningen pga hög feber. Azra är från Syrien och är frisk i övrigt frånsett blodtrycksbehandling med enalapril. Hon pratar god svenska men känner sig dåsig, trött och har svårt att stå på benen. Hon är högfebril med uppmätt örontemp 40,3 °C. Med tanke på allmänpåverkad patient med medvetande grumling säkerställer du initialt vitalparametrar enligt ABC (luftväg, andning och cirkulation) du gör klinisk bedömning med kontroll av neurologstatus inklusive nackstelhet. Du misstänker sepsis. Du gör en klinisk bedömning av nackstyvhet, hudkostym, medvetandegrad. Du handlägger endlig ABCDE. Du ordinerar en rundodling och antibiotika enligt för sepsis utan känt agens. Du ordinerar provtagning med Hb, EPK, LPK, Trombocyter, CRP, bilirubin, ASAT, ALAT, INR, APTT, kreatinin, Na, K, Laktat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vilken behandling ordinerar du initialt förutom antibiotika?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandling med; 1. Syrgas 2. Intravenös vätskebehandling med Ringer lösning\n\nSnabbt (inom en timme från ankomst till akutmottagning vid misstanke om sepsis) skall det ges syrgasbehandling, antibiotikabehandling, vätsketerapi (kristalloid vätska tex Ringer, inte NaCl pga risk för acidos mm), regelbunden övervakning (puls, blodtryck, medvetandegrad, saturation, timdiures, temp) och i de allvarligaste fallen organstödjande behandling, i första hand noradrenalin (vasopressor) given på intensivvårdsavdelning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Vilka är de två vanligaste agens som orsakar samhällsförvärvad sepsis? Vilka infektionsfokus är de två dominerande för patienter som inkommer till en medicinsk akutmottagning?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Orsaker till sepsis Vid samhällsförvärvad sepsis är Escherichia coli och Staphylococcus aureus vanligaste agens.\n\nVanligaste infektionsfokus för patienter som inkommer via medicinsk akutmottagning är i fallande ordning: lunga, urinvägar och buk samt hud och mjukdelar. Okänt fokus är också vanligt förekommande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Page 6 of 44 Azra, 60 år, inkommer i sällskap av anhöriga till akutmottagningen pga hög feber. Azra är från Syrien och är frisk i övrigt frånsett blodtrycksbehandling med enalapril. Hon pratar god svenska men känner sig dåsig, trött och har svårt att stå på benen. Hon är högfebril med uppmätt örontemp 40,3 °C. Med tanke på allmänpåverkad patient med medvetande grumling säkerställer du initialt vitalparametrar enligt ABC (luftväg, andning och cirkulation) du gör klinisk bedömning med kontroll av neurologstatus inklusive nackstelhet. Du misstänker sepsis.\n\nDu bedömer att patienten uppfyller kriterierna för en samhällsförvärvad sepsis (dock ej nackstyv eller andra kliniska tecken på meningit). Du inleder behandling med syrgas, och monitorerar patientens njurfunktion (timdiures, kreatinin), andningsfunktion (andningsfrekvens och saturation) koagulationsstatus (trombocyter, INR, APTT), CNS-funktion med medvetandegrad och leverfunktion med S-bilirubin inklusive laktat.\n\nEfter att ha tagit blododling, urinodling och luftvägsodling, eventuellt sårodling, ordinerar du antibiotika.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Ge exempel på ytterligare anamnestiska, kliniska och epidemiologiska data som bör inhämtas innan du startar antibiotikabehandling? De fyra första kommer att beaktas",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                " Allergi/ överkänslighet för antibiotika?  Nedsatt immunförsvar? Enligt tidigare anteckningar är hon väsentligen frisk  Resa nyligen? Till land med annat epidemiologiskt läge  Vårdad inneliggande på sjukhus nyligen?  Sår eller hudförändring? Klinisk undersökning viktig! Inspektera hela hudkostymen och munhåla. Tecken på erysipelas, peteckier, septiska embolier?  Besvär fr luftvägar? Hosta andnöd  Urinvägsbesvär?  Diarré, kräkningar, illamående?  Andra i omgivningen med samma symtom?  Influensa symptom? Hosta, muskelvärk om säsong för influensa  Tandproblem  Proteser"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Behandling påbörjas enligt STRAMAS riktlinjer för sepsis av oklar genes. Vad är STRAMA och vad är syftet?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "STRAMA-Samverkan mot antibiotikaresistens, patientens rätt till bästa infektionsbehandling i en sjukvård som motverkar antibiotikaresistens. STRAMA är en del av kunskapsstyrningen inom SKL och har som uppdrag att tillse att vården har tillgång till behandlingsrekommendationer för både öppen- och slutenvården."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Page 7 of 44 Azra, 60 år, inkommer i sällskap av anhöriga till akutmottagningen pga hög feber. Azra är från Syrien och är frisk i övrigt frånsett blodtrycksbehandling med enalapril. Hon pratar god svenska men känner sig dåsig, trött och har svårt att stå på benen. Hon är högfebril med uppmätt örontemp 40,3 °C. Med tanke på allmänpåverkad patient med medvetande grumling säkerställer du initialt vitalparametrar enligt ABC (luftväg, andning och cirkulation) du gör klinisk bedömning med kontroll av neurologstatus inklusive nackstelhet.\n\nDu bedömer att patienten uppfyller kriterierna för en samhällsförvärvad sepsis (dock ej nackstyv eller andra kliniska tecken på meningit). Du inleder behandling med syrgas, och monitorerar patientens enligt NEWS 2 med njurfunktion (timdiures, kreatinin), andningsfunktion (andningsfrekvens och saturation) koagulationsstatus (trombocyter, INR, APTT), CNS-funktion med medvetandegrad och leverfunktion med S-bilirubin inklusive laktat och gärna även blodgas analyser.\n\nDu inhämtar epidemiologiska data vad gäller nyligen genomförd resa, sjukdomssymtom hos anhöriga mm. Du frågar om eventuella lokala infektionssymtom (hosta, besvär från urinvägar, diarré, lokal smärta, tandproblem mm).\n\nPatienten beskriver endast ospecifika symtom som feber, frysningar, huvudvärk, muskel- och ledvärk men inga tydliga fokalsymtom. Efter din kliniska undersökning kvarstår din bedömning att patienten har en sepsis.\n\nDu beställer en lungröntgen men avvaktar inte svar från denna. Aktuella labprover visar, CRP 243 mg/L, LPK 14,9 x 109/L, Hb 103 g/L, Kreatinin 115 umol/L, Trombocyter 67 x 109/L. Saturationen är 89% (utan syrgas).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilken antibiotikabehandling rekommenderas vid empirisk behandling av patient med septisk chock med okänt infektionsfokus?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rekommenderas kombinationsbehandling med betalaktamantibiotika med brett spektrum och aminoglykosid vid manifest septisk chock, vid sepsis där det finns risk att septisk chock utvecklas och vid misstanke om sepsis orsakad av multiresistent gramnegativ bakterie.\n\nVid samhällsförvärvad sepsis av helt okänd etiologi inled med aminoglykosid intravenöst, t ex tobramycin (Nebcina) eller gensumycin (Gensomycin) 5-7 mg/kg x 1 (därefter anpassas till njurfunktion). Vid uppenbart fokus från luftvägar eller mjukdelar har aminoglykosider oftast begränsad effekt och mer riktad behandling bör ges.\n\nKombinera aminoglykosiden med intravenöst cefotaxim (Claforan) 2 g x 3 eller piperacillin/tazobactam(Tazocin) 4 g x 4.Bensylpencillin3 g x 3-4 i kombination med aminoglykosid ger också en bred antibakteriell effekt vid samhällsförvärvad oklar\n\nsepsis och förordas på många infektionskliniker att användas i rutinfall för att minska risk för uppkomst och spridning av resistenta bakterier (ESBL). Om misstanke på anaerob- eller blandinfektion (tex abdominellt fokus), ge intravenöst meropenem (Meronem) alt imipenem/cilastatin (Tienam) 1 g x 3-4 altpiperacillin/tazobactam (Tazocin) 4 g x 4 tillsammans med aminoglykosid.\n\nFör rätt svar behövs ej exakt dosering anges."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Vid sepsis ges ofta en så kallad laddningsdos av antibiotika, varför gör man det? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "På grund av ökad distributionsvolym och vävnadshypoperfusion vid septisk chock och dess förstadier krävs höga laddningsdoser av antibiotika för att uppnå tillräckliga vävnadskoncentrationer. För betalaktamantibiotika ska MIC (minsta antibiotikakoncentration som förhindrar bakterietillväxt) överstiga en tillräckligt stor del av dosintervallet, varför upprepade administrationstillfällen under dygnet krävs. Utifrån detta rekommenderas en extra dos betalaktamantibiotika efter halva dosintervallet mellan första och andra ordinarie dosen. Fortsatta doser styrs av njurfunktionsvärdet (eGFR)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-3",
+              "text": "Vid sepsisbehandling bör man även ge vätskebehandling. Vilken vätska bör ges och varför? Vilken mängd bör ordineras? Motivera!",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Intensiv vätskebehandling skall ges med blodisotona kristalloida lösningar. Ge snabbt en bolus, 300-500 ml Ringer-Acetat, kan upprepas. Om inte patienter svarar med stigande blodtryck på infusion med 2000 ml kristalloid första timmen rek IVA-vård. Kolloida lösningar i akutskedet är felaktigt svar. Infusion av isoton natriumklorid (NaCl) bör undvikas då risk föreligger för hyperkloremisk acidos och ökad risk för njursvikt samt denna behandling även associerat med ökad mortalitet.\n\nInitialt hög infusionstakt, sträva efter en timdiures på 1 ml/kg/tim"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-4",
+              "text": "Det framkommer senare att patienten nyligen varit på besök i hemlandet och bl a ätit opastöriserad ost. Vilken viktig anamnestisk uppgift skriver du med anledning av detta på blododlingsremissen och varför?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Misstänkt Brucella/Brucellos/Undulantfeber Risk för labsmitta. Behov av förlängd odlingstid.\n\nEPILOG\n\nAzra hade en brucellos (Brucella melitensis) och fick kombinationsbehandling med doxycyklin i 6 veckor samt aminoglykosid under de två första veckorna. Nyckeln till korrekt diagnos i Sverige är en noggrann reseanamnes om vistelse i brucella-endemiska länder och livsmedelsanamnes. Brucellos hos människa är anmälningspliktig enligt smittskyddslagen.\n\nObs! Ange alltid på odlingsremissen \"misstanke brucellos” då arbete med brucellabakterier från odlingsmedium utan adekvata säkerhetsåtgärder innebär en stor risk för smitta till laboratoriepersonal, samt för att säkerställa förlängd odlingstid.\n\nAntibiotikabehandling skall ges med kombinationsbehandling och under längre tid (veckor-månader). Generellt är utläkningen god vid adekvat antibiotikabehandling, särskilt vid tidig diagnos. Trots adekvat antibiotikabehandling ses infektionsrecidiv i 3-10% av fallen, oftast inom ett år efter den initiala infektionen. Ju senare i förloppet behandlingen inleds, desto större risk för recidiv. Mortalitet 2 %, oftast vid endokardit.\n\nSvarsförslag till fall 2 – psykiatri (20 p)\n\nUnder din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning. Carl berättar att han mådde bättre en period efter utskrivningen men mår nu sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Fall 2",
+      "points": 20,
+      "intro": "Page 9 of 44 FALL 2\n\nUnder din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår nu sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka fyra frågor är relevanta att ställa till Carl om det senaste året för att kunna ställa rätt psykiatrisk diagnos?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hade han tecken på hypomani när han mådde bättre? Har han tecken på depression? Har han ångest hela tiden i stort sett eller är det mer kopplat till platser eller människor? Har han panikångestattacker? Överkonsumerar han alkohol eller använder droger? Något som hänt som påverkat honom kraftigt? Har han psykotiska symtom? Tankar/planer på suicid? (2 rätt = 0,5 p, max 1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Nämn fyra rimliga psykiatriska differentialdiagnoser.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Unipolär depression, bipolär depression, Social fobi, Generaliserat ångestsyndrom GAD, Substansmissbruk, Paniksyndrom. Blandat ångest- och depressionstillstånd. (2 rätt = 0,5 p, max 1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-3",
+              "text": "Nämn två blodprover du vill ha svar på för att utesluta somatisk differentialdiagnos. Motivera val av analyser.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb – anemi. S-TSH och S-FT4 (S-FT3) – hypotyreos, hypertyreos. Kalcium -psykiska besvär som depression, oro och ångest? B12 – brist kan leda till psykiska besvär. D- vitamin – brist kan leda till depressiva besvär/ångest. (0,5 p per svar med motivering, max 1 p)\n\nEfter utskrivningen hade Carl en fin period utan ångest och utan tecken på uppvarvning. Han tycker inte att han är nedstämd nu utan det största besväret är ångesten. Han förnekar panikattacker, och tycker inte heller att ångesten är knuten till speciella platser och situationer. Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du\n\nbedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Page 10 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång.\n\nEfter utskrivningen hade Carl en fin period utan ångest och utan tecken på uppvarvning. Han tycker inte att han är nedstämd nu utan det största besväret är ångesten. Han förnekar panikattacker, och tycker inte heller att ångesten är knuten till speciella platser och situationer. Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilka två evidensbaserade icke-farmakologiska behandlingar vill du föreslå Carl?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Psykoedukation som sömnskola, ångestskola. KBT - Kognitiv beteendeterapi för ångest, sömn. Behandling mot ev. missbruk. Regelbunden pulshöjande träning/FAR. (0,5 p per svar, max 1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilka ytterligare prover vill du ta på Carl inför en planering av fortsatt långtidssjukskrivning? Motivera varför.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alkoholmarkörer och drogscreening. Ökad risk för missbruk i samband med ångestsjukdom och i samband med långtidssjukskrivning. (0,5 p per svar, max 1 p)\n\nInför planeringen för fortsatt sjukskrivning så vill du ta nya alkoholparametrar och drogscreening i urin. Carl blir orolig och berättar att han ibland använder cannabis för att dämpa sin ångest. Sista urinprovet har varit negativt och blodproverna CDT (kolhydratfattigt transferrin) = 1,8 (referensintervall < 2,0 %) och B-PEth (fosfatidyletanol i blod) = 0,56 (referensintervall B-PEth 16:0/18:1: < 0,05 µmol/L. Ingen eller låg konsumtion, 0,05-0,30 µmol/L. Måttlig konsumtion, > 0,30 µmol/L. Överkonsumtion)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Page 11 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning. Carl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång. Han tycker inte att han är nedstämd nu utan det största besväret är ångesten. Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nInför planeringen för fortsatt sjukskrivning så vill du ta nya alkoholparametrar och drogscreening i urin. Carl blir orolig och berättar att han ibland använder cannabis för att dämpa sin ångest. Sista urinprovet har varit negativt och blodproverna CDT (kolhydratfattigt transferrin) = 1,8 (referensintervall < 2,0 %) och B-PEth (fosfatidyletanol i blod) = 0,56 (referensintervall B-PEth 16:0/18:1: < 0,05 µmol/L. Ingen eller låg konsumtion, 0,05-0,30 µmol/L. Måttlig konsumtion, > 0,30 µmol/L. Överkonsumtion).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Hur tolkar du Carls blodprover? Förklara två skillnader mellan CDT och B-PEth som påverkar tolkningen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Carl har överkonsumerat alkohol sista veckorna innan sista provtagningen. B-PEth ger bara utslag på konsumerad alkohol och är mer känslig än CDT.  B-PEth har kortare halveringstid än CDT och kan därför ge utslag även om CDT inte gör det. (0,5 p per svar, max 1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Hur tänker du om fortsatt sjukskrivning och hur motiverar du det för Carl?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Användning av Cannabis och överkonsumtion av alkohol försämrar Carls ångestsjukdom och minskar möjligheterna att återgå till arbete. Rekommenderas avstå. Om Carls aktuella prover visar överkonsumtion av alkohol får Carl enbart sjukskrivning en månad i taget efter att ha lämnat prover som är under överkonsumtion. Det är osäkert om man fångar mer sporadiskt cannabisbruk med drogscreening. Deltidssjukskrivning och arbetsrehabilitering. (0,5 p per svar, max 1 p)\n\nAnvändning av Cannabis och överkonsumtion av alkohol försämrar Carls ångestsjukdom och minskar möjligheterna att återgå till arbete. För fortsatt sjukskrivning behöver Carl vara drogfri och avhålla sig från överkonsumtion av alkohol. Om Carls aktuella blodprover tyder på överkonsumtion kommer du sjukskriva Carl en månad i taget efter att han lämnat prover. Du förklarar för Carl att det är viktigt att han kommer igång med arbetsrehabilitering. Carl är arbetssökande. Han får kraftig ångest när han tänker på att söka arbete. Han har varit sjukskriven i över ett års tid."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Page 12 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång. Han tycker inte att han är nedstämd nu utan det största besväret är ångesten. Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nInför planeringen för fortsatt sjukskrivning så vill du ta nya alkoholparametrar och drogscreening i urin. Carl blir orolig och berättar att han ibland använder cannabis för att dämpa sin ångest. Hans senaste blodprover tyder på överkonsumtion av alkohol.\n\nAnvändning av Cannabis och överkonsumtion av alkohol försämrar Carls ångestsjukdom och minskar möjligheterna att återgå till arbete. För fortsatt sjukskrivning behöver Carl vara drogfri och avhålla sig från överkonsumtion av alkohol. Om Carls aktuella blodprover tyder på överkonsumtion kommer du sjukskriva Carl en månad i taget efter att han lämnat prover. Du förklarar för Carl att det är viktigt att han kommer igång med arbetsrehabilitering. Carl är arbetssökande. Han får kraftig ångest när han tänker på att söka arbete. Han har varit sjukskriven i över ett års tid.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Hur fyller du i sjukintyget för att starta arbetsrehabiliteringen för Carl? Carl undrar hur den går till och om det finns något extrastöd att få, förklara kortfattat.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ger impulsen till försäkringskassehandläggaren i sjukintyget att han bedöms kunna börja arbetsrehabilitera. Arbetsrehabilitering brukar ske under initial heltidssjukskrivning med praktik, där man successivt tränar upp struktur, tid och uthållighet. Om han behöver ytterligare hjälp så kan han få extra coaching från olika lokala insatser kopplade till arbetsförmedlingen. (0,5 p per svar, max 1 p)\n\nDu berättar för Carl att i sjukintyget ges impulsen till försäkringskassehandläggaren att arbetsrehabilitera bör starta. Arbetsrehabilitering brukar ske under initial heltidssjukskrivning med praktik, där man successivt tränar upp struktur, tid och uthållighet. Om han behöver ytterligare hjälp så kan han få extra coaching från olika lokala insatser kopplade till arbetsförmedlingen.\n\nCarl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde det. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Den hjälpte så bra mot ångesten och han fick sova gott då."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Page 13 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång. Han tycker inte att han är nedstämd nu utan det största besväret är ångesten. Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nInför planeringen för fortsatt sjukskrivning så framkommer att Carl ibland använder cannabis för att dämpa sin ångest. Hans senaste blodprover tyder på överkonsumtion av alkohol. Du förklarar för Carl att det är viktigt att han kommer igång med arbetsrehabilitering. Carl är arbetssökande. Han får kraftig ångest när han tänker på att söka arbete. Han har varit sjukskriven i över ett års tid.\n\nDu berättar för Carl att i sjukintyget ges impulsen till försäkringskassehandläggaren att arbetsrehabilitera bör starta. Arbetsrehabilitering brukar ske under initial heltidssjukskrivning med praktik, där man successivt tränar upp struktur, tid och uthållighet. Om han behöver ytterligare hjälp så kan han få extra coaching från olika lokala insatser kopplade till arbetsförmedlingen.\n\nCarl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde det. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Den hjälpte så bra mot ångesten och han fick sova gott då.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vad svarar du Carl och hur motiverar du ditt svar?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej, Oxascand är ett beroendeframkallande läkemedel som ger en utmärkt kortvarig ångestlindrig, ex vid inläggning på avdelning. I längden leder denna behandling dock till toleransutveckling och kan även ge abstinens, ökad ångest och behov av högre doser. (0,5 p per svar, max 1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Vilka fyra frågor vill du ställa för att adekvat kunna bedöma suicidrisken.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tidigare självmordstankar, planer och försök? Aktuella självsmordstankar/ planer/ förberedelser? Ärftlighet för suicid? Tillgång till läkemedel/vapen? Pågående missbruk och/eller brist på impulskontroll? Nätverk och skyddsfaktorer? Om det utlöstes av någon speciell händelse? (0,5 p per svar, max 2 p)\n\nDu svarar nekande och förklarar för Carl att Oxascand är ett vanebildande läkemedel och att den i längden till och med försämrar ångest. Carl berättar att han aldrig tidigare gjort något självmordsförsök, och att det inte finns några självmord i släkten. Han har god kontakt med sin mamma och sina systrar och han vill leva för deras skull. Han förnekar att det hänt någon speciellt negativ händelse innan och han förnekar aktuella suicidtankar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Page 14 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest och obehag inför att göra saker och att träffa människor. Det blir att han isolerar sig i hemmet, vänder på dygnet och slarvar med maten. Han har lite energi och det är svårt att komma igång. Han tycker inte att han är nedstämd nu utan det största besväret är ångesten. Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nInför planeringen för fortsatt sjukskrivning så framkommer att Carl ibland använder cannabis för att dämpa sin ångest. Hans senaste blodprover tyder på överkonsumtion av alkohol. Du förklarar för Carl att det är viktigt att han kommer igång med arbetsrehabilitering. Han får kraftig ångest när han tänker på att söka arbete. Han har varit sjukskriven i över ett års tid.  Carl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde den. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Den hjälpte så bra mot ångesten och han fick sova gott då.\n\nDu svarar nekande och förklarar för Carl att Oxascand är ett vanebildande läkemedel och att den i längden till och med försämrar ångest. Carl berättar att han aldrig tidigare gjort något självmordsförsök, och att det inte finns några självmord i släkten. Han har god kontakt med sin mamma och sina systrar och han vill leva för deras skull. Han förnekar att det hänt någon speciellt negativ händelse innan och han förnekar aktuella suicidtankar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Hur bedömer du suicidrisken? På vilken vårdnivå vill du fortsätta handlägga Carl?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Suicidrisken bedöms inte vara hög. Slutenvård behövs inte. Rekommenderar fortsatt uppföljning och vård inom öppenvårdspsykiatrin pga suicidtankarna i kombination med GAD, tidigare djup depression och alkoholöverkonsumtion. (0,5 p per svar, max 1 p)\n\nDu och Carl resonerar om att han inte behöver någon inläggning utan att det kan gå bra med behandling i öppenvården. Han är hjälpsökande och förnekar trovärdigt att han ska göra sig något. Han plågas av sin ångest och undrar ifall det finns några andra läkemedel som skulle kunna hjälpa honom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Page 15 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning. Carl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest, isolerar sig, vänder på dygnet och slarvar med maten. Han har svårt att komma igång, energibrist och han känner sig inte nedstämd.  Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nInför planeringen för fortsatt sjukskrivning så framkommer att Carl ibland använder cannabis för att dämpa sin ångest. Hans senaste blodprover tyder på överkonsumtion av alkohol. Carl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde den. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Den hjälpte så bra mot ångesten och han fick sova gott då. Du svarar nekande och förklarar för Carl att Oxascand är ett vanebildande läkemedel och att den i längden till och med försämrar ångest. Du bedömer att Carl inte har en förhöjd suicidrisk.\n\nDu och Carl resonerar om att han inte behöver någon inläggning utan att det kan gå bra med behandling i öppenvården. Han är hjälpsökande och förnekar trovärdigt att han ska göra sig något. Han plågas av sin ångest och undrar ifall det finns några andra läkemedel som skulle kunna hjälpa honom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Vilka två läkemedelsgrupper är förstahandsbehandling för Generaliserat ångestsyndrom GAD?  Ange preparatexempel och beskriv verkningsmekanismen för dessa preparat.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Selektiva serotoninåterupptagshämmare (SSRI) verkar genom återupptags-hämning av serotonin i synapsen + exempel på preparatnamn. Till skillnad från SSRI så verkar Serotonin- och noradrenalinåterupptagshämmare (SNRI) både på serotonin- och noradrenalinnivåerna i hjärnan. Ofta har SNRI även en svagt hämmande effekt på dopaminupptaget + exempel på preparatnamn. (max 2 poäng)\n\nCarl berättar att han erbjöds Elektrokonvulsiv behandling, ECT när han låg på avdelningen, men att han då tackade nej för att han var rädd för biverkningar av behandlingen. Nu undrar han ifall det kanske ändå är läge för ECT eftersom han inte blir bättre. Han undrar hur ECT går till?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Page 16 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest, isolerar sig, vänder på dygnet och slarvar med maten. Han har svårt att komma igång, energibrist och han känner sig inte nedstämd.  Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nInför planeringen för fortsatt sjukskrivning så framkommer att Carl ibland använder cannabis för att dämpa sin ångest. Hans senaste blodprover tyder på överkonsumtion av alkohol. Carl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde den. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Den hjälpte så bra mot ångesten och han fick sova gott då. Du svarar nekande och förklarar för Carl att Oxascand är ett vanebildande läkemedel och att den i längden till och med försämrar ångest. Du bedömer att Carl inte har en förhöjd suicidrisk.\n\nDu och Carl resonerar om att han inte behöver någon inläggning utan att det kan gå bra med behandling i öppenvården. Han är hjälpsökande och förnekar trovärdigt att han ska göra sig något. Du erbjuder honom antingen SSRI eller SNRI de två förstahandspreparaten vid Generaliserat ångestsyndrom GAD.\n\nCarl berättar att han erbjöds Elektrokonvulsiv behandling, ECT när han låg på avdelningen, men att han då tackade nej för att han var rädd för biverkningar av behandlingen. Nu undrar han ifall det kanske ändå är läge för ECT eftersom han inte blir bättre. Han undrar hur ECT går till?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Förklara för Carl hur ECT går till.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elektrokonvulsiv behandling (ECT) ges i serier om ca 4-12 gånger med några dagars intervall. Efter en lätt sövning med sömnmedel och muskelavslappnande medel så utlöser behandlaren ett generaliserat epileptiskt krampanfall via 2 punkters kutan elstimulering på huvudet. Den varar ofta 30-60 sekunder och sedan vaknar man inom kort."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-8-2",
+              "text": "Nämn fyra biverkningar vid ECT.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Illamående, konfusion, huvudvärk och muskelvärk, tillfälliga minnesproblem. Ovanligt men händer är fasförskjutning från depression till mani och mer långvariga minnesproblem. Trötthet, blodtrycksstegring, status epileptikus. (2 rätt = 0,5 p, max 1 p)\n\nDu berättar för Carl att Elektrokonvulsiv behandling (ECT) ges i serier om ca 4-12 gånger med några dagars intervall. Efter en lätt sövning med sömnmedel och muskelavslappnande medel så utlöser behandlaren ett generaliserat epileptiskt krampanfall via 2 punkters kutan elstimulering på huvudet. Den varar ofta 30-60 sekunder och sedan vaknar man inom kort. Biverkningar kan bli illamående, konfusion, huvudvärk, muskelvärk och tillfälliga minnesproblem. Ovanligt men händer är fasförskjutning från depression till mani och mer långvariga minnesproblem."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Page 17 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning. Carl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest, isolerar sig, vänder på dygnet och slarvar med maten. Han har svårt att komma igång, energibrist och han känner sig inte nedstämd.  Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nCarl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde den. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Du svarar nekande och förklarar för Carl att Oxascand är ett vanebildande läkemedel och att den i längden till och med försämrar ångest. Du bedömer att Carl inte har en förhöjd suicidrisk.\n\nDu och Carl resonerar om att han inte behöver någon inläggning utan att det kan gå bra med behandling i öppenvården. Du erbjuder honom antingen SSRI eller SNRI de två förstahandspreparaten vid Generaliserat ångestsyndrom GAD. Carl berättar att han erbjöds ECT när han låg på avdelningen, men att han då tackade nej för att han var rädd för biverkningar av behandlingen. Nu undrar han ifall det kanske ändå är läge för ECT eftersom han inte blir bättre. Han undrar hur ECT går till och om biverkningar.\n\nDu berättar för Carl att Elektrokonvulsiv behandling (ECT) ges i serier om ca 4-12 gånger med några dagars intervall. Efter en lätt sövning med sömnmedel och muskelavslappnande medel så utlöser behandlaren ett generaliserat epileptiskt krampanfall via 2 punkters kutan elstimulering på huvudet. Den varar ofta 30-60 sekunder och sedan vaknar man inom kort. Biverkningar kan bli illamående, konfusion, huvudvärk, muskelvärk och tillfälliga minnesproblem. Ovanligt men händer är fasförskjutning från depression till mani och mer långvariga minnesproblem.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Bedömer du att ECT är lämpligt för Carl? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej, Carls ångestsjukdom bedöms ej vara en korrekt indikation för ECT. Han riskerar att få mer biverkan än verkan av behandlingen. (max 1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-2",
+              "text": "Nämn 4 stycken psykiatriska tillstånd där ECT har stark indikation och rekommenderas som förstahandsbehandling.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Olika former av djup depression med psykotiska symtom, cykloid psykos, postpartum psykos, katatoni, malignt neuroleptikasyndrom, deliriös mani. Melankolisk depression, djup/svår depression utan psykotiska symtom, mani med psykotiska symtom, post partum depression. (0,5 p per rätt svar, max 2 p)\n\nDu förklarar för Carl att Elektrokonvulsiv behandling, ECT troligen inte skulle ge någon större förbättring för honom i nuläget men att det hade varit en effektiv behandling för hans tidigare djupa depression.  Andra lämpliga indikationer är affektiva tillstånd med psykotiska symtom, cykloid psykos, postpartum psykos, katatoni, malignt neuroleptikasyndrom, deliriös mani. Carl berättar för dig med obehag att en annan patient fick Serotonergt syndrom när han låg på avdelningen. Nu undrar han om det finns risk att han får det vid insättning av antidepressiva?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Page 18 of 44 Under din AT gör du din psykiatriplacering på en öppenvårdsmottagning i Duveholm. Dagens första patient heter Carl och han är 32 år gammal. Han har tidigare haft ångestproblem som skötts på primärvården. Han var inlagd 4 veckor på psykiatrisk avdelning på grund av sin första depression för ett år sedan. Han kommer nu till dig för sjukskrivningsbedömning.\n\nCarl berättar att han mådde bättre en period efter utskrivningen men mår sämre igen sedan över ett halvår tillbaka. Han har ångest, isolerar sig, vänder på dygnet och slarvar med maten. Han har svårt att komma igång, energibrist och han känner sig inte nedstämd.  Han har svårt att somna på kvällarna och tycker att sömnen är ytlig och otillfredsställande. Han känner sig spänd och irritabel. Du bedömer att han har utvecklat ett Generaliserat ångestsyndrom, GAD (Generalized Anxiety Disorder).\n\nCarl berättar att han i samband med svår ångest fick starka självmordsimpulser för några veckor sedan. Han påbörjade då att skriva ett avskedsbrev men slängde den. Nu undrar Carl om han kan få recept på Oxascand, som han fick på avdelningen. Du svarar nekande och förklarar för Carl att Oxascand är ett vanebildande läkemedel och att den i längden till och med försämrar ångest. Du bedömer att Carl inte har en förhöjd suicidrisk.\n\nDu och Carl resonerar om att han inte behöver någon inläggning utan att det kan gå bra med behandling i öppenvården. Du erbjuder honom antingen SSRI eller SNRI de två förstahandspreparaten vid Generaliserat ångestsyndrom GAD. Carl berättar att han erbjöds ECT när han låg på avdelningen, men att han då tackade nej för att han var rädd för biverkningar av behandlingen. Nu undrar han ifall det kanske ändå är läge för ECT eftersom han inte blir bättre. Han undrar hur ECT går till och om biverkningar.\n\nDu förklarar för Carl att Elektrokonvulsiv behandling, ECT troligen inte skulle ge någon större förbättring för honom i nuläget men att det hade varit en effektiv behandling för hans tidigare djupa depression.  Andra lämpliga indikationer är affektiva tillstånd med psykotiska symtom, cykloid psykos, postpartum psykos, katatoni, malignt neuroleptikasyndrom, deliriös mani.\n\nCarl berättar för dig med obehag att en annan patient fick Serotonergt syndrom när han låg på avdelningen. Nu undrar han om det finns risk att han får det vid insättning av antidepressiva?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Förklara för Carl om Serotonergt syndrom och dess etiologi.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Serotonergt syndrom (SS) är ett potentiellt farligt tillstånd som beror på förhöjd aktivitet i serotonerga bansystem i hjärnan. Det orsakas vanligtvis av intag av en kombination av läkemedel eller andra substanser som höjer den serotonerga aktiviteten och allvarlighetsgraden beror på hur mycket denna aktivitet är förhöjd. Syndromet uppträder snabbt: oftast inom 6 timmar efter insättning eller dosökning av ett läkemedel. Symptomen är främst muskelryckningar (kramper, spasmer), illamående och förhöjt blodtryck, förvirring, hypertermi (förhöjd kroppstemperatur), hypomana symptom (lindrig mani), koordinationsstörningar, hyperreflexi (lättretliga reflexer), tremor (skakiga, ofrivilliga rörelser vanligen i fingrar, händer, armar eller huvud), agitation. (max 1 p)\n\nEpilog:\n\nDu berättar för Carl att Serotonergt syndrom (SS) är ett potentiellt farligt tillstånd som beror på förhöjd aktivitet i serotonerga bansystem i hjärnan. Det orsakas vanligtvis av intag av en kombination av läkemedel eller andra substanser som höjer den serotonerga aktiviteten och allvarlighetsgraden beror på hur mycket denna aktivitet är förhöjd. Syndromet uppträder snabbt: oftast inom 6 timmar efter insättning eller dosökning av ett läkemedel. Symptomen är främst muskelryckningar, illamående och förhöjt blodtryck, förvirring, hypertermi, hypomana symptom, koordinationsstörningar, hyperreflexi, tremor, agitation.\n\nCarl erbjuds Sertralin som trappas upp till 150 mg dagligen och som han tycker ger en viss ångestlindring. Han rekommenderas regelbunden fysisk aktivitet. Han får gå i sömnskola och senare i en gruppbehandling KBT för att få verktyg att hantera ångesten. Ni fortsätter att regelbundet ta prover för droger och alkohol. Carl påbörjar försiktig arbetsträning med stöd. Han upplever allt mer att hans GAD är under kontroll.  När han blir bättre kan han remitteras till vårdcentral.\n\nSvarsförslag till fall 3 – kirurgi (20 p)\n\nDu är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa. Hustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött. Han har haft dåligt tryck i urinstrålen en längre tid och det har hänt att han vaknat på natten några gånger av att det är blött i sängen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Fall 3",
+      "points": 20,
+      "intro": "Page 20 of 44 FALL 3\n\nDu är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa.\n\nHustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nHan har haft dåligt tryck i urinstrålen en längre tid och det har hänt att han vaknat på natten några gånger av att det är blött i sängen.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka fem relevanta frågor vill du ställa för att fånga upp väsentlig anamnes? (de första 5 beaktas)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nuvarande och tidigare sjukdomar inklusive ev genomgången urinvägs- eller bukkirurgi. Urinvägssymptom (lagrings/tömningssymptom, sveda, synligt blod), gastrointestinala besvär, allmänna symptom som feber. Smärtanamnes. Ryggsymptom med neurologisk påverkan. Aktuell regelbunden medicinering samt ev tillfällig medicinering som kan ha blåspåverkan.\n\nDu får veta att Evald har en tablettbehandlad hypertoni samt sedan femton år en tablettbehandlad typ 2 diabetes som kontrolleras på vårdcentralen. Evald har inte genomgått några operationer i buken eller urinvägar tidigare. Smärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda eller synligt blod. Däremot uppger medföljande hustrun att det hänt sista månaden att enstaka natt har Evald kissat på sig så att man fått lov att byta sängkläder och numera har man ett skydd i sängen. Avföringen fungerade normalt på morgonen. På frågan om vilka mediciner han tar uppger han Metformin och Enalapril."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Page 21 of 44 Du är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa.\n\nHustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nDu får veta att Evald har en tablettbehandlad hypertoni samt sedan femton år en tablettbehandlad typ 2 diabetes som kontrolleras på vårdcentralen. Evald har inte genomgått några operationer i buken eller urinvägar tidigare. Smärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda eller synligt blod. Däremot uppger medföljande hustrun att det hänt sista månaden att enstaka natt har Evald kissat på sig så att man fått lov att byta sängkläder och numera har man ett skydd i sängen. Avföringen fungerade normalt på morgonen. På frågan om vilka mediciner han tar uppger han Metformin och Enalapril.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilka fyra saker vill du fokusera på och undersöka i fysikaliskt status? Motivera. (de första 4 beaktas)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Allmäntillstånd med vitalparametrar så som temp, puls, blodtryck, andningsfrekvens; Bukstatus, inklusive bråckportar; Inspektion och palpation av yttre genitalia (penis: ex meatusstenos, fimosis, balanit, tumör; skrotum: ex epididymit); Rektalpalpation, beskrivning av prostata, ev andra rektalfynd; Neurologi perineum.\n\n…Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden. Du finner vid undersökning av Evald inte något alarmerande avseende vitalparametrar. I bukstatus palperar du en något ömmande utfyllnad suprapubiskt som sträcker sig halvvägs till naveln. Det föreligger ingen flankömhet.\n\nMeatus penis är normal. Vid rektalundersökning känner du en måttligt förstorad, homogen symmetrisk oöm prostata utan några hårda partier."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Page 22 of 44 Du är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa. Hustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött. Du får veta att Evald har en tablettbehandlad (Enalapril) hypertoni samt sedan femton år en tablettbehandlad (Metformin) diabetes. Evald har inte genomgått några operationer i buken eller urinvägar tidigare. Smärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden.\n\nDu finner vid undersökning av Evald inte något alarmerande avseende vitalparametrar. I bukstatus palperar du en något ömmande utfyllnad suprapubiskt som sträcker sig halvvägs till naveln. Det föreligger ingen flankömhet. Meatus penis är normal. Vid rektalundersökning känner du en måttligt förstorad, homogen symmetrisk oöm prostata utan några hårda partier.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vilka två åtgärder vidtar du nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du bedömer att Evald sannolikt har en urinretention och vill fastställa detta med ultraljudsundersökning i form av sk ”BladderScan”. Denna visar en uppskattad blåsvolym på mer än 1000 milliliter (över mätområdesomfånget). Du ordinerar då katetersättning med en kateter à demeure (KAD), Foley, Charrière 14. Tappning och mätning av resurin.\n\n…I status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata. Du har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en utspänd urinblåsa. En rutinerad undersköterska fick i uppdrag att sätta en KAD Foley, Charrière 14 men hör nu av sig till dig för att hon inte får in katetern hela vägen. Hon ber dig om hjälp."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Page 23 of 44 Du är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa.\n\nHustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nDu får veta att Evald har en tablettbehandlad (Enalapril) hypertoni samt sedan femton år en tablettbehandlad (Metformin) diabetes. Evald har inte genomgått några operationer i buken eller urinvägar tidigare.\n\nSmärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden.\n\nI status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata.\n\nDu har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en utspänd urinblåsa. En rutinerad undersköterska fick i uppdrag att sätta en KAD Foley, Charrière 14 men hör nu av sig till dig för att hon inte får in katetern hela vägen. Hon ber dig om hjälp.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilka åtgärder kan underlätta katetersättningen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du använder nu rikligt med mer bedövningsgel (0,5p) som sprutas in i uretra, sträcker ordentligt på penis för att underlätta insättningen och när du kommit in med katetern i en längd motsvarande penis rätar du ut penis ned mot benen för att minska risken för att det tar emot i penoskrotala vinkeln, dvs. vid övergången till prostata. Om detta inte räcker försöker du sätta en KAD med sk Tiemann-kateter med uppåtböjd spets (0,5p).\n\n…Smärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden. I status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata. Du har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en urínretention. En rutinerad undersköterska fick i uppdrag att sätta en KAD men lyckades inte få in kateterna varför du blev tillkallad. Du försökte med mer gelbedövning, sträckte ordentligt på penis och använde en Tiemankateter men även du lyckades inte få in katetern utan istället började det blöda från patientens uretra."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Page 24 of 44 Du är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa.\n\nHustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nDu får veta att Evald har en tablettbehandlad (Enalapril) hypertoni samt sedan femton år en tablettbehandlad (Metformin) diabetes. Evald har inte genomgått några operationer i buken eller urinvägar tidigare.\n\nSmärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden.\n\nI status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata. Du har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en urínretention. En rutinerad undersköterska fick i uppdrag att sätta en KAD men lyckades inte få in kateterna varför du blev tillkallad.\n\nDu försökte med mer gelbedövning, sträckte ordentligt på penis och använde en Tiemankateter men även du lyckades inte få in katetern utan istället började det blöda från patientens uretra.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Hur måste du nu behandla urinretentionen? Beskriv hur du gör!",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du behöver sätta en suprapubisk kateter. Efter sprittvättning av nedre bukväggen palperar du ca 2 tvärfingrar ovanför symfysen lokalisationen där du tänker anlägga katetern. Bedöva med ca 10 ml\n\nlokalbedövning i medellinjen vid tilltänkt insticksställe. Använd en intramuskulär nål så att du kan bedöva bukväggens alla lager och punktera urinblåsan. Aspirera så du ser att du får urin i sprutan. Gör sedan i huden ett knapp centimeterstort snitt i medellinjen. Katetern förs sedan in i urinblåsan med hjälp av en troakar med katetern i samma vinkel som du haft med bedövningsnålen. Vinkla inte för mycket nedåt utan gå ganska vinkelrätt mot huden då du annars riskerar komma in i en förstorad prostata med kraftig hematuri som följd. När urinflöde kommer skjuter du in katetern och backar engångstroakaren som delas och avlägsnas. Kuffa katetern och fixera i utdraget läge. Om det inte är en kuffningsbar kateter fixeras den med sutur till huden.\n\nAlternativt användes s.k. Seldingerteknik. Bedövning anlägges som ovan med lång nål från hud genom bukväggens alla lager och aspiration av urin när urinblåsan punkterats. En ledare med mjuk och böjbar ände förs in i blåsan genom nålen. Nålen tas bort och en troakar förs in över ledaren. Inre delen av troakaren tas bort och katetern förs in genom ytterhöljet. Kateterballongen kuffas och ytterhöljet dras ut och delas.\n\nOm man angett att man inte har erfarenhet av suprapubisk katetersättning men beskrivit att man tillkallar, konsulterar mer erfaren kollega, har detta detta gett delpoäng . Det förväntas inte att alla tidigare har varit med och anlagt en suprapubisk kateter men man bör ha kännedom om tillvägagångssättet.\n\n…Du har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en urínretention. En rutinerad undersköterska fick i uppdrag att sätta en KAD men lyckades inte få in kateterna varför du blev tillkallad. Du försökte med mer gelbedövning och en Tiemankateter med även du lyckades inte få in katetern utan istället började det blöda från uretra. Du valde nu att själv anlägga en suprapubisk kateter i lokalanestesi. Blåsan tömdes under närmaste timmen på ca 2,5 liter. Patienten kände sig lättad. Under tiden fick du de första lab-svaren med bl.a serum- kreatinin som var 425 mikromol/L (ref 60-105 µmol/L)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Page 25 of 44 Du är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa. Hustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nDu får veta att Evald har en tablettbehandlad (Enalapril) hypertoni samt sedan femton år en tablettbehandlad (Metformin) diabetes. Evald har inte genomgått några operationer i buken eller urinvägar tidigare.\n\nSmärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden. I status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata.\n\nDu har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en urínretention. En rutinerad undersköterska fick i uppdrag att sätta en KAD men lyckades inte få in kateterna varför du blev tillkallad. Du försökte med mer gelbedövning och en Tiemankateter med även du lyckades inte få in katetern utan istället började det blöda från uretra.\n\nDu valde nu att själv anlägga en suprapubisk kateter i lokalanestesi. Blåsan tömdes under närmaste timmen på ca 2,5 liter. Patienten kände sig lättad.\n\nUnder tiden fick du de första lab-svaren med bl.a serum-kreatinin som var 425 mikromol/L (ref 60-105 µmol/L).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Vilken vårdnivå kräver situationen? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 3.6.1: Vid njurpåverkan riskerar patienten att drabbas av en polyurisk fas efter tappning. Urinmängderna kan då bli så stora (4–10 l/dygn) att patienten behöver läggas in på vårdavdelning med resurser att övervaka vätskebalans och elektrolyter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "Vilka ytterligare två lab-analyser är du speciellt intresserad av i akutskedet efter beskedet om det stegrade kreatininvärdet? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 3.6.2: Kalium + blodgas/syrabas-balans. Vid kraftigt förhöjd kalium föreligger ökad arrytmirisk. Om acidos behöver även denna rubbning korrigeras.\n\nDu bestämmer dig nu för att lägga in Evald då det finns en uppenbar risk att han kan komma att hamna i en polyurisk fas….. …..Ytterligare labprover som är av högsta intresse nu är kaliumvärdet och en blodgas, det senare för att utröna om en acidos föreligger som eventuellt behöver korrigeras. Du har nu fått svar om att Evald har ett kaliumvärde på 6,9 mmol/l samt blodgas pH 7,25 med BE-8."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Page 26 of 44 Du är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa. Hustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nDu får veta att Evald har en tablettbehandlad (Enalapril) hypertoni samt sedan femton år en tablettbehandlad (Metformin) diabetes. Evald har inte genomgått några operationer i buken eller urinvägar tidigare.\n\nSmärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden. I status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata. Du har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en urínretention. En rutinerad undersköterska fick i uppdrag att sätta en KAD men lyckades inte få in kateterna varför du blev tillkallad. Du försökte med mer gelbedövning och en Tiemankateter med även du lyckades inte få in katetern utan istället började det blöda från uretra.\n\nDu valde nu att själv anlägga en suprapubisk kateter i lokalanestesi. Blåsan tömdes under närmsta timmen på ca 2,5 liter. Patienten kände sig lättad. Under tiden fick du de första lab-svaren med bl.a serum-kreatinin som var 425 mikromol/L\n\nDu bestämmer dig nu för att lägga in Evald då det finns en uppenbar risk att han kan komma att hamna i en polyurisk fas. Det kan innebära stora urinmängder på 4-10/l närmsta dygnet som behöver ersättas parenteralt. Vätske och urinmätning samt kontroll av elektrolyter behöver upprepas flera gånger kommande dygnet. Se till att det finns fungerande perifer venös kärlaccess och starta med intravenöst dropp med fysiologisk natriumkloridlösninng (NaCl 9mg/ml), där behov får styras av elektrolyt och vätskebalans.\n\nYtterligare labprover som är av högsta intresse nu är kaliumvärdet och en blodgas, det senare för att utröna om en acidos föreligger som eventuellt behöver korrigeras.\n\nDu har nu fått svar om att Evald har ett kaliumvärde på 6,9 mmol/l samt blodgas pH 7,25 med BE-8.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vad bör du nu göra? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontakta IVA-jour, Evald behöver initialt EKG-övervakas (telemetri) med anledning av kaliumnivån som innebär en ökad arrytmirisk. Dessutom behöver kaliumnivån sänkas och acidosen korrigeras."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-2",
+              "text": "Ange två åtgärder som behövs för att korrigera de avvikande laboratorieproverna?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vätsketillförsel intravenöst, NaCl, 9mg/ml initialt 1000 ml/timme de första timmarna (alternativt Ringeracetat). Alkalisering i form av 100 ml natriumbikarbonat 50mg/ml intravenöst (regelbundna kontroller med ny blodgas tills acidosen är hävd). Insulin- Glukos infusion (t.ex 20 E Actrapid/Novorapid i 500 ml 10% Glukos, ge 250 ml på 15 min, därefter 50-100 ml/timme, bidrar till att flytta in kalium i cellerna, aktiverar Na- K-ATPas, följ P-glukos och blodgas, P-Kalium, initialt med täta intervall). (ev Beta2- agonist inhalation, aktiverar ytterligare Na-K-ATPas). ev 15 gram Resonium peroralt (långsam effekt; alternativt till per os ge 30gram rektalt).. Calcium iv kan ges som membranstabiliserande för myokardiet för att minska arrytmirisken, men är inte en behandling för att sänka kalium."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-3",
+              "text": "När du som kirurgjour formellt skriver in Evald, vad ska du tänka på när du skriver läkemedelslistan beträffande Evalds ordinarie mediciner?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sätt ut både Metformin och Enalapril temporärt tills den akuta njursvikten återställts. (glöm inte att återinsätta medicinerna innan utskrivning) (erfordras att båda medicinerna utsätt för att få poäng)\n\n…Vid uppföljning på urologmottagningen 4 veckor senare hade kreatininvärdet gått ned ytterligare till 116 mikromol/L. Ett PSA blodprov inför besöket var 6,5 µg/l (ref män 70–80 år:PSA <5 µg/l) med kvoten mellan fritt och total PSA 0,34. En cystoskopi-undersökning som utfördes visade normal uretra men klaffande prostatalober inklusive en lobus tertius. Transrektal ultraljudsundersökning (TRUL) visade en prostatavolym på 75 ml. Evald sattes upp på väntelistan för TUR-p operation. I väntan på operation fick Evald lära sig RIK (ren intermittent\n\nkateterisering) som fungerade utmärkt och suprapubiska katetern kunde då avlägsnas.\n\nDin nästa patient är Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställningsrör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga skador."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Page 27 of 44 EPILOG patient Evald en 75-årig\n\nDu är jour som AT-läkare vid ett länsdelssjukhus. Evald en 75-årig man söker på akuten på kvällen då han inte kunnat kasta vatten på hela dagen och nu framåt kvällen fått tilltagande smärtor i buken. Nu kommer det ingenting alls hur han än försöker att kissa.\n\nHustrun är med som förmedlar att miktionsbesvären nog pågått en längre tid och att Evald senaste veckorna varit påtagligt trött.\n\nDu får veta att Evald har en tablettbehandlad (Enalapril) hypertoni samt sedan femton år en tablettbehandlad (Metformin) diabetes. Evald har inte genomgått några operationer i buken eller urinvägar tidigare.\n\nSmärtorna kom successivt under kvällen med en kontinuerligt molande känsla strålande mot korsryggen. Han har inte haft någon feber, inte heller någon sveda. Däremot uppger har han haft symptom på ischuria paradoxa ett antal nätter senaste månaden.\n\nI status har du funnit en palpabelt utspänd resistens halvvägs till navelhöjd, samt vid rektalundersökning en måttligt förstorad prostata.\n\nDu har genom ultraljudsundersökning med sk ”BladderScan” konstaterat att det föreligger en urínretention. En rutinerad undersköterska fick i uppdrag att sätta en KAD men lyckades inte få in kateterna varför du blev tillkallad. Du försökte med mer gelbedövning och en Tiemankateter med även du lyckades inte få in katetern utan istället började det blöda från uretra. Du valde därför att sätta en suprapubisk kateter i lokalanestesi. Blåsan tömdes under närmsta timmen på ca 2,5 liter. Under tiden fick du de första lab-svaren med bl.a serum-kreatinin som var 425 mikromol/L varför du bestämmer dig nu för att lägga in Evald då det finns en uppenbar risk att han kan komma att hamna i en polyurisk fas.\n\nDu fick ytterligare svar om att Evald har ett kaliumvärde på 6,9 mmol/l samt blodgas med pH 7,25 med BE-8. Detta föranledde att du kontaktade IVA-jouren för att få hjälp med initial EKG- övervakning pga arrytmirisk samt att korrigera acidosen och hyperkalemin.\n\nEvald fick intravenös vätsketillförsel med NaCl 0,9mg/ml 1000 ml/h de första timmarna samt 100 ml Natriumbikabonat 50/ml och dessutom 15 gram Resonium peroralt (långsam effekt).\n\nBeträffande Evalds ordinarie mediciner (Metformin, Enalapril) satte du ut dessa temporärt när du ”skrev” läkemedelslistan vi inskrivningen. (metformin: förlångsammad elimination, risk för laktacidos och hypoglykemi; Enalapril ACE-hämmare: sänker det glomerulära kapillärtrycket ytterligare via sk RAAS-blockad)\n\nEvald hamnade inte i någon extrem polyurisk fas och ingen arrytmi uppstod under natten. På morgonen dagen efter hade acidosen hävts och kaliumnivån normaliserats. Evald överflyttades till vanlig vårdavdelning och kunde skrivas ut efter ytterligare ett dygn med då kreatininvärde på 140 mikromol/L. Evalds ordinarie mediciner återinsattes samt han fick instruktioner om\n\nPage 28 of 44 skötsel av suprapubiska katetern med även initial ordination med tillsyn av distriktssköterskan närmsta veckorna.\n\nVid uppföljning på urologmottagningen 4 veckor senare hade kreatininvärdet gått ned ytterligare till 116 mikromol/L. Ett PSA blodprov inför besöket var 6,5 µg/l (ref män 70–80 år:PSA <5 µg/l) med kvoten mellan fritt och total PSA 0,34. En cystoskopi-undersökning som utfördes visade normal uretra men klaffande prostatalober inklusive en lobus tertius. Transrektal ultraljudsundersökning (TRUL) visade en prostatavolym på 75 ml. Evald sattes upp på väntelistan för TUR-p operation. I väntan på operation fick Evald lära sig RIK (ren intermittent kateterisering) som fungerade utmärkt och suprapubiska katetern kunde då avlägsnas.\n\nDin nästa patient är Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställningsrör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga skador.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vad är det viktigaste att konstatera gällande status när du undersöker Albin? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Palpera perifera pulsar i armar. Det absolut viktigaste vid en potentiell allvarlig skada i axeln är att kontroller pulsarna distalt. Det är en eventuell kärlskada som kräver akut åtgärd. Alla andra skador kan behandlas senare.\n\nDu noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Page 29 of 44 Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställnings-rör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga andra allvarliga skador.\n\nDu noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Vilken blir din nästa diagnostiska åtgärd för att handlägga patienten på akutmottagningen?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skicka patienten på slätröntgen höger axel.\n\nDu noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta. Då patienten återkommer från röntgen visar det sig att axeln ligger ur led framåt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "Page 30 of 44 Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställnings-rör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga andra allvarliga skador.\n\nDu noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta.\n\nDå patienten återkommer från röntgen visar det sig att axeln ligger ur led framåt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Hur förbereder du patienten för reposition?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Adekvat smärtlindring (enligt lokala PM) och avslappning (enligt lokala PM), eventuell sövning, inför detta säkerställande av venös access med perifervenkateter, ej äta och dricka."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-10-2",
+              "text": "Beskriv hur reponerar du axeln",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Adekvat beskriven reposition. Exempelvis liggande på mage på en brits med armen utanför kanten och drag rakt nedåt.\n\nRöntgen visar att han har en främre axelluxation. Du smärtlindrar honom med iv. morfin samt lokalbedövning i leden. Därefter reponeras axeln. Du väljer liggande på mage på britsen med armen utanför kanten och drag i armen rakt ned mot golvet.\n\nEfter 6 veckor kommer patienten tillbaka för uppföljning. Han har påbörjat träning med sjukgymnast. Han upplever dock en påtaglig svaghet och dessutom instabilitet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-11",
+          "context": "Page 31 of 44 Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställnings-rör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga andra allvarliga skador. Du noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta.\n\nRöntgen visar att han har en främre axelluxation. Du smärtlindrar honom med iv. morfin samt lokalbedövning i leden. Därefter reponeras axeln. Du väljer liggande på mage på britsen med armen utanför kanten och drag i armen rakt ned mot golvet.\n\nEfter 6 veckor kommer patienten tillbaka för uppföljning. Han har påbörjat träning med sjukgymnast. Han upplever dock en påtaglig svaghet och dessutom instabilitet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-11-1",
+              "text": "Nämn de två vanligaste följdskadorna efter en axelluxation.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "1. Skada på rotatorcuffen 2. Skada på labrum, s.k. Bankart skada.\n\n…Du misstänker att patienten kan ha en skada på rotatorcuffen och/eller en skada på labrum (Bankart skada)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-12",
+          "context": "Page 32 of 44 Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställnings-rör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga andra allvarliga skador.\n\nDu noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta.\n\nRöntgen visar att han har en främre axelluxation. Du smärtlindrar honom med iv. morfin samt lokalbedövning i leden. Därefter reponeras axel. Du väljer magliggande på brits med armen utanför kanten och drag i armen rakt ned mot golvet.\n\nEfter 6 veckor kommer patienten tillbaka för uppföljning. Han har påbörjat träning med sjukgymnast. Han upplever dock en påtaglig svaghet och dessutom instabilitet.\n\nDu misstänker att patienten kan ha en skada på rotatorcuffen och/eller en skada på labrum (Bankart skada).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-12-1",
+              "text": "Vilken undersökning är bäst för att bekräfta misstanken?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Magnet Resonans Imaging (MRI) hö axel. MR är den klart bästa metoden för att kartlägga skador i axeln. MR artrografi behövs inte. CT är inte lika bra på mjukdelar.\n\nDu beställer en MR för att verifiera eventuell skada. Det visar sig att patienten har en Bankartskada, dvs. en avlösning av labrum och kapsel från glenoid-kanten. Det visar sig att axeln efter olyckan reluxerat 3 gånger sedan olyckan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-13",
+          "context": "Page 33 of 44 Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställnings-rör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga andra allvarliga skador.\n\nDu noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta.\n\nRöntgen visar att han har en främre axelluxation. Du smärtlindrar honom med iv. morfin samt lokalbedövning i leden. Därefter reponeras axel. Du väljer magliggande på brits med armen utanför kanten och drag i armen rakt ned mot golvet.\n\nEfter 6 veckor kommer patienten tillbaka för uppföljning. Han har påbörjat träning med sjukgymnast. Han upplever dock en påtaglig svaghet och dessutom instabilitet.\n\nDu misstänker att patienten kan ha en skada på rotatorcuffen och/eller en skada på labrum (Bankart skada).  Du beställer en MR för att verifiera eventuell skada. Det visar sig att patienten har en Bankartskada, dvs. en avlösning av labrum och kapsel från glenoid-kanten.\n\nDet visar sig att axeln efter olyckan reluxerat 3 gånger sedan olyckan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-13-1",
+              "text": "Vad blir din behandlingsrekommendation nu vad gäller fortsatt handläggning av Albin? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stabiliserande operation för att funktionen inte kommer att förbättras om axeln förblir instabil och sjukgymnastik kommer knappast att hjälpa i detta läge. Behandlingsmålet är att förhindra återkommande luxationer, smärta och en sekundär artros.\n\nEfter 6 veckor kommer patienten tillbaka för uppföljning. Han har påbörjat träning med sjukgymnast. Han upplever dock en påtaglig svaghet och dessutom instabilitet. Du misstänker att patienten kan ha en skada på rotatorcuffen och/eller en skada på labrum (Bankart skada).  Du beställer en MR för att verifiera eventuell skada. Det visar sig att patienten har en Bankartskada, dvs. en avlösning av labrum och kapsel från glenoid-kanten. Då han luxerat axel flera gånger under kort tid rekommenderar du stabiliserande operation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-14",
+          "context": "Page 34 of 44 Albin, en 25-årig byggnadsarbetare inkommer till akuten efter fall från ställning 3 meter. I fallet greppade han tag i ett ställnings-rör och fick ett kraftigt ryck i högra armen innan han föll ned på marken. Oklart om han då också slog i höger axel. Han inkommer med kraftig smärta i axeln och ut i armen men har inga andra allvarliga andra allvarliga skador.  Du noterar att Albin har puls i handleden och att han kan röra fingrarna. I axeln är han svullen men det är svårt att göra ett fullständigt status pga. smärta.   Röntgen visar att han har en främre axelluxation. Du smärtlindrar honom med iv. morfin samt lokalbedövning i leden. Därefter reponeras axel. Du väljer magliggande på brits med armen utanför kanten och drag i armen rakt ned mot golvet. Efter 6 veckor kommer patienten tillbaka för uppföljning. Han har påbörjat träning med sjukgymnast. Han upplever dock en påtaglig svaghet och dessutom instabilitet.   Du misstänker att patienten kan ha en skada på rotatorcuffen och/eller en skada på labrum (Bankart skada).  Du beställer en MR för att verifiera eventuell skada. Det visar sig att patienten har en bankartskada, dvs. en avlösning av labrum och kapsel från glenoid-kanten. Då han luxerat axel flera gånger under kort tid rekommenderar du stabiliserande operation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-14-1",
+              "text": "Albin har vissa tecken på nervpåverkan ut i armen med nedsatt bicepsreflex och nedsatt känsel på tummen och pekfingret. Vilken nervrot är sannolikt påverkad?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Påverkan på nervrot C6 (1p)\n\nSvarsförslag till fall 4 – allmänmedicin (20 p)\n\nDu arbetar som AT-läkare på en vårdcentral. Din första patient denna morgon i april är Anders, en 41-årig tidigare väsentligen frisk man. Han arbetar som snickare, är sambo och har ett barn som är 2 år gammalt. Han berättar att han inte är den som tränar massor, men att han 1-2 gånger per vecka brukar jogga några kilometer. Han tränar även på gym ibland. För ca 1 månad sedan fick han en förkylning, säkert från sonen som går på dagis. Efter 1 vecka försvann snuvan och hostan men efter det har han börjat tänka på att han inte orkar springa som tidigare. Han kan t.o.m. bli ordentligt andfådd när han går snabbt i uppförsbackar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Fall 4",
+      "points": 20,
+      "intro": "Page 35 of 44 FALL 4\n\nDu arbetar som AT-läkare på en vårdcentral. Din första patient denna morgon i april är Anders, en 41-årig tidigare väsentligen frisk man. Han arbetar som snickare, är sambo och har ett barn som är 2 år gammalt. Han berättar att han inte är den som tränar massor, men att han 1-2 gånger per vecka brukar jogga några kilometer. Han tränar även på gym ibland. För ca 1 månad sedan fick han en förkylning, säkert från sonen som går på dagis. Efter 1 vecka försvann snuvan och hostan men efter det har han börjat tänka på att han inte orkar springa som tidigare. Han kan t.o.m. bli ordentligt andfådd när han går snabbt i uppförsbackar.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka fyra diagnoser tänker du på i första hand och hur vill du komplettera anamnesen för att differentiera mellan dessa diagnoser?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.1.1 KOL - rökanamnes, hereditet. Astma - kända allergier, atopi, hosta, tidigare episoder med andfåddhet. Hjärtsvikt - tidigare hjärtproblem, svullna underben, hereditet. Ischemisk hjärtsjukdom, perimyokardit - episod av bröstsmärta, hjärtklappning, tryckkänsla i bröstet, hereditet. Lungemboli - ensidigt svullet underben, lufthunger, andningskorrelerad bröstsmärta, hereditet. Anemi - synlig blödning i avföring eller urin, blekhet, ensidig kost, hereditet. Akut njursvikt - ödem. Pneumoni - feber, hosta. Förmaksflimmer - palpitationer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilka patientnära undersökningar (ej blodprover) och fysikaliska statusundersökningar är mest relevanta i detta fall och som du kan göra direkt på vårdcentralen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.1.2 Lungauskultation, PEF, saturation och andningsfrekvens. Hjärtauskultation, puls, blodtryck och EKG. Inspektion av underben - pittingödem? Dubbelsidigt/ensidigt? Ack 3 p\n\nDu kompletterar anamnesen och Anders berättar att han inte röker längre, men att han gjorde det ca 5 år från det att han var 19 år gammal. Han har inte märkt av någon episod av bröstsmärta, tryck över bröstet eller konstig hjärtklappning. Han har inga allergier, var frisk som barn och han är normalviktig och äter standardkost. Vattenkastning och defekation är som vanligt. Vid undersökningen så auskulteras lungorna utan anmärkning, möjligen lite sparsamma rassel basalt bilateralt och andningsfrekvensen är 14/min. PEF hamnar inom övre referensintervallet, han låter inte obstruktiv vid utandning och saturationen är 98-99% på luft. Hjärtat auskulteras utan anmärkning, inga tydliga bi- eller blåsljud och enbart enstaka extraslag. Blodtrycket mäter 135/75 mmHg och EKG visar regelbunden sinusrytm, frekvens 78/min och vä-sidigt skänkelblock. Inget tidigare EKG finns för jämförelse. Han har diskreta pittingödem över anklarna och en liten bit upp på underbenen bilateralt. Urinprovet visar inget avvikande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Page 36 of 44 Du arbetar som AT-läkare på en mellanstor vårdcentral. Din första patient denna morgon i april är Anders, en 41-årig tidigare väsentligen frisk man. Han arbetar som snickare, är sambo och har ett barn som är 2 år gammalt. Han berättar att han inte är den som tränar massor, men att han 1-2 gånger per vecka brukar jogga några kilometer. Han tränar även på gym ibland. För ca 1 månad sedan fick han en förkylning, säkert från sonen som går på dagis. Efter 1 vecka försvann snuvan och hostan men efter det har han börjat tänka på att han inte orkar springa som tidigare. Han kan t.o.m. bli ordentligt andfådd när han går snabbt i uppförsbackar.\n\nDu kompletterar anamnesen och Anders berättar att han inte röker längre, men att han gjorde det ca 5 år från det att han var 19 år gammal. Han har inte märkt av någon episod av bröstsmärta, tryck över bröstet eller konstig hjärtklappning. Han har inga allergier, var frisk som barn och han är normalviktig och äter standardkost. Vattenkastning och defekation är som vanligt. Vid undersökningen så auskulteras lungorna utan anmärkning, möjligen lite sparsamma rassel basalt bilateralt och andningsfrekvensen är 14/min. PEF hamnar inom övre referensintervallet, han låter inte obstruktiv vid utandning och saturationen är 98-99% på luft. Hjärtat auskulteras utan anmärkning, inga tydliga bi- eller blåsljud och enbart enstaka extraslag. Blodtrycket mäter 135/75 mmHg och EKG visar regelbunden sinusrytm, frekvens 78/min och vä-sidigt skänkelblock. Inget tidigare EKG finns för jämförelse. Han har diskreta pittingödem över anklarna och en liten bit upp på underbenen bilateralt. Urinprovet visar inget avvikande.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Ange 3 relevanta blodprover som du väljer att ta för att komma vidare i din diagnostik och vilka diagnoser är de var och en kopplade till?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.2.1 Hb - anemi, NT-proBNP - hjärtsvikt, Troponin T - hjärtinfarkt/perimyokardit, Kreatinin/eGFR - akut njursvikt, CRP/SR - Infektion, inflammation, D-dimer - LE. Ack 4,5 p\n\nDu vill nu främst utesluta anemi, hjärtsvikt, pneumoni och tumörsjukdom och ordinerar provtagning av Hb, NT-proBNP och SR/CRP. Dagen efter kommer svaren: Hb 154 g/L (130-170 g/L), NT-proBNP 550 ng/L (<227 ng/L). Övriga prover är normala."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Page 37 of 44 Din första patient är Anders, en 41-årig tidigare väsentligen frisk man. Han arbetar som snickare, är sambo och har ett barn som är 2 år gammalt. För ca 1 månad sedan fick han en förkylning, säkert från sonen som går på dagis. Efter 1 vecka försvann snuvan och hostan men efter det har han börjat tänka på att han inte orkar springa som tidigare. Han kan t.o.m. bli ordentligt andfådd när han går snabbt i uppförsbackar.\n\nDu kompletterar anamnesen och inget särskilt framkommer förutom att han rökte ca 5 år från det att han var 19 år gammal. Vid undersökningen så auskulteras lungorna utan anmärkning, möjligen lite sparsamma rassel basalt bilateralt och andningsfrekvensen är 14/min. PEF hamnar inom övre referensintervallet, han låter inte obstruktiv vid utandning och saturationen är 98- 99% på luft. Hjärtat auskulteras utan anmärkning. Blodtrycket mäter 135/75 mmHg och EKG visar regelbunden sinusrytm, frekvens 78/min och vä-sidigt skänkelblock. Inget tidigare EKG finns för jämförelse. Han har diskreta pittingödem över anklarna och en liten bit upp på underbenen bilateralt. Urinprovet visar inget avvikande.\n\nDu vill nu främst utesluta anemi, hjärtsvikt och lungemboli och ordinerar provtagning av Hb, NT-proBNP och SR/CRP.\n\nDagen efter kommer svaren: Hb 154 g/L (130-170 g/L), NT-proBNP 550 ng/L (<227 ng/L). Övriga är normala.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilken diagnos misstänker du nu främst och med vilken undersökning bekräftar du diagnosen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.3.1 Hjärtsvikt, diagnostik bekräftas med ekokardiografi. Ack 5,5 p\n\nUtifrån det förhöjda värdet på NT-proBNP så misstänker du att Anders har hjärtsvikt och remitterar honom därför för ekokardiografi. Medan du väntar på att undersökningen ska bli utförd funderar du mer runt diagnosen hjärtsvikt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Page 38 of 44 Din första patient är Anders, en 41-årig tidigare väsentligen frisk man. Han arbetar som snickare, är sambo och har ett barn som är 2 år gammalt. För ca 1 månad sedan fick han en förkylning, säkert från sonen som går på dagis. Efter 1 vecka försvann snuvan och hostan men efter det har han börjat tänka på att han inte orkar springa som tidigare. Han kan t.o.m. bli ordentligt andfådd när han går snabbt i uppförsbackar.\n\nDu kompletterar anamnesen och inget särskilt framkommer förutom att han rökte ca 5 år från det att han var 19 år gammal. Vid undersökningen så auskulteras lungorna utan anmärkning, möjligen lite sparsamma rassel basalt bilateralt och andningsfrekvensen är 14/min. PEF hamnar inom övre referensintervallet, han låter inte obstruktiv vid utandning och saturationen är 98-99% på luft. Hjärtat auskulteras utan anmärkning. Blodtrycket mäter 135/75 mmHg och EKG visar regelbunden sinusrytm, frekvens 78/min och vä-sidigt skänkelblock. Inget tidigare EKG finns för jämförelse. Han har diskreta pittingödem över anklarna och en liten bit upp på underbenen bilateralt. Urinprovet visar inget avvikande.\n\nDu vill nu främst utesluta anemi, hjärtsvikt och lungemboli och ordinerar provtagning av Hb, NT-proBNP och SR/CRP. Dagen efter kommer svaren: Hb 154 g/L (130-170 g/L), NT-proBNP 550 ng/L (<227 ng/L). Övriga är normala.\n\nUtifrån det förhöjda värdet på NT-proBNP så misstänker du att Anders har hjärtsvikt och remitterar honom därför för ekokardiografi. Medan du väntar på att undersökningen ska bli utförd funderar du mer runt diagnosen hjärtsvikt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Ange 4 vanliga orsaker till icke-akut hjärtsvikt. De 4 första kommer att beaktas.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.4.1 Ischemisk hjärtsjukdom (med eller utan bakomliggande hjärtinfarkt), långvarig hypertoni, förmaksflimmer, hjärtmuskelsjukdomar ( olika typer av kardiomyopatier), klaffel, hög alkoholförbrukning eller annan toxisk påverkan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Hur vill du komplettera anamnesen ytterligare för att få hjälp att avgöra vad som kan vara orsak till patientens hjärtsvikt",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.4.2 Alkoholkonsumtion, drogintag, ärftlighet för hjärt-kärl-sjukdomar, förekomst av plötslig död hos släktingar, tidigare synkopering hos patienten, tidigare myokardit, tidigare bröstsmärta eller känt av hjärtklappning. Ack 7,5 p\n\nDu ringer även upp Anders och kompletterar anamnesen särskilt med avseende på ärftlighet, om han synkoperat av okänd orsak, plötsligt dödsfall hos nära släktingar, alkoholkonsumtion samt om han använt droger.\n\nAnders berättar att han inte känner till några särskilda sjukdomar hos släktingar och att ingen har gått bort hastigt i yngre år. Han har inte svimmat själv förutom en gång i samband med hög feber. Han berättar dock att han under några år av sitt liv, från ca 20-25 års ålder, drack stora mängder alkohol och även tog kokain till och från. Tack vare familj och nuvarande sambo så sökte han hjälp och kunde ta sig ur sitt missbruk och idag är han drogfri och helnykterist. 10 dagar senare kommer svaret på hjärt-ekot som visar på dilaterad vänsterkammare (120% av normal left ventricular end diastolic diameter (LVEDD) samt ett EF på 40%. Inga klaffvitier hittas förutom en lindrig aortainsufficiens. Sammantaget talar detta för en dilaterad kardiomyopati och du remitterar Anders till närmaste kardiologmottagning för att påbörja behandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Page 39 of 44 Din första patient är Anders, en 41-årig tidigare väsentligen frisk man. Han arbetar som snickare, är sambo och har ett barn som är 2 år gammalt. För ca 1 månad sedan fick han en förkylning, säkert från sonen som går på dagis. Efter 1 vecka försvann snuvan och hostan men efter det har han börjat tänka på att han inte orkar springa som tidigare. Han kan t.o.m. bli ordentligt andfådd när han går snabbt i uppförsbackar.\n\nDu kompletterar anamnesen och inget särskilt framkommer förutom att han rökte ca 5 år från det att han var 19 år gammal. Vid undersökningen så auskulteras lungorna utan anmärkning, möjligen lite sparsamma rassel basalt bilateralt och andningsfrekvensen är 14/min. PEF hamnar inom övre referensintervallet, han låter inte obstruktiv vid utandning och saturationen är 98- 99% på luft. Hjärtat auskulteras utan anmärkning. Blodtrycket mäter 135/75 mmHg och EKG visar regelbunden sinusrytm, frekvens 78/min och vä-sidigt skänkelblock. Inget tidigare EKG finns för jämförelse. Han har diskreta pittingödem över anklarna och en liten bit upp på underbenen bilateralt. Urinprovet visar inget avvikande.\n\nDu vill nu främst utesluta anemi, hjärtsvikt och lungemboli och ordinerar provtagning av Hb, NT-proBNP och SR/CRP. Dagen efter kommer svaren: Hb 154 g/L (130-170 g/L), NT-proBNP 550 ng/L (<227 ng/L). Övriga prover är normala. Utifrån det kraftigt förhöjda värdet på NT- proBNP så misstänker du att Anders har hjärtsvikt och remitterar honom därför för ekokardiografi.\n\nDu ringer även upp Anders och kompletterar anamnesen särskilt med avseende på ärftlighet, om han synkoperat av okänd orsak, plötsligt dödsfall hos nära släktingar, alkoholkonsumtion samt om han använt droger.\n\nAnders berättar att han inte känner till några särskilda sjukdomar hos släktingar och att ingen har gått bort hastigt i yngre år. Han har inte svimmat själv förutom en gång i samband med hög feber. Han berättar dock att han under några år av sitt liv, från ca 20-25 års ålder, drack stora mängder alkohol och även tog kokain till och från. Tack vare familj och nuvarande sambo så sökte han hjälp och kunde ta sig ur sitt missbruk och idag är han drogfri och helnykterist.\n\n10 dagar senare kommer svaret på hjärt-ekot som visar på dilaterad vänsterkammare (120% av normal left ventricular end diastolic diameter (LVEDD) samt ett EF på 40%. Inga klaffvitier hittas förutom en lindrig aortainsufficiens.\n\nSammantaget talar detta för en dilaterad kardiomyopati och du remitterar Anders till närmaste kardiologmottagning för att påbörja behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vilka två läkemedelsgrupper utgör förstahandsbehandling vid hjärtsvikt?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 4.5.1 ACE-hämmare/ARB och beta-blockare. Ack 8,5 p\n\nSamma dag som Anders sökte vård för dyspné så träffar du även Birgitta, en 73-årig kvinna som sedan tidigare är väsentligen frisk förutom att hon har en mild tablettbehandlad hypertoni och lichen sclerosus et atrophicus i underlivet. Hon är lång och smal, änka sedan fem år och njuter av pensionärstillvaron som ger mycket tid till hennes största intressen; golf och de tre barnbarnen. Birgitta har rökt i många år men håller på att minska ned på antalet cigaretter. För ca 3 veckor sedan fick hon en förkylning, sannolikt från ett barnbarn som var på besök. Efter 1 vecka försvann snuvan men hostan har gradvis förvärrats och gör det nu svårt att sova på nätterna. Birgitta upplever även att hon blivit allt mer andfådd, även vid lättare ansträngning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Page 40 of 44 Samma dag som Anders sökte vård för dyspné så träffar du även Birgitta, en 73-årig kvinna som sedan tidigare är väsentligen frisk förutom att hon har en mild tablettbehandlad hypertoni och lichen sclerosus et atrophicus i underlivet. Hon är lång och smal, änka sedan fem år och njuter av pensionärstillvaron som ger mycket tid till hennes största intressen; golf och de tre barnbarnen. Birgitta har rökt i många år men håller på att minska ned på antalet cigaretter. För ca 3 veckor sedan fick hon en förkylning, sannolikt från ett barnbarn som var på besök. Efter 1 vecka försvann snuvan men hostan har gradvis förvärrats och gör det nu svårt att sova på nätterna. Birgitta upplever även att hon blivit allt mer andfådd, även vid lättare ansträngning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Precis som med Anders så funderar du över vilka olika diagnoser som du behöver tänka på hos en patient med dyspné. Birgittas anamnes gör dock att du redan i detta skede tänker annorlunda än med Anders. Vilka två diagnoser tänker du på i första hand för denna patient och hur vill du komplettera anamnesen för att styrka eller utesluta dessa diagnoser?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag Kronisk obstruktiv lungsjukdom (KOL) eller astma. Rökanamnes - pack-years, passiv rökning. Yrkesmässig exponering för luftvägsirriterande ämnen. Kända allergier, atopiska besvär. Bronkiell hyperreaktivitet? Genomgångna pneumonier? Lungemboli - ensidigt svullet underben, andningskorrelerad bröstsmärta. Hjärtsvikt - problem med svullna underben. Malignitet - i första hand lungcancer. Viktnedgång, andra malignitetstecken. Pneumoni mindre troligt med tanke på duration."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Vilka 2 undersökningar förutom hjärt och lungaskultation (ej blodprover) som du kan göra direkt på vårdcentralen är viktigast för att komma vidare med diagnostiken? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag PEF/COPD6/Spirometri - Obstruktivitet? Saturationsmätning - fungerar syrgasutbytet? EKG - tecken på akut koronor händelse, FF eller svikt? Ack 11,5 p\n\nDu ställer fler frågor och får fram att Birgitta rökt i mer än 40 år, dock inte alltid så mycket så antalet pack-years uppskattas till 30. Hon är 161 cm lång och väger 69 kg. Hon är inte allergisk mot något och var oftast frisk som barn förutom vanliga barnsjukdomar. De yrkesverksamma åren tillbringade hon på kontor som ekonom. Hon har mått bra fram tills nu, ätit med god aptit och vikten har varit konstant. Hon har inte tidigare haft infektioner i luftvägarna som krävt att hon sökt vård, enbart vanliga förkylningar som visserligen ofta varit långvariga.\n\nDu undersöker henne noggrant och finner ett normalt hjärtstatus med regelbunden frekvens 88 slag/min, EKG visar ingen avvikelse och hon har inga pittingödem över underbenen. Du lyssnar även på lungorna och noterar ett förlängt expirium samt en del lågfrekventa, lite brummande ronki generellt över båda lungfälten. Saturationen uppmäts till 94% och du har även bett astmasköterskan att göra en spirometri med reversibilitetstest."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Page 41 of 44 Samma dag som Anders sökte vård för dyspné så träffar du även Birgitta, en 73-årig kvinna som sedan tidigare är väsentligen frisk förutom att hon har en mild tablettbehandlad hypertoni och lichen sclerosus et atrophicus i underlivet. Hon är lång och smal, änka sedan fem år och njuter av pensionärstillvaron som ger mycket tid till hennes största intressen; golf och de tre barnbarnen. Birgitta har rökt i många år men håller på att minska ned på antalet cigaretter. För ca 3 veckor sedan fick hon en förkylning, sannolikt från ett barnbarn som var på besök. Efter 1 vecka försvann snuvan men hostan har gradvis förvärrats och gör det nu svårt att sova på nätterna. Birgitta upplever även att hon blivit allt mer andfådd, även vid lättare ansträngning.\n\nDu ställer fler frågor och får fram att Birgitta rökt i mer än 40 år, dock inte alltid så mycket så antalet pack-years uppskattas till 30. Hon är 161 cm lång och väger 69 kg. Hon är inte allergisk mot något och var oftast frisk som barn förutom vanliga barnsjukdomar. De yrkesverksamma åren tillbringade hon på kontor som ekonom. Hon har mått bra fram tills nu, ätit med god aptit och vikten har varit konstant. Hon har inte tidigare haft infektioner i luftvägarna som krävt att hon sökt vård, enbart vanliga förkylningar som visserligen ofta varit långvariga.\n\nDu undersöker henne noggrant och finner ett normalt hjärtstatus med regelbunden frekvens 88 slag/min, EKG visar ingen avvikelse och hon har inga pittingödem över underbenen. Du lyssnar även på lungorna och noterar ett förlängt expirium samt en del lågfrekventa, lite brummande ronki generellt över båda lungfälten. Saturationen uppmäts till 94% och du har även bett astmasköterskan att göra en spirometri med reversibilitetstest.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilka 3 blodprover vill du ta för att utesluta andra orsaker till symptomen? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag CRP/SR, Hb, NT-ProBNP, (D-dimer)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Page 42 of 44",
+          "contextImageUrl": "/images/exams/2019-08/page42_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-7-2",
+              "text": "Tolka den bifogade spirometri-kurvan. Kan du ställa någon diagnos utifrån den och i så fall på vilken grund?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag FEV1/FVC är 0,57, <0,7/0,65 krävs för diagnosen KOL. FEV1 är 0,92 lit = 57% av förväntat värde vilket tyder på en måttlig KOL i stadium II. Reversibilitet ej testat så definitiv diagnos kan ej ställas. Ack 14 p\n\nSpirometrin visar en obstruktiv bild med FEV1/FVC på 57% och FEV1 mäter 57% av förväntat värde. CRP är <5 mg/L (<5mg/L), Hb är 140 g/L (130-170 g/L) och D- dimer <0,5 (<0,5 mg/L FEU (FEU=Fibrinogen Equivalent Units)), således alla är inom normalintervallet. Sammantaget tyder allt på att Birgitta har utvecklat en KOL grad II."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Page 43 of 44 Samma dag som Anders sökte vård för dyspné så träffar du även Birgitta, en 73-årig kvinna som sedan tidigare är väsentligen frisk förutom att hon har en mild tablettbehandlad hypertoni och lichen sclerosus et atrophicus i underlivet. Hon är lång och smal, änka sedan fem år och njuter av pensionärstillvaron som ger mycket tid till hennes största intressen; golf och de tre barnbarnen. Birgitta har rökt i många år men håller på att minska ned på antalet cigaretter. För ca 3 veckor sedan fick hon en förkylning, sannolikt från ett barnbarn som var på besök. Efter 1 vecka försvann snuvan men hostan har gradvis förvärrats och gör det nu svårt att sova på nätterna. Birgitta upplever även att hon blivit allt mer andfådd, även vid lättare ansträngning.\n\nDu ställer fler frågor och får fram att Birgitta rökt i mer än 40 år, dock inte alltid så mycket så antalet pack-years uppskattas till 30. Hon är inte allergisk mot något och var oftast frisk som barn förutom vanliga barnsjukdomar. De yrkesverksamma åren tillbringade hon på kontor som ekonom. Hon har mått bra fram tills nu, ätit med god aptit och vikten har varit konstant. Hon har inte tidigare haft infektioner i luftvägarna som krävt att hon sökt vård, enbart vanliga förkylningar som visserligen ofta varit långvariga.\n\nDu undersöker henne noggrant och finner ett normalt hjärtstatus med regelbunden frekvens 88 slag/min, EKG visar ingen avvikelse och hon har inga pittingödem över underbenen. Du lyssnar även på lungorna och noterar ett förlängt expirium samt en del lågfrekventa, lite brummande ronki generellt över båda lungfälten. Saturationen uppmäts till 94 % och du har även bett astmasköterskan att göra en spirometri med reversibilitetstest.\n\nSpirometrin visar en obstruktiv bild med FEV1/FVC på 57% och FEV1 mäter 57% av förväntat värde. CRP är <5 mg/L (<5mg/L), Hb är 140 g/L (130-170 g/L) och D-dimer <0,5 (<0,5 mg/L FEU (FEU=Fibrinogen Equivalent Units)), således alla är inom normalintervallet. Sammantaget tyder allt på att Birgitta har utvecklat en KOL grad II.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Hur kan man uppskatta Birgittas KOL-relaterade luftvägssymtom?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag Kan uppskattas med frågeformuläret CAT, Chronic Obstructive Pulmonory Disease\n\nAssessment Test alt mMRC. Delvis rätt för 6 min walking test, antal exacerbationer över tid, skattningsformulär, GOLD-klassificering."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-2",
+              "text": "Om Birgitta inte hade varit rökare och ändå utvecklat KOL, vilken sjukdom måste då i första hand misstänkas? Vilket prov kan bekräfta misstanken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag Alfa-1 antitrypsin brist, särskilt vid patienter under 50 år och vid snabb progress av sjukdom. Analysera alfa-1 antitrypsin i blod."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-3",
+              "text": "Vilka två huvudsakliga mål har farmakologisk behandling vid KOL? Vilket/vilka läkemedel vill du sätta in på Birgitta? Motivera ditt svar!",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag De två målen är att minska försämringstakten, främst genom att förhindra exacerbationer, samt att minska symtomen och därigenom öka livskvalitén. I Birgittas fall, i KOL stadium II utan exacerbationer, kommer behandling väljas utifrån hur hon skattar sina besvär genom CAT. Vid lindriga besvär (CAT <10) provas i första hand kortverkande beta-stimulerare vid behov, vid mer uttalade besvär långverkande beta-2-agonist (LABA), ev. med tillägg av långverkande antikolinergika (LAMA)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-4",
+              "text": "Utöver farmakologisk behandling, vad är absolut viktigast för Birgitta? Vilken annan icke farmakologisk behandling rekommenderar du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag Viktigast: Rökstopp (rökavvänjning) - den enda åtgärd som hejdar sjukdomsprocessen. Vaccination mot influensa (årligen) och pneumokocker (2-3 vaccinationer). Nutritionskontroll - remiss till dietist då risk finns för viktnedgång. Fysisk aktivitet/träning bör rekommenderas alla med KOL (gärna FAR) - remiss till fysioterapeut. Bedömning och behandling av samsjuklighet och kardiovaskulära riskfaktorer. Ack 20 p\n\nEpilog\n\nFör att kvantifiera Birgittas besvär så får hon fylla i KOL-testet CAT (COPD Assessment Test) där hon får ganska låga poäng. Detta tyder på att hennes sjukdom ännu inte gett så stor påverkan på hennes liv. Viktigast för Birgitta är att sluta röka och du har ett motiverande samtal med henne och bokar på hennes önskemål in en tid hos en sköterska specialiserad på tobaksavvänjning. Du rekommenderar även fysisk aktivitet och erbjuder ett FAR, går igenom hennes kosthållning och rekommenderar vaccinationer mot influensa och pneumokocker. För att minska på\n\nde aktuella symtomen ger du även Birgitta kortverkande bronkdilaterare att ta vid behov samt en långtidsverkande muskarinreceptorantagonist (LAMA)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

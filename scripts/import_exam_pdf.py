@@ -10,7 +10,7 @@ import fitz
 
 
 ROOT = Path(__file__).resolve().parents[1]
-QUESTION_ID_RE = re.compile(r"([1-4][:.][0-9]+[:.][0-9]+)[:.]?\s*")
+QUESTION_ID_RE = re.compile(r"^(?:Fråga\s+)?([1-4][:.][0-9]+(?:[:.][0-9]+)?)[:.]?(?=\s|$)", re.MULTILINE)
 POINTS_RE = re.compile(r"\((\d+(?:[.,]\d+)?)\s*p\)?\.?", re.I)
 CASE_TITLE_RE = re.compile(r"Svarsförslag\s+(.+?)\s+20\s+poäng", re.I)
 IMAGE_HINT_RE = re.compile(r"\b(bild|figur|röntgenbilder|ekg|se bifogade|vad visar)\b", re.I)
