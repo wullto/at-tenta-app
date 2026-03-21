@@ -23,9 +23,11 @@ function specialtyName(caseTitle: string): string {
 export default function ExamList({
   exams,
   serverProgressMap = {},
+  hasAccess = false,
 }: {
   exams: Exam[]
   serverProgressMap?: ProgressMap
+  hasAccess?: boolean
 }) {
   const [localProgressMap, setLocalProgressMap] = useState<ProgressMap>({})
 
@@ -90,11 +92,38 @@ export default function ExamList({
             {isOpen && (
               <div className="mt-2 flex flex-col gap-3">
                 {group.map((exam) => {
+                  const isLocked = !hasAccess && !exam.id.startsWith("2015")
                   const progress = progressMap[exam.id]
                   const status = progress?.status
                   const scores = progress?.scores ?? {}
                   const hasProgress = !!progress
                   const totalEarned = hasProgress ? getTotalEarnedPoints(scores) : null
+
+                  if (isLocked) {
+                    return (
+                      <div
+                        key={exam.id}
+                        className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm opacity-50 cursor-not-allowed"
+                      >
+                        <div className="flex justify-between items-start">
+                          <div>
+                            <h3 className="text-lg font-semibold text-slate-900">{exam.title}</h3>
+                            <p className="mt-1 text-sm text-slate-500">{exam.date}</p>
+                          </div>
+                          <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-500">
+                            Kräver godkänt konto
+                          </span>
+                        </div>
+                        <div className="mt-4 flex flex-wrap gap-2">
+                          {exam.cases.map((c) => (
+                            <span key={c.id} className="rounded bg-slate-100 px-2 py-1 text-xs text-slate-400">
+                              {specialtyName(c.title)}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )
+                  }
 
                   return (
                     <Link

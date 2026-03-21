@@ -1,6 +1,7 @@
 import Link from "next/link"
-import { notFound } from "next/navigation"
+import { notFound, redirect } from "next/navigation"
 import { getExamById, getExamIds } from "@/lib/exams"
+import { getAuthorizedUser } from "@/lib/authz"
 import ModeSelector from "./ModeSelector"
 import ClearExamButton from "@/components/ClearExamButton"
 
@@ -11,6 +12,10 @@ export async function generateStaticParams() {
 
 export default async function TentaIntroPage({ params }: { params: Promise<{ examId: string }> }) {
   const { examId } = await params
+  if (!examId.startsWith("2015")) {
+    const authorizedUser = await getAuthorizedUser()
+    if (!authorizedUser) redirect("/")
+  }
   const exam = await getExamById(examId)
   if (!exam) notFound()
 

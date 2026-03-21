@@ -1,6 +1,7 @@
-import { notFound } from "next/navigation"
+import { notFound, redirect } from "next/navigation"
 import { getExamById, getExamIds } from "@/lib/exams"
 import { getProgressForExam } from "@/lib/progress"
+import { getAuthorizedUser } from "@/lib/authz"
 import ExamFlow from "./ExamFlow"
 
 export async function generateStaticParams() {
@@ -17,6 +18,10 @@ export default async function ProvPage({
 }) {
   const { examId } = await params
   const { mode } = await searchParams
+  if (!examId.startsWith("2015")) {
+    const authorizedUser = await getAuthorizedUser()
+    if (!authorizedUser) redirect("/")
+  }
   const exam = await getExamById(examId)
   if (!exam) notFound()
   const session = await getProgressForExam(examId)

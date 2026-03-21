@@ -80,7 +80,7 @@ export default async function Home() {
         <h2 className="text-xl font-semibold text-slate-900">Tentor</h2>
         <p className="mt-1 text-sm text-slate-500">Välj en tenta att öva på eller fortsätta.</p>
 
-        <ExamList exams={allExams} serverProgressMap={serverProgressMap} />
+        <ExamList exams={allExams} serverProgressMap={serverProgressMap} hasAccess={Boolean(authorizedUser)} />
       </section>
     </main>
   )

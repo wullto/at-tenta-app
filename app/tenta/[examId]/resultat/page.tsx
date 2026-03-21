@@ -1,6 +1,7 @@
-import { notFound } from "next/navigation"
+import { notFound, redirect } from "next/navigation"
 import { getExamById, getExamIds } from "@/lib/exams"
 import { getProgressForExam } from "@/lib/progress"
+import { getAuthorizedUser } from "@/lib/authz"
 import ResultatView from "./ResultatView"
 
 export async function generateStaticParams() {
@@ -10,6 +11,10 @@ export async function generateStaticParams() {
 
 export default async function ResultatPage({ params }: { params: Promise<{ examId: string }> }) {
   const { examId } = await params
+  if (!examId.startsWith("2015")) {
+    const authorizedUser = await getAuthorizedUser()
+    if (!authorizedUser) redirect("/")
+  }
   const exam = await getExamById(examId)
   if (!exam) notFound()
   const session = await getProgressForExam(examId)
