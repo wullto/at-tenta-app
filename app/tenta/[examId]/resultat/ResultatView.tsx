@@ -201,7 +201,7 @@ export default function ResultatView({
                     {/* Score input */}
                     <div className="flex items-center gap-2">
                       <span className="text-xs text-gray-500">Poäng:</span>
-                      {Array.from({ length: q.maxPoints + 1 }, (_, i) => i).map((pts) => (
+                      {Array.from({ length: Math.round(q.maxPoints / (q.maxPoints % 1 !== 0 ? 0.5 : 1)) + 1 }, (_, i) => i * (q.maxPoints % 1 !== 0 ? 0.5 : 1)).map((pts) => (
                         <button
                           key={pts}
                           onClick={() => handleScore(q.id, pts)}

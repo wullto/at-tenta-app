@@ -119,7 +119,7 @@ export default function DashboardStats({
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
           {displayAreaAverages.map((area) => (
             <div key={area.label} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <p className="text-xs uppercase tracking-wide text-slate-500">{area.label}</p>
+              <p className="text-xs uppercase tracking-wide text-slate-500">Snittpoäng – {area.label}</p>
               <p className="mt-2 text-3xl font-semibold text-slate-900">{area.percentage}%</p>
             </div>
           ))}

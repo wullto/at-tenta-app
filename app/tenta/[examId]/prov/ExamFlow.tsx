@@ -253,7 +253,10 @@ export default function ExamFlow({
               {showFacitPerQuestion && isRevealed && (
                 <div className="mt-3 border-t border-gray-100 pt-3 flex flex-col gap-3">
                   <div className="bg-green-50 border border-green-100 rounded-lg p-3">
-                    <p className="text-xs font-semibold text-green-700 uppercase tracking-wide mb-2">Facit</p>
+                    <div className="flex items-center justify-between mb-2">
+                      <p className="text-xs font-semibold text-green-700 uppercase tracking-wide">Facit</p>
+                      <span className="text-xs font-semibold text-green-700">{q.maxPoints} p</span>
+                    </div>
                     <ul className="text-sm text-green-900 space-y-1">
                       {q.facit.map((f, i) => (
                         <li key={i} className="flex gap-2">
@@ -271,7 +274,7 @@ export default function ExamFlow({
 
                   <div className="flex items-center gap-2">
                     <span className="text-xs text-gray-500">Sätt poäng:</span>
-                    {Array.from({ length: q.maxPoints + 1 }, (_, i) => i).map((pts) => (
+                    {Array.from({ length: Math.round(q.maxPoints / (q.maxPoints % 1 !== 0 ? 0.5 : 1)) + 1 }, (_, i) => i * (q.maxPoints % 1 !== 0 ? 0.5 : 1)).map((pts) => (
                       <button
                         key={pts}
                         onClick={() => handleScore(q.id, pts)}
