@@ -10,58 +10,30 @@ interface AuthPanelProps {
 }
 
 export default function AuthPanel({ userEmail, enabled, hasAccess = false }: AuthPanelProps) {
-  const [email, setEmail] = useState("")
   const [message, setMessage] = useState<string | null>(null)
-  const [allowRequest, setAllowRequest] = useState(false)
   const [isPending, startTransition] = useTransition()
 
-  async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
-    event.preventDefault()
-    if (!email) return
-
-    if (email === "ADMIN123") {
-      const response = await fetch("/api/dev-login", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ code: email }),
+  async function handleGoogleSignIn() {
+    startTransition(async () => {
+      const supabase = createSupabaseBrowserClient()
+      if (!supabase) return
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: "google",
+        options: {
+          redirectTo: window.location.origin + "/auth/callback",
+        },
       })
-      const result = await response.json()
-      if (!response.ok) {
-        setMessage(result.error ?? "Dev-inloggning misslyckades.")
-        return
-      }
-      window.location.reload()
-      return
-    }
-
-    const response = await fetch("/api/auth/start", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email }),
+      if (error) setMessage("Inloggning med Google misslyckades. Försök igen.")
     })
-
-    const result = await response.json()
-    if (!response.ok) {
-      if (result.error === "not_allowed") {
-        setAllowRequest(true)
-        setMessage("Den här e-postadressen är inte godkänd ännu.")
-        return
-      }
-      setMessage(result.error ?? "Inloggning misslyckades.")
-      return
-    }
-
-    setAllowRequest(false)
-    setMessage("Inloggningslänk skickad till din e-post.")
   }
 
   async function handleRequestAccess() {
-    if (!email) return
+    if (!userEmail) return
 
     const response = await fetch("/api/access-requests", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email }),
+      body: JSON.stringify({ email: userEmail }),
     })
     const result = await response.json()
 
@@ -70,8 +42,7 @@ export default function AuthPanel({ userEmail, enabled, hasAccess = false }: Aut
       return
     }
 
-    setAllowRequest(false)
-    setMessage("Förfrågan skickad. Lägg till adressen i `allowed_users` om du vill ge åtkomst.")
+    setMessage("Förfrågan skickad. Be administratören lägga till din e-post i whitelist.")
   }
 
   function handleSignOut() {
@@ -103,6 +74,18 @@ export default function AuthPanel({ userEmail, enabled, hasAccess = false }: Aut
             ? "Din progress sparas nu i databasen och används i dashboarden."
             : "Kontot är inte godkänt ännu. Be administratören lägga till din e-post i whitelist innan progress sparas."}
         </p>
+        {!hasAccess && (
+          <>
+            <button
+              onClick={handleRequestAccess}
+              disabled={isPending}
+              className="mt-3 rounded-lg bg-amber-100 px-4 py-2 text-sm font-medium text-amber-900 hover:bg-amber-200 disabled:opacity-60"
+            >
+              Begär tillgång
+            </button>
+            {message && <p className="mt-2 text-sm text-amber-800">{message}</p>}
+          </>
+        )}
         <button
           onClick={handleSignOut}
           disabled={isPending}
@@ -119,32 +102,17 @@ export default function AuthPanel({ userEmail, enabled, hasAccess = false }: Aut
   return (
     <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
       <h2 className="text-base font-semibold text-slate-900">Spara din progress</h2>
-      <p className="mt-1 text-sm text-slate-600">Logga in med e-postlänk för att synka tentor och få statistik.</p>
-      <p className="mt-1 text-xs text-slate-400">I lokal utveckling kan du också skriva `ADMIN123` för dev-inloggning.</p>
-      <form onSubmit={handleSubmit} className="mt-4 flex flex-col gap-3 sm:flex-row">
-        <input
-          type="text"
-          required
-          value={email}
-          onChange={(event) => setEmail(event.target.value)}
-          placeholder="din@mail.se eller ADMIN123"
-          className="min-w-0 flex-1 rounded-lg border border-slate-300 px-3 py-2 text-sm"
-          autoCapitalize="none"
-          autoCorrect="off"
-        />
-        <button className="rounded-lg bg-slate-900 px-4 py-2 text-sm font-medium text-white hover:bg-slate-800">
-          Skicka länk
-        </button>
-      </form>
-      {allowRequest && (
+      <p className="mt-1 text-sm text-slate-600">Logga in med Google för att synka tentor och få statistik.</p>
+      <div className="mt-4">
         <button
-          onClick={handleRequestAccess}
-          className="mt-3 rounded-lg bg-amber-100 px-4 py-2 text-sm font-medium text-amber-900 hover:bg-amber-200"
+          onClick={handleGoogleSignIn}
+          disabled={isPending}
+          className="rounded-lg bg-slate-900 px-4 py-2 text-sm font-medium text-white hover:bg-slate-800 disabled:opacity-60"
         >
-          Begär tillgång
+          Logga in med Google
         </button>
-      )}
-      {message && <p className="mt-3 text-sm text-slate-600">{message}</p>}
+      </div>
+      {message && <p className="mt-3 text-sm text-red-600">{message}</p>}
     </div>
   )
 }

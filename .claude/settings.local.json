@@ -25,7 +25,11 @@
       "Bash(cp page32_img1.jpeg caput-medusae.jpeg)",
       "WebFetch(domain:ki.se)",
       "Bash(curl -s \"https://ki.se/lime/eat-provet/eat-provarkivet\")",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npm run:*)",
+      "WebSearch",
+      "WebFetch(domain:supabase.com)",
+      "WebFetch(domain:support.google.com)"
     ]
   }
 }
