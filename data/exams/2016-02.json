@@ -1,0 +1,922 @@
+{
+  "id": "2016-02",
+  "title": "AT-prov februari 2016",
+  "date": "2016-02-26",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Allmänmedicin",
+      "points": 20,
+      "intro": "Stefan 53 år söker dig på vårdcentralen för smärta i armbågen. Stefan har tidigare jobbat som lastbilschaufför. För ett par månader sedan bytte han jobb och arbetar nu som snickare. I arbetet lyfter han grovt virke upp på sågbord och tillverkar maskinlådor som är 5-6 meter långa. Vid monteringen använder han spikpistol, han är högerhänt. Sedan några veckor har Stefan ont i höger armbåge. Stefan berättar att han får rejält ont bara av att lyfta ett mjölkpaket ur kylen.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilken diagnos är troligast? Motivera varför den diagnosen är mest sannolik och vad som är orsaken till symtomen.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lateral epikondylit",
+                "Nytt och repetitivt arbete med relativt tung belastning"
+              ],
+              "facitExplanation": "Lateral epikondylit är troligast på grund av det nytillkomna, repetitiva och tunga arbetet som snickare (lyft av virke, spikpistol). Smärtan vid lyft av mjölkpaket är typiskt för lateral epikondylit.",
+              "tags": ["lateral epikondylit", "differentialdiagnoser", "arbetsrelaterad sjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Du bedömer att han har lateral epikondylit.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilka kliniska tester och fynd verifierar denna diagnos?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Palpation kring laterala epikondylen är smärtsam",
+                "Smärta vid extension av handleden mot motstånd"
+              ],
+              "facitExplanation": "Dessa två kliniska fynd – lokal ömhet vid laterala epikondylen och smärta vid extension av handleden mot motstånd – är de klassiska verifierande testen för lateral epikondylit (t.ex. Thomsens test).",
+              "tags": ["lateral epikondylit", "klinisk undersökning"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Vid undersökningen finner du att han smärtar vid tryck över laterala epikondylen samt att extension av handen mot motstånd framkallar smärta. Stefan är högerhänt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Nämn tre relevanta åtgärder som behandling av Stefans laterala epikondylit. Motivera varje åtgärd.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fysioterapi med excentrisk muskelträning av underarmens extensormuskulatur, ergonomiska råd, akupunktur",
+                "Epikondylitbandage kan vara symtomlindrande",
+                "Symtomlindring med NSAID lokalt eller peroralt",
+                "Sjukskrivning vid kraftiga smärtor (kortare, upp till 4 veckor)",
+                "Hänvisa till företagshälsovård, anpassa arbets- eller fritidsaktivitet"
+              ],
+              "facitExplanation": "Behandlingen syftar till att minska belastning, lindra smärta och rehabilitera senstrukturen. Excentrisk träning har bäst evidens. NSAID ger symtomlindring. Kortison har viss kortsiktig effekt men är negativt på lång sikt. Sjukskrivning är inte i sig en behandling men kan vara nödvändig vid svår smärta. Arbetsanpassning och FHV är centralt för arbetsrelaterade besvär.",
+              "tags": ["lateral epikondylit", "behandling", "fysioterapi"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Du väljer att behandla Stefan med NSAID-gel lokalt, fysioterapi med excentrisk träning samt sjukskrivning på deltid under två veckor. Stefan frågar om han också kan få behandling med kortisoninjektion.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vad svarar du Stefan, ta ställning och beskriv kortfattat fördelar och nackdelar med kortisoninjektion i det här fallet.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kortisoninjektion ger kortsiktig smärtlindrande effekt men är negativ för prognosen på längre sikt",
+                "Rekommendationen blir att kortison bör undvikas",
+                "Risk för kutan och subkutan atrofi"
+              ],
+              "facitExplanation": "Kortisoninjektion kan ge kortvarig smärtlindring men studier visar sämre långtidsprognos jämfört med avvaktan eller sjukgymnastik. Rekommendationen är att undvika kortison. Nackdelar inkluderar risk för vävnadsatrofi och negativ effekt på senpans läkning.",
+              "tags": ["lateral epikondylit", "kortisoninjektion", "behandling"]
+            },
+            {
+              "id": "1-4-2",
+              "text": "Stefan uttrycker oro för att han inte kommer att klara att arbeta. Vilka åtgärder rekommenderar du inför att Stefan skall återgå i arbete efter två veckors deltidssjukskrivning? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Remiss/kontakt med företagshälsovården (FHV) för hjälp med förebyggande åtgärder",
+                "Ergonomiska råd",
+                "Eventuell fortsatt sjukskrivning sköts av FHV"
+              ],
+              "facitExplanation": "Eftersom besvären är tydligt arbetsrelaterade och risken finns att de fortsätter mer än två veckor, bör Stefan kontakta företagshälsovården. FHV kan göra en arbetsplatsbedömning, ge ergonomiska råd och hantera eventuell fortsatt sjukskrivning.",
+              "tags": ["arbetsrelaterad sjukdom", "företagshälsovård", "rehabilitering"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du bedömer att besvären är arbetsrelaterade och att det finns risk att besvären kommer att fortsätta mer än två veckor. Eftersom det handlar om tydligt arbetsrelaterade besvär rekommenderar du att Stefan skall kontakta företagshälsovården för hjälp med förebyggande åtgärder. Stefan har aldrig haft kontakt med företagshälsovård och är tveksam till om hans arbetsplats har tillgång till detta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Vem har ansvar för att företagshälsovård eller motsvarande kan erbjudas? Vilka lagar reglerar detta ansvar?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det är arbetsgivarens ansvar",
+                "Arbetsmiljölagen (kap 3, §2C) och Arbetsmiljöverkets författningssamling (AFS 2001:1 §12)"
+              ],
+              "facitExplanation": "Enligt Arbetsmiljölagen och Arbetsmiljöverkets föreskrifter om systematiskt arbetsmiljöarbete (AFS 2001:1) är arbetsgivaren skyldig att tillhandahålla företagshälsovård eller motsvarande om behov uppstår. Företaget behöver inte ha fast avtal utan kan köpa enstaka tjänst.",
+              "tags": ["företagshälsovård", "arbetsmiljö", "lagstiftning"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Arbetsgivaren, som ansvarar för att ordna med företagshälsovård enligt Arbetsmiljölagen och Arbetsmiljöverket, bokade en tid till en Företagshälsovårds-mottagning där Stefan fick behandling och insatser enligt praxis och var efter ett halvt år besvärsfri. Två år senare återkommer Stefan och berättar att han sista året börjat besväras av darrhänthet (tremor).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Ange två rimliga differentialdiagnoser?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Parkinsons sjukdom",
+                "Essentiell tremor",
+                "(Hypertyreos, läkemedelsbiverkningar)"
+              ],
+              "facitExplanation": "De två vanligaste orsakerna till tremor hos en medelålders man är Parkinsons sjukdom och essentiell tremor. Andra orsaker inkluderar hypertyreos och läkemedelsbiverkningar.",
+              "tags": ["tremor", "Parkinsons sjukdom", "essentiell tremor", "differentialdiagnoser"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Du överväger Parkinsons sjukdom eller Essentiell tremor.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vilka undersökningsfynd är typiska vid respektive diagnos?",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Parkinsons sjukdom: ensidig start, hypokinesi, vilotremor (långsam grovvågig), rigiditet",
+                "Essentiell tremor: nästan alltid bilateralt, snabb finvågig tremor, tilltar vid intention"
+              ],
+              "facitExplanation": "Parkinsons sjukdom kännetecknas av vilotremor, rigiditet, hypokinesi och ofta asymmetrisk debut. Essentiell tremor är typiskt bilateral, uppträder vid avsiktlig rörelse (ej i vila), är finvågig och snabb, och saknar de övriga Parkinson-symtomen.",
+              "tags": ["Parkinsons sjukdom", "essentiell tremor", "klinisk undersökning"]
+            },
+            {
+              "id": "1-7-2",
+              "text": "Hur påverkas essentiell tremor av olika livsstilsfaktorer?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ökar av: stress, trötthet, koffein, nikotin",
+                "Minskar av: alkohol"
+              ],
+              "facitExplanation": "Essentiell tremor förvärras av stress, trötthet, koffein och nikotin. Alkohol har en känd dämpande effekt på essentiell tremor, vilket ibland leder till att patienter själv-medicinerar med alkohol – ett viktigt samtal att ha med patienten.",
+              "tags": ["essentiell tremor", "livsstilsfaktorer"]
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Stefans skakningar syns inte när han sitter still i besöksstolen men blir tydliga när han plockar upp näsduk för att torka näsan. Stefan har märkt att skakningarna minskar när han dricker alkohol men att det blir värre när han är stressad eller har druckit kaffe. Efter att ha undersökt Stefan bedömer du att han har essentiell tremor.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Stefan upplever att han har mycket besvär och frågar efter behandling. Vilken läkemedelsbehandling erbjuder du i första hand?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "B-blockad, icke-selektiv (t.ex. propranolol/Inderal)"
+              ],
+              "facitExplanation": "Icke-selektiv betablockad, framför allt propranolol (Inderal), är förstahandsbehandling vid essentiell tremor med kliniskt besvärande symtom.",
+              "tags": ["essentiell tremor", "betablockad", "farmakologisk behandling"]
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Stefan erbjuds behandling med icke selektiv B-blockerare typ Inderal.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Vilka biverkningar är vanliga, och rimligt att du informerar Stefan om och som kan uppträda vid symtombehandling med en icke-selektiv betablockad?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bradykardi – sämre kondition, yrsel, dyspné",
+                "Kalla fingrar och tår (Raynauds fenomen)",
+                "Mardrömmar, sömnstörningar, impotens"
+              ],
+              "facitExplanation": "Vanliga biverkningar av icke-selektiv betablockad inkluderar bradykardi med nedsatt kondition, perifer vasokonstriktion (kalla extremiteter, Raynauds), och centralnervösa biverkningar som mardrömmar och sömnstörningar. Impotens förekommer också.",
+              "tags": ["betablockad", "läkemedelsbiverkningar", "farmakologisk behandling"]
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Du informerar om vanliga biverkningar som t.ex. mardrömmar, låg puls, kalla fingrar och tår. Nästa år träffar du Stefan igen. Behandlingen med B-blockad gav måttlig effekt mot skakningarna som nu besvärar hela tiden. Han har också börjat röra sig långsamt med snubblande gång.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Nämn en sannolik differentialdiagnos till essentiell tremor och motivera varför den är sannolik nu.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Parkinsons sjukdom – tremorn var sannolikt ett tidigt symtom på Parkinson och sjukdomen har progredierat med tillkomst av gångrubbning",
+                "Alternativt: alkoholrelaterad myo-/neuropati"
+              ],
+              "facitExplanation": "Den tillkomna hypokinesi med snubblande gång talar för att detta är Parkinsons sjukdom och att tremorn var ett tidigt symtom. Parkinsonsjukdomen progredierar och leder till hypokinesi och gångrubbning utöver tremorn.",
+              "tags": ["Parkinsons sjukdom", "essentiell tremor", "differentialdiagnoser"]
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Det finns fortfarande en lättare tremor av essentiell typ men förnyad undersökning verifierar rigiditet och släpande gång och nu finns också en tydlig vilotremor. Symptomen är mest uttalade på höger sida.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Vilket farmakologiskt behandlingsalternativ är ett förstahands alternativ vid Parkinsons sjukdom? Beskriv hur behandlingen lämpligen initieras.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dopaminagonist eller levodopa",
+                "Behandling startas i låg dos med långsam upptrappning",
+                "Eftersträvas så jämn läkemedelseffekt över dygnet som möjligt"
+              ],
+              "facitExplanation": "Förstahandsbehandling vid Parkinsons sjukdom är antingen levodopa (i kombination med dopa-dekarboxylashämmare) eller dopaminagonist. Behandlingen initieras i låg dos och trappas upp långsamt för att minimera biverkningar och uppnå jämn effekt.",
+              "tags": ["Parkinsons sjukdom", "levodopa", "farmakologisk behandling"]
+            },
+            {
+              "id": "1-11-2",
+              "text": "Beskriv vad som händer med nervcellerna vid Parkinson (anatomiska strukturer och vilken/vilka transmittorsubstanser som primärt påverkas)!",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Degeneration av det nigrostriatala dopaminerga bansystemet",
+                "Dopaminbrist i neostriatum (putamen)",
+                "Substantia nigra är den primärt drabbade strukturen",
+                "Dopaminbrist leder till kolinerg övervikt via D2-receptor-medierad disinhibition av kolinerga interneuron"
+              ],
+              "facitExplanation": "Vid Parkinsons sjukdom degenererar de dopaminerga neuronen i substantia nigra pars compacta. Dessa neuron projicerar till striatum (putamen) via det nigrostriatala bansystemet. Dopaminbristen i striatum leder till obalans i basalgangliernas motorikkrets, med kolinerg övervikt som följd. Glutamaterg input från kortex och D1/D2-receptormedierade effekter spelar också roll.",
+              "tags": ["Parkinsons sjukdom", "neuroanatomi", "dopamin"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Gerda Andersson, född 1932, inkommer till akuten en morgon. Hon har ringt ambulansen efter att hon kräkts hela natten och nu är alldeles svag och darrig. Ambulansen rapporterar att patienten har en andningsfrekvens på 34 andetag/min, är tachykard (124/min) och saturerar sig runt 90 %. Blodtryck 110/70 mm Hg. Ambulanssjukskötare rapporterar att patientens buk är uppdriven och generellt ömmande. Patienten klagar även över ont i magen varför patienten triageras till att först träffa en kirurg. Du arbetar som underläkare på kirurgakuten.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Detta är en svårt sjuk patient. Förutom anamnes vilka blir dina tre första åtgärder.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Undersök patienten enligt ABC för att snabbt få uppfattning om vitalparametrar",
+                "Ge syrgas",
+                "Be sköterskan sätta grova infarter (iv-access)"
+              ],
+              "facitExplanation": "Vid en svårt sjuk patient är prioriteringen alltid ABCDE-genomgång för att identifiera livshotande tillstånd. Syrgas ges vid låg saturation. Iv-access med grova nålar möjliggör vätske- och läkemedelstillförsel. Monitorering kopplas upp parallellt.",
+              "tags": ["akutmedicin", "ABCDE", "initial handläggning"]
+            },
+            {
+              "id": "2-1-2",
+              "text": "Beskriv vad du bedömer när du undersöker Gerdas buk, och vilka är dina viktigaste frågeställningar under respektive moment?",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektion: konfiguration (uppdriven, sammanfallen, adipös, mager), ärr, uppenbara bråck",
+                "Auskultation: tarmljud, ileus",
+                "Perkussion: tympanistisk (gas) eller dämpad (vätska/organ)",
+                "Palpation av alla kvadranter: organförstoringar, palpabla bråck, ömhet, peritonit",
+                "Per rektum: indurationer, fecesfärg, blödning"
+              ],
+              "facitExplanation": "En systematisk bukundersökning innefattar inspektion (konfiguration, ärr, synliga bråck), auskultation (tarmljud – avsaknad talar för ileus), perkussion (tympanistisk ton vid gas, dämpad vid vätska) och palpation av alla bukkvadranter samt ljumskar för bråck och ömhet/peritonit. Per rektum ger information om ampullinnehåll och blödning.",
+              "tags": ["bukundersökning", "ileus", "klinisk undersökning"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "När du undersökt Gerda enligt ABC och kopplat upp henne på monitorering: A: Fri luftväg, andningsfrekvens 32/min. B: Rena andningsljud bilateralt, saturation 90%. C: Blodtryck 90/70 mm Hg, hjärtfrekvens regelbunden 123/min. Temp 37.6. Blodprover: Hb 167 g/L, Na 125 mmol/L, K 5.6 mmol/L, Kreatinin 146 µmol/L, syra-bas normalt. Bukstatus: Uppdriven och generellt ömmande buk mer åt vänster fossa. Operationsärr under höger arcus. Inga tarmljud. Tympanistisk perkussionston. I vänster ljumske en hård resistens ca 4 cm i diameter, ömmar kraftigt. Per rektum: lite hård avföring, normalfärgad feces.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Hur tolkar du resultaten från blodproverna? Vilka två åtgärder är lämpliga att vidtaga härnäst och motivera varför just de två åtgärderna är viktiga?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gerda är kraftigt dehydrerad (högt Hb, högt kreatinin), hyponatrem och hyperkalem",
+                "Åtgärd 1: Ge Ringer Acetat iv (vätskeresuscitation)",
+                "Åtgärd 2: Ta EKG (hyperkalemi kan ge livshotande arytmier)",
+                "Även: buköversikt röntgen, CT buk/ljumske, repositionsförsök av bråck"
+              ],
+              "facitExplanation": "De avvikande proverna visar dehydrering (högt Hb och kreatinin), hyponatremi och hyperkalemi. Hyperkalemi med K 5.6 är potentiellt farlig för hjärtrytmen, varför EKG är prioriterat. Vätsketillförsel med Ringer Acetat behövs akut för att behandla dehydreringen och cirkulationssvikten.",
+              "tags": ["vätska och elektrolyter", "hyperkalemi", "dehydrering", "EKG"]
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilken kirurgisk diagnos är mest sannolik? Vilka akuta komplikationer kan denna diagnos orsaka?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inklämt ljumskbråck (inguinalt eller femoralt)",
+                "Komplikationer: ileus, cirkulationssvikt i inklämt organ/vävnad, perforation av tarm"
+              ],
+              "facitExplanation": "Den hårda, ömmande resistensen i vänster ljumske hos en äldre kvinna med ileussymtom är högst sannolikt ett inklämt ljumskbråck. Komplikationer inkluderar mekanisk ileus (redan föreligger), tarmischemi med risk för gangränös tarm och perforation om bråcket är länge inklämt.",
+              "tags": ["ljumskbråck", "ileus", "bråckkomplikationer"]
+            },
+            {
+              "id": "2-2-3",
+              "text": "Vilken typ av preparat ordinerar du? Ungefärlig dos? Administrationssätt? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Opioid (t.ex. morfin)",
+                "2,5 mg iv i smådoser tills patienten är smärtlindrad",
+                "Enbart intravenös administration (oral/rektalt ej aktuellt vid ileus)",
+                "NSAID ger 0 poäng"
+              ],
+              "facitExplanation": "Vid svår buksmärta och ileus är opioid förstahandsval. Administreras intravenöst i titrerade smådoser för snabb effekt och god dostitrering. NSAID är kontraindicerat vid misstänkt tarmischemi och kirurgisk åkomma, och kan ej ges peroralt vid ileus.",
+              "tags": ["smärtlindring", "opioid", "ileus"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Gerda har ett ileustillstånd, troligen till följd av ett inklämt ljumskbråck. Du ordinerar opioid som smärtlindring. När Gerda blivit bättre smärtlindrad samt fått en liter RingerAcetat mår hon betydligt bättre och det går nu att ta en adekvat anamnes. Hon har hypertoni som hon medicinerar för med Enalapril 10 mg, och hon är gallopererad i ungdomen. Insjuknandet kom väldigt plötsligt efter att hon igår kväll lyft en tung låda. Hon kände plötslig smärta i ljumsken, strålande ner på låret. Möjligtvis har hon en längre tid märkt att det ibland buktar lite i vänstra ljumsktrakten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Ordinera lämplig intravenös vätska för de kommande 6 timmarna. Vilken typ av dropp och beräknad mängd det kommande sex timmarna.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Minst 2 liter Ringer Acetat ytterligare",
+                "Därefter kan man övergå till Glukosdropp förutsatt adekvat urinproduktion och inga tecken på övervätskning"
+              ],
+              "facitExplanation": "Vid kraftig dehydrering är Ringer Acetat förstahandsval för att ersätta elektrolyt- och vätskeförluster. Totalt minst 2-3 liter under 6 timmar är rimligt. Man bör sedan övergå till glukosdropp och styra vätsketillförseln efter diures, blodtryck och puls.",
+              "tags": ["vätska och elektrolyter", "vätskeresuscitation", "ileus"]
+            },
+            {
+              "id": "2-3-2",
+              "text": "Beskriv hur du bedömer om vätsketillförseln är adekvat, ange tre olika parametrar (t.ex. kliniska fynd och prover) som hjälper dig i din bedömning.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diures (mål >0,5 ml/kg/h)",
+                "Puls och blodtryck (normalisering)",
+                "Hudturgor",
+                "Hb och elektrolyter (normalisering)"
+              ],
+              "facitExplanation": "Adekvat vätsketillförsel bedöms kliniskt och biokemiskt: urinproduktion är det bästa måttet på organperfusion, normalisering av puls och blodtryck indikerar hemodynamisk stabilisering, och sjunkande Hb och kreatinin tyder på rehydrering.",
+              "tags": ["vätska och elektrolyter", "monitorering", "dehydrering"]
+            },
+            {
+              "id": "2-3-3",
+              "text": "Förklara mekanismen bakom dehydrering hos patienter med ileus.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vätskan omfördelas till 'third space' (tarmen)",
+                "Det högosmolära tarminnehållet drar till sig vätska från blodbanan via osmotisk effekt",
+                "Upprepade kräkningar är ytterligare en orsak till dehydrering",
+                "Vätskedeficit kan bli mycket stort (flera liter)"
+              ],
+              "facitExplanation": "Vid ileus stannar tarmen och det ansamlade tarminnehållet med hög osmolaritet drar vätska från blodbanan (third space). Samtidigt försvinner den normala reabsorptionen av sekreterat tarminnehåll. Kräkningar förstärker vätskeförlusten. Sammanlagt kan förlusten uppgå till flera liter.",
+              "tags": ["ileus", "dehydrering", "vätska och elektrolyter"]
+            },
+            {
+              "id": "2-3-4",
+              "text": "Patienten hade kräkts hela natten innan och skulle sannolikt ha utvecklat en metabol alkalos och borde egentligen ha hypokalemi. Dehydreringen i sig kan inte förklara hela hennes hyperkalemi. Vilken ytterligare orsak kan patienten ha som ger henne hyperkalemi? Förklara mekanismen bakom.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ACE-hämmare (Enalapril) påverkar renin-angiotensin-aldosteronsystemet",
+                "Aldosteronhämmande effekt av ACE-hämmare ger kaliumsparande effekt (hyperkalemi)"
+              ],
+              "facitExplanation": "ACE-hämmare blockerar omvandlingen av angiotensin I till angiotensin II, vilket minskar aldosteronfrisättningen. Aldosteron stimulerar normalt kaliumutsöndring i njurens samlingsrör. Minskad aldosteroneffekt leder till kaliumretention och hyperkalemi – en välkänd biverkning av ACE-hämmare.",
+              "tags": ["hyperkalemi", "ACE-hämmare", "läkemedelsbiverkningar"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Gerda har ett inklämt ljumskbråck som ger henne ett ileustillstånd. Eftersom hon är en äldre kvinna som dessutom fött flera barn måste man även tänka på risken för femoralbråck. Bråcket reponeras framgångsrikt. Gerda läggs in för observation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Nämn de tre relevanta parametrar att observera. Motivera.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Temperatur (feber kan tyda på tarmischemi/infektion)",
+                "Bukstatus (bedöma om ileuset släpper och allmäntillståndet förbättras)",
+                "CRP och LPK (inflammationsmarkörer)",
+                "Vitalparametrar (puls, blodtryck)"
+              ],
+              "facitExplanation": "Man måste dagligen bedöma om patientens ileus släpper och om allmäntillståndet förbättras. Det finns risk för att den tidigare inklämda tarmen tagit skada och perforerar, om bråcket har varit inklämt en stund. Temperatur, bukstatus och inflammationsmarkörer är centrala.",
+              "tags": ["ljumskbråck", "ileus", "postoperativ övervakning"]
+            },
+            {
+              "id": "2-4-2",
+              "text": "Redogör för skillnaderna mellan ett inguinalt bråck och ett femoralbråck, ange i svaret vilken anatomisk relation respektive bråcktyp har till inguinalligamentet.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inguinalt bråck: återfinns i inguinalkanalen ovanför inguinalligamentet",
+                "Femoralt bråck: återfinns i femoralkanalenunder inguinalligamentet"
+              ],
+              "facitExplanation": "Inguinala bråck passerar ovanför (kranialt om) inguinalligamentet genom inguinalkanalen. Femorala bråck passerar nedom (kaudalt om) inguinalligamentet genom femoralkanalenmedian om femoralkärlen. Femoralbråck är vanligare hos kvinnor och har hög risk för inklämning.",
+              "tags": ["bråckanatomi", "ljumskbråck", "femoralbråck"]
+            },
+            {
+              "id": "2-4-3",
+              "text": "Inguinala bråck och femorala bråck är vanliga typer av bukväggsbråck. Vilka andra anatomiska lokalisationer av bukväggsbråck förekommer?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ärrbråck (incisionalbråck)",
+                "Epigastricabråck",
+                "Spigelibråck",
+                "Navelbråck (umbilicalbråck, medellinjebråck)"
+              ],
+              "facitExplanation": "Utöver inguinala och femorala bråck förekommer navelbråck (vanliga hos barn och överviktiga vuxna), epigastricabråck (i linea alba ovanför naveln), Spigelibråck (lateralt om rectusmuskulaturen) och ärrbråck efter tidigare operationer.",
+              "tags": ["bråckanatomi", "bukväggsbråck", "navelbråck"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Psykiatri",
+      "points": 20,
+      "intro": "Du arbetar som vikarierande underläkare på stadens vårdcentral. Där möter du Sara som studerar ekonomi på universitetet. Hon söker för hjärtklappning. Sara är en 23-årig smal kvinna. När du hälsar på henne så noterar du att hon inte vill ta i hand och på det hela har en lite blyg och tillbakadragen attityd. Hon har fått problem framförallt i skolan där hon vid upprepade tillfällen besvärats av svettningar, oro och hjärtklappningar.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Nämn två rimliga somatiska differentialdiagnoser och motivera dessa.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypertyreos – kan ge hjärtklappning, svettningar och oro",
+                "Supraventrikulära takyarytmier / förmaksflimmer – kan ge episodisk hjärtklappning",
+                "Ortostatisk hypotension – kan ge symtom vid lägesändring"
+              ],
+              "facitExplanation": "Somatiska orsaker till episodisk hjärtklappning, svettningar och oro hos en ung kvinna inkluderar hypertyreos (ger sympatikusaktivering), takyarytmier (t.ex. AVNRT, förmaksflimmer) och ortostatism. Adekvata motiveringar krävs för full poäng.",
+              "tags": ["differentialdiagnoser", "hjärtklappning", "hypertyreos", "takyarytmi"]
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilken blir din preliminära psykiatriska diagnos? Motivera!",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ångeststörning – antingen social fobi eller paniksyndrom",
+                "Motivering: symtomen uppfyller kriterier för ångeststörning, kopplingen till specifik situation (skola, sociala situationer) gör social fobi mest sannolik"
+              ],
+              "facitExplanation": "Symtombilden med återkommande svettningar, oro och hjärtklappning framförallt i sociala situationer (skola, presentationer) är typisk för social fobi. Paniksyndrom är också möjligt. Motivering med koppling till situationsspecificitet ger poäng.",
+              "tags": ["social fobi", "ångestsyndrom", "paniksyndrom"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Under senaste terminen har hon känt att hon 'bara orkar inte' stå ut och att fullfölja sina studier. Du misstänker i första hand en ångestsjukdom men har funderingar kring ortostatism och andra orsaker till takyarytmier. Vid besöket: Vikt 55 kg, Längd 167 cm. Auskultation av hjärtat: regelbunden rytm, inga blåsljud. Puls 75/min. Blodtryck: sittande 115/80 mm Hg, stående efter 2 min 120/80 mm Hg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Du bestämmer dig för att utvidga din somatiska anamnes; nämn tre frågor du vill ställa och motivera varför.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hereditet för hjärtsjukdom/hjärtfel? – ökar sannolikheten för takyarytmier",
+                "Tar Sara droger, alkohol eller koffein? – kan utlösa takykardier",
+                "Tar Sara någon medicin? – kan ge takykarditriggande biverkningar",
+                "Beror hjärtklappningen på kroppspositionen? – ortostatism",
+                "Senaste menstruation / graviditet? – vanlig orsak till hjärtklappning",
+                "Starkare mens / vegetarian / anemi? – takykardi vid ansträngning pga anemi"
+              ],
+              "facitExplanation": "Utvidgad somatisk anamnes syftar till att utesluta kardiella, metabola och farmakologiska orsaker till takyarytmi. Varje fråga bör motiveras i relation till differentialdiagnosen.",
+              "tags": ["anamnes", "takyarytmi", "differentialdiagnoser"]
+            },
+            {
+              "id": "3-2-2",
+              "text": "Vilken ytterligare somatisk undersökning vill du genomföra på vårdcentralen? Motivera din undersökning.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "EKG – för att differentiera/utesluta takyarytmier"
+              ],
+              "facitExplanation": "EKG är den viktigaste kompletterande undersökningen för att utesluta strukturella hjärtsjukdomar och arytmier (t.ex. WPW, long QT, AV-block) som kan orsaka episodisk hjärtklappning.",
+              "tags": ["EKG", "takyarytmi", "klinisk undersökning"]
+            },
+            {
+              "id": "3-2-3",
+              "text": "För somatisk differentialdiagnos vill du också ta blodprov. Nämn två relevanta laboratorieanalyser du vill du genomföra. Motivera val av analyser.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Thyroideaprover (TSH, T4) – för att utesluta hypertyreos som orsak till symtomen",
+                "Hb – för att utesluta anemi som orsak till takykardi"
+              ],
+              "facitExplanation": "Hypertyreos ger sympatikusaktivering med hjärtklappning, svettningar och oro och utesluts med TSH/T4. Anemi kan ge kompensatorisk takykardi och utesluts med Hb.",
+              "tags": ["hypertyreos", "anemi", "laboratoriediagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Utvidgad anamnes ger inga hållpunkter för hereditet på hjärtsjukdom, inga mediciner eller droger som ger upphov till arytmi och EKG är helt normalt. Numera kommer symtomen redan när hon bara försöker att gå till skolan och vet att hon ska presentera en uppgift eller prata inför kursen. Utifrån anamnes och normalt somatiskt status finner du att ångeststörning är mest sannolik. Du bestämmer dig för att psykoterapi i form av beteendeterapi är den mest lämpliga behandlingen. När du föreslår Sara psykoterapi är hon skeptisk och vill ha en förklaring.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Beskriv kortfattat vilka faktorer utifrån ett beteendeterapeutiskt/inlärningsteoretiskt synsätt som ingår i uppkomsten av en sådan ångeststörning. OBS: ta inte principer för behandlingen här.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Initial associativ inlärning (klassisk betingning): social situation kopplas ihop med ångest/obehag",
+                "Konsekvens-/instrumentell inlärning: undvikande beteende leder till ångestminskning (negativ förstärkning) vilket förstärker undvikandet",
+                "Undvikandet vidmakthåller och förstärker ångesten på lång sikt"
+              ],
+              "facitExplanation": "Enligt tvåfaktormodellen uppkommer ångeststörningen i två steg: (1) klassisk betingning där en neutral situation (t.ex. skolan) associeras med ångest, och (2) operant betingning där undvikande beteende leder till kortvarig ångestlindring (negativ förstärkning) vilket vidmakthåller och förstärker störningen.",
+              "tags": ["social fobi", "ångestsyndrom", "inlärningsteori"]
+            },
+            {
+              "id": "3-3-2",
+              "text": "Förklara för Sara hur en sådan terapi skulle gå till och vad man tror de verksamma komponenterna är.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Exponering för de ångestframkallande situationerna (gradvis)",
+                "Undvikande beteende är det som vidmakthåller ångesten – exponeringen bryter detta mönster",
+                "Genom exponering sker släckning eller nyinlärning (situationen är inte farlig)"
+              ],
+              "facitExplanation": "Kognitiv beteendeterapi (KBT) med exponering innebär att patienten gradvis exponeras för de situationer som utlöser ångest, utan att fly eller undvika. Detta leder till ångesthabituering och nyinlärning att situationen inte är farlig. Nödvändiga element: undvikandets roll, exponering som metod, och släckning/nyinlärning som mekanism.",
+              "tags": ["KBT", "exponering", "social fobi"]
+            },
+            {
+              "id": "3-3-3",
+              "text": "Vilken evidensbaserad läkemedelsbehandling är förstahandsval för behandling av Saras ångesttillstånd?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SSRI (selektiva serotoninåterupptagshämmare)"
+              ],
+              "facitExplanation": "SSRI är förstahandsval vid farmakologisk behandling av ångeststörningar inklusive social fobi och paniksyndrom. De har god evidens och relativt gynnsam biverkningsprofil jämfört med bensodiazepiner.",
+              "tags": ["SSRI", "ångestsyndrom", "farmakologisk behandling"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Sara undrar om behandling med läkemedel skulle kunna vara ett alternativ och du berättar att det finns så kallade SSRI-mediciner.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Nämn fyra vanliga biverkningar som kan uppträda i samband med behandling av denna läkemedelsgrupp?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Initial ångestförstärkning",
+                "Illamående",
+                "Sömnstörningar",
+                "Sexuell dysfunktion",
+                "Huvudvärk",
+                "Diarré/GI-besvär"
+              ],
+              "facitExplanation": "Vanliga biverkningar av SSRI inkluderar initial ångestförstärkning (viktigt att informera om för att undvika att patienten avslutar behandlingen), illamående (vanligast i början), sömnstörningar och sexuella biverkningar (minskad libido, orgasmsvårigheter). Se FASS för fullständig lista.",
+              "tags": ["SSRI", "läkemedelsbiverkningar", "farmakologisk behandling"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Efter ett års föräldraledighet återvänder du till samma vårdcentral och träffar Sara igen. Sara fick vänta på kuratorskontakten och under tiden skrevs det ut 0,5 mg Alprazolam vid behov, max 6 ggr om dagen. Sara upplevde omedelbar förbättring och återupptog sina studier. Efter åtta månader gjordes ett försök att minska dosen med 1 mg per vecka – vid det laget åt Sara 6 mg om dagen. Minskningen ledde till omedelbar försämring med kraftig ångest, svettningar, darrningar och oro, varför försöket avbröts. Därefter fick hon stegvis ökad dos och ytterligare två bensodiazepiner tillades: diazepam och flunitrazepam.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Hur kan man se på försämringen som Sara upplevde vid minskningsförsöket? Motivera två alternativa förklaringar/diagnoser för de beskrivna symtomen.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Abstinensbesvär (bensodiazepinoabstinens)",
+                "Återfall av ångeststörningen"
+              ],
+              "facitExplanation": "Försämringen vid dosminskning kan antingen vara abstinens (som ger ångest, svettningar, darrningar – liknande symtom) eller återfall av den ursprungliga ångeststörningen. Kliniskt kan dessa vara svåra att skilja åt, men abstinens är mer troligt med tanke på det snabba insjuknandet vid dosminskning och den höga dosen.",
+              "tags": ["bensodiazepinberoende", "abstinenssyndrom", "ångestsyndrom"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Du tolkar symtomen vid dosminskning som tecken på abstinens. Sara äter nu tre olika bensodiazepiner: alprazolam 2 mg × 5/dag, flunitrazepam 2 mg vid behov till natten, diazepam 2 mg på morgonen. I journalen finns anteckningar om att Sara tappat sina tabletter och behöver nya uttag. Sara har haft flera olika läkare. Nu har Sara noterat att hon har svårt att koncentrera sig och hennes betyg har sjunkit.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Nämn en alternativ förklaring för hennes sjunkande betyg än att hon har för lite lugnande medicin.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bensodiazepiner i hög dos försämrar kognitionen",
+                "Vid kroniskt bruk kan kognitiv försämring kvarstå i månader efter avslutat bruk"
+              ],
+              "facitExplanation": "Kronisk högnivåanvändning av bensodiazepiner ger kognitiv påverkan med nedsatt koncentrationsförmåga, minne och inlärningsförmåga. Detta är en välkänd och dosrelaterad biverkning som kan kvarstå länge efter avslutad behandling.",
+              "tags": ["bensodiazepinberoende", "kognitiv påverkan", "läkemedelsbiverkningar"]
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Du funderar på hur du skall hantera denna situation men har klart för dig att du inte kan öka dosen ännu mer. Istället planerar du minskning av bensodiazepiner.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Beskriv praktiskt tillvägagångssätt för att reducera mängden bensodiazepiner.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inga behovsdoser – all förskrivning görs fast insatt för kontroll över doseringen",
+                "Sammanfatta de olika bensodiazepinerna till en enda substans (ingen rationale för flera samtidigt)",
+                "Använd långverkande substans (t.ex. diazepam) för att undvika miniabstinenser",
+                "Nedtrappning bör gå långsamt (10–20% per vecka som riktvärde)",
+                "Vid stora abstinensbesvär: sänk inte dosen, men reducera takten",
+                "Apodos är ett bra verktyg för kontrollerad nedtrappning"
+              ],
+              "facitExplanation": "Principerna för benzodiazepin-nedtrappning inkluderar: konvertering till ett långverkande preparat (diazepam), eliminering av behovsdoser, en planerad och gradvis minskning (inte mer än 10–20% per vecka), och tätt stöd och uppföljning. Apodos kan hjälpa till att säkra exakt dosering och förhindra överdosering/manipulation.",
+              "tags": ["bensodiazepinberoende", "nedtrappning", "abstinenssyndrom"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Internmedicin",
+      "points": 20,
+      "intro": "Under vikariat som legitimerad underläkare på medicinklinik vid ett länsdelssjukhus har du sista veckan varit dag jour på akutmottagningen. Fredag kl. 19 träffar du Lorraine, en 63-årig socialsekreterare. Hon berättar att det varit mycket på jobbet sista tiden. Under eftermiddagen började hon bli fumlig i vänster hand och fick svårt att hantera tangentbordet. Då hon gick till bussen var hon nära att stuka vänster fot. Hemma vilade hon ett par timmar. Efteråt kände hon sig bättre men var fortsatt lite fumlig med vänster hand när hon skulle göra kvällsfika. Hon tog sig med taxi till akutmottagningen. Då du träffar henne har symptomen försvunnit. Status: Hjärta: oregelbunden rytm, frekvens 80 slag/min, inga blåsljud. Lungor: normalt andningsljud, ingen dämpning. Blodtryck: 170/95 mm Hg. Neurologi: Symmetrisk i ansiktet. Motorik, koordination och sensibilitet i armar och ben normala och utan sidoskillnad. Gång och balans normala. Kroppstemp 37,3°C. Längd 162 cm. Vikt 72 kg.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilken diagnos är mest sannolik och vad är kriteriet för den diagnosen?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Transitorisk ischemisk attack (TIA)",
+                "Kriterium: fullständig regress av kliniska symtom inom 24 timmar"
+              ],
+              "facitExplanation": "TIA definieras som ett fokalt neurologiskt bortfall av vaskulär genes med fullständig symtomregress inom 24 timmar (nyare definition: inom 1 timme utan synlig infarkt på DT/MR). Symptomen – vänstersidig fumlighet i hand och fot med spontan regress – är typiska för ett kortvarigt ischemiskt skeende i höger hemisfär.",
+              "tags": ["TIA", "stroke", "neurologi"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Din preliminära diagnos blir att det var en transitorisk ischemisk attack (TIA).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Förslag till fortsatt handläggning på akutmottagningen. a) Vilken ytterligare information behöver anamnesen kompletteras med? Ange minst fyra och maximalt sex frågor som du vill komplettera med. b) Vilka blodprover är relevanta att ta på akutmottagningen? c) Vilka andra undersökningar vill du utföra på akutmottagningen?",
+              "maxPoints": 4,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a) Mediciner och tidigare episoder av neurologiska symtom, migrän, hjärt-kärlsjukdom, alkohol, tobak",
+                "b) Hb, EVF, Na, K, kreatinin, glukos, LPK, CRP, PK/INR, APTT, Troponin I",
+                "c) EKG/telemetri och pulsoximetri (saturation); auskultation av karotider är relevant men ej längre obligat; CT skalle är inte fel men efterfrågas primärt i senare fråga"
+              ],
+              "facitExplanation": "Vid misstänkt TIA bör anamnes kompletteras med riskfaktorer (rökning, alkohol, hypertoni, hjärtsjukdom) och nuvarande medicinering. Akuta blodprover syftar till att kartlägga kardiovaskulära riskfaktorer, koagulationsrubbningar och organpåverkan. EKG söker förmaksflimmer och andra arytmier som embolikälla.",
+              "tags": ["TIA", "anamnes", "EKG", "initial handläggning"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Anamnesen kompletteras: Sedan 20-årsåldern har hon rökt 5-10 cigaretter/dag men successivt trappat ner och slutade helt för en månad sedan. Efter att hon separerade för tio år sedan har det blivit mer vin, ofta 1-2 standardglas (15-30 cl) per kväll. Aldrig sprit. Blodprover tas med akutsvar. EKG visar enligt bild nedan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Tolka EKG. Vilka åtgärder/ordinationer föranleder detta? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": "/images/exams/2016-02/ekg-tia-lorraine.jpeg",
+              "facit": [
+                "EKG visar sinusarytmi, inga tecken på förmaksflimmer/fladder",
+                "Koppla upp telemetri för kontinuerlig hjärtövervakning",
+                "EKG indikerar ingen risk för kardiella embolier varför fyndet ej föranleder specifika åtgärder i relation till aktuell neurologi"
+              ],
+              "facitExplanation": "EKG-tolkning: HF 58/min, PQ 138 ms, QRS 88 ms, QTc 401 ms. Sinusrytm med sinusarytmi men inga tecken på förmaksflimmer eller flutter. Eftersom kardiell embolikälla (förmaksflimmer) inte kan verifieras, kopplas telemetri för fortsatt övervakning men inga specifika antiarytmika ordineras.",
+              "tags": ["EKG", "förmaksflimmer", "TIA"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "EKG visar tydlig sinusarytmi men inga tecken på förmaksflimmer/fladder. Pulsoximetri visar 98% saturation. Blodprov med akutsvar: Hb 138 g/L (134-170), EVF 40%, Na 142 mmol/L, K 3,8 mmol/L, Kreatinin 70 µmol/L, Glukos 4,2 mmol/L, LPK 8,5×10⁹/L, trombocyter 170×10⁹/L, APT-tid 34 s, INR 1,1, CRP 8 mg/L, Troponin I 10 ng/L (kv <16), ALAT 0,9 µkat/L, ASAT 0,6 µkat/L. Du beslutar att lägga in Lorraine på medicinska allvårdsavdelningen (MAVA).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "a) Vilka ordinationer ger du till sköterskan på MAVA; (kontroller och eller prover)? b) Finns medicinsk indikation för kompletterande utredning under närmaste dygnet? Om så, vilken/vilka remisser skriver du och vilka är frågeställningarna på remisserna?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a) Telemetri och blodtryckskontroller; fastande blodfetter påföljande morgon; neurologiska kontroller endast indicerade om medvetandepåverkad",
+                "b) Remiss datortomografi hjärna: frågeställning infarkt/blödning; remiss ultraljud halskärl: frågeställning förträngning/embolikälla"
+              ],
+              "facitExplanation": "På MAVA behöver Lorraine telemetri för att fånga paroxysmalt förmaksflimmer och blodtryckskontroller. Akut DT-hjärna behövs för att utesluta blödning och identifiera eventuell tyst infarkt. Karotisultraljud söker stenoser som embolikälla. Fastande lipider tas för riskfaktoroptimering.",
+              "tags": ["TIA", "karotisultraljud", "datortomografi"]
+            },
+            {
+              "id": "4-4-2",
+              "text": "Beskriv möjliga patofysiologiska mekanismer vid TIA och förklara varför symptomen går så snabbt i regress.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Små embolier från arteriosklerotiska förändringar i extrakraniella kärl (karotisbifurkation) eller kardiella embolier",
+                "Fibrinolys av embolierna förklarar snabb regress",
+                "Småkärlssjuka (lakunära TIA) och hemodynamiska mekanismer förekommer också"
+              ],
+              "facitExplanation": "TIA orsakas vanligast av mikroembolier från aterosklerotiska plack i karotiskärlen eller kardiella embolier (t.ex. vid förmaksflimmer). Den snabba symtomregressen beror på spontan fibrinolys och/eller kollateral cirkulation som snabbt återställer perfusionen. Vid kortvarig ischemi hinner inte irreversibel nervcellsdöd uppstå.",
+              "tags": ["TIA", "cerebral ischemi", "embolism"]
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Söndag förmiddag: Ambulansen meddelar att man är på väg in med 63-årig kvinna med vänstersidig hemipares. Det visar sig vara Lorraine, som skrevs ut från MAVA föregående dygn med Simvastatin 20 mg och Trombyl 75 mg. DT huvud lördag visade normala förhållanden. Kl. 09.25 är Lorraine på akutrummet. Trött men fullt kontaktbar, huvud och blick vridna åt höger, lite avflackad/ytlig kontakt. Orienterad, talar lite sluddrigt. Status: BT 185/110 mm Hg, lätt oregelbunden puls 100 slag/min. Neurologi: Vänster sida slapp pares i arm och ben, positiv Babinski. Nedsatt smärtupplevelse vänster sida. Kroppstemp 38,1°C.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vilka akuta åtgärder skall vidtas inför ställningstagande till akut behandling? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Penetrera anamnes angående tidsförlopp – hur länge har aktuella symtom funnits",
+                "Om < 3 timmar: handlingsplan enligt 'Rädda hjärnan' om ej kontraindikationer",
+                "Omedelbart till datortomografi (DT) huvud – för att utesluta blödning innan eventuell trombolys"
+              ],
+              "facitExplanation": "Inför ställningstagande till trombolys måste man fastställa exakt symptomdebuttid och ta DT-hjärna omedelbart för att utesluta intracerebral blödning (absolut kontraindikation för trombolys). Handläggning följer 'Rädda hjärnan'-protokollet.",
+              "tags": ["stroke", "trombolys", "akutmedicin"]
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Vid komplettering av anamnes framkommer: Lorraine vaknade tidigt, gick ut och rastade hunden. Satt vid köksbordet och lyssnade på radioprogram som började kl. 08. Inom loppet av några minuter tappade hon funktionen i vänster arm. Ringde omedelbart 112. DT visar ingen blödning eller infarkt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilken/vilka behandlingsåtgärder är nu indicerade? Vilka kontraindikationer skall övervägas? Motivera.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Indikation för intravenös trombolys (tPA) om ej kontraindikationer föreligger",
+                "Kontraindikationer: neuroradiologisk undersökning visar blödning, patient >80 år, >3 timmar mellan insjuknande och trombolys, ökad blödningsrisk (operation sista 3 mån, koagulopati, pågående antikoagulantiabehandling)"
+              ],
+              "facitExplanation": "Symptomdebut kl. 08.00, trombolys kl. 10.20 – dvs inom 3-timmarsfönstret (faktiskt inom 4,5h-fönstret enligt uppdaterade riktlinjer). DT visar ingen blödning. Patienten är 63 år (ej >80). Trombyl (ASA) är ej kontraindikation mot trombolys. Intravenös tPA är indicerat. Kontraindikationer som måste beaktas inkluderas i svaret.",
+              "tags": ["trombolys", "stroke", "antikoagulantia"]
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Intravenös trombolys (tPA) genomfördes komplikationsfritt kl. 10.20.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilka patofysiologiska mekanismer är sannolik orsak till att Lorraine fått hjärninfarkt och ange vilket cerebralt blodkärl som sannolikt är drabbat?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vanligast: kardiella embolier eller embolier från arteria carotis",
+                "Samma symtom vid TIA och strokeinsjuknandet talar för samma kärl: höger arteria cerebri media"
+              ],
+              "facitExplanation": "Vänstersidig motorisk och sensorisk påverkan med huvud/blickdeviation åt höger talar för höger hemisfärsinfarkt i arteria cerebri media-territoriet. Embolikällan är sannolikt kardiell (eventuellt paroxysmalt förmaksflimmer som ej fångats på telemetri) eller ateroembolism från karotiskärlen.",
+              "tags": ["stroke", "cerebral ischemi", "embolism"]
+            },
+            {
+              "id": "4-7-2",
+              "text": "Förklara varför tidsaspekten är så viktig vid ställningstagande till intravenös trombolys?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nytta med behandlingen avtar och är försumbar efter 4,5–6 timmar",
+                "Ischemisk hjärnskada ökar för varje minut som blodtillförseln är avstängd ('tid är hjärna')",
+                "Risk för blödning i ischemiskt område ökar för varje timme"
+              ],
+              "facitExplanation": "Vid hjärninfarkt dör ca 1,9 miljoner nervceller per minut ('tid är hjärna'). Trombolysens nytta är störst tidigt och minskar snabbt. Dessutom ökar risken för hemorragisk transformation av det ischemiska området med tid, vilket gör behandlingen riskablare ju senare den ges. Tidsgränsen är i praktiken 4,5 timmar.",
+              "tags": ["trombolys", "stroke", "cerebral ischemi"]
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "På måndagen har du börjat avdelningsvecka på strokeavdelningen där Lorraine vårdas. Hon är uppe och utan tecken på neurologiska bortfall. Carotisdoppler visar bilateralt mindre förträngningar, mest höger sida där kärlets lumen är reducerat till 50% av normalt. Aktuella blodtryck ca 160/90 mm Hg. Planeras för utskrivning påföljande dag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Redovisa vad du föreslår för åtgärder och hur du resonerar kring: a) Vilka riskfaktorer för återinsjuknande i stroke föreligger hos Lorraine? b) Fortsatt handläggning och medicinering? Motivera. c) Vilka livsstilsfaktorer är aktuella att beakta?",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a) Riskfaktorer: visualiserad sjukdom i karotiskärl (50% stenos), genomgången stroke, blodtryck i överkant (160/90)",
+                "b) Adekvat antihypertensiv behandling (ACE-hämmare, kalciumblockerare eller ARB; betablockad är sämre som strokeprofylax). Fortsatt trombocythämmande behandling (klopidogrel kan vara mer verkningsfullt än lågdos ASA). Karotisoperation inte indicerad vid 50% stenos.",
+                "c) Regelbunden fysisk aktivitet (sänker blodtrycket). Fortsatt rökstopp (rökning ger starkt ökad strokerisk). Information om att hög alkoholkonsumtion kan innebära ökad strokerisk."
+              ],
+              "facitExplanation": "Vid utskrivning efter stroke ska sekundärprevention optimeras: blodtryckssänkande behandling (ACE-hämmare är förstahandsval), trombocythämmande terapi (klopidogrel har bättre evidens än ASA för strokeprevention), statinbehandling (Simvastatin redan insatt). Karotiskirurgi är indicerad vid >70% stenos, ej vid 50%. Livsstilsfaktorer: rökstopp, motionsråd och alkoholreduktion.",
+              "tags": ["sekundärprevention", "stroke", "antikoagulantia", "riskfaktorer"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

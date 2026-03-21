@@ -1,0 +1,917 @@
+{
+  "id": "2018-11",
+  "title": "AT-prov november 2018",
+  "date": "2018-11-23",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – fall 2 Kirurgi",
+      "points": 20,
+      "intro": "Du är primärjour på psykiatriska akutenheten. Din kollega, som är vikarierande underläkare på somatiska akutmottagningen, har skickat en remiss på Edvin, 79 år, med frågeställningen: Psykos? Övertagning till psykiatrin? Du går dit för att göra din bedömning. Edvin har till synes snabbt försämrats med ett inadekvat beteende. Han bor i en annan del av landet men är sedan ett par dagar på besök hos sin son. Sonen berättar att Edvin kvällen innan verkat förvirrad och pratat om ormar på golvet, men i morse var han bättre igen. Under kvällen har Edvin åter blivit alltmer orolig, rastlös, och verkar inte lyssna. Han kommer inte ihåg var han har sina saker och har glömt ställa in mjölk och smör i kylen. Sonen har aldrig sett sin far på detta viset förut. Edvin svarar att det är augusti 1998, att han är på hotell, men kan rapportera hur gammal han är. Han ter sig rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Då Edvin har så uppenbara psykiska symptom har din kollega avvaktat med åtgärder tills du gjort din bedömning. Sköterskan har dock kontrollerat pulsen som är 85/min och blodtrycket som är 135/85 mm Hg.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilken är den mest troliga diagnosen? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det snabba och fluktuerande förloppet, desorientering talar för konfusion. Synhallucinos/illusioner talar för organisk genes och är ovanligt vid primär psykiatrisk diagnos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Vad måste din kollega på somatiska akutmottagningen göra innan det kan bli aktuellt att ens diskutera övertag till psykiatrisk vårdavdelning?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En bred somatisk genomgång för att utesluta/identifiera bakomliggande tillstånd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Du är primärjour på psykiatriska akutenheten. Din kollega, som är vikarierande underläkare på somatiska akutmottagningen, har skickat en remiss på Edvin, 79 år, med frågeställningen: Psykos? Övertagning till psykiatrin? Du går dit för att göra din bedömning. Edvin har till synes snabbt försämrats med ett inadekvat beteende. Han bor i en annan del av landet men är sedan ett par dagar på besök hos sin son. Sonen berättar att Edvin kvällen innan verkat förvirrad och pratat om ormar på golvet, men i morse var han bättre igen. Under kvällen har Edvin åter blivit alltmer orolig, rastlös, och verkar inte lyssna. Han kommer inte ihåg var han har sina saker och har glömt ställa in mjölk och smör i kylen. Sonen har aldrig sett sin far på detta viset förut. Edvin svarar att det är augusti 1998, att han är på hotell, men kan rapportera hur gammal han är. Han ter sig rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Då Edvin har så uppenbara psykiska symptom har din kollega avvaktat med åtgärder tills du gjort din bedömning. Sköterskan har dock kontrollerat pulsen som är 85/min och blodtrycket som är 135/85 mmHg. Du noterar att tillståndet har utvecklats snabbt och verkar ha ett fluktuerande förlopp. Edvin är desorienterad och har synhallucinos. Allt detta talar för ett konfusionstillstånd med ett underliggande somatiskt tillstånd som viktigaste orsaksfaktor. Din kollega på somatiska akutmottagningen måste göra en bred genomgång för att utesluta/identifiera vad som ligger bakom konfusionen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Ett specifikt konfusionstillstånd, som i huvudsak handläggs inom psykiatrin, är i akutskedet mycket viktigt att diagnostisera då utebliven behandling medför hög mortalitetsrisk. Vilket?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Delirium tremens"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Du är primärjour på psykiatriska akutenheten. Din kollega, som är vikarierande underläkare på somatiska akutmottagningen, har skickat en remiss på Edvin, 79 år, med frågeställningen: Psykos? Övertagning till psykiatrin? Du går dit för att göra din bedömning. Edvin har till synes snabbt försämrats med ett inadekvat beteende. Han bor i en annan del av landet men är sedan ett par dagar på besök hos sin son. Sonen berättar att Edvin kvällen innan verkat förvirrad och pratat om ormar på golvet, men i morse var han bättre igen. Under kvällen har Edvin åter blivit alltmer orolig, rastlös, och verkar inte lyssna. Han kommer inte ihåg var han har sina saker och har glömt ställa in mjölk och smör i kylen. Sonen har aldrig sett sin far på detta viset förut. Edvin svarar att det är augusti 1998, att han är på hotell, men kan rapportera hur gammal han är. Han ter sig rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Då Edvin har så uppenbara psykiska symptom har din kollega avvaktat med åtgärder tills du gjort din bedömning. Sköterskan har dock kontrollerat pulsen som är 85/min och blodtrycket som är 135/85 mmHg. Du noterar att tillståndet har utvecklats snabbt och verkar ha ett fluktuerande förlopp. Edvin är desorienterad och har synhallucinos. Allt detta talar för ett konfusionstillstånd med ett underliggande somatisk tillstånd som viktigaste orsaksfaktor. Din kollega på somatiska akutmottagningen måste göra en bred genomgång för att utesluta/identifiera vad som ligger bakom konfusionen. Du funderar på om det kan röra sig om alkoholabstinens som utvecklats till delirium tremens. Symptomprofilen med plockighet, synhallucinos, svettning och tremor kan tala för det. Däremot har Edvin inte två vanliga kliniska fynd vid alkoholabstinens.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vilka två vanliga kliniska fynd vid alkoholabstinens saknas hos Edvin? Vad kan det bero på?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "takykardi, hypertoni. Pågående behandling med puls- och blodtryckssänkande farmaka."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Du är primärjour på psykiatriska akutenheten. Din kollega, som är vikarierande underläkare på somatiska akutmottagningen, har skickat en remiss på Edvin, 79 år, med frågeställningen: Psykos? Övertagning till psykiatrin? Du går dit för att göra din bedömning. Edvin har till synes snabbt försämrats med ett inadekvat beteende. Han bor i en annan del av landet men är sedan ett par dagar på besök hos sin son. Sonen berättar att Edvin kvällen innan verkat förvirrad och pratat om ormar på golvet, men i morse var han bättre igen. Under kvällen har Edvin åter blivit alltmer orolig, rastlös, och verkar inte lyssna. Han kommer inte ihåg var han har sina saker och har glömt ställa in mjölk och smör i kylen. Sonen har aldrig sett sin far på detta viset förut. Edvin svarar att det är augusti 1998, att han är på hotell, men kan rapportera hur gammal han är. Han ter sig rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i bostaden och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Då Edvin har så uppenbara psykiska symptom har din kollega avvaktat med åtgärder tills du gjort din bedömning. Sköterskan har dock kontrollerat pulsen som är 85/min och blodtrycket som är 135/85 mmHg. Du noterar att tillståndet har utvecklats snabbt och verkar ha ett fluktuerande förlopp. Edvin är desorienterad och har synhallucinos. Allt detta talar för ett konfusionstillstånd med ett underliggande somatiskt tillstånd som viktigaste orsaksfaktor. Din kollega på somatiska akutmottagningen måste göra en bred genomgång för att utesluta/identifiera vad som ligger bakom konfusionen. Du funderar på om det kan röra sig om alkoholabstinens, som utvecklats till delirium tremens. Sonen berättar att Edvin aldrig överkonsumerat alkohol och nästan aldrig dricker överhuvudtaget. Det fanns ingen alkohol i hemmet och inga tomflaskor eller annat som tyder på att det kan föreligga alkoholproblematik. Därmed kan du utesluta delirium tremens. På akutmottagningen görs en bred utredningsinsats inklusive noggrant status för att utesluta trauma inkl. skalltrauma, blödning och uttorkning. Bl a genomförs nervstatus, EKG, DT-huvud och mätning av kroppstemperatur.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Ange fyra prover du föreslår ska tas på akutmottagningen. Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "för maximal poäng krävs att man inte missat prov för att utesluta anemi (Hb), infektion (CRP, LPK), hypoglykemi, hyperkalcemi, tyreotoxikos/hypotyreos (TSH), urinsticka, intoxprover"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du är primärjour på psykiatriska akutenheten. Edvin, 79 år, har inkommit till akutmottagningen i ett snabbt utvecklat och fluktuerande konfusionstillstånd. Det finns ingen misstanke om alkoholproblem. Sonen har aldrig sett sin far på detta viset förut. Edvin är desorienterad, rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Han bor i en annan del av landet men var på besök hos sin son i samband med insjuknandet. Sonen berättar att Edvin tidigare varit aktiv och ganska välmående och ägnar sig åt korsord och har ett socialt liv om än begränsad rörlighet. Han har gått ner i vikt. Utredningen visar att Edvin drabbats av en pneumoni, och är uttorkad. Han läggs in för behandling på en internmedicinsk vårdavdelning. Konfusionen kan förväntas avklinga parallellt med tillfrisknandet från pneumonin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Vad rekommenderar du att man ska tänka på omvårdnadsmässigt för att hantera Edvins konfusion?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För full pott krävs att man identifierar behovet av lugn och ro, anpassning av miljön och stöd för att upprätthålla orientering mm. - att man nämner insatser som hjälper patienten öka orienteringsförmågan: tydlig kommunikation, upprepa besked, tala om aktuell tid, plats, situation, patienten bör ha några personliga saker i rummet som hen känner igen, kontakt med så få olika personer i personalen som möjligt, involvera anhöriga för stöd och trygghet, lämna inte patienten ensam under långa stunder, TV eller radio för kontakt med världen utanför - att man nämner anpassning av miljön: enkelrum, temperatur 21-23°C, reducera omgivande ljudvolym, nattlig belysning minskar risken för illusioner, vare sig sensorisk under- eller överstimulering - att man nämner åtgärder som kan öka delaktigheten: identifiera och korrigera orsaker till sensorisk deprivation m t ex glasögon, hörapparat, uppmuntra delaktighet genom t ex självskattning av smärta, upprätthåll funktionsförmåga med promenad eller rörelseövningar i sängen, social stimulans"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Du är primärjour på psykiatriska akutenheten. Edvin, 79 år, har inkommit till akutmottagningen i ett snabbt utvecklat och fluktuerande konfusionstillstånd. Det finns ingen misstanke om alkoholproblem. Sonen har aldrig sett sin far på detta viset förut. Edvin är desorienterad, rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Han bor i en annan del av landet men var på besök hos sin son i samband med insjuknandet. Sonen berättar att Edvin tidigare varit aktiv och ganska välmående och ägnar sig åt korsord och har ett socialt liv om än begränsad rörlighet. Han har gått ner i vikt. Utredningen visar att Edvin drabbats av en pneumoni, och är uttorkad. Han läggs in för behandling på en internmedicinsk vårdavdelning. Konfusionen kan förväntas avklinga parallellt med tillfrisknandet från pneumonin. Efter några månader kommer det en ny remiss till psykiatriska kliniken gällande Edvin som fått en plats på ett lokalt korttidsboende för att vara nära sin son. Det framkommer att han tillfrisknat från sin pneumoni och att konfusionen klingat av helt. Edvin är dock svårmobiliserad. Han är inte motiverad och verkar irritabel. Han har dålig aptit och har gått ner i vikt, till synes även en period innan insjuknandet i pneumoni. Han hittar inte på korttidsboendet, glömmer sina saker och verkar allmänt glömsk. Han får medicinering för att kunna sova. Sonen anmärker att Edvin inte längre är aktiv i diskussioner som förr i tiden. En annan kollega från psykiatrin bedömde Edvin en vecka efter tillfrisknandet utifrån samma frågeställning men tyckte då att man fick ge honom lite mer tid att återhämta sig efter pneumonin och den svåra belastning på hjärnan det inneburit och manifesterats i konfusionen. Edvins tillstånd kvarstår oförändrat trots ytterligare en tids återhämtning. Via vårdcentralens försorg har en ny DT huvud gjorts, som inte visar något nytillkommet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilka två sjukdomar överväger du i första hand utifrån beskrivningen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "demens och depression"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Du är primärjour på psykiatriska akutenheten. Edvin, 79 år, har inkommit till akutmottagningen i ett snabbt utvecklat och fluktuerande konfusionstillstånd. Det finns ingen misstanke om alkoholproblem. Sonen har aldrig sett sin far på detta viset förut. Edvin är desorienterad, rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Han bor i en annan del av landet men var på besök hos sin son i samband med insjuknandet. Sonen berättar att Edvin tidigare varit aktiv och ganska välmående och ägnar sig åt korsord och har ett socialt liv om än begränsad rörlighet. Han har gått ner i vikt. Utredningen visar att Edvin drabbats av en pneumoni, och är uttorkad. Han läggs in för behandling på en medicinsk vårdavdelning. Konfusionen kan förväntas avklinga parallellt med tillfrisknandet från pneumonin. Efter några månader kommer det en ny remiss gällande Edvin. Det framkommer att han tillfrisknat från sin pneumoni och att konfusionen klingat av helt. Edvin är dock svårmobiliserad. Han är inte motiverad och verkar irritabel. Han har dålig aptit och har gått ner i vikt, till synes även en period innan insjuknandet i pneumoni. Han hittar inte på korttidsboendet, glömmer sina saker och verkar allmänt glömsk. Han får medicinering för att kunna sova. Sonen anmärker att Edvin inte längre är aktiv i diskussioner som förr i tiden. En annan kollega från psykiatrin bedömde Edvin en vecka efter tillfrisknandet utifrån samma frågeställning men tyckte då att man fick ge honom lite mer tid att återhämta sig efter pneumonin och den svåra belastning på hjärnan det inneburit och manifesterats i konfusionen. Edvins tillstånd kvarstår oförändrat trots ytterligare en tids återhämtning. Du noterar att det finns bl a en kognitiv svikt och funderar på om det kan röra sig om en demensutveckling alternativt depression.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vilken anamnestisk aspekt vill du särskilt fråga om som kan vara avgörande för att differentiera mellan depression eller demens? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förlopp. Demens utvecklas långsamt och successivt. Depression har i normalfallet tidsbegränsad utveckling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-2",
+              "text": "Nämn ett vanligt test du kan använda för att värdera Edvins kognitiva status.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MMSE/MMT (Mini Mental State Examination/ Mini Mental Test) eller klocktest."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Du är primärjour på psykiatriska akutenheten. Edvin, 79 år, har inkommit till akutmottagningen i ett snabbt utvecklat och fluktuerande konfusionstillstånd. Det finns ingen misstanke om alkoholproblem. Sonen har aldrig sett sin far på detta viset förut. Edvin är desorienterad, rädd och orolig och säger att det finns ormar på golvet och har också sett något röra sig på väggen. Han är plockig, svettig och lite ostadig och försöker ta sig ur sängen.  Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Han bor i en annan del av landet men var på besök hos sin son i samband med insjuknandet. Sonen berättar att Edvin tidigare varit aktiv och ganska välmående och ägnar sig åt korsord och har ett socialt liv om än begränsad rörlighet. Han har gått ner i vikt. Utredningen visar att Edvin drabbats av en pneumoni, och är uttorkad. Han läggs in för behandling på en medicinsk vårdavdelning. Konfusionen kan förväntas avklinga parallellt med tillfrisknandet från pneumonin. Efter några månader kommer det en ny remiss gällande Edvin. Det framkommer att han tillfrisknat från sin pneumoni och att konfusionen klingat av helt. Edvin är dock svårmobiliserad. Han är inte motiverad och verkar irritabel. Han har dålig aptit och har gått ner i vikt, till synes även en period innan insjuknandet i pneumoni. Han hittar inte på korttidsboendet, glömmer sina saker och verkar allmänt glömsk. Han får medicinering för att kunna sova. Sonen anmärker att Edvin inte längre är aktiv i diskussioner som förr i tiden. En annan kollega från psykiatrin bedömde Edvin en vecka efter tillfrisknandet utifrån samma frågeställning men tyckte då att man fick ge honom lite mer tid att återhämta sig efter pneumonin och den svåra belastning på hjärnan det inneburit och manifesterats i konfusionen. Edvins tillstånd kvarstår oförändrat trots ytterligare en tids återhämtning. Du noterar att det finns bl a en kognitiv svikt och funderar på om det kan röra sig om en demensutveckling alternativt depression. Du låter Edvin göra MMT (Mini Mental Test) för att få en bättre uppfattning om hans kognitiva status. Resultatet blir 19/30 poäng vilket talar för en demensbild. Du försöker få mer information om förloppet, hur tillståndet utvecklats över tid, för att kunna differentiera mellan demens och depression. Tyvärr är uppgifterna knapphändiga. Sonen har inte haft någon tät kontakt med Edvin och oftast har det varit på en ytlig nivå. Edvin har åldrats de senaste åren och nog blivit lite glömsk och fått hjälp med tillsyn från hemtjänsten. Han har blivit alltmer isolerad i bostaden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Vilka ytterligare anamnestiska uppgifter, utöver den aktuella symptombilden, kan ge viktig information för att stärka eller försvaga misstanken om depression?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "hereditet, tidigare depressiva episoder eller annan psykiatrisk problematik, utlösande eller upprätthållande händelser, stress och belastning. För full pott ska patientens tidigare psykiatriska anamnes efterfrågas och ytterligare en relevant aspekt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8-2",
+              "text": "Nämn ett, inte flera, diagnostiskt instrument som du kan använda för att stärka depressionsdiagnostiken.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MINI eller SCID. MADRS skattar graden av depression och är inte ett diagnostiskt instrument. Vid helgardering ges max 0,5p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Du är primärjour på psykiatriska akutenheten. Edvin, 79 år, har inkommit till akutmottagningen i ett snabbt utvecklat och fluktuerande konfusionstillstånd. Det finns ingen misstanke om alkoholproblem. Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Han bor i en annan del av landet men var på besök hos sin son i samband med insjuknandet. Sonen berättar att Edvin tidigare varit aktiv och ganska välmående och ägnar sig åt korsord och har ett socialt liv om än begränsad rörlighet. Han har gått ner i vikt. Utredningen visar att Edvin drabbats av en pneumoni, och är uttorkad. Han läggs in för behandling på en medicinsk vårdavdelning och tillfrisknar från sin pneumoni och konfusionen klingar av. Edvin är dock svårmobiliserad. Han är inte motiverad och verkar irritabel. Han har dålig aptit och har gått ner i vikt, till synes även en period innan insjuknandet i pneumoni. Han hittar inte på korttidsboendet, glömmer sina saker och verkar allmänt glömsk. Han får medicinering för att kunna sova. Sonen anmärker att Edvin inte längre är aktiv i diskussioner som förr i tiden. Bilden består trots en tids återhämtning. Du noterar att det finns bl a en kognitiv svikt och funderar på om det kan röra sig om en demensutveckling alternativt depression. Du låter Edvin göra MMT (Mini Mental Test) för att få en bättre uppfattning om hans kognitiva status. Resultatet blir 19/30 poäng vilket talar för en demensbild. Du försöker få mer information om förloppet, hur tillståndet utvecklats över tid, för att kunna differentiera mellan demens och depression. Tyvärr är uppgifterna knapphändiga. Edvin har åldrats de senaste åren och nog blivit lite glömsk och fått hjälp med tillsyn från hemtjänsten. Han har blivit alltmer isolerad i bostaden. Du går igenom depressionskapitlet i MINI men det är svårt att få trovärdiga svar från Edvin som medverkar dåligt. Med hjälp från sonen framkommer ändå att han saknar lust och är irritabel. Aptiten är dålig och han har gått ner i vikt. Han oroar sig för framtiden och säger att bostaden är mögelskadad och att han inte har råd att renovera, något som inte stämmer med verkligheten. Han har skuldkänslor för att ha gjort sina barn illa men kan inte förklara på vilket sätt. När du intervjuar sonen framkommer att det finns ärftlighet för depressioner. Edvin har vårdats, även inneliggande, för depressioner vid flera tillfällen långt tidigare i livet, innan den datoriserade journalen tillkom. Efter pensionen vid 63 års ålder har han varit besvärsfri och kunnat avveckla medicineringen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Hur resonerar du nu differentialdiagnostiskt runt demens och depression?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Demens kan inte avskrivas. Det är inte ovanligt med depressiv svikt vid en begynnande demens. Det kan röra sig om en pseudodemens, dvs. en depression som ger en bild av föreliggande demens. Edvin har en tydlig svår depressiv svikt med psykotiska inslag och en tidigare anamnes på depressioner som styrker bilden. För maximal poäng ska noteras att det föreligger en svår depression med psykotiska symptom och att underliggande demens inte kan avskrivas"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Du är primärjour på psykiatriska akutenheten. Edvin, 79 år, har inkommit till akutmottagningen i ett snabbt utvecklat och fluktuerande konfusionstillstånd. Det finns ingen misstanke om alkoholproblem. Han ger ett åldrat intryck. Bakgrundsmässigt får du veta att Edvin har behandling mot hypertoni och hyperlipidemi och tidigare har haft en transitorisk ischemisk attack (TIA) och en mindre hjärtinfarkt. Han medicinerar med fyra olika läkemedel. De är kvar i sonens bostad och varken Edvin eller sonen minns vad de heter. Han har besvär med artros i främst knäna och rör sig inte mycket. Han bor i en annan del av landet men var på besök hos sin son i samband med insjuknandet. Sonen berättar att Edvin tidigare varit aktiv och ganska välmående och ägnar sig åt korsord och har ett socialt liv om än begränsad rörlighet. Han har gått ner i vikt. Utredningen visar att Edvin drabbats av en pneumoni, och är uttorkad. Han läggs in för behandling på en medicinsk vårdavdelning och tillfrisknar från sin pneumoni och konfusionen klingar av. Edvin är dock svårmobiliserad. Han är inte motiverad och verkar irritabel. Han har dålig aptit och har gått ner i vikt, till synes även en period innan insjuknandet i pneumoni. Han hittar inte på korttidsboendet, glömmer sina saker och verkar allmänt glömsk. Han får medicinering för att kunna sova. Sonen anmärker att Edvin inte längre är aktiv i diskussioner som förr i tiden. Bilden består trots en tids återhämtning. Du noterar att det finns bl a en kognitiv svikt och funderar på om det kan röra sig om en demensutveckling alternativt depression. Du låter Edvin göra MMT (Mini Mental Test) för att få en bättre uppfattning om hans kognitiva status. Resultatet blir 19/30 poäng vilket talar för en demensbild. Du försöker få mer information om förloppet, hur tillståndet utvecklats över tid, för att kunna differentiera mellan demens och depression. Tyvärr är uppgifterna knapphändiga. Edvin har åldrats de senaste åren och nog blivit lite glömsk och fått hjälp med tillsyn från hemtjänsten. Han har blivit alltmer isolerad i bostaden. Edvin medverkar dåligt men med hjälp av sonen framkommer att det finns ärftlighet för depressioner och att Edvin flera gånger tidigare i livet vårdats inneliggande för depressioner. Han saknar lust och är irritabel. Aptiten är dålig och han har gått ner i vikt. Han oroar sig för framtiden och säger att bostaden är mögelskadad och att han inte har råd att renovera, något som inte stämmer med verkligheten. Han har skuldkänslor för att ha gjort sina barn illa men kan inte förklara på vilket sätt. Du bedömer att Edvin har en svår depression med psykotiska inslag. Tidigare anamnes på depressioner styrker bilden. Demens kan inte avskrivas. Det är inte ovanligt med depressiv svikt vid en begynnande demens. Det kan röra sig om en pseudodemens, dvs. en depression som ger en bild av föreliggande demens.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Vad föreslår du för evidensbaserad behandling i denna situation?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandla depressionen med ECT."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Fall 3 Allmänmedicin",
+      "points": 20,
+      "intro": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Det framkommer så småningom att hon dock äter medicin mot högt blodtryck sedan ungefär tio år - men det har hon ju aldrig känt av egentligen. Hon är dock noga med att ta den medicinen eftersom hennes läkare på vårdcentralen uppmanat henne till det då både hennes mamma och pappa dog av stroke. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två vuxna barn som har flyttat hemifrån sedan många år tillbaka och barnen bor nu i en annan stad. Status AT: Solbränd, normalviktig. Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 160/80 mmHg Buk: Inga ärr ses på buken. Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser i buk eller bråckportar. PR: Tom ampull och normal slemhinna palperas. Temp: 38,3° C Saturation: 98 %",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka differentialdiagnoser överväger du i detta skede? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med tanke på patientens anamnes, symtomatologi och akuta insjuknande med feber kan man överväga flera möjliga diagnoser men i första hand tarminfektion (till exempel campylobacter och salmonella), divertikulit, appendicit eller gynekologisk infektion men inte heller kolorektal cancer kan uteslutas i detta skede (1 p för 2 rätta svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vilka blodprover vill du ta för att komma vidare i din diagnostik? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blodprover tages för att värdera inslaget av inflammation med CRP, blodstatus (Hb och LPK) och eventuell vätskebalans med elektrolytstatus (Na, K och kreatinin) (2 p för 2 rätta svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två vuxna barn som har flyttat hemifrån sedan många år tillbaka och barnen bor nu i en annan stad. Status AT: Solbränd, normalviktig. Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % Med tanke på det akuta insjuknandet med feber och diarré samt utlandsvistelsen funderar du över bakteriell enterokolit eller ett inflammatoriskt tillstånd såsom divertikulit, appendicit eller gynekologisk infektion som genes men har inte uteslutit en underliggande malignitet heller. Blodprover som togs visar: Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L), CRP 152 (<10 mg/L). Någon enstaka överbeläggningsplats finns kvar på avdelningen och du måste bestämma dig om du ska behålla Gerd på sjukhuset eller om hon kan åka hem och avvakta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilka laboratorieprover finns anledning att kontrollera på det lokala laboratoriet på vårdcentralen? Nämn 2 och motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med tanke på det inflammatoriska påslaget med feber, förhöjt CRP och LPK samt fyndet i bukstatus med en lokaliserad ömhet och släppömhet vill du utesluta akut buk (0,5 p). Du överväger lågdos DT buköversikt men bestämmer dig till slut för en vanlig DT buk med intravenös kontrast (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två vuxna barn som har flyttat hemifrån sedan många år tillbaka och barnen bor nu i en annan stad. Status AT: Solbränd, normalviktig. Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Med tanke på att hon har ett inflammatoriskt påslag med feber, lokal ömhet i buken och förhöjda värden på både CRP och LPK vill du utesluta akut buk med eventuella komplikationer och beställer akut datortomografi av buken. När svaret kommer har det hunnit bli sen kväll. Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och med retning i omgivande fettvävnad och mesenterium. Det finns några små luftbubblor i omgivningen men de bedöms vara belägna i tarmens lumen snarare än utanför. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum.",
+          "contextImageUrl": "/images/exams/2018-11/page16_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Hur vill du behandla Gerd fram till i morgon bitti? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övervakning med fasta (0,5 p), intravenös vätskebehandling (0,5 p) samt ny kontroll av CRP, blod- och elektrolytstatus (0,5 p) och förnyat bukstatus vid ev försämring och morgonen efter (0,5 p) är basen i vården av misstänkt okomplicerad divertikulit. Antibiotika påverkar inte förloppet vid okomplicerad divertikulit och skall inte ges."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två vuxna barn som har flyttat hemifrån sedan många år tillbaka och barnen bor nu i en annan stad. Status AT: Solbränd, normalviktig. Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 %. 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5- 8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd får vara fastande över natten och får intravenös vätska med 2 liter isoton vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon känner sig bättre och är till och med lite hungrig. Du låter henne äta lite frukost och det går bra varefter ni gemensamt bestämmer att hon kan få lämna sjukhuset senare samma dag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Du planerar att följa upp Gerd framöver med koloskopi eller datortomografi av kolon. Hur bråttom är detta att göra detta och vad har de två metoderna för olika för- och nackdelar? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom det är besvärande att genomgå en undersökning alltför snabbt efter en genomgången divertikulit väntar du ungefär fyra veckor med att ge henne en tid (1p). En DT kolonundersökning är lite mindre besvärande än en koloskopi för patienter med divertiklar medan en koloskopi har fördelen att den bättre kan bedöma slemhinnan samtidigt och att man även kan ta biopsier eller ta bort polyper. DT kolon är även mer exakt i att beskriva var en eventuell tumör/polyp är belägen men kan ibland behöva kompletteras med en koloskopi då det kan vara svårt att skilja en benign divertikulitstenos från en malign tumör (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två vuxna barn som har flyttat hemifrån sedan många år tillbaka och barnen bor nu i en annan stad. Status AT: Solbränd, normalviktig. Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 %. 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5- 8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Eftersom det är första gången som Gerd drabbats av divertikulit och aldrig har genomgått en kolonundersökning är det indicerat med en sådan. Du väljer så småningom att göra en koloskopi om ungefär en månad när symptomen klingat av. Du övervägde som alternativ en datortomografi av kolon eftersom det kan vara lite mindre besvärande jämfört med en koloskopi vid divertikulos. Koloskopin har fördelen att den bättre kan bedöma slemhinnan samtidigt och att man även kan ta biopsier eller ta bort polyper men det kan vara svårt att säkert säga var en förändring är belägen. DT kolon är mer exakt i att beskriva var en eventuell tumör/polyp är belägen och man kan också få en översiktlig bild av andra bukorgan, men kan ibland behöva kompletteras med en koloskopi då det kan vara svårt att skilja en benign divertikulitstenos från en malign tumör. Kollegan som gör koloskopin på Gerd finner en cirkumferent tumör en bit upp i sigmoideum motsvarande väggförtjockningen på den tidigare datortomografin med kontrast. Den ser klart malign ut men man kan relativt enkelt passera den med koloskopet och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilken ytterligare utredning vill du göra på Gerd gällande hennes tumörsjukdom? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den datortomografi som gjordes på akuten bedömdes vara av tillräckligt bra kvalitet för att bedöma levern men annars hade man fått göra om den eller möjligen ett ultraljud av levern (1p). Däremot behöver en lungundersökning göras med i första hand en datortomografi av thorax (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två barn som är utflugna sedan många år tillbaka och bor i en annan stad. Status AT: Solbränd.Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt.BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Uppföljande koloskopi efter fyra veckor påvisar en cirkumferent tumör en bit upp i sigmoideum motsvarande den tidigare väggförtjockningen på datortomografin med kontrast. Den ser klart malign ut men kan passeras och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören. Den datortomografi som gjordes på akuten bedömdes vara av tillräckligt bra kvalitet för att bedöma levern men annars hade man fått göra om den eller möjligen ett ultraljud av levern. Du kompletterar dock med en datortomografisk undersökning av lungorna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vilken histologisk typ av cancertumör är absolut vanligast vid lokalisation i kolon eller rektum?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Adenocarcinom"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två barn som är utflugna sedan många år tillbaka och bor i en annan stad. Status AT: Solbränd.Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt.BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum.Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Uppföljande koloskopi efter fyra veckor påvisar en cirkumferent tumör en bit upp i sigmoideum motsvarande den tidigare väggförtjockningen på datortomografin med kontrast. Den ser klart malign ut men kan passeras och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören. Daortomografi av lever och lungor påvisar inga metastaser. Den mikroskopiska undersökningen av biopsierna visar som väntat växt av adenocarcinom. Gerds fall diskuteras på en preoperativ multidisciplinär behandlingskonferens. Eftersom hon inte har några tecken till metastaser planeras operation direkt med sigmoideumresektion. Tre veckor senare läggs Gerd in för operation och du skriver in henne",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Vilka typer av perioperativ profylax är indicerade inför operationen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inför tarmoperation bör patienten erhålla preoperativ antibiotikaprofylax (1p) och vid kolorektal cancersjukdom även trombosprofylax med lågmolekylärt heparin som startas kvällen innan och pågår antingen till patienten återgår till hemmet eller i fyra veckor (1p). Man kan i detta fall även överväga tarmrengöring om man tror att man skall behöva göra en anastomos transanalt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-7-2",
+              "text": "Beskriv två olika analgetikaregimer som kan användas postoperativt i samband med operationen av Gerd?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Epiduralanalgesi (EDA) i kombination med peroral paracetamol. Patientstyrd analgesi (PCA) med opiat intravenöst i kombination med peroral paracetamol. Smärtkateter i operationssåret/bukväggen (TAPP-blockad). Per oral smärtlindring med opioid och/eller NSAID och/eller paracetamol (1p för varje men max 2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två barn som är utflugna sedan många år tillbaka och bor i en annan stad. Status AT: Solbränd.Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt.BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Uppföljande koloskopi efter fyra veckor påvisar en cirkumferent tumör en bit upp i sigmoideum motsvarande väggförtjockningen på den tidigare datortomografin med kontrast. Den ser klart malign ut men kan passeras och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören. Datortomografi av lever och lungor påvisar inga metastaser och Gerd genomgår en sigmoideumresektion. Inför tarmoperationen får Gerd behandling med preoperativ antibiotikaprofylax på operationsdagens morgon och redan kvällen innan trombosprofylax med lågmolekylärt heparin vilket hon får fortsätta med i upp till fyra veckor efter operationen. Gerd får välja mellan epiduralanalgesi (EDA) och patientstyrd intravenös analgesi (PCA). Hon väljer EDA och denna kompletteras med per oral paracetamol. Operationen går helt komplikationsfritt och redan efter fyra dagar kan Gerd åka hem igen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Gerd skall följas upp enligt nationella riktlinjer för kolorektal cancer i minst fem år. Beskriv vilka undersökningar och prover som är aktuella vid uppföljning av kolorektal cancer",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Datortomografi av lever och lungor sker med jämna mellanrum (1p) liksom blodprovstagning med CEA och eventuellt CA19-9 (0,5p). Dessutom bör en ny kolonundersökning göras efter fem år (0,5p). F-Hb kan vara av värde vid screening av kolorektal cancer men inte vid uppföljning efter tidigare genomgången kolorektal cancersjukdom och inte heller allmän blodprovstagning används vid uppföljning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två barn som är utflugna sedan många år tillbaka och bor i en annan stad. Status AT: Solbränd.Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt.BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Uppföljande koloskopi efter fyra veckor påvisar en cirkumferent tumör en bit upp i sigmoideum motsvarande väggförtjockningen på den tidigare datortomografin med kontrast. Den ser klart malign ut men kan passeras och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören. Datortomografi av lever och lungor påvisar inga metastaser och Gerd genomgår en sigmoideumresektion. Efter sedvanlig antibiotika- och trombosprofylax genomgår Gerd en helt komplikationsfri operation och kan åka hem igen redan efter fyra dagar. Gerd följs upp med regelbundna kontroller med datortomografi av lever och lungor, blodprover med CEA och CA19-9 och efter fem år en ny koloskopi. När Gerd kommer till 5-årsbesöket berättar hon att även hennes yngre syster opererats för en tumör i livmodern och hennes bror fick precis som hon en tumör i tjocktarmen. Vid koloskopin som görs hittar man dessvärre en rektalcancer och i cekum en flack polyp som är knappt två centimeter stor och som uppvisar grav dysplasi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vilken bakomliggande orsak till den maligna kolontumören misstänker du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hereditär cancer, t ex (Lynch syndrom/HNPCC) (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två barn som är utflugna sedan många år tillbaka och bor i en annan stad. Status AT: Solbränd.Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt.BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Uppföljande koloskopi efter fyra veckor påvisar en cirkumferent tumör en bit upp i sigmoideum motsvarande väggförtjockningen på den tidigare datortomografin med kontrast. Den ser klart malign ut men kan passeras och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören. Datortomografi av lever och lungor påvisar inga metastaser och Gerd genomgår en sigmoideumresektion. Efter sedvanlig antibiotika- och trombosprofylax genomgår Gerd en helt komplikationsfri operation och kan åka hem igen redan efter fyra dagar. Kontrollerna med datortomografi av lever och lungor, blodprover med CEA och CA19-9 är normala men en koloskopi efter fem år påvisar en misstänkt tumör i rektum och en flack polyp som är knappt två centimeter stor i cekum. Gerd berättar att även hennes yngre syster opererats för en tumör i livmodern och hennes bror fick precis som hon en tumör i tjocktarmen.\n\nDu misstänker att Gerd och hennes syskon kan lida av Lynch syndrom (HNPCC) med ökad risk för bland annat endometrie- och kolorektal cancer.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Vilken profylaktisk operation tycker du är mest lämplig att göra på Gerd nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Proktokolektomi med ileostomi (ev hysterektomi samtidigt) (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-11",
+          "context": "Gerd, 66 år och nybliven pensionär efter att ha undervisat på mellanstadiet hela sitt yrkesverksamma liv söker på akutmottagningen tillsammans med sin make en eftermiddag. Hon berättar att hon sedan igår har ont i nedre delen av magen och att hon känner sig hängig. Magen känns just nu lite uppblåst och hon har haft några diarréer sedan igår, men annars tycker hon nog att magen brukar fungera ganska bra. Hon berättar att hon för övrigt känner sig väldigt frisk och att de nyss kommit hem från Kanarieöarna där de varit på solsemester. Hon har hypertoni sedan tio år tillbaka. Gerd bor tillsammans med maken i en lägenhet dit de nyligen flyttat efter att ha sålt sin villa nu när de gått i pension. De har två barn som är utflugna sedan många år tillbaka och bor i en annan stad. Status AT: Solbränd.Hjärta: Regelbunden rytm, 88/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt.BT: 160/80 mmHg Buk: Hela buken palperas mjuk men distinkt ömmande i hela nedre delen. En viss släppömhet noteras över samma område som ömmar. Inga resistenser. Temp: 38,3° C Saturation: 98 % 98 %. Hb 118 (117-153 g/L), LPK 10,8 (3,5-8,8 x 109/L), TPK 245 (140-350 x 109/L), Natrium 140 (137-145 mmol/L), Kalium 4,0 (3,5-4,4 mmol/L), Kreatinin 110 (45-90 mmol/L), Krea, eGFR, MDRD 49 (>60 mL/min/1,73 m2), Albumin 38 (36-45 g/L), Bilirubin 12 (<26 mmol/L), ALP 0.9 (0,6-1,8 mkat/L), ALAT 0,35 (<0,76 mkat/L), ASAT 0,42 (<0,60 mkat/L), GT 0,7 (<1,2 mkat/L), Amylas 0,47 (0,15-1,1 mkat/L),  CRP 152 (<10 mg/L). Undersökningen visar ett segment på kolon sigmoideum med förtjockad tarmvägg och retning i omgivande fettvävnad och mesenterium. Man beskriver också att det finns divertiklar spridda i mer eller mindre hela kolon sigmoideum. Gerd läggs in för observation fastande men med intravenös vätska över natten. Redan morgonen därefter mår Gerd bättre när du undersöker henne igen och proverna som nu tas om visar att både CRP (138 mg/L) och LPK (8,2 x 109/L) har sjunkit. Du avstår från att ge henne antibiotika då du bedömer att det rör sig om en okomplicerad divertikulit. Hon får lämna sjukhuset senare samma dag. Uppföljande koloskopi efter fyra veckor påvisar en cirkumferent tumör en bit upp i sigmoideum motsvarande väggförtjockningen på den tidigare datortomografin med kontrast. Den ser klart malign ut men kan passeras och resterande kolon ser helt normal ut ända till och med cekum. Flera biopsier tas från tumören. Datortomografi av lever och lungor påvisar inga metastaser och Gerd genomgår en sigmoideumresektion. Efter sedvanlig antibiotika- och trombosprofylax genomgår Gerd en helt komplikationsfri operation och kan åka hem igen redan efter fyra dagar. Kontrollerna med datortomografi av lever och lungor, blodprover med CEA och CA19-9 är normala men en koloskopi efter fem år påvisar en misstänkt tumör i rektum och en flack polyp som är knappt två centimeter stor i cekum. Gerd berättar att även hennes yngre syster opererats för en tumör i livmodern och hennes bror fick precis som hon en tumör i tjocktarmen. Du misstänker att Gerd och hennes syskon kan lida av Lynch syndrom (HNPCC) med en ökad risk för bland annat endometrie- och kolorektal cancer. Med tanke på hennes ålder föreslås hon en proktokolektomi. Utifrån Gerds ålder föreslås hon en proktokolektomi med ändileostomi då rekonstruktiv kirurgi är mer komplikationsbehäftad och också är beroende av en mycket god anorektal kontinens, något som ju försämras med åldern.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-11-1",
+              "text": "Med tanke på den misstänkta ärftliga sjukdomen hur utreder du Gerd och hennes familj och var kan du remittera dem för hjälp med detta?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Erbjudande om remiss för genetisk rådgivning och utredning av Gerd, hennes barn, hennes syskon och deras respektive barn."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Fall 4 Internmedicin",
+      "points": 20,
+      "intro": "Anna är 41 år och fick sitt första barn för ett halvår sedan. Hon har tidigare varit fysiskt aktiv men när hon nu försöker komma igång och träna blir hon lite andfådd. Hennes bror har astma och nu undrar hon om hon själv också fått det. Anna är patient på den vårdcentral som du arbetar på och som en del i utredningen av hennes besvär tar du ett EKG.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilket är det viktigaste avvikande fyndet på Annas vilo-EKG?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-11/page26_img1.jpeg",
+              "facit": [
+                "vänstersidigt skänkelblock"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Anna är 41 år och fick sitt första barn för ett halvår sedan. Hon har tidigare varit fysiskt aktiv men när hon nu försöker komma igång och träna blir hon lite andfådd. Hennes bror har astma och nu undrar hon om hon själv också fått det. Anna är patient på den vårdcentral som du arbetar på och som en del i utredningen av hennes besvär tar du ett EKG. Anna berättar vidare att hon inte har känt några ansträngningsutlösta bröstsmärtor. I din undersökning av Anna finner du att hjärtat och lungor auskulteras normalt och blodtrycket är 138/76 mm Hg. Du finner inga ödem i nedre extremiteter. EKG visar vänstersidigt skänkelblock.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vad blir nu ditt förslag till fortsatt handläggning? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vänstergrenblock är inte normalt och hjärtsjukdom måste misstänkas. Ekokardiografi eller kardiologremiss"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du remitterar Anna, 41 år, vidare till en kardiologklinik som tills vidare tar över ansvaret för utredning och eventuell åtgärd med anledning av Annas vänstersidiga skänkelblock. Några månader senare träffar du på nytt Anna som denna gång söker på vårdcentralen eftersom hon har sett blod i avföringen. Hon berättar att hon under några månader har sett att det finns strimmor av blod i avföringen. Hon har alltid haft en orolig mage med omväxlande avföringskonsistens och det är när hon har haft fastare avföring som hon har sett röda strimmor, som hon tror är blod, på avföringen. Magsymtomen har inte förändrats mycket men hon tycker att det är mer bråttom att gå på toaletten än tidigare. När du inspekterar perianalt finner du det som visas på bilden.",
+          "contextImageUrl": "/images/exams/2018-11/page28_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad ser du på bilden och hur tolkar du specifikt den struktur som indikeras av pilen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hudflik (skin tag) vilket väsentligen är ett normaltillstånd. Även kondylom ger poäng"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du genomför en rektalpalpation och rektoskopi upp till 22 cm där bägge undersökningar är utan anmärkningsvärda fynd. Du kontrollerar också ett Hb som är 138 (117-153 g/L).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Hur vill du handlägga Anna i det aktuella fallet? Redogör för hur du resonerar och motivera ditt val av handläggning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hudfliken förklarar inte blodet i avföringen. Blod i avföringen måste utredas vidare eftersom det kan orsakas av allvarlig sjukdom såsom kolorektal cancer. Vidare utredning kan ske med i första hand coloskopi alternativt datortomografi av colon. Procto- eller rectoskopi på vårdcentralen är bra men utesluter inte behovet av vidare utredning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Anna, 41 år, sökte på vårdcentralen eftersom hon hade sett blod i avföringen. När du inspekterar perianalt finner du bara en hudflik som inte kan förklara blodet i avföringen. Vidare utredning kan ske med coloskopi. Blod i avföringen måste utredas vidare eftersom det kan orsakas av allvarlig sjukdom såsom kolorektal cancer Underlåtenhet att adekvat utreda blod i avföringen som senare visar sig bero på kolorektal cancer är en inte ovanlig orsak till att patienten anmäler detta som en felbehandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vad heter tillsynsmyndigheten för hälso- och sjukvården respektive den behöriga expertmyndighet som bland annat utfärdar föreskrifter som berör hälso- och sjukvården?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "IVO (Inspektionen för vård och omsorg) respektive Socialstyrelsen"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Nästa gång som du träffar Anna kommer hon med sin far Rolf, 79 år, som av en tidigare AT-läkare på vårdcentralen utretts på grund av minnesproblem. Utredningen är nu avslutad och visar sammanfattningsvis att minnesproblemen orsakas av Alzheimers sjukdom som är av relativt lindrig karaktär. Rolf och hans dotter kommer nu till dig för att få information om vad utredningen visat och vilka praktiska konsekvenser detta kan få i framtiden. Anna berättar att hennes far Rolf har ett vanligt B-körkort (personbil) och hon undrar nu om Rolf kan fortsätta med bilkörningen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "I det enskilda fallet måste man veta mer för att ge ett konkret svar på Annas fråga men redogör kortfattat för hur man som läkare generellt bör resonera vid lindrig senil demens av Alzheimer-typ och fortsatt bilkörning med tanke på gällande lagstiftning inom området. (2p) I samband med bilkörningsdiskussionen frågar du efter eventuella skjutvapen och Anna berättar att pappan tidigare jagat sjöfågel med ett eget hagelgevär men att pappan nu inte har jagat på många år vad hon vet. Rolf själv kan inte svara på om han har hagelgeväret kvar därhemma eller om han möjligen sålde det för några år sedan.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Demenssjukdom oavsett typ utgör i grunden hinder för innehav av körkort. Vid lindrig demens kan dock innehav av behörigheterna A, B, BE eller traktorkort medges efter läkarens individuella bedömning. Om läkaren vid undersökning av en körkortshavare finner att hen av medicinska skäl trots allt är olämplig för bilkörning ska läkaren anmäla det till Transportstyrelsen. Anmälan behöver inte göras om det finns anledning att anta att körkortshavaren kommer att följa läkarens tillsägelse att avstå från att köra körkortspliktigt fordon"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "Hur hanterar du denna information?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rolf är olämplig att inneha skjutvapen eftersom han har en senil demens. Du anmäler enligt Vapenlagen detta till polismyndigheten på den ort där patienten är folkbokförd. Det är sedan polisen som får utreda om Rolf har något skjutvapen eller inte."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "På vårdcentralen har du ansvar för ett kommunalt omvårdnadsboende som du besöker en gång i veckan. Vid ett sådant tillfälle träffar du på nytt Rolf som nyligen fått flytta in på det aktuella omvårdnadsboendet. Han har nu ett dygns anamnes på kraftiga kräkningar och diarréer. Av patientjournalen framgår att Rolf förutom Alzheimers sjukdom har bland annat typ 2-diabetes, hjärtsvikt och kärlkramp. Det framkommer att flera av de boende på omvårdnadsboendet och även några i personalen har insjuknat med liknande symtom den gångna veckan. Rolf uppger att han har ont i kroppen i allmänhet och särskilt i magen. Han är mycket illamående och kräks en gång under samtalet. Status: AT: Temp 37,6 grader. Normalt hull, RLS 1, god kontakt, ingen läppcyanos eller perifera benödem. Hjärta: Regelbunden rytm, inga blåsljud, puls 102/min. Lungor: Vesikulära andningsljud, inga biljud. Buk: Diffust ömmande generellt. Inga palpabla resistenser. Du misstänker viral gastroenterit som orsak till Rolfs besvär och föreslår att Rolf hålls isolerad från övriga patienter på omvårdnadsboendet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vilket virus är den vanligaste orsaken till viral gastroenterit under vinterhalvåret?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Norovirus från familjen Caliciviridae."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-2",
+              "text": "Hur lång inkubationstid ser man vanligen vid detta virus?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "12-48 h"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-3",
+              "text": "Hur länge behöver Rolf vara isolerad?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Isoleringen kvarstår så länge patienten har symtom plus minst 24 timmar med stabil symtomfrihet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-4",
+              "text": "Vilka föreskrifter ger du personalen på omvårdnadsboendet som drabbats av så kallad feko-oral smitta i form av gastroenterit? (2p) Du ber också att på omvårdnadsboendet få titta på Rolfs medicinlista som visas nedan för att se om några läkemedelsförändringar behöver göras med tanke på att han troligen lider av vätskebrist. Du har inga aktuella laboratorievärden att tillgå på omvårdnadsboendet men personalen berättar att p-glukos är mellan 5-7 mmol/l på förmiddagen. Rolfs medicinlista •         T. Isosorbidmononitrat 60 mg 1x1 •         T. Diklofenak 25 mg 1x3 •         T. Enalapril 10 mg 1x2 •         T. Spironolakton 25 mg 1x1 •         T. Trombyl 75 mg 1x1 •         T. Simvastatin 20 mg 1x1 •         T. Zopiklon 7,5 mg t.n. •         T. Metformin 500 mg x 3 •         Inj. Mixinsulin 26E+18E",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nogsam handhygien pga. feko-oral smitta. Undvik att hantera mat som ska ätas av andra. Stanna hemma från förskola, skola eller arbete när man har symtom som diarré och/eller kräkningar och minst 24 timmar efter tillfrisknande. Detta är särskilt viktigt om man yrkesmässigt: bereder eller hanterar oförpackade livsmedel eller vårdar spädbarn eller patienter med kraftigt nedsatt immunförsvar"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-5",
+              "text": "Ange två relevanta läkemedelsförändringar som du ordinerar mot bakgrund av det akuta sjukdomstillståndet och som är rimliga utan kännedom om Rolfs aktuella lab-värden.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Metformin + NSAID utsättes. Behandlingen med metformin kan möjligen återupptas efter att gastroenteriten upphört. Även enalapril och spironolakton är tänkbara."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Du har ansvar för ett kommunalt omvårdnadsboende som du besöker en gång i veckan. Vid ett sådant tillfälle träffar du Rolf, 79 år, som har ett dygns anamnes på kraftiga kräkningar och diarréer. Rolf har förutom Alzheimers sjukdom bland annat typ 2-diabetes, hjärtsvikt och kärlkramp. Det framkommer att flera av de boende på omvårdnadsboende och även några i personalen har insjuknat med liknande symtom den gångna veckan. Rolf uppger att han har ont i kroppen i allmänhet och särskilt i magen. Han är mycket illamående och kräks en gång under samtalet. Du misstänker viral gastroenterit som orsak till Rolfs besvär och ber också att på vårdhemmet få titta på Rolfs medicinlista för att se om några läkemedelsförändringar behöver göras med tanke på att han troligen lider av vätskebrist. Rolfs medicinlista  T. Isosorbidmononitrat 60 mg 1x1  T. Diklofenak 25 mg 1x3  T. Enalapril 10 mg 1x2  T. Spironolakton 25 mg 1x1  T. Trombyl 75 mg 1x1  T. Simvastatin 20 mg 1x1  T. Zopiklon 7,5 mg t.n.  T. Metformin 500 mg x 3  Inj. Mixinsulin 26E+18E\n\nDu väljer att åtminstone tillfälligt sätta ut både metformin samt diklofenak.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Sjuksköterskan säger att hon hört att metformin kan vara skadligt för njurarna. Är det så? Förklara för sjuksköterskan hur det förhåller sig och varför du väljer att sätta ut metformin respektive NSAID-preparatet diklofenak i denna situation.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej, metformin är inte nefrotoxiskt men alla dehydreringstillstånd (som gastroenterit) kan utlösa en metforminackumulation som i sin tur kan orsaka laktacidos som är ett livshotande tillstånd vilket är skälet till att metformin ska utsättas vid ett dehydreringstillstånd som detta. En alternativ förklaring kan vara att gastroenteriten leder till en hypoperfusion av levern vilket leder till ökad risk för laktatacidos där metforminbehandling kan aggravera bilden. Risken för metforminackumulation ökar dock om man har en nedsatt njurfunktion. NSAID-preparat (som diklofenak) kan däremot riskera att försämra njurfunktionen hos äldre och sköra individer. Kontinuerlig behandling med NSAID-preparat är dessutom olämpligt med tanke på Rolfs hjärtsvikt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Fall 4",
+      "points": 20,
+      "intro": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. Status AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min BT: 118/74 mmHg Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C Saturation: 96 % EKG: Sinusrytm 92/min. Normalt EKG.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka ytterligare fysikaliska undersökningar (= status) skulle du vilja genomföra? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med tanke på patientens mångfacetterade symtomatologi bör man utvidga status och överväga sjukdomar med systemiskt engagemang (t ex malignitet, autoimmun sjukdom, infektion eller hormonell rubbning). Palpation av lymfkörtlar (0,5p), tyroidea (0,5p), skelett (i synnerhet thorax) och muskulatur (0,5p), per rectum/prostata (0,5p), lokalstatus underben (tecken till DVT?) (0,5p), inspektion av hud (malign tumör?) (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Prover har tagits och svar föreligger:\n\nHb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Mot bakgrund av vad som hittills framkommit, vilken blir din slutsats avseende det förhöjda värdet för ALP? Ange också om du pga. ALP-stegringen i akutskedet vill komplettera utredningen och i så fall hur. Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förhöjt ALP hos vuxna kan orsakas av sjukdomstillstånd i olika organsystem. Det vanligaste är att ALP-stegringen härrör från lever eller gallvägar. Patienten i fråga har visserligen haft gallstenssjukdom men det är mindre sannolikt att detta är förklaringen till ALP-stegringen. GT brukar i princip alltid vara förhöjt om ALP-stegringen härrör från lever eller gallvägar, vilket inte är fallet här. Den näst vanligaste orsaken till ALP-stegring hos vuxna är sjukdomar i skelettet. Mot bakgrund av att man i status finner hållpunkter för skelettsmärta bör ALP-stegringen i första hand misstänkas härröra från skelettet. Patienten förefaller vara dehydrerad och i anamnesen framkommer anorexi, illamående och trötthet. Uttalad hypercalcemi bör uteslutas i akutskedet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen.\n\nHb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L, Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Hur vill du behandla Jan-Olof det första dygnet?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rehydrering är hörnstenen i behandlingen. Man ger 3-6 L NaCl (9 mg/mL) eller Ringeracetat det första dygnet. (1p) Mycket höga calciumnivåer, ar som regel orsakade av en självförstärkande cirkel som uppstår genom att hypercalcemin medför polyuri pga. minskad renal känslighet för ADH. Detta ökar dehydreringen och därmed avtar glomerulusfiltrationen och hypercalcemin accentueras ytterligare. Forcerad diures med loopdiuretika sänker S-Calcium ytterligare men ökar risken för hypokalemi och bör ske under övervakning.\n\nInfusion kalcitonin (1p) sänker S-Calcium inom 3-6 timmar, men effekten är snabbt övergående.\n\nInfusion av bisfosfonat (1p) kan ges vid normal njurfunktion (GFR >60 mL/min), som sannolikt torde vara fallet hos denna patient efter att rehydrering initierats. Effekt på S- Calcium ses i regel först efter 3-5 dagar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får första dygnet infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "På vilket sätt reducerar zoledronsyra S-Calcium?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bisfosfonater hämmar den osteoklastiska benresorptionen (1p). Den exakta molekylära mekanism som leder till hämningen av osteoklastaktiviteten är dock inte klarlagd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Vilket ytterligare blodprov vill du allra först ha svar på för att komma vidare i differentialdiagnostiken beträffande etiologin till hypercalcemin? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "S-PTH (1p). Primär hyperparatyroidism (PHPT) och malignitet är de två vanligaste orsakerna till hypercalcemi. PHPT kan oftast bekräftas eller uteslutas genom analys av S-PTH. Det är således rimligt att börja den differentialdiagnostiska utredningen med denna analys."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin. För att komma vidare i differentialdiagnostiken avseende hypercalcemin tas blodprov för analys av S-PTH. Nedan illustreras schematiskt de fyra typfallen av rubbningar i calciumomsättningen (hyper- resp. hypocalcemi) i relation till nivåerna av PTH i serum.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Ange ett exempel på sjukdom i respektive grupp (cirkel) som kan ge laboratoriemässig bild i enlighet med bilden ovan.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-11/page39_img1.jpeg",
+              "facit": [
+                "1: Högt S-Calcium, högt S-PTH – primär hyperparatyroidism 2: Högt S- Calcium, lågt S-PTH – malignitet, sarkoidos mm. 3: Lågt S-Calcium, högt PTH – njursvikt, malnutrition, malabsorption 4: Lågt S-Calcium, lågt S-PTH – hypoparatyroidism t ex postoperativ eller idiopatisk (autoimmun),"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin. S-PTH 1,2 (1,6-6,9 pmol/L). Du misstänker i första hand malignitet som orsak till hypercalcemin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Genom vilka mekanismer kan hypercalcemi uppkomma vid malignitet?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypercalcemi vid malignitet kan orsakas av lokal osteolys (1p) vid metastaser eller vid tumörer som primärt uppstår i skelettet/benmärgen. Cancercellerna kan producera ett PTH-liknande hormon, paratyreoideahormonrelaterad peptid (PTHrP) samt cytokiner som stimulerar benresorptionen lokalt (1p). PTHrP kan (liksom i viss grad andra tumörprodukter) via cirkulationen också orsaka en generell benresorption och nedsatt utsöndring av calcium vilket medför en så kallad humoral hyperkalcemi vid malignitet (HHM). PTHrP verkar därvid genom att stimulera PTH-receptorerna i skelett och njurar (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin. S-PTH 1,2 (1,6-6,9 pmol/L). Den vanligaste orsaken till hypercalcemi vid låga nivåer av S-PTH är malignitet. I laboratorielistan noteras också PSA 1,4 (<3,0 μg/L) och SR 101 (<20 mm).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilka två maligna sjukdomar bör man initialt inrikta sig på att bekräfta/utesluta vid den kliniska bild som Jan-Olof uppvisar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förhöjd SR är ett ospecifikt fynd och kan orsakas av en mängd sjukdomar, vanligen infektioner, icke-infektiösa inflammationer, t ex autoimmuna sjukdomar, njursjukdomar och maligna sjukdomar. Enligt en gammal grundregel bör man vid ”tresiffrig” SR först tänka på temporalisarterit (TA)/polymyalgia rheumatica (PMR), njurcancer och myelom. TA/PMR är ingen malign sjukdom och dessutom inte associerad med hypercalcemi. Vid såväl myelom som njurcancer kan hypercalcemi uppkomma. (Andra maligna sjukdomar hos män som relativt ofta ger upphov till hypercalcemi men kanske inte i regel orsakar ”tresiffrig” SR är lungcancer, tyroideacancer, blåscancer, leukemi och lymfom)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin. S-PTH 1,2 (1,6-6,9 pmol/L). Den vanligaste orsaken till hypercalcemi vid låga nivåer av S-PTH är malignitet. Vid mycket hög SR i kombination med skelettsmärta samt hypercalcemi är det rimligt att i första hand överväga myelom och njurcancer som differentialdiagnoser. Vid misstanke om myelom ingår bl a ett blodprov i utredningen som hos ca 90 % av patienterna påvisar ett för myelom starkt misstänkt fynd.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Vilket är blodprovet och hur benämns fyndet som är starkt associerat med myelom?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Proteinelektrofores (proteinprofil) (1p). M-komponent (monoklonalt immunglobulin) (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin. S-PTH 1,2 (1,6-6,9 pmol/L). Den vanligaste orsaken till hypercalcemi vid låga nivåer av S-PTH är malignitet. I laboratorielistan noteras också SR 101 (<20 mm). Vid mycket hög SR i kombination med skelettsmärta samt hypercalcemi är det rimligt att överväga myelom och njurcancer som differentialdiagnoser i första hand. Vid analys av plasma-proteinelektrofores påvisas ingen M-komponent varför myelom ter sig mindre sannolikt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Hur vill du nu komplettera utredningen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Njurtumörer kan bilddiagnostiskt påvisas med exempelvis ultraljud eller DT. I detta fall, då det även finns klinisk misstanke om skelettmetastaser i thorax, är det lämpligt att i första hand komplettera utredningen med DT buk/thorax."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Jan-Olof, 64 år, tjänsteman vid det kommunala bostadsbolaget, uppsöker akutmottagningen en vardagskväll. Han känner sig trött men det som oroar honom mest är att han har ont i bröstet. Han berättar att han sökte vårdcentralen for liknande, men lindrigare, besvär för fyra veckor sedan. Man tog EKG och blodprover och läkaren sa att det inte fanns några tecken till hjärtsjukdom. Han fick besked om att det sannolikt rörde sig om muskelvärk och fick råd om vila och medicinering med paracetamol samt att återkomma om besvären inte blev bättre inom några veckor. Tabletterna har inte haft någon påtaglig effekt på smärtan. Värken i bröstet har istället tilltagit och det gör nu ont såväl på fram- som på baksidan. Han har märkt att det gör mer ont när han andas och hostar. Den senaste veckan har han dessutom mått illa, kräkts vid enstaka tillfällen, ätit dåligt och tröttheten har tilltagit. I anamnesen framkommer också att Jan-Olof är gift och har tre vuxna barn. Han slutade röka för 20 år sedan. Konsumerar ca fyra glas vin i veckan. Han är tidigare kolecystektomerad efter att dessförinnan ha behandlats för koledokussten. Han har även opererats bilateralt för ljumskbråck. Frånsett analgetika enl. ovan tar han för närvarande inga mediciner regelbundet. AT: Ter sig trött och håglös. Nedsatt hudturgor. MoS: Retningsfritt. Torra slemhinnor. Hjärta: Regelbunden rytm, 90/min, inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. Andningsfrekvens 14/min. BT: 118/74 mmHg. Buk: Mjuk, oöm, inga resistenser. Temp: 37,8° C. Saturation: 96 %. EKG: Sinusrytm 92/min. Normalt EKG. Inga palpabla lymfkörtlar på halsen, i fossae supraclaviculares, i axillerna och i ljumskarna. Normalt palpationsfynd avseende tyroidea och per rectum. En diffus palpationssmärta utlöses dorsalt och ventralt över thorax samt över thorakal- och ländryggen. Hb 145 (134-170 g/L), LPK 3,9 (3,5-8,8 x 109/L), TPK 210 (140-350 x 109/L), Natrium 133 (137-145 mmol/L), Kalium 4,2 (3,5-4,4 mmol/L), Kreatinin 127 (60-105 μmol/L), Krea, eGFR, MDRD 48 (>60 mL/min/1,73 m2), Albumin 33 (36-45 g/L), Bilirubin 13 (<26 μmol/L), ALP 4,9 (0,6-1,8 μkat/L), ALAT 0,53 (<1,2 μkat/L), ASAT 0,52 (<0,76 μkat/L), GT 0,8 (<1,3 μkat/L), Amylas 0,23 (0,15-1,1 μkat/L) CRP 12 (<10 mg/L), SR 101 (<20 mm), Urinsticka visar 1+ för erytrocyter, i övrigt normal. Du bedömer att ALP-stegringen i första hand härrör från skelettet och då patienten företer symtom som kan överensstämma med hypercalcemi ordinerar du kompletterande blodprov för analys av Calciumjon, där resultatet är 1,98 (1,18-1,34 mmol/L). Du lägger in Jan-Olof på internmedicinsk vårdavdelning. Jan-Olof får infusion av 5 liter isoton natriumklorid samt infusion av kalcitonin. Efter att tre liter vätska administrerats har S-Kreatinin reducerats till 75 μmol/L varvid även bisfosfonaten zoledronsyra ges för att motverka den uttalade hypercalcemin. S-PTH 1,2 (1,6-6,9 pmol/L). Den vanligaste orsaken till hypercalcemi vid låga nivåer av S-PTH är malignitet. I laboratorielistan noteras också SR 101 (<20 mm). Vid mycket hög SR i kombination med skelettsmärta samt hypercalcemi är det rimligt att överväga myelom och njurcancer som differentialdiagnoser i första hand. Vid analys av plasma-proteinelektrofores påvisas ingen M-komponent varför myelom ter sig mindre sannolikt. DT thorax/buk påvisar en 5 x 4 cm stor expansivitet i höger njure, förenlig med malign njurtumör. Det finns multipla lungmetastaser och skelettmetastaser i thorax och ryggraden. Det ses också tumörtromber i två blodkärl, som i bilden nedan markeras med blå resp. röd pil.",
+          "contextImageUrl": "/images/exams/2018-11/page45_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Metastaserna är således hematogena. Vilka är blodkärlen i anslutning till höger njure som markeras med blå resp. röd pil?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blå pil: v. renalis dx (0,5p). Röd pil: v. cava inferior (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

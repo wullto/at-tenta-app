@@ -1,0 +1,859 @@
+{
+  "id": "2017-11",
+  "title": "AT-prov november 2017",
+  "date": "2017-11-24",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Kirurgi frågan",
+      "points": 20,
+      "intro": "Du är inne på slutet av din AT och tjänstgör på Vårdcentralen i X-stad. Det är drygt tre timmars bilfärd till närmaste sjukhus så denna vårdcentral är välutrustad med såväl laboratorieresurser samt en liten röntgenavdelning. Röntgenbilder får du granska själv primärt. Den sista patienten innan lunch söker med anledning av vänstersidig knäsmärta. Hon har med sig sin 12 åriga dotter på besöket. Det rör sig om en 43 årig kvinna som är relativt motionsaktiv, joggar några km 1-2 gånger per vecka samt är värd på friskvårds inrättning. Ur anamnesen framkommer att hon skadat det vänstra knäet i ”ungdomen” under fotbollsspel och genomgick en korsbandsoperation ”samt något med den inre menisken”. Hon har ”känt av knäet” till och från de senaste åren men under förra torsdagens gympapass högg det plötsligt till i det vänstra knäet som svullnade till något dagen därpå. Svullnaden har nu nästan lagt sig men värken har inte riktigt gett med sig och hon har fortfarande svårt att gå utan smärta.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Beskriv hur du undersöker henne och vad i status som är viktigt",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(max 4p) Notera allmäntillståndet, feber (0,5p)? Undersök båda knäna med yttre granskning, sidlika genu varum/valgus, ev gamla ärr efter operationer (0,5p)? Tecken till inflammation såsom värmeökning och/eller rodnad (0,5p)? I status; Rörelseomfång (0,5p), Lachmans test (0,5p), sidostabilitet (0,5p), Pivot shift (0,5p), Mc Murray/Steinmann/Apley’s (0,5p). Patellardans (0,5p)? Bakercysta (0,5p)? Palp av a Poplitea samt distala pulsar (a Tibialis posterior/a Dorsalis pedis) (0,5p). Även höfternas rörlighet samt ev smärta bör bedömas, en coxartros kan manifestera sig som knäsmärta (1p). Maximalt antal poäng på denna fråga är 4. Ovan nämnda alternativ/motsvarande kliniska tester genererar poäng. Avsaknad av höftstatus innebär ett poängs avdrag även om övriga alternativ omfattas i svaret. Sannolikt så rör det sig om en begynnande medial gonartros (och eventuellt en degenerativ meniskruptur). En Bakercysta som rupturerat hade haft mera svullnad av underbenet, en cysta som inte rupturerat känns i knävecket (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Den sista patienten innan lunch söker med anledning av vänstersidig knäsmärta utan trauma. Hon har med sig sin 12 åriga dotter på besöket. Det rör sig om en 43 årig kvinna som är relativt motionsaktiv, joggar några km 1-2 gånger per vecka samt är gymnastikvärd. Ur anamnesen framkommer att hon skadat det vänstra knäet i ”ungdomen” under fotbollsspel och genomgick en korsbandsoperation ”samt något med menisken”. Hon har ”känt av knäet” till och från de senaste åren men under förra torsdagens jympapass högg det plötsligt till i det vänstra knäet som svullnade till något dagen därpå. Svullnaden har nu lagt sig men värken har inte riktigt gett med sig och hon har fortfarande svårt att gå utan smärta.\n\nHon är afebril och opåverkad i övrigt förutom en lätt hälta. Du finner ett normalt höftstatus och bägge underbenen samt fotlederna är oömma. Det vänstra knäet företer diskret hydrops, är något värmeökat men inte rodnat. Lätt inskränkning avseende såväl flexion som extension föreligger jämfört med det högra knäet. Hon ömmar vid palpation kring knäet, framför allt på medialsidan samt en bit nedanför ledspringan. Du tycker att Lachmans test är positivt det viss säga något ökat jämfört med det andra knäet och detta gäller även Pivot shift test. McMurrays test är lite svårvärderat, men framkallar smärta från insidan av knäet. Distala pulsar palperas med lätthet och ingen svullnad noteras i knävecket.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vad är din arbetsdiagnos/er?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sannolikt så rör det sig om en begynnande medial gonartros (och eventuellt en degenerativ meniskruptur). En Bakercysta som rupturerat hade haft mera svullnad av underbenet, en cysta som inte rupturerat känns i knävecket (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Vill du komplettera utredningen med något, och i så fall med vad?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vill du komplettera utredningen med något, och i så fall med vad (1 p)? Med ledning av anamnes samt status så behövs inte någon laboratorieundersökning. En akut röntgen av knäet är inte obligatorisk, men en belastad röntgenundersökning av knäet tillför mer information avseende graden av artros samt eventuell fri kropp. Den bidrar även till att påvisa om/hur korsbandet opererats. En magnetkameraundersökning är inte indicerad i detta skede, men kan eventuellt bli aktuell om en slätröntgen skulle vara helt invändningsfri och besvären kvarstår efter en månads behandling enligt nedan. En artroskopi är inte heller aktuell (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-3",
+              "text": "Hur ser ditt förslag på fortsatt handläggning ut?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Initial behandling blir, förutom information, symtomlindrande läkemedel (förslagsvis NSAID) samt remiss till sjukgymnast för Artrosskola (2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "En 43 årig kvinna som är relativt motionsaktiv, söker med anledning av vänstersidig knäsmärta. Ur anamnesen framkommer att hon skadat det vänstra knäet i ”ungdomen” under fotbollsspel och genomgick en korsbandsoperation ”samt något med menisken”. Hon har ”känt av knäet” till och från de senaste åren men under förra torsdagens gympapass högg det plötsligt till i det vänstra knäet som svullnade till något dagen därpå. Svullnaden har nu nästan lagt sig men värken har inte riktigt gett med sig och hon har fortfarande svårt att gå utan smärta. Hon är afebril och opåverkad i övrigt förutom en lätt hälta. Du finner ett normalt höftstatus. Det vänstra knäet företer diskret hydrops, är lätt värmeökat men inte rodnat. Lätt inskränkning avseende såväl flexion som extension föreligger jämfört med det högra knäet. Hon ömmar vid palpation kring knäet, framför allt på medialsidan samt en bit nedanför ledspringan. Du tycker att Lachmans test är något ökat jämfört med det andra knäet och detta gäller även Pivot shift test. McMurrays test är lite svårvärderat, men framkallar smärta från insidan av knäet. Distala pulsar palperas ua.\n\nNär du återkopplat din bedömning samt föreslagna åtgärder till patienten så frågar hon om hon får ställa en fråga avseende den medföljande 12 åriga dottern. Eftersom du är en vänlig själ och glatt avstår från lunchen så svarar du ”-Naturligtvis, berätta vad hon har för problem”. Mamman beskriver att dottern har haft besvär med smärta från ljumsken sedan några veckor tillbaka. Hon har inte kunnat träna konståkning som varit hennes stora intresse på tre veckor. Man har varit hos en sjukgymnast för två veckor sedan som bedömt det som muskulärt utlöst. Träningsprogrammet har dock inte gett avsedd effekt och smärtan kvarstår vid träning samt vid belastning av benet. Du undersöker henne och noterar att hon har något inskränkt rörlighet i den vänstra höften avseende rotation samt flexion. Hon ömmar vid palpation över utsidan av låret samt i ljumsken. Hon har ingen feber, och hon har inte varit förkyld de senaste veckorna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Hur utreder du ett barn med ovanstående anamnes och status?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hur utreder du ett barn med ovanstående anamnes och status (1p)? Förutom ett noggrant status så kontaktar du den lilla röntgenavdelningen och skickar ner henne på en akut röntgenundersökning av bäcken med frågeställningen ”Fyseolys?” Annat avvikande fynd? (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Vilka åkommor är viktiga att ha i åtanke?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka åkommor är viktiga att ha i åtanke (1p)? Tänkbara diagnoser är fyseolys, coxitis simplex/reaktiv artrit samt tumör (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Hur bedömer Du denna bild?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-11/page5_img1.jpeg",
+              "facit": [
+                "Hur bedömer Du denna bild (0,5p)? Du inser att du inte kan utesluta en fyseolys med den utförda undersökningen även om en fyseolys kan anas (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Hur kommer du vidare för att bekräfta eller förkasta din arbetsdiagnos?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hur kommer du vidare för att bekräfta eller förkasta din arbetsdiagnos (0,5p)?\n\nDu kontaktar Röntgenavdelningen och ber om en komplettering med en sidobild eller en så kallade Lauensteins projektion som hjälper att besvara frågeställningen (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Den 12-åriga dottern har haft besvär med smärta från ljumsken har inte kunnat träna konståkning på tre veckor. Träningsprogrammet från sjukgymnasten har dock inte gett avsedd effekt och smärtan kvarstår vid träning samt vid belastning av benet. Du undersöker dottern och noterar att hon har något inskränkt rörlighet i den vänstra höften avseende rotation samt flexion. Hon ömmar vid palpation över utsidan av låret samt i ljumsken. Hon har ingen feber, och hon har inte varit förkyld de senaste veckorna. Du kontaktar röntgenavdelningen och ber om den komplettering som behövs för att besvara din frågeställning. Den specifika projektion som du ser på den nedre bilden nedan kallas för Lauensteins projektion.Du får nu tillgång till den begärda kompletteringen, se röntgenbilder nedan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Vad ser Du på denna bild?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-11/page6_img1.jpeg",
+              "facit": [
+                "Vad ser Du på denna bild (1p)? Bilden visar en vänstersidig höftfyseolys av måttlig grad (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-2",
+              "text": "Vad blir Din nästa åtgärd?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vad blir Din nästa åtgärd (1p)? Akutkontakt bör tas med ortopedjouren på det närmaste sjukhuset som handlägger barnortopedi för att överrapportera fallet (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Mamman beskriver att den 12-åriga dottern har haft besvär med smärta från ljumsken sedan några veckor tillbaka. Dottern har inte kunnat träna konståkning som varit hennes stora intresse på tre veckor. Man har varit hos en sjukgymnast för två veckor sedan som bedömt det som muskulärt utlöst. Träningsprogrammet har dock inte gett avsedd effekt och smärtan kvarstår vid träning samt vid belastning av benet. Du undersöker dottern och noterar att hon har något inskränkt rörlighet i den vänstra höften avseende rotation samt flexion. Hon ömmar vid palpation över utsidan av låret samt i ljumsken. Hon har ingen feber, och hon har inte varit förkyld de senaste veckorna. Den röntgenundersökning som du erhållit kan inte utesluta en höftfyseolys. Du kontaktar Röntgenavdelningen och ber om en komplettering med en sidobild. Som alternativ till en vanlig sidobild så kan man ännu hellre använda den specifika projektion som kallas för ”Lauensteins projektion” för att ännu bättre kunna bedöma en höftfyseolys. Den kompletterande bilden visar en vänstersidig höftfyseolys av måttlig grad. Du tar nu kontakt med ortopedjouren på det närmaste sjukhuset och överrapporterar fallet. Hon ber Dig skicka in flickan akut.\n\nDu berättar om ditt fynd för mamman samt dottern. Mamman blir mycket orolig och undrar vad som kommer att hända på sjukhuset.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vad tror du att ortopeden kommer att vidta för åtgärd med ledning av fyndet?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vad tror du att ortopeden kommer att vidta för åtgärd med ledning av fyndet (0,5p)? Ortopeden kommer att operera henne med skruvfixation ”in situ” av fyseolysen för att förhindra fortsatt glidning (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Vad kan hända på lång sikt om inte fyseolysen åtgärdas?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vad kan hända på lång sikt om inte fyseolysen åtgärdas (0,5p)? Mildare grader av fyseolys tros kunna leda till femoroacetabulärt impingment (FAI). En obehandlad höftfyseolys riskerar att fortsätta glida och kan därmed resultera i en chondrolys ledande till deformitet av caput femoris och /eller avaskulär nekros. Dessa kan leda till kraftigt nedsatt funktion i höftleden samt smärta och därmed nödvändiggöra större ortopediska ingrepp i ett senare skede (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Ortopedjouren mailar dig nedanstående bild som återkoppling efter operationen.\n\nGlad över att ha fått beröm från ortopedjouren för din handläggning av flickan med fyseolysen så läser du på om din sista patient för dagen. Det rör sig om en kontroll efter en axelledsluxation hos en 67 årig man. Han ådrog sig skadan i samband med ett fall och handlades primärt av en av dina kolleger som lyckades reponera axeln efter smärtlindring. Nu, två veckor senare, kommer han för kontroll av axeln till dig. Han har varit på röntgen och jämfört med den kontrollröntgen som gjordes direkt efter repositionen och där caput stod relativt lågt i axelleden så visar dagens röntgen att caputs läge nu är mera normalt. I övrigt noteras en så kallad Hill- Sachs lesion på caput. Han uppger att han fortfarande har ont i axeln även om det är mycket bättre än när den låg ur led. Du noterar ett magnifikt hematom kring axeln och proximala överarmen.",
+          "contextImageUrl": "/images/exams/2017-11/page9_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vad bör du särskilt ha i åtanke vid din kontroll av honom?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med tanke på patientens ålder och traumat mot axelleden så löper han en stor risk att ha drabbats av en så kallad ”cuff-ruptur” (2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Du är inne på din sista patient för dagen. Det rör sig om en kontroll efter en axelledsluxation hos en 67 årig man. Nu, två veckor senare kommer han för kontroll av axeln till dig. Han har varit på röntgen och jämfört med den kontrollröntgen som gjordes direkt efter repositionen och där caput stod relativt lågt i axelleden så visar dagens röntgen att caputs läge nu är mera normalt. I övrigt noteras en så kallad Hill-Sachs lesion på caput. Han har fortfarande ont i axeln även om det är mycket bättre än när den låg ur led. Du noterar ett hematom kring axeln och proximala överarmen. Du inser att han kan ha ådragit sej en cuffruptur och riktar in din undersökning på detta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Vilka muskler utgör den så kallade ”rotatorcuffen”",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Supraspinatus, Infraspinatus, Subscapularis  samt Teres minor (0,5 vardera totalt 2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8-2",
+              "text": "Beskriv en test avseende hur den utförs för var och en av ovanstående muskler",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Supraspinatus: Elevation i ventral riktning ”Jobe´s” (0,5p). Infraspinatus: Adducerad externrotation (ext rotation lag sign), men även samma tester som Teres minor (0,5p). Subscapularis: Abducerad internrotation eller internrotaton bakom ryggen ”lift-off” (Bear Hug godkänns också) (0,5p). För funktionstest av Teres minor så brukar abducerad externrotation användas ”Hornblower´s sign” (eller ”signe du clarion”) men involveras i de tester som används för Infraspinatus (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatrifrågan",
+      "points": 20,
+      "intro": "Du är i slutet på din AT-placering inom primärvården på en vårdcentral. Den sista patienten som är uppsatt på mottagningen denna dag är Faia 46 år. Ur journalen hämtar du följande information: Faia är skild och bor med sin mor. Hon har en vuxen son. Faia kom som flykting till Sverige från norra Irak för 8 år sedan. Tillhörde där en utsatt kristen minoritet. Hon har lärt sig tala relativt bra svenska och arbetar idag som butiksbiträde. Har tidigare sökt på vårdcentralen för ospecifika magbesvär, smärre gynekologiska besvär, urininfektion och utreddes tidigare för TBC, vilket kunde uteslutas. Behandlas med läkemedel mot hypertoni. Remitterades för något år sedan till hudklinik för psoriasis som förvärrats genom åren. Har också tidigare sökt för sömnbesvär och haft kortvarig kontakt med kurator.\n\nSöker nu på åter på vårdcentralen då hon sedan en längre tid inte mår bra: känner sig nedstämd, upplever tydlig oro, ibland med attacker av hjärtklappning och har svårt att sova. Har sjukskrivit sig själv sista veckan.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "När du noterar vad Faia söker för och den korta anamnesen i journalen ovan, vilka psykiatriska tillstånd kommer du att tänka på, som du sannolikt kommer att behöva överväga när du träffar henne? Ange tre olika psykiatriska tillstånd som skulle kunna vara aktuella och motivera utifrån given anamnes.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Några exempel på olika psykiatriska tillstånd som skulle kunna dölja sig bakom symtombilden kan vara: 1. Nedstämdhet och sömnsvårigheter kan föra tankarna till depressiva syndrom, till exempel egentlig depression eller ihållande depression (dystymi). 2. Oro och sömnstörning kan i vid bemärkelse vara en beskrivning av någon form av ångestsyndrom, till exempel, generaliserat ångestsyndrom. Attacker med hjärtklappning kan leda tankarna till paniksyndrom. 3. Beroende vad som hänt i hennes liv kan ett annat exempel vara anpassningsstörning med nedstämdhet, med ångestkänslor eller en blandning av nedstämdhet och ångest."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du är i slutet på din AT-placering inom primärvården på en vårdcentral. Den sista patienten som är uppsatt på mottagningen denna dag är Faia 46 år. Ur journalen hämtar du följande information: Faia är skild och bor med sin mor. Har en vuxen son. Faia kom som flykting till Sverige från norra Irak för 8 år sedan. Tillhörde där en utsatt kristen minoritet. Hon har lärt sig tala relativt bra svenska och arbetar idag som butiksbiträde. Har tidigare sökt på vårdcentralen för ospecifika magbesvär, smärre gynekologiska besvär, urininfektion och utreddes tidigare för TBC, vilket kunde uteslutas. Behandlas med läkemedel för hypertoni. Remitterades för något år sedan till hudklinik för psoriasis som förvärrats genom åren. Har också tidigare sökt för sömnbesvär och haft kortvarig kontakt med kurator. Söker nu på åter på vårdcentralen då hon sedan en längre tid inte mår bra: känner sig nedstämd, upplever tydlig oro, ibland med attacker av hjärtklappning och har svårt att sova. Har sjukskrivit sig själv sista veckan.\n\nNågra psykiatriska tillstånd som skulle kunna dölja sig bakom symtombilden skulle kunna vara depressiva syndrom, ångestsyndrom eller anpassningsstörning. Nedstämdhet och sömnsvårigheter kan således föra tankarna till depressiva syndrom, till exempel egentlig depression eller ihållande depression (dystymi). Oro och sömnstörning kan i vid bemärkelse vara en beskrivning av någon form av ångestsyndrom, till exempel, generaliserat ångestsyndrom och attacker med hjärtklappning kan leda tankarna till paniksyndrom. Beroende vad som hänt i hennes liv kan ett annat exempel vara anpassningsstörning med nedstämdhet, med ångestkänslor eller en blandning av nedstämdhet och ångest. När du träffat Faia, där hon mer utförligt kunnat berätta om sina symtom, bedömer du att du bör rikta din undersökning och utredning mot depression. Du gör också en somatisk undersökning och föreslår några labprover för att utesluta somatiska orsaker. Grunderna för diagnosen egentlig depression eller depressiv episod finns beskrivna i Diagnostic and Statistical Manual -5th version (DSM-5) och International Classification of Diseases (ICD- 10). I primärvård används dock inte sällan som diagnostiska verktyg, Montgomery-Åsberg Depression Rating Scale (MADRS) eller Hospital Anxiety and Depression Scale (HADS) för bedömning av svårighetsgrad av depression och symtomutveckling över tid. Den senare visade sig dock i en genomgång 2013 av Statens beredning för medicinsk och social utvärdering (SBU) ha låg känslighet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Som stöd i primärvård för diagnosen egentlig depression/depressiv episod samt också för ångestsyndrom rekommenderar SBU och Socialstyrelsen att man bör använda ett annat intervjuinstrument som vilar på de diagnostiska kriterierna i DSM-5 och ICD-10, vilket?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Det efterfrågade instrumentet är Mini International Neuropsykiatrisk Intervju (MINI)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Enligt DSM-5, ICD-10 och det efterfrågade instrumentet måste minst ett av symtomen nedstämdhet eller minskat intresse eller glädje föreligga vid egentlig depression/depressiv episod. Ange ytterligare två symtom som är framträdande vid egentlig depression/depressiv episod.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Utöver nedstämdhet eller minskat intresse eller glädje kan också följande kriterier ingå: 1. Betydande viktnedgång, alternativt en viktuppgång. 2. Sömnstörning. 3. Psykomotorisk agitation eller hämning. 4. Svaghetskänsla eller brist på energi så gott som dagligen. 5. Känsla av värdelöshet eller överdrivna eller obefogade skuldkänslor. 6. Minskad tanke- eller koncentrationsförmåga eller obeslutsamhet så gott som dagligen. 7. Återkommande tankar på döden eller självmordstankar, gjort självmordsförsök eller planerat för självmord."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Ange också under hur lång sammanhängande tid dessa symtom ska ha förelegat för att diagnosen egentlig depression/depressiv episod ska vara aktuell. (1p)\n\nVid den undersökning och utredning du gör tillsammans med Faia, skulle det också som alternativ kunna visa sig att Faia istället lider av ett ångestsyndrom i form av ett",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ange också under hur lång sammanhängande tid dessa symtom ska ha förelegat för att diagnosen egentlig depression/depressiv episod ska vara aktuell. (1p) Svar Symtomen ska ha förelegat under samma 2-veckorsperiod."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "paniksyndrom.  Enligt DSM-5 ska då minst en av panikattackerna under minst 1 månad åtföljts av ett eller båda av följande: Ihållande oro eller ängslan för ytterligare attacker, och/eller beteendeförändringar som syftar till att undvika att få nya attacker. Utöver det ska det enligt både ICD-10 och DSM-5 förekomma ytterligare minst fyra olika typiska symtom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Ange ytterligare två sådana typiska symtom vid paniksyndrom.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Exempel på ytterligare symtom vid paniksyndrom kan vara: 1. Palpitationer, bultande hjärta eller hastig puls. 2. Svettning. 3. Darrning eller skakning. 4. Känsla av att tappa andan. 5. Kvävningskänsla. 6. Smärta eller obehag i bröstet. 7. Illamående eller obehag i magen. 8. Svindel, ostadighetskänsla eller matthet. 9. Frossa eller värmevallningar 10. Parestesier (domningar eller stickningar). 11. Derealisationskänslor (overklighetskänslor) eller depersonalisationskänslor (upplever sig som en främling inför sig själv). 12. Rädsla för att mista kontrollen eller ”bli tokig”. 13. Dödsskräck."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-1",
+              "text": "Ange två olika former av evidensbaserad behandling som kan erbjudas vuxna individer med mild till måttlig depression.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Vanliga behandlingar vid lindrig och medelsvår egentlig depression är psykologisk behandling i form av kognitiv beteendeterapi (KBT) eller interpersonell psykoterapi (IPT). Ett alternativ till psykologisk behandling är behandling med antidepressiva läkemedel. Fysisk aktivitet kan erbjudas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Ange också två behandlingsformer som kan erbjudas vid paniksyndrom hos vuxna.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Standardbehandling vid paniksyndrom är KBT. Ett alternativ eller komplement till KBT kan vara läkemedelsbehandling med antidepressiva läkemedel."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Patienten är Faia 46 år, från norra Irak för 8 år sedan. Har tidigare sökt på vårdcentralen för ospecifika magbesvär, smärre gynekologiska besvär, urininfektion och utreddes tidigare för TBC, vilket kunde uteslutas. Behandlas med läkemedel för hypertoni. Remitterades för något år sedan till hudklinik för psoriasis som förvarrats genom åren. Har också tidigare sökt för sömnbesvär och haft kortvarig kontakt med kurator. Söker nu på åter på vårdcentralen då hon sedan en längre tid inte mår bra: känner sig nedstämd, upplever tydlig oro, ibland med attacker av hjärtklappning och har svårt att sova. Har sjukskrivit sig själv sista veckan. Du har övervägt om det bakom symtombilden döljer depressivt syndrom, ångestsyndrom eller anpassningsstörning.\n\nVid fördjupad anamnes framkommer mer som kanske påverkar dina diagnostiska överväganden. Faia flydde från norra Irak för 8 år sedan med familj efter att hennes far hade dött då han och flera andra kristna hade blivit misshandlade av attackerande grupper. Dessa händelser påverkade henne allvarligt men hon har försökt kämpa i flera år för att fungera i sitt liv. För snart ett år sedan begärde hennes man skilsmässa, vilket förvärrade Faias tillstånd och allt hon försökt undvika att tänka på har nu kommit till ytan. Skräckfyllda minnena av faderns blodiga och misshandlade kropp dyker upp när hon på olika sätt påminns om händelsen. Numer kan dessa minnen dyka upp närsomhelst och mardrömmarna har blivit värre senaste halvåret.  Faia ser sig själv som värdelös för att hon inte såg till att familjen flydde tidigare och att hon inte lyckats sköta sin familj. Är ofta uppfylld av känslor av rädsla och ilska. Har gått ned till deltid då hon annars inte skulle orka arbeta men sista veckan inte klarat att gå till jobbet. Har sedan längre tid slutat delta i andra aktiviteter, som till exempel att gå i kyrkan, vilket var viktigt för henne förr. Känner sig avskärmad från andra människor och kan inte längre känna några positiva känslor. Har blivit mer irritabel, överdrivet vaksam och samtidigt lättskrämd med paniksymtom. Sover dåligt på grund av mardrömmarna och oro. Har svårt för att läsa något då hon inte kan koncentrera sig längre.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilken diagnos kan vara trolig utifrån Faias anamnes och beskrivning av sitt tillstånd ovan?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Den mest sannolika diagnosen mot bakgrund av anamnes och symtombild är posttraumatiskt stressyndrom (posttraumatic stress disorder, PTSD)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Ange tre aspekter som framkommer i Faias berättelse ovan och som utmärker den troliga diagnosen.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Exempel på tydliga delkomponenter och grupper av symtomkriterier: 1. Exponering  …varit med om att ta hand om faderns blodiga och misshandlade kropp 2. Påträngande minnen eller mardrömmar.  Skräckfyllda minnen som dyker upp närsomhelst  Mardrömmarna har blivit värre… 2. Undvikande av sådant som påminner om händelsen.\n\n …allt hon försökt undvika att tänka på under lång tid har nu kommit till ytan 3. Markanta stimulusreaktioner (psykologisk sensitivitet och arousal).  Har blivit mer irritabel, överdrivet vaksam och samtidigt lättskrämd med paniksymtom  Har svårt för att läsa något då hon inte kan koncentrera sig längre 4. I DSM-5 anges också negativa kognitiva förändringar och negativt förändrad sinnesstämning.  Faia ser sig själv som att hon är värdelös  Är ofta uppfylld av känslor av rädsla och ilska  Känner sig avskärmad från andra människor och kan inte känna några positiva känslor"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Patienten är Faia 46 år, från norra Irak för 8 år sedan. Har tidigare sökt på vårdcentralen för ospecifika magbesvär, smärre gynekologiska besvär, urininfektion och utreddes tidigare för TBC, vilket kunde uteslutas. Behandlas med läkemedel för hypertoni. Remitterades för något år sedan till hudklinik för psoriasis som förvarrats genom åren. Har också tidigare sökt för sömnbesvär och haft kortvarig kontakt med kurator. Söker nu på åter på vårdcentralen då hon sedan en längre tid inte mår bra: känner sig nedstämd, upplever tydlig oro, ibland med attacker av hjärtklappning och har svårt att sova. Har sjukskrivit sig själv sista veckan. Du har övervägt om det bakom symtombilden döljer depressivt syndrom, ångestsyndrom eller anpassningsstörning. Vid fördjupad anamnes framkommer mer som kanske påverkar dina diagnostiska överväganden. Faia flydde från norra Irak för 8 år sedan med familj efter att hennes far hade dött då han och flera andra kristna hade blivit misshandlade av attackerande grupper. Dessa händelser påverkade henne allvarligt men hon har försökt kämpa i flera år för att fungera i sitt liv. För snart ett år sedan begärde hennes man skilsmässa, vilket förvärrade Faias tillstånd och allt hon försökt undvika att tänka på har nu kommit till ytan. Skräckfyllda minnena av faderns blodiga och misshandlade kropp dyker upp när hon på olika sätt påminns om händelsen. Numer kan dessa minnen dyka upp närsomhelst och mardrömmarna har blivit värre senaste halvåret.  Faia ser sig själv som värdelös för att hon inte såg till att familjen flydde tidigare och att hon inte lyckats sköta sin familj. Är ofta uppfylld av känslor av rädsla och ilska. Har gått ned till deltid då hon annars inte skulle orka arbeta men sista veckan inte klarat att gå till jobbet. Har sedan längre tid slutat delta i andra aktiviteter, som till exempel att gå i kyrkan, vilket var viktigt för henne förr. Känner sig avskärmad från andra människor och kan inte längre känna några positiva känslor. Har blivit mer irritabel, överdrivet vaksam och samtidigt lättskrämd med paniksymtom. Sover dåligt på grund av mardrömmarna och oro. Har svårt för att läsa något då hon inte kan koncentrera sig längre.\n\nDen mest sannolika diagnosen mot bakgrund av anamnes och symtombild är posttraumatiskt stressyndrom (posttraumatic stress disorder, PTSD). Tre tydliga delkomponenter (grupper av symtomkriterier) är: (1) påträngande minnen eller mardrömmar, (2) undvikande av sådant som påminner om händelsen eller (3) markanta stimulusreaktioner (psykologisk sensitivitet och arousal). I DSM-5 anges också (4) negativa kognitiva förändringar och negativt förändrad sinnesstämning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Det finns flera olika faktorer, förutom själva exponeringen för en traumatisk händelse som kan påverka utvecklingen av PTSD. Sådana faktorer utgörs av faktorer som dels indikerar ökad risk för PTSD samt sådana som kan bidra till motståndskraft (eng. resilience) mot att utveckla PTSD.\n\nDiskutera några sådana möjliga generella riskindikatorer för PTSD samt någon faktor som istället kan öka motståndskraften mot att utveckla detta tillstånd.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Exempel på generella riskfaktorer för att utveckla PTSD kan vara: 1. Genetisk disposition 2. Tidigare traumatisering till exempel under barndomen. Epigenetisk påverka kan ske vid traumatisering under barnaåren ledande till ökad sårbarhet som vuxen 3. Tidigare psykiatrisk anamnes, till exempel depression 4. Låg socioekonomisk status 5. Parallell livstress 6. Personlighetsdrag (neuroticism, introverta drag) 7. Exponerad för allvarligt livshot 8. Uttalade reaktioner i samband med traumat 9. Dissociationsfenomen 10. Bristande socialt stöd\n\nExempel på faktorer som kan bidra till motståndskraft (eng. resilience): 1. Genetiska faktorer 2. Trygg anknytning och uppväxt 3. Personlighetsdrag (exempelvis extraversion) 4. Andra personrelaterade delar som exempelvis: upplevelse av kontroll i tillvaron, tillit till sin egen förmåga att klara svårigheter i livet, optimistisk grundhållning, altruistiska drag, att vara fysiskt vältränad, emotionell expressiv flexibilitet 5. Externa faktorer som exempelvis: tillgång till resurser (arbete, ekonomi), goda förebilder, och framförallt ett bra socialt stöd"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Utifrån det du nu vet om Faias livssituation, diskutera kort hur du menar att hennes lidande med PTSD kan ha/har påverkat hennes liv i övrigt.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Långvarig stress som exempelvis PTSD kan påverka olika delar i livet: egen fysisk hälsa, relationer, arbetsfunktionen och livskvalitet: 1. Egen hälsa och livskvalitet Faia har tidigare behandlats för ospecifika magbesvär, smärre gynekologiska besvär och sömnbesvär. Har också haft kortvarig kontakt med kurator. Behandlas nu för hypertoni och\n\npsoriasis som förvärrats genom åren. Man vet att långvarig stress kan bidra till de flesta av de nämnda tillstånden. Stressens påverkan på immunsystemet kan till exempel bidra till att förvärra olika hudtillstånd som till exempel psoriasis. Stress kan även bidra till utveckling av hypertoni och det är känt att långvarig PTSD är relaterat till ökad risk för hjärt-/kärlsjukdom. 2. Relationer Att länge gå med PTSD-symtom, till exempel mardrömmar med sömnstörningar, undvikandesymtom, negativa förändringar i kognition och sinnesstämning, koncentrationssvårigheter, irritabilitet och vredesutbrott kan över tid leda till svår påverkan på nära relationer. Faia är dessutom skild och har gått i kuratorssamtal, aspekter som kan vara relaterade till hennes sätt att fungera i vardagen. 3. Arbetsfunktion Har gått ned i arbetstid då hon inte orkat arbeta heltid. Det kan leda till att hon dels inte på samma sätt kan ta del av arbetsgemenskapen och dessutom påverkar det ju hennes ekonomi. Har sista tiden dessutom varit helt sjukskriven. 4. Sammantaget kan alla tre ovanstående delar avsevärt nedsätta livskvaliteten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "En psykoterapeutisk behandlingsmetod som kan erbjudas vid PTSD är Eye Movement Desensitization and Reprocessing (EMDR), men ytterligare en psykoterapeutisk behandlingsform bör erbjudas vid PTSD, vilken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Hälso- och sjukvården bör utöver Eye Movement Desensitization and Reprocessing (EMDR), erbjuda kognitiv beteendeterapi med traumaexponering till vuxna med posttraumatiskt stressyndrom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-7-2",
+              "text": "Om läkemedelsbehandling skulle bli aktuell, vilka läkemedel kan då primärt erbjudas vid PTSD.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar Hälso- och sjukvården kan erbjuda behandling med antidepressiva läkemedel till vuxna med PTSD men bör inte erbjuda bensodiazepiner vid akutstressyndrom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – 3 Internmedicin",
+      "points": 20,
+      "intro": "Du är AT-läkare på en medicinklinik, det är lördag och du är medicinjour på akutmottagningen. Du informeras om att det finns två stökiga unga män på akutrummet och en som verkar vara dålig. Ansvarig akutsköterska vill att du skall bedöma patienten snarast. Du finner Carl, en 20-årig man, med blodtryck 100/60 mmHg och med sänkt medvetandegrad (RLS-85 grad 3/GCS 9 poäng).",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka åtta viktiga orsaker till sänkt medvetandegrad behöver man överväga i akutskedet?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag 3p vid 8 rätta svar, avdrag med 0,5p per fel. Orsaker till sänkt medvetandegrad\n\nH Herpesencefalit U Uremi S Status epilepticus K Korsakoff M Meningit / Sepsis I Intoxikation D Diabetes (hyper-/hypoglykemi) A Andningsinsufficiens S Subarach-, Subduralblödning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Carl, en 20 årig man med blodtryck 100/60 mmHg och i medvetandegrad (RLS-85 grad 3/GCS 9 poäng) finns på akutrummet. Du överväger orsaker till medvetandesänkning med HUSKMIDAS (Herpesencefalit / Uremi / Status epilepticus / Korsakoff / Meningit / Sepsis / Intoxikation / Diabetes (hyper-/hypoglykemi) / Andningsinsufficiens / Subarach-, Subduralblödning).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilka vitala funktioner skall kontrolleras?  Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontrollera: ABCDE - vitala funktioner - för att identifiera och stabilisera akuta livshotande tillstånd. ABCDE=(Airway/Breathing/Circulation/Disability/Exposure (Environment)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Vilka akuta åtgärder bör ansvarig läkare vidta på akutmottagningen",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akut vidtagna/ordinerade åtgärder: Kontroll av vitalfunktioner: Blodtryck, Puls, Andningsfrekvens, Saturation, Temp. EKG Ordinerar två infart (perifer venkateter) och ger kristalloidlösning, 1000 ml iv på 30 min."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-3",
+              "text": "Vilka prover bör ordineras för att handlägga Carl?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ordinerade blodprover: P-glukos, P-Na, P-K, P-Krea, P-ASAT, P-ALAT, Hb, intoxikationsprover ex P-etanol, koagulationsstatus, LPK, CRP och Syrabasstatus Blododling om feber. Ev LP med proverna; CSV celler, CSV-laktat, CSV-glukos, CSV-albumin, CSV-odling"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Carl, en 20 årig man med blodtryck 100/60 mmHg och medvetandegrad (RLS-85 grad 3/GCS 9 poäng) finns på akutrummet. Det framkommer från medföljande kamrater att Carl blivit biten av en orm när han skulle ta en selfie på sig själv och ormen. Blev biten cirka 20 min innan ankomst till sjukhuset. Tydliga bettmärken syns på vänster tumme med två stickmärken med 7 mm avstånd.\n\nDu kontrollerar patienten enligt ABCDE och ordinerar regelbunden kontroll av vitalfunktioner: Blodtryck, puls, andningsfrekvens, saturation, temp. Vidare ordinerar du ett EKG och ber att två infarter sättes (perifera venkatetrar) och ger kristalloidlösning, 1000 ml iv på 30 min. Du ordinerar blodprover med akutsvar, svar se bifogad fil med laboratoriedata. Ingen feber. Saturation 97%.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Det är viktigt att ta reda på vilken orm som huggit, motivera varför",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-11/page20_img1.jpeg",
+              "facit": [
+                "Vet man vilken orm så kan man välja rätt antiserum. Bör diskuteras med Giftinformationscentralen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "Vad beror ett förhöjt LD på?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "LD-stegring beror på cellsönderfall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Carl, en 20 årig man med blodtryck 100/60 mmHg och medvetandegrad (RLS-85 grad 3/GCS 9 poäng) finns på akutrummet. Carl har blivit biten av en huggorm cirka 20 min innan ankomst till sjukhuset. Tydliga bettmärken syns på vänster tumme där Carl har en lokal reaktion. Efter infusionsbehandling med kristalloid stiger Carl i medvetandegrad men han får tilltagande buksmärtor och förlägger dessa till epigastriet. Han blir illamående och kräks. Upplever även något svullna läppar och svalg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Utöver att undersöka patienten vilka ytterligare åtgärder är nu motiverade?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bett av giftorm skall handläggas skyndsamt. Rådgör med högre kompetensnivå (medicinbakjour, anestesijour eller intensivvårdsjour). (1p) Ring giftinformationscentralen, diskutera ev behov att ge Ormserum mot huggormsbett (Vipera Tab 2 ml). (1p) Överväg att ge hydrokortison parenteralt (Solu-cortef 200 mg iv). (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Carl, en 20 årig man med blodtryck 100/60 mmHg och medvetandegrad (RLS-85 grad 3/GCS 9 poäng) finns på akutrummet. Carl har blivit biten av en orm cirka 20 min innan ankomst till sjukhuset. Tydliga bettmärken syns på vänster tumme där Carl har en lokal reaktion. Efter infusionsbehandling med kristalloider stiger Carl i medvetandegrad men han får nu tilltagande buksmärtor och förlägger dessa till epigastriet. Han blir illamående och kräks. Upplever även något svullna läppar och svalg.\n\nDu kontaktar din bakjour och ringer giftinformationscentralen och diskuterar om Ormserum (Vipera Tab 2 ml) skall ges. Du ger även ytterligare 1000 ml Ringeracetat och hydrokortison 200 mg (Solu-cortef) iv.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Beskriv såväl lokala som systemiska reaktioner som kan bli följden av ett huggormsbett. Beskriv de patofysiologiska orsakerna till att respektive reaktion uppstår?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Symptomen är i regel lokala och/eller generella. Generella symptom indikerar allvarlig förgiftning. Cirka 25% av huggormsbetten ger allmänsymptom och 75% endast lokalsymptom i form av rodnad, svullnad och smärta runt bettstället. Dödsfall finns beskrivna men är mycket ovanliga. (1p) Huggormsgift kan orsaka uttalade fokala nekroser med blåsbildningar, särskilt i fingrar och tår men reaktionen inskränker sig oftast till måttlig rodnad och svullnad. Men även allvarligare symtom med blödningar, tromboser och en disseminerad intravaskulär koagulation (DIC-bild) kan ses. (1p) Huggormsgiftet innehåller en rad proteolytiska enzymer (proteaser, peptidhydrolaser, hyaluronidas, fosfolipider, fosfodiesteraser samt L-aminosyraoxidas) som i huvudsak ger lokala symptom som svullnad, smärta och blödningar men kan också ge generella symptom med svimning, yrsel, illamående, kräkningar, andningsbesvär och chock. Giftet är hemorragiskt och nekrotiserande men inte neurotoxiskt. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Carl, en 20 årig man med blodtryck 100/60 mmHg och medvetandegrad (RLS-85 grad 3/GCS 9 poäng) finns på akutrummet. Carl har blivit biten av en orm cirka 20 min innan ankomst till sjukhuset. Tydliga bettmärken syns på vänster tumme där Carl har en lokal reaktion. Efter infusionsbehandling med kristalloid stiger Carl i medvetande grad men får nu tilltagande buksmärtor och förlägger dessa till epigastriet. Han blir illamående och kräks. Upplever även något svullna läppar och svalg.\n\nDu kontaktar din bakjour och ringer giftinformationscentralen och diskuterar om Ormserum (Vipera Tab 2 ml) skall ges. Du ger även ytterligare 1000 ml Ringeracetat och hydrokortison 200 mg (Solu-cortef) iv.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Efter att fått parenteral vätska och ormserum (Vipera Tab) 2 st ampuller à 2 ml samt Solu-cortef 200 mg iv mår nu Carl bättre. Ge förslag till fortsatt handläggning i detta skede",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du beslutar i samråd med IVA-jouren om inläggning på IVA. Ytterligare behov av behandling med ormserumbehandling kan behövas och det rekommenderas inläggning av Carl på en intensivvårdsavdelning. Du rekommenderar kontroll av vitala parametrar en gång per timme. Finns olika graderingsskalor. Medical Emergency Triage and Treatment System (METT) Modified Early Warning Score (MEWS) och National Early Warning Score (NEWS)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Carl, en 20 årig man med blodtryck 100/60 mmHg och medvetandegrad (RLS-85 grad 3/GCS 9 poäng) finns på akutrummet. Carl har blivit biten av en orm cirka 20 min innan ankomst till sjukhuset. Tydliga bettmärken syns på vänster tumme där Carl har en lokal reaktion. Efter infusionsbehandling med kristalloid stiger Carl i medvetande grad men får nu tilltagande buksmärtor och förlägger dessa till epigastriet. Han blir illamående och kräks. Upplever även något svullna läppar och svalg. Du kontaktar din bakjour och ringer giftinformationscentralen och diskuterar om Ormserum (Vipera Tab 2 ml) skall ges. Du ger även ytterligare 1000 ml Ringeracetat och hydrokortison 200 mg Solu-cortef iv.\n\nCarl läggs in på IVA men försämras efter någon timme och sjunker ånyo i blodtryck (90/50 mmHg), blir illamående, får ont i magen och kräks samt får svårt att andas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Hur vill du farmakologiskt åtgärda den cirkulationssvikt som utlösts av anafylaxin? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienter med prechock/chock handläggs på en intensivvårdsavdelning (IVA) beh med kristalloider. Vid cirkulationssvikt kan behandling med vasopressorer som t ex noradrenalin ges. Överväg behandling ytterligare behandling med parenteralt Hydrokortison (Solu-cortef 100-200 mg i.v.). Ge parenteralt antihistaminpreparat (Tavegyl 1 mg i.v. x 2). Observera att behandlingen kan vara sederande. Vid anafylaktiska reaktioner, ge adrenalin (1 mg/ml 0,3-0,5 ml i.m.) eller adrenalin 0,1 mg/ml 0,1-0,5 mg ml i.v., titreras efter blodtryck."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-2",
+              "text": "Hur vill du farmakologiskt åtgärda bronkospasmen? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid bronkospasm ge behandling med betastimulerare i inhalation, t ex salbutamol eller terbutalin. Om ej adekvat svar på ovan ge adrenalin (1 mg/ml 0,3-0,5 ml i.m.) eller adrenalin 0,1 mg/ml 0,1-0,5 mg ml i.v., titreras efter blodtryck."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicin",
+      "points": 20,
+      "intro": "Sven, 76 år, söker dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han har den senaste tiden börjat känna sig allt mer trött och har också börjat se lite suddigt.\n\nSven berättar att han sedan tidigare är helt frisk. Han använder inga mediciner, han har inte sökt vård på mer än 10 år. Han är gift och har inga barn, har tidigare arbetat inom metallindustrin. Hans fru är 10 år äldre och blind. Han svarar lite svävande på frågan om alkohol, säger att det är som för de flesta andra. Han har inte vägt sig på länge, men upplever att byxorna suttit lite lösare de sista veckorna. Magen sköter sig som den ska men han måste kissa oftare än tidigare och även att han har blivit mer törstig. Han funderar själv på om det kan ha med det varma vädret att göra.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Utifrån patientens besvär, vilken diagnos är mest sannolik och vilka två prover vill du ta för att fastställa den diagnosen?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diabetes. P-Glukos (faste eller slumpvärde) och HbA1c."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Trötthet är ett mycket vanligt symtom på en vårdcentral. Vilka andra orienterande blodprover vill du ta för att utesluta andra vanliga orsaker till Svens trötthet? Ange tre relevanta blodprover och vilka sjukdomstillstånd de kan kopplas till.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb – anemi, malignitet. SR/CRP – malignitet, infektion. TSH – ämnesomsättningsrubbning. BNP – Hjärtsvikt.  Kreatinin – njursvikt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Sven, 76 år, söker dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han har den senaste tiden börjat känna sig allt mer trött och har också börjat se lite suddigt. Sven berättar att han sedan tidigare är helt frisk. Han använder inga mediciner, han har inte sökt vård på mer än 10 år. Han är gift och har inga barn, har tidigare arbetat inom metallindustrin. Hans fru är 10 år äldre och blind. Han svarar lite svävande på frågan om alkohol, säger att det är som för de flesta andra. Han har inte vägt sig på länge, men upplever att byxorna suttit lite lösare de sista veckorna. Magen sköter sig som den ska men han måste kissa oftare än tidigare och även att han har blivit mer törstig. Han funderar själv på om det kan ha med det varma vädret att göra.\n\nSynproblemet beskriver Sven främst som en dimsyn och svårighet att ställa om från närseende till långseende och det uppstod relativt plötsligt för några veckor sedan.  Även de andra problemen har varit tydliga i några veckor men kanske har han varit tröttare än vanligt en längre tid än så. Han säger själv att han inte brukar känna efter så mycket, ”det är bara att kämpa på”. Han känner inte till andra släktingar som har diabetes eller andra sjukdomar, men han har inte så mycket kontakt med dem.\n\nVid undersökningen av Sven så hörs inget avvikande vid auskultation av hjärta och lungor, EKG är normalt, saturationsmätning visar på 96% och blodtrycket är 150/90 mmHg. Han är 180 cm lång och väger 90 kg. Övrigt status inklusive buk, lymfkörtlar och thyreoidea u.a.\n\nBlodproverna visar ett icke fastande P-glukos på 18 (4-6) mmol/l, HbA1c 112 (31-46) mmol/mol, Hb 132 (134-170) g/l, SR 20 (<15) mm/timme samt CRP 5 (<5) mg/l. Svar på övriga prover fås först dagen efter.\n\nUtifrån provsvaren och aktuella symtom ställer du diagnosen diabetes mellitus.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Sven är bekymrad över sin försämrade syn. Vad är patogenesen till synrubbningen och vad säger du till Sven om prognosen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övergående synförändring ses vid nydebuterad diabetes eller vid dålig glukoskontroll. Detta tillstånd uppträder vid mycket höga glukosnivåer som leder till att ögats refraktära index förändras pga inlagring av glukos och sorbitol i linsen. Detta tillstånd går tillbaka efter upp till 2- 3 mån efter det att blodsockernivåerna förbättras."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vad i anamnes, prover och undersökningar gör att du kan differentiera mellan diabetes typ 1 och typ 2? Motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Symptomduration (snabb debut talar för typ 1, långsammare debut ses vid typ 2), BMI (högt talar för typ 2), ålder (typ 1 ses vanligare debutera vid < 40 år, typ 2 debuterar > 40 år), hereditet; finns hos ca 70% med typ 2, autoantikroppar (GAD65/IA-2) ses främst vid typ 1 diabetes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Sven, 76 år, söker dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han har den senaste tiden börjat känna sig allt mer trött och har också börjat se lite suddigt. Sven berättar att han sedan tidigare är helt frisk. Han använder inga mediciner, han har inte sökt vård på mer än 10 år. Han är gift och har inga barn, har tidigare arbetat inom metallindustrin. Hans fru är 10 år äldre och blind. Han svarar lite svävande på frågan om alkohol, säger att det är som för de flesta andra. Han har inte vägt sig på länge, men upplever att byxorna suttit lite lösare de sista veckorna. Magen sköter sig som den ska men han måste kissa oftare än tidigare och även att han har blivit mer törstig. Han funderar själv på om det kan ha med det varma vädret att göra. Synproblemet beskriver Sven främst som en dimsyn och svårighet att ställa om från närseende till långseende och det uppstod relativt plötsligt för några veckor sedan.  Även de andra problemen har varit tydliga i några veckor men kanske har han varit tröttare än vanligt en längre tid än så. Han säger själv att han inte brukar känna efter så mycket, ”det är bara att kämpa på”. Han känner inte till andra släktingar som har diabetes eller andra sjukdomar, men han har inte så mycket kontakt med dem. Vid undersökningen av Sven så hörs inget avvikande vid auskultation av hjärta och lungor, EKG är normalt, saturationsmätning visar på 96 % och blodtrycket är 150/90 mmHg. Han är 180 cm lång och väger 90 kg. Övrigt status inklusive buk, lymfkörtlar och thyreoidea u.a. Blodproverna visar ett icke fastande P-glukos på 18 (4-6) mmol/l, HbA1c 112 (31-46) mmol/mol, Hb 132 (134-170) g/l, SR 20 (<15) mm/tim samt CRP 5 (<5) mg/l. Svar på övriga prover fås först dagen efter.\n\nUtifrån patientens ålder, långsamt insättande symtom och förhöjda BMI bedömer du det hela som en diabetes typ 2.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Hur vill du komplettera provtagningen med avseende på patientens diabetes? Ange 3 relevanta prover för din vidare handläggning och val av behandling.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Urinsticka/U-albumin/krea kvot/mikroalbuminuri, blodfetter, kreatinin/eGFR."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-2",
+              "text": "Beskriv kortfattat patofysiologin till typ 2 diabetes.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid typ 2 diabetes ses en successivt tilltagande insulinresistens, ofta i kombination med övervikt/fetma.  När beta-cellerna inte längre förmår att kompensera för insulinresistensen med ökad insulinproduktion stiger blodsockernivån och diabetessjukdomen blir manifest. Det finns en även en stark hereditet vid typ 2-diabetes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Sven, 76 år, söker dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han har den senaste tiden börjat känna sig allt mer trött och har också börjat se lite suddigt. Blodproverna visar ett icke fastande P-glukos på 18 (4-6) mmol/l, HbA1c 112 (31-46) mmol/mol, Hb 132 (134-170) g/l, SR 20 (<15) mm/tim samt CRP 5 (<5) mg/l.  Svar på övriga prover fås först dagen efter. Utifrån patientens ålder, långsamt insättande symtom och förhöjda BMI bedömer du det hela som en diabetes typ 2.\n\nDu kompletterar provtagningen med en U-albumin/krea kvot (eller annat prov som kan fånga förekomst av proteinuri), blodfetter, kreatinin samt estimerat GFR för att kunna få hjälp i din vidare handläggning och val av behandling. Sven har ett BMI på 27,8 kg/m2 med företrädesvis bukfetma.\n\nDagen efter besöket kommer svar på proverna. Kreatinin 92 (<100), eGFR beräknas enligt Lund-Malmö-modellen till 61 (>60) ml/min. Totalkolesterol 5,7 (<5), LDL 3,1 (< 3), HDL 0,8 (>1), triglycerider 4,0 (<2). Urinprovet visar inga tecken på proteinuri. Övriga prover inklusive BNP, TSH, elektrolyter och blodstatus u.a.\n\nUtöver livsstilsförändringar väljer du att påbörja behandling av Svens diabetes typ 2 med metformin som är förstahandsval. Metformin är ett läkemedel som firar 60 år i år och som har sitt ursprung i en gammal läkeväxt, Galega officinalis eller Getruta på svenska, se bild från Wikipedia commons.\n\nFigur 1  Galega officinalis - from Thomé Flora von Deutschland, Österreich und der Schweiz 1885. Public domain, Wikipedia commons.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Beskriv hur behandlingen sätts in, vilken som är måldos, vad som är den vanligaste bieffekten samt redogör för den övergripande verkningseffekten av metformin.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-11/page29_img1.jpeg",
+              "facit": [
+                "Utöver livsstilsförändringar väljer du att påbörja behandling av Svens diabetes typ 2 med metformin som är förstahandsval. Metformin är ett läkemedel som firar 60 år i år och som har sitt ursprung i en gammal läkeväxt, Galega officinalis eller Getruta på svenska, se bild från Wikipedia commons. Beskriv hur behandlingen sätts in, vilken som är måldos, vad som är den vanligaste bieffekten samt redogör för den övergripande verkningseffekten av metformin. (2p) Behandlingen inleds med tablett metformin 500 mg 1x1 som tas i samband med måltid. Dosen upptitreras med måldos 1,5-2 g/dygn, den vanligaste bieffekten är magbiverkningar i form av diarréer. Behandling med metformin minskar insulinresistensen i ffa muskler och lever via aktivering av AMPK (AMP-activated protein kinase)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Vid vilka tillfälliga tillstånd är det viktigt att göra uppehåll i behandlingen med metformin? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid tillstånd som kan orsaka intorkning, t.ex. feber, kräkningar och diarréer, värmebölja samt om en röntgenundersökning med kontrast ska göras. Dessa tillstånd ger en tillfällig försämring av njurfunktionen som kan leda till ansamling av metformins metaboliter med ökad risk för laktatacidos. Njurfunktionen bör därför kontrolleras regelbundet. Patienter bör ha skriftlig information."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Sven, 76 år, söker dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han har den senaste tiden börjat känna sig allt mer trött och har också börjat se lite suddigt. Vid undersökningen av Sven så hörs inget avvikande vid auskultation av hjärta och lungor, EKG är normalt, saturationsmätningen visar på 96 % och blodtrycket är 150/90 mmHg. Han är 180 cm lång och väger 90 kg. Övrigt status inklusive buk, lymfkörtlar och thyreoidea u.a. Sven har ett BMI på 27,8 kg/m2 med företrädesvis bukfetma. Blodproverna visar ett icke fastande P-glukos på 18 (4-6) mmol/l, HbA1c 112 (31-46) mmol/mol, Hb 132 (134-170) g/l, SR 20 (<15) mm/tim samt CRP 5 (<5) mg/l. Kreatinin 92 (<100), eGFR beräknas enligt Lund- Malmö-modellen till 61 (>60) ml/min.  Totalkolesterol 5,7 (<5), LDL 3,1 (< 3), HDL 0,8 (>1), triglycerider 4,0 (<2). Urinprovet visar inga tecken på proteinuri. Övriga prover inklusive BNP, TSH, elektrolyter och blodstatus u.a. Utifrån patientens ålder, långsamt insättande symtom och förhöjda BMI bedömer du det hela som en diabetes typ 2.\n\nEftersom diabetes typ 2 främst orsakas av insulinresistens påbörjar du behandling med tablett metformin 500 mg 1x1 som tas i samband med måltid. Dosen upptitreras med måldos 1,5-2 g/dygn, den vanligaste bieffekten är magbiverkningar i form av diarréer. Du informerar även patienten om att han bör gör uppehåll i behandlingen vid tillstånd som kan leda till intorkning samt inför röntgenundersökningar med kontrastmedel.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Svens HbA1c ligger högt och du bedömer att det inte räcker med monoterapi. Vilket preparat väljer du som tillägg till metformin? Motivera ditt val.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Som tilläggsbehandling utöver metformin inleder du behandling med medellångverkande basinsulin till natten, Prio 3 SoS riktlinjer 2017. Sulfonylurea prio 4 SoS riktlinjer 2017. SGLT-2 hämmare Prio 5 SoS riktlinjer 2017 GLP-1 RA, Prio 5, SoS riktlinjer 2017 DPP-4 hämmare, Prio 5, SoS riktlinjer 2017 Rätt ges även för hänvisnings till preparat rekommenderat av regional/lokal rekommendation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-2",
+              "text": "Finns det andra samverkande sjukdomar eller livsstilsfaktorer hos Sven som du vill utreda, behandla eller följa upp? Nämn 4 områden med förslag på åtgärder och önskvärda mål för varje område.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandla hypertoni (lägre målvärde för individer med diabetes 140/80-85 mmHg) med ACE- hämmare/ARB för att förebygga utveckling av proteinuri. Behandla hyperlipidemi; patienten bör erbjudas statinbehandling. Penetrera tobaksbruk, rekommendera rökstopp om rökare. Penetrera alkoholbruk, om överkonsumtion rekommendera minskning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Epilog Sven, 76 år, söker dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han har den senaste tiden börjat känna sig allt mer trött och har också börjat se lite suddigt. . Vid undersökningen av Sven så hörs inget avvikande vid auskultation av hjärta och lungor, EKG är normalt, saturationsmätningen visar på 96 % och blodtrycket är 150/90 mmHg. Han är 180 cm lång och väger 90 kg. Övrigt status inklusive buk, lymfkörtlar och thyreoidea u.a. Sven har ett BMI på 27,8 kg/m2 med företrädesvis bukfetma. Blodproverna visar ett icke fastande P-glukos på 18 (4-6) mmol/l, HbA1c 112 (31-46) mmol/mol, Hb 132 (134-170) g/l, SR 20 (<15) mm/tim samt CRP 5 (<5) mg/l. Kreatinin 92 (<100), eGFR beräknas enligt Lund- Malmö-modellen till 61 (>60) ml/min. Totalkolesterol 5,7 (<5), LDL 3,1 (< 3), HDL 0,8 (>1), triglycerider 4,0 (<2). Urinprovet visar inga tecken på proteinuri. Övriga prover inklusive BNP, TSH, elektrolyter och blodstatus u.a. Utifrån patientens ålder, långsamt insättande symtom och förhöjda BMI bedömer du det hela som en diabetes typ 2. Du påbörjar behandling med tablett metformin 500 mg 1x1 som tas i samband med måltid. Dosen upptitreras med måldos 1,5-2 g/dygn.\n\nBehandlingen kompletteras med medellångverkande insulin till natten. Efter några månader får du besked om att HbA1c sjunkit gradvis och nu är 54 mmol/mol med hjälp av inj. Insulatard 38 E till natten samt tablett metformin 500 mg 1 x 2. Den suddiga synen har normaliserats och Sven upplever själv att hans besvär försvunnit och är nöjd med behandlingen. Han har även gjort vissa förändringar av kosten. När det gäller dina funderingar runt lipidstatus, optimering av blodtryck samt samtal kring rökning och alkoholvanor väljer du att avvakta tills nästa kontroll eftersom patienten uttryckte stark ovilja att ta ytterligare mediciner.\n\nSven, 76 år, sökte dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han hade den senaste tiden börjat känna sig allt mer trött och hade också börjat se lite suddigt. Utredning gjordes via vårdcentralen och han diagnosticerades med typ 2 diabetes. Behandling sattes in och god blodsockerkontroll uppnåddes med metformin 500 mg 1x2 och Insulatard 38 E till natten.\n\n8 månader efter det första besöket söker Sven återigen upp dig. Han besväras nu sedan en vecka av en mycket intensiv klåda över stora delar av kroppen som förvärras nattetid och gör det svårt att sova.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilka är dina 4 främsta differentialdiagnoser vid klåda och hur vill du utreda dem?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Läkemedel – anamnes. Leversjukdom – ikterus, andra tecken på leversjukdom, lab-prover. Hudsjukdom – torr hud, eksem, utslag. Skabb eller andra parasiter – skabbgångar, exkoriationer, hudutslag. Allergi – nässelutslag. Polycytemia vera – lab-prover."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Sven, 76 år, sökte dig under sommarhalvåret på en halvakut tid på vårdcentralen. Han hade den senaste tiden börjat känna sig allt mer trött och hade också börjat se lite suddigt. Utredning gjordes via vårdcentralen och han diagnosticerades med typ 2 diabetes. Behandling sattes gradvis in och god blodsockerkontroll uppnåddes med metformin 500 mg 1x2 och Insulatard 38 E tn. 8 månader efter det första besöket söker Sven återigen upp dig. Han besväras nu sedan en vecka av en mycket intensiv klåda över stora delar av kroppen som förvärras nattetid och gör det svårt att sova.\n\nSven berättar att han inte börjat med någon ny medicin utöver vad du ordinerat och inte vet med sig att något annat ändrats i hans vanor. Han är gift sedan 50 år och hans hustru har inga liknande besvär. Han har aldrig tidigare haft besvär av klåda eller torr hud och känner inte till att han är allergisk mot något. Du inspekterar hudkostymen och ser inga utslag eller rodnader, enbart enstaka exkoriationer. Du ser dock en gulaktig färgton i huden och även en svag gulfärgning av sclera.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilka 2 diagnoser misstänker du främst nu och hur utreder du dem vidare?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ikterus orsakad av leversjukdom (gallstas, hepatit) eller hemolys . Utredning i form av labprover (leverstatus inkl bilirubin och ALP, blodstatus, hepatitprover, infektionsprover, haptoglobin) samt ultraljud buk/DT buk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

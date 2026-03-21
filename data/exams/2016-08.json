@@ -1,0 +1,1058 @@
+{
+  "id": "2016-08",
+  "title": "AT-prov augusti 2016",
+  "date": "2016-08-26",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": "Frågorna som följer utgår från att du tjänstgör som underläkare på en psykiatrisk klinik strax efter det att du fått din läkarlegitimation. Du är jour och får en patient överremitterad från primärvårdsjouren som finns i samma lokaler. Det är en 45-årig man som haft attacker av andnöd och tryck över bröstet den senaste tiden. Problemen har nu blivit så stora att han söker akut. En kollega har tagit ett EKG och friat hjärtproblem. Mannen har bott många år i Sverige och arbetar på en folkhögskola med administration av kurser för invandrare. Han är flykting från Syrien där han satt i fängelse i 6 år. I fängelset utsattes han för extrem tortyr med bl.a. flera skenavrättningar. Mannen är muslim och deltar regelbundet i moskén. Han har familj, två döttrar 10 och 12 år. Hustrun är också invandrare och arbetar i en skolbespisning. Mannen ger en öppen och god kontakt, talar god svenska och du noterar ingen allvarlig psykopatologi utöver det han berättar, möjligen en något sänkt grundstämning. Han har under de senaste veckorna fått tilltagande problem med att sova, svårt att somna in, men framför allt vaknar han upprepade gånger med mardrömmar, bl.a. om att bli uttagen på fängelsegården och ställd inför en dödspatrull. På dagarna har han svårt att koncentrera sig på arbetet och för ett par dagar sedan sjukanmälde han sig. En av hans bröder finns kvar i Syrien och har skadats allvarligt i ett bombanfall och patienten är orolig över broderns tillstånd och över sina gamla föräldrar, som också finns kvar i Syrien.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Ange två skilda typer av psykiatriska sjukdomstillstånd det skulle kunna röra sig om. För ett differentialdiagnostiskt resonemang. Vad talar för de två olika tillstånden?",
+              "maxPoints": 2,
+              "hint": "Ange två diagnoser och motivera vad som talar för respektive tillstånd",
+              "facit": [
+                "PTSD-syndrom – talar för: krig, fängelse, tortyr, skenavrättningar, mardrömmar, sömnstörning, koncentrationssvårigheter",
+                "Ångest-depressivt syndrom / Blandat ångest- och depressionstillstånd F41.2 – talar för: andnöd, tryck över bröstet, sänkt grundstämning"
+              ],
+              "facitExplanation": "Mycket talar för ett PTSD-syndrom (krig, fängelse mm) alternativt Ångest-depressivt syndrom/Blandat ångest- och depressionstillstånd F 41.2 (andnöd, tryck över bröstet, sänkt grundstämning).",
+              "tags": ["PTSD", "ångest", "depression", "differentialdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilka blir dina akuta åtgärder?",
+              "maxPoints": 1.5,
+              "hint": "Tänk på diagnostik, suicidrisk, sjukskrivning och behandling",
+              "facit": [
+                "Fördjupad diagnostik inklusive ytterligare somatisk bedömning",
+                "Suicidriskbedömning",
+                "Kortvarig sjukskrivning",
+                "Erbjuda samtalskontakt",
+                "Antidepressiva kan bli aktuellt",
+                "Sömnmedicin i mindre förpackning"
+              ],
+              "facitExplanation": "Fördjupad diagnostik inkl. ytterligare somatisk bedömning. Suicidriskbedömning. Kortvarig sjukskrivning. Erbjuda samtalskontakt, antidepressiva kan bli aktuellt liksom sömnmedicin.",
+              "tags": ["suicidrisk", "PTSD", "psykiatrisk bedömning"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Under samma jourpass kommer polisen efter midnatt in med en 20-årig kvinna som hittats berusad utanför en av stadens krogar. På akuten försämras snabbt hennes tillstånd så att hon blir okontaktbar. Hon tas därför över på IVA innan du hunnit tala med henne. Där konstaterar man att hon också tagit tabletter (paracetamol?) i suicidsyfte. Efter några timmar på IVA vaknar hon upp och vill lämna sjukhuset. När du kommer till IVA håller hon på att riva bort det dropp hon har fått och måste hållas av personalen.",
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vilka åtgärder vidtar du?",
+              "maxPoints": 1,
+              "hint": "Tänk på psykiatrisk bedömning, vårdintyg, bakjour och medicinjouren",
+              "facit": [
+                "Psykiatrisk bedömning inklusive suicidbedömning",
+                "Ta ställning till vårdintyg för tvångsvård enligt LPT",
+                "Kontakta bakjouren",
+                "Kontakta medicinjouren avseende eventuell paracetamolintoxikation"
+              ],
+              "facitExplanation": "Du gör en psykiatrisk bedömning inklusive suicidbedömning och tar ställning till vårdintyg och kontaktar bakjouren samt kontaktar medicinjouren avseende eventuell paracetamolintoxikation.",
+              "tags": ["LPT", "suicidrisk", "intoxikation"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Bakjouren på psykiatriska kliniken bestämmer sig för att se patienten inom kort.",
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vad krävs för att någon ska kunna vårdas enligt Lagen om psykiatrisk tvångsvård (LPT) – vilka är kriterierna för tvångsvård?",
+              "maxPoints": 1.5,
+              "hint": "Tre huvudkriterier krävs",
+              "facit": [
+                "Allvarlig psykisk störning (psykotisk valör, suicidrisk, farlighet)",
+                "Oundgängligt vårdbehov – inga alternativ",
+                "Patienten motsätter sig vård alternativt kan inte lämna samtycke"
+              ],
+              "facitExplanation": "1. Allvarlig psykisk störning - psykotisk valör, suicidrisk, farlighet. 2. Oundgängligt vårdbehov - inga alternativ. 3. Motsätter sig vård alt kan inte lämna samtycke.",
+              "tags": ["LPT", "tvångsvård", "suicidrisk"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Bakjouren väljer i det aktuella fallet att godkänna vårdintyget.",
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Vilka juridiska rättigheter har en patient som är vårdad enligt LPT?",
+              "maxPoints": 1,
+              "hint": "Tänk på domstol, utskrivning, ombud och stödperson",
+              "facit": [
+                "Tvåläkarbedömning av vårdbehov – vårdintygsskrivande läkare + psykiaterspecialist som fattar intagningsbeslut",
+                "Rätt att överklaga intagning till domstol",
+                "Rätt att begära utskrivning",
+                "Rätt till juridiskt ombud i domstolen",
+                "Rätt till stödperson"
+              ],
+              "facitExplanation": "Tvåläkarbedömning av vårdbehov, rätt överklaga intagning till domstol, rätt begära utskrivning, juridiskt ombud i domstolen, stödperson.",
+              "tags": ["LPT", "patienträttigheter", "tvångsvård"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Patienten somnar så småningom på avdelningen och dagen därpå kan du föra ett längre samtal med patienten. Hon berättar då att hon haft en pojkvän som för några dagar sedan gjorde slut – han hade inlett ett förhållande med en av patientens kompisar. Patienten förklarar att hon egentligen inte hade tänkt ta livet av sig utan att det var en impulshandling utlöst av att hon såg f.d. pojkvännen och hans nya flickvän komma in på den lokal där hon satt tillsammans med några andra kompisar. Hon är i övrigt mycket förtegen och vill inte berätta något mera om sig själv utan kräver att få bli utskriven. Under samtalet noterar du att hon har många ärr på sina båda underarmar, och när du frågar om detta vill hon inte berätta om hur hon fått dem.",
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vad gör du i den aktuella situationen när patienten kräver att få bli utskriven?",
+              "maxPoints": 1,
+              "hint": "Tänk på vem som fattar beslut om LPT",
+              "facit": [
+                "Ta kontakt med överläkaren för att diskutera om patienten kan skrivas ut eller bör fortsatt vårdas enligt LPT",
+                "Ställningstagandet om fortsatt vård enligt LPT eller inte är ett beslut på specialistnivå"
+              ],
+              "facitExplanation": "Diskuterar med din överläkare om den fortsatta vården - fortsatt LPT eller inte är ett beslut på specialistnivå!",
+              "tags": ["LPT", "suicidrisk", "självskadebeteende"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Efter att ha diskuterat med din överläkare, som beslutat att behålla patienten på vård enligt LPT ytterligare en tid för att få mera information, får du löfte av patienten att kontakta hennes föräldrar.",
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Hur gör du för att bedöma den aktuella suicidrisken? Hur resonerar du, vilka frågor ställer du till patienten?",
+              "maxPoints": 2.5,
+              "hint": "Tänk på strukturerad suicidriskbedömning, riskfaktorer och skyddsfaktorer",
+              "facit": [
+                "Strukturerad suicidriskbedömning",
+                "Hereditet för suicid",
+                "Tidigare självmordsförsök",
+                "Dödslängtan, övervägande av eventuell suicidmetod",
+                "Fokusera på det som hände när hon blev intagen",
+                "Tidigare självdestruktivitet (ärren på underarmarna)",
+                "Andra riskfaktorer för suicid",
+                "Vilka skyddsfaktorer finns: familj, vänner, arbete/studier, fritidsaktiviteter"
+              ],
+              "facitExplanation": "Strukturerad suicidriskbedömning. Hereditet, tidigare självmordsförsök, övervägande av eventuell suicidmetod. Fokusera på det som hände när hon blev intagen, tala om tidigare självdestruktivitet, andra riskfaktorer för suicid, vill hon dö/allvaret eller vad annat ligger bakom. Vilka skyddsfaktorer finns, familj, vänner, arbete/studier, fritidsaktiviteter.",
+              "tags": ["suicidrisk", "självskadebeteende", "psykiatrisk bedömning"]
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Patienten bor hemma hos föräldrarna. Mamman berättar att patienten haft kontakt med BUP när hon var 14-15 år p.g.a. självskadebeteende då hon skar sig vid flera tillfällen. Det diskuterades då också om hon möjligen hade en ADHD-problematik men det genomfördes inte någon mera omfattande utredning. Patienten klarade av gymnasiet med vissa svårigheter. Mamman är dock själv övertygad om att flickan antagligen har haft och har en ADHD-problematik och hon hoppas att det nu görs en ordentlig utredning.",
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Nämn tre centrala anamnestiska uppgifter som krävs för att ställa ADHD diagnos?",
+              "maxPoints": 1.5,
+              "hint": "Nämn tre centrala uppgifter",
+              "facit": [
+                "Uppmärksamhetsstörningar, koncentrationssvårigheter",
+                "Hyperaktivitet, svårt sitta still, impulsivitet",
+                "Debut i barndomen",
+                "Kliniskt påtaglig påverkan på studier, socialt, arbete"
+              ],
+              "facitExplanation": "Uppmärksamhetsstörningar, koncentrationssvårigheter. Hyperaktivitet, svårt sitta still, impulsivitet. Debut i barndomen. Kliniskt påtaglig påverkan på studier, socialt, arbete.",
+              "tags": ["ADHD", "diagnostik", "neuropsykiatri"]
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Patienten övertalas att stanna kvar och efter ett gemensamt möte med patienten och föräldrarna och överläkaren accepterar hon att stanna ytterligare några dagar frivilligt på avdelningen för att planera den fortsatta kontakten. Det bestäms att patienten ska genomgå en ADHD-utredning och i väntan på den erbjuds hon samtalsstöd. Patienten uttrycker själv önskemål om att få KBT (kognitiv beteendeterapi).",
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Vad är karaktäristiskt för KBT-baserad psykoterapi?",
+              "maxPoints": 1.5,
+              "hint": "Nämn de centrala kännetecknen för KBT",
+              "facit": [
+                "Bygger på inlärningspsykologi",
+                "Mer fokuserad på här och nu, än av barndomen (som dynamisk terapi är)",
+                "Oftast mycket strukturerad/manualiserad",
+                "Fokuserad på konkret problemlösning med pedagogiska inslag, hemuppgifter",
+                "En aktiv terapeut",
+                "Träning av social färdigheter, beteendeaktivering, exponering för ångestväckande situationer"
+              ],
+              "facitExplanation": "KBT bygger på inlärningspsykologi, mer fokuserad på här och nu än barndomen, oftast strukturerad/manualiserad, fokuserad på konkret problemlösning med hemuppgifter, aktiv terapeut, träning av social färdighet och exponering.",
+              "tags": ["KBT", "psykoterapi", "ADHD"]
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Vilken är den vanligaste farmakologiska behandlingen av ADHD? Nämn två av de vanligaste bieffekterna.",
+              "maxPoints": 1.5,
+              "hint": "Läkemedelstyp och två biverkningar",
+              "facit": [
+                "Centralstimulerande medel",
+                "Aptitstörning",
+                "Sömnproblem",
+                "Ökad ångest",
+                "Hjärtklappning"
+              ],
+              "facitExplanation": "Centralstimulerande medel. Biverkningar: aptitstörning, sömnproblem, ökad ångest, hjärtklappning.",
+              "tags": ["ADHD", "psykofarmaka", "centralstimulerande"]
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Under helgen som gått har en patient med en känd affektiv sjukdom lagts in på avdelningen. Det är en 67-årig man som tidigare haft flera depressiva episoder som behandlats såväl inneliggande som polikliniskt. Under senare år har han dock mått bra och har slutat ta de mediciner han haft under årens lopp. Nu har han emellertid börjat sova dåligt igen, har svårt att somna och vaknar tidigt. Han har blivit alltmer orolig och misstänker nu att han har fått en cancer som gör att han förlorat aptiten och har gått ner några kilo i vikt. Han misstänker att hustrun har inlett ett förhållande med en av grannarna och detta har lett till flera upprörda diskussioner. Avdelningens överläkare kan inte delta i ronden varför du får fatta en del inledande beslut om den fortsatta utredningen och handläggningen.",
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Vilken diagnos bedömer du som mest sannolik?",
+              "maxPoints": 0.5,
+              "hint": "En diagnos räcker",
+              "facit": [
+                "Depressivt syndrom (återfall)"
+              ],
+              "facitExplanation": "Depressivt syndrom.",
+              "tags": ["depression", "affektiv sjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "1-12",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-12-1",
+              "text": "Patienten har tidigare fått ECT med god effekt och du tar upp detta behandlingsalternativ med patienten och han är positiv till den behandlingen. Vilka medicinska förberedelser görs inför ECT behandlingen?",
+              "maxPoints": 1,
+              "hint": "Tänk på information, narkos och läkemedel",
+              "facit": [
+                "Information om eventuella biverkningar (minnesförsämring) till behandlingen",
+                "Narkosbedömning inklusive somatisk värdering",
+                "Läkemedelsvärdering"
+              ],
+              "facitExplanation": "Information om ev. biverkningar (minnesförsämring) till behandlingen. Narkosbedömning inkl. somatisk värdering och läkemedelsvärdering.",
+              "tags": ["ECT", "depression"]
+            }
+          ]
+        },
+        {
+          "id": "1-13",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-13-1",
+              "text": "Patienten har stora sömnsvårigheter och plågas också av ångest och oro. Vilka överväganden gällande läkemedel gör du kring hans sömnproblematik och oro med tanke på den planerade ECT behandlingen? Motivera.",
+              "maxPoints": 1,
+              "hint": "Tänk på kramptröskeln",
+              "facit": [
+                "Undvik bensodiazepiner som höjer kramptröskeln",
+                "Kan ordinera icke-kramptröskelhöjande sömnmedel och andra typer av anxiolytika"
+              ],
+              "facitExplanation": "Undvik bensodiazepiner som höjer kramptröskeln. Du kan ordinera icke-kramptröskelhöjande sömnmedel och andra typer av anxiolytika.",
+              "tags": ["ECT", "bensodiazepiner", "psykofarmaka"]
+            }
+          ]
+        },
+        {
+          "id": "1-14",
+          "context": "Pat får 7 ECT-behandlingar och förbättras avsevärt. Han misstänker inte längre sin hustru och tror sig inte ha fått cancer.",
+          "questions": [
+            {
+              "id": "1-14-1",
+              "text": "Hur värderar du patientens misstankar om cancer och hustruns eventuella otrohet? Vilken relevans kan det ha för värderingen av depressionens djup?",
+              "maxPoints": 1,
+              "hint": "Tänk på vanföreställningar vid djup depression",
+              "facit": [
+                "Går inte att utesluta att patientens tankar stämmer, men mer sannolikt rör det sig om depressiva vanföreställningar",
+                "Kan vara tecken på djup depression"
+              ],
+              "facitExplanation": "Det går inte att utesluta att patientens tankar stämmer men det är mera sannolikt att det rör sig om depressiva vanföreställningar. Kan vara tecken på djup depression.",
+              "tags": ["depression", "vanföreställningar", "ECT"]
+            },
+            {
+              "id": "1-14-2",
+              "text": "Inför utskrivningen diskutera kring eventuell fortsatt farmakologisk behandling i syfte att förebygga återinsjuknande. Ange tre olika typer av läkemedel som skulle kunna komma ifråga.",
+              "maxPoints": 1.5,
+              "hint": "Ange tre olika läkemedelstyper",
+              "facit": [
+                "Litium",
+                "Långtidsbehandling med antidepressiva",
+                "Antiepileptika (t.ex. valproat, lamictal)",
+                "Nyare neuroleptika (ev)"
+              ],
+              "facitExplanation": "Litium. Långtidsbehandling med antidepressiva. Antiepileptika (t ex valproat, lamictal). (Ev nyare neuroleptika).",
+              "tags": ["depression", "psykofarmaka", "recidivprofylax"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Det är tisdagskväll och du går ett jourpass på akutmottagningen. Kl 19.00 söker en 43-årig kvinna p.g.a. ett intensivt ömmande bröst. Hon berättar att hon stod i köket 4 dagar tidigare för att baka kanelbullar tillsammans med sin dotter och halkade på köksmattan. Hon förlorade balansen och stötte höger bröst ganska hårt mot diskbänkskanten. Det gjorde väldigt ont, speciellt från början, men hon tänkte att det går nog över. Smärtan har dock åter tilltagit senaste dagarna och endast Alvedon hjälper inte, varför hon även börjat med Ipren men trots detta \"blir det bara värre\". Anamnes: Frisk frånsett tablettbehandlad hypertoni och tidigare armfraktur efter fall med cykel. Medicinerar med amlodipin. Motionerar sällan. Röker inte. Sparsamt med alkohol. Gift och har en 12-årig dotter. Hereditet: Mamman lever och är väsentligen frisk. Pappan som var rökare dog i pancreascancer. Status: Allmäntillstånd: Gott i vila. Temp 37,9. Hjärta: regelbunden rytm, inga blåsljud. Lungor: Liksidiga normala andningsljud. BT: 160/85 mm Hg. Puls: 85 slag/minut. Buk: Inspekteras u.a. Auskulteras u.a. Palperas mjuk och oöm. Lokalstatus höger bröst: Rodnat bröst, distinkt ömmande, varmt och hårt vid palpation.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilken blir din nästa diagnostiska åtgärd?",
+              "maxPoints": 1,
+              "hint": "Tänk på bilddiagnostik av bröstet",
+              "facit": [
+                "Ultraljud av bröstet"
+              ],
+              "facitExplanation": "Undersökning; Ultraljud - djup bröstabscess med avgränsbar central smältning. Mäter 5x3cm.",
+              "tags": ["bröstabscess", "ultraljud", "diagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Din nästa diagnostiska åtgärd blir att du beställer ultraljud av bröstet som visar en uttalad abscessbildning 5x3cm. Då huden är rodnad och inflammerad avstår radiologen från att lägga in drän direkt vid undersökningen. När du fått svaret tar du kontakt med bakjouren som förklarar vad du bör göra akut. Du får själv kontakta narkosen och göra anmälan till operation.",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "a) Förklara hur man kirurgiskt behandlar en abscess som i det här fallet. Beskriv vilka steg som ingår.",
+              "maxPoints": 2,
+              "hint": "Beskriv de kirurgiska stegen",
+              "facit": [
+                "Incision med skalpell ner till abscesshålan",
+                "Odla (ta odlingspinne och skicka för bakterieodling)",
+                "Spola sårhålan upprepade gånger med koksalt tills klar vätska återkommer",
+                "Dränera såret"
+              ],
+              "facitExplanation": "På operation; (Steg; Incision, odla, spola, drän).",
+              "tags": ["bröstabscess", "kirurgi", "incision"]
+            },
+            {
+              "id": "2-2-2",
+              "text": "b) Förklara principerna för dränering av sårhålan och hur du går till väga.",
+              "maxPoints": 1,
+              "hint": "Tänk på typ av drän och hur det fixeras",
+              "facit": [
+                "Hålla såret öppet",
+                "Typ kofferdam-drän (latexduk) för att dränera sårhålan på djupet",
+                "Dränet sticker upp ur såret för att hålla sårkanterna öppna",
+                "Säkras med sutur i hudkanten för att inte lossna"
+              ],
+              "facitExplanation": "Hålla såret öppet. Typ kofferdam drän (latexduk). Säkras med sutur.",
+              "tags": ["bröstabscess", "kirurgi", "dränage"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "a) Efter ingreppet, vilka postoperativa ordinationer ger du? Vilka läkemedel kan vara aktuella?",
+              "maxPoints": 2,
+              "hint": "Tänk på smärta och infektion",
+              "facit": [
+                "Paracetamol (Alvedon)",
+                "NSAID (t.ex. naproxen)",
+                "Antibiotikum med god vävnadspenetrans, t.ex. clindamycin"
+              ],
+              "facitExplanation": "Värktabletter Alvedon NSAID samt antibiotikum t.ex. Clindamycin som har bra vävnadspenetrans. Söka vid tecken till försämring som t.ex. feber.",
+              "tags": ["bröstabscess", "antibiotikabehandling", "NSAID"]
+            },
+            {
+              "id": "2-3-2",
+              "text": "b) Bör patienten ses igen på ett återbesök? Motivera.",
+              "maxPoints": 2,
+              "hint": "Ja – motivera varför",
+              "facit": [
+                "Ja, patienten bör ses igen",
+                "Följa upp sårläkningen, förslagsvis efter 3-5 dagar",
+                "Ställningstagande till borttagning av drän"
+              ],
+              "facitExplanation": "Följa upp sårläkningen, förslagsvis efter 3-5 dagar. Ställningstagande till borttagning av drän.",
+              "tags": ["bröstabscess", "postoperativ vård", "sårläkning"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Bröstet känns mycket bättre, är inte längre rodnat eller värmeökat. Dränet dras. Svar på odling av sekret från abscessen visar växt av Staphylococcus aureus med full känslighet för clindamycin. Patienten berättar nu att hon har haft väldigt ont i maggropen och att avföringen har varit mörk. Vid bukpalpation noteras uttalad palpationsömhet i epigastriet. Du beställer nya prover med akutsvar.",
+          "contextImageUrl": "/images/exams/2016-08/page13_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Mot bakgrund av nytillkomna symtom och laboratoriefynd vad misstänker du i första hand att patienten kan ha råkat ut för? Föreslå lämplig åtgärd.",
+              "maxPoints": 2,
+              "hint": "Tänk på smärtstillande behandling och GI-komplikation",
+              "facit": [
+                "Ulcus/gastrit orsakat av NSAID-behandlingen",
+                "Gastroskopi"
+              ],
+              "facitExplanation": "Ulcus/gastrit pga NSAID. Gastroskopi (Bild NSAID sår i antrum).",
+              "tags": ["magsår", "NSAID", "gastroskopi"]
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du misstänker ulcus orsakat av den tidigare NSAID-behandlingen och beställer en gastroskopiundersökning. Helicobacter pylori-test utfaller negativt.",
+          "contextImageUrl": "/images/exams/2016-08/page14_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "a) Föreslå lämplig behandling.",
+              "maxPoints": 0.5,
+              "hint": "Syrahämmande behandling",
+              "facit": [
+                "Protonpumpshämmare ca 4 veckor",
+                "Patienten ska undvika NSAID"
+              ],
+              "facitExplanation": "Protonpumpshämmare ca 4 veckor.",
+              "tags": ["magsår", "protonpumpshämmare", "NSAID"]
+            },
+            {
+              "id": "2-5-2",
+              "text": "b) Föreslå rimlig uppföljning.",
+              "maxPoints": 0.5,
+              "hint": "Tänk på kontroll av blodvärde och endoskopi",
+              "facit": [
+                "Kontrollgastroskopi efter 4-6 veckor",
+                "Hb-kontroll efter 4-6 veckor"
+              ],
+              "facitExplanation": "Kontrollgastroskopi och Hb-kontroll efter 4-6 veckor.",
+              "tags": ["magsår", "gastroskopi", "uppföljning"]
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vill du föreslå någon ytterligare åtgärd med avseende på den behandlade mastiten? Motivera ditt svar.",
+              "maxPoints": 2,
+              "hint": "Tänk på uppföljning av bröstet",
+              "facit": [
+                "Trippeldiagnostik efter 2-3 månader (palpation, mammografi/röntgen, cytologi)"
+              ],
+              "facitExplanation": "Trippeldiagnostik efter 2-3 mån (palpation, rtg, cytologi).",
+              "tags": ["bröstcancer", "mammografi", "trippeldiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Vid multidisciplinär teamkonferens tas beslut om sektorresektion + sentinel node-biopsi. Patienten kallas för nytt återbesök för besked och information om planerat kirurgiskt ingrepp. Hon blir förstås väldigt ledsen över beskedet, och berättar att mormor hade ovarialcancer och 2 mostrar hade bröstcancer. Operation utförs och svar från patolog visar trippelnegativ 27 mm stor invasiv duktal cancer grad III. \"Trippelnegativ\" betyder att tumören bl a ej är östrogenkänslig vilket utesluter behandlingsmöjligheterna med hormonell behandling och har sämre prognos. Vid ny multidisciplinär teamkonferens beslutas om kompletterande behandling med cytostatika + strålbehandling.",
+          "contextImageUrl": "/images/exams/2016-08/page16_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Bör man erbjuda någon speciell utredning med tanke på vad som framkommit i den kompletterande anamnesen? I så fall vilken utredning?",
+              "maxPoints": 1,
+              "hint": "Tänk på familjär cancerhistorik",
+              "facit": [
+                "Utredning för familjär cancer (bröstcancer + ovarialcancer)"
+              ],
+              "facitExplanation": "Utredning för familjär cancer (bröstcancer + ovarialcancer).",
+              "tags": ["bröstcancer", "familjär cancer", "ovarialcancer"]
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vad letar man i så fall efter?",
+              "maxPoints": 1,
+              "hint": "Specifika gener",
+              "facit": [
+                "BRCA1 och BRCA2 gener"
+              ],
+              "facitExplanation": "BRCA1 och BRCA2 gener.",
+              "tags": ["bröstcancer", "BRCA", "genetik"]
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "När du tittar noggrannare på patientens lab-prover ser du att kaliumvärdena vid flera tillfällen legat lågt, vid senaste provtagning 3,2 mmol/l. Dessutom har patienten en amlodipinbehandlad hypertoni.",
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vilken sällsynt sjukdom som är kirurgiskt behandlingsbar är förenlig med kombinationen hypertoni och hypokalemi?",
+              "maxPoints": 2,
+              "hint": "Tänk på binjurar",
+              "facit": [
+                "Primär hyperaldosteronism (Conns syndrom)"
+              ],
+              "facitExplanation": "Conns syndrom (primär hyperaldosteronism).",
+              "tags": ["Conns syndrom", "hypertoni", "hypokalemi"]
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Ge förslag på hur man kan fastställa diagnosen primär hyperaldosteronism.",
+              "maxPoints": 1,
+              "hint": "Blodprov och bilddiagnostik",
+              "facit": [
+                "Blodprov: Aldosteron/Renin-kvot (AR-kvot över 100 pmol/mIE)",
+                "Binjureriktad CT-undersökning"
+              ],
+              "facitExplanation": "Blodprov; Aldosteron/Renin (AR-kvot över 100 pmol/mIE). Binjureriktad CT-undersökning.",
+              "tags": ["Conns syndrom", "aldosteron", "diagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "2-11",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-11-1",
+              "text": "Vilken typ av läkemedel används i första hand för att behandla patienter med primär hyperaldosteronism?",
+              "maxPoints": 1,
+              "hint": "Aldosteronantagonist",
+              "facit": [
+                "Aldosteronantagonist (spironolakton)",
+                "Vid behov tillägg av kaliumpreparat (t.ex. Kaleorid)"
+              ],
+              "facitExplanation": "Aldosteronantagonist (spironolakton). Vid behov tillägg av kaliumpreparat (t ex Kaleorid).",
+              "tags": ["Conns syndrom", "aldosteron", "hypertoni"]
+            }
+          ]
+        },
+        {
+          "id": "2-12",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-12-1",
+              "text": "Vilken typ av operation är vanligast vid primär hyperaldosteronism?",
+              "maxPoints": 1,
+              "hint": "Tänk på minimalinvasiv kirurgi av binjuren",
+              "facit": [
+                "Laparoskopisk adrenalektomi"
+              ],
+              "facitExplanation": "Laparaskopisk adrenalektomi.",
+              "tags": ["Conns syndrom", "adrenalektomi", "kirurgi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Medicin",
+      "points": 20,
+      "intro": "Du har underläkarmottagning på medicinkliniken där du vikarierar efter fullgjord AT. Dagens första patient är en 47-årig man med typ 2-diabetes (DMII). Patienten är remitterad för bedömning och förslag till behandling av sitt svårinställda blodsocker. I remissen från patientens vårdcentral anges att han är gift och har vuxna barn. Han kommer ursprungligen från Afghanistan och arbetar inom byggnadsbranschen sedan cirka 6 år tillbaka. Patienten dricker inte alkohol, men röker. Han behandlas för närvarande med tablett Metformin 500 mg 2 x 2 samt tablett Atorvastatin 20 mg 1 x 1. Senaste labvärden när remissen skrevs var HbA1c mer än 60 mmol/mol och fP-Glukos 12,1 mmol/l.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka huvudsakliga anamnestiska uppgifter är du nu särskilt intresserad av mot bakgrund av hans svårinställda hyperglykemi?",
+              "maxPoints": 3,
+              "hint": "Tänk på kost, fysisk aktivitet, läkemedelsföljsamhet och andra sjukdomssymtom",
+              "facit": [
+                "Har patienten gjort några förändringar i sin kosthållning, fysisk aktivitet eller levnadsförhållanden under det senaste halvåret?",
+                "Har han tagit ordinerad farmakologisk behandling?",
+                "Är han frisk för övrigt eller har han noterat andra sjukdomssymtom?"
+              ],
+              "facitExplanation": "Har patienten gjort några förändringar i sin kosthållning, fysisk aktivitet eller levnadsförhållanden under det senaste halvåret? Har han tagit ordinerad farmakologisk behandling? Är han frisk för övrigt eller har han noterat andra sjukdomssymtom?",
+              "tags": ["diabetes", "hyperglykemi", "anamnes"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Patienten försäkrar dig att han tar sina läkemedel som ordinerats och att han inte har gjort några ändringar med avseende på vad han äter och dricker. Han har till och med minskat i vikt, detta trots att han inte kunnat vara fysiskt aktiv som han brukar på grund av många veckors plågsam hosta och tilltagande trötthet.",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Ange mot denna bakgrund tre olika frågeställningar som du nu vill komplettera din anamnes med.",
+              "maxPoints": 3,
+              "hint": "Tänk på rökning, luftvägssymtom och exponering",
+              "facit": [
+                "Hur mycket röker han (antal cigaretter)?",
+                "Har han haft andra symtom på luftvägsinfektion? Feber? Expektorat? Hemoptys?",
+                "Har han kunnat arbeta? Varit exponerad för damm, asbest eller kemikalier?"
+              ],
+              "facitExplanation": "Du frågar patienten hur mycket han röker. Har han haft andra symtom på luftvägsinfektion? Feber? Expektorat? Har han kunnat arbeta? Varit exponerad för damm, asbest eller kemikalier?",
+              "tags": ["tuberkulos", "luftvägssymtom", "hosta"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Patienten berättar att han tidigare rökt mellan 10-20 cigaretter om dagen men på grund av den besvärliga hostan minskat betydligt på rökningen, röker nu cirka 5 cigaretter dagligen. Han berättar att han känt sig febrig, ibland svettats på nätterna men aldrig mätt temperaturen. Han har varit hes och vid något tillfälle sett blod i upphostningarna. Dessutom berättar han att han fått utslag på benen. Patienten tror inte att han i sin arbetsmiljö och med sina arbetsuppgifter som byggnadsarbetare exponerats för något som kan skada hans luftvägar. De senaste veckorna har han haft svårt att orka med sitt arbete, och därför varit tvungen att gå hem redan efter lunch. Han beskriver en allmän trötthet och dålig ork.",
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Beskriv vad du inspekterar, palperar, auskulterar och perkuterar vid kroppsundersökningen av patienten?",
+              "maxPoints": 2,
+              "hint": "Tänk på huvud/hals, lungor, hjärta, buk och hud",
+              "facit": [
+                "Inspektion av mun och svalg",
+                "Palpation av ytliga lymfkörtlar i huvud- och halsområdet",
+                "Auskultation och perkussion av lungorna för bedömning av andningsljudens kvalitet samt förekomst av eventuell dämpning",
+                "Auskultation av hjärtat med bedömning av rytm, klaffblåsljud och andra biljud",
+                "Palpation av buk",
+                "Inspektion av hud inklusive fötter"
+              ],
+              "facitExplanation": "Inspektion av mun och svalg, palpation av ytliga lymfkörtlar i huvud-halsområdet. Auskultation och perkussion av lungorna. Auskultation av hjärtat. Palpation av buk. Inspektion av hud inklusive fötter.",
+              "tags": ["klinisk undersökning", "tuberkulos", "lungauskultation"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "I ditt status har du inspekterat mun och svalg där du såg retningsfria slemhinnor och normalt tandstatus. Du har palperat enstaka lätt förstorade lymfkörtlar på halsen. Inga resistenser i buken. Lungor: Normalt perkussionsfynd och enstaka rassel apikalt bilateralt. Hjärta: Regelbunden, något snabb rytm frekvens 90/min, inga biljud. Fötterna såg fina ut men på patientens underben har du inspekterat hudförändringar (se bild 1).",
+          "contextImageUrl": "/images/exams/2016-08/page20_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Se bild 1, vad är detta?",
+              "maxPoints": 1,
+              "hint": "Hudförändring på underbenen",
+              "facit": [
+                "Erythema nodosum (knölros)"
+              ],
+              "facitExplanation": "Hudförändringarna bedömer du som erythema nodosum eller knölros.",
+              "tags": ["erythema nodosum", "tuberkulos", "hudförändring"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Innan läkarbesöket har patienten på morgonen varit på Kem Lab och lämnat prover. Svaren har nu kommit (se bild 2).",
+          "contextImageUrl": "/images/exams/2016-08/page22_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Beskriv de avvikelser du ser i labsvaren. Vad är din tolkning av provsvaren?",
+              "maxPoints": 2,
+              "hint": "Tänk på Hb, vita blodkroppar, CRP och SR i förhållande till varandra",
+              "facit": [
+                "Något lågt Hb – kan vara infektions- eller inflammationsbetingat",
+                "Lågt antal vita blodkroppar trots förhöjt SR och CRP – ovanlig kombination",
+                "Fortfarande förhöjt fasteblodsocker och HbA1c"
+              ],
+              "facitExplanation": "Något lågt Hb vilket kan vara infektions- eller inflammationsbetingat. Trots förhöjd SR och CRP ses lågt antal vita blodkroppar. Fortfarande förhöjt fasteblodsocker och HbA1c, vilket kan ha många orsaker.",
+              "tags": ["labprover", "inflammation", "diabetes"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Med den information du nu har ange tre differentialdiagnostiska överväganden som du gör? (Du behöver inte kommentera patientens DMII)",
+              "maxPoints": 2,
+              "hint": "Tänk på infektion, malignitet och lungsjukdom",
+              "facit": [
+                "Infektion i nedre luftvägarna",
+                "Malignitet",
+                "KOL"
+              ],
+              "facitExplanation": "Du funderar över någon infektion i nedre luftvägarna. Malignitet och KOL.",
+              "tags": ["differentialdiagnostik", "KOL", "tuberkulos"]
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Det som framför allt besvärar patienten är hostan, hans trötthet och dåliga ork. Nu vill du i första hand utreda luftvägssymtomen och ordnar med en akut lungröntgen (se bild 3).",
+          "contextImageUrl": "/images/exams/2016-08/page24_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Beskriv vad du ser på röntgenbilden. Vilken är den mest troliga diagnosen?",
+              "maxPoints": 2,
+              "hint": "Beskriv infiltraten och ange diagnos",
+              "facit": [
+                "Utbrett infiltrat i vänster överlob och spridda infiltrat i resten av vänster lunga",
+                "Stark misstanke på tuberkulos"
+              ],
+              "facitExplanation": "Det finns ett utbrett infiltrat i vänster överlob och spridda infiltrat i resten av vänster lunga. Rtg-bilden inger stark misstanke på tuberkulos.",
+              "tags": ["tuberkulos", "lungröntgen", "diagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Du ser ett utbrett infiltrat i vänster överlob och spridda infiltrat i resten av vänster lunga. Förändringarna ger sammantaget med anamnes och status stark misstanke på tuberkulos. Nu måste du informera patienten om den troliga diagnosen och ge besked om vad som nu skall ske.",
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vad säger du till patienten om den vidare handläggningen och utredningen samt vilken behandling som måste ges? Vad åligger ansvarig behandlande läkare att göra vid denna smittsamma sjukdom?",
+              "maxPoints": 4,
+              "hint": "Tänk på inläggning, prover, behandling, smittskyddsanmälan och smittspårning",
+              "facit": [
+                "Informera patienten om misstanke på lungtuberkulos",
+                "Patienten måste läggas in på lungklinik eller infektionsklinik",
+                "Sputumprov för direktmikroskopi, PCR-undersökning för tbc och tbc-odling",
+                "Urinodling med avseende på tbc",
+                "Kombinationsbehandling med antibiotika mot tbc startas i väntan på slutlig diagnos, beräknad behandlingstid minst 6 månader",
+                "Ansvarig behandlande läkare anmäler till Smittskyddsenheten",
+                "Smittspårning genomförs"
+              ],
+              "facitExplanation": "Undersökningarna inger misstanke på lungtuberkulos. Patienten måste läggas in på lungklinik eller infektionsklinik. Sputumprov för direktmikroskopi, PCR för tbc och tbc-odling samt urinodling för tbc. Kombinationsbehandling startas redan i väntan på slutlig diagnos, behandlingstid minst 6 månader. Behandlande läkare anmäler till Smittskyddsenheten och smittspårning görs.",
+              "tags": ["tuberkulos", "smittskydd", "antibiotikabehandling"]
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Patienten säger sig vara helt införstådd med den fortsatta handläggningen av den sannolika lungtuberkulosen men undrar varför hans diabetes har krånglat?",
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Ge en trolig förklaring till varför patientens diabetesläge varit dåligt?",
+              "maxPoints": 1,
+              "hint": "Samband mellan infektion/inflammation och metabolt läge",
+              "facit": [
+                "Det försämrade metabola läget kan till stor del förklaras av den sannolika tuberkulosen",
+                "Infektion/inflammation försämrar blodsockerkontrollen"
+              ],
+              "facitExplanation": "Det försämrade metabola läget kan till stor del förklaras av den sannolika tuberkulosen. Patienten påbörjar behandling mot tuberkulos och följs upp med avseende på såväl behandling av tbc som sin typ 2-diabetes.",
+              "tags": ["diabetes", "tuberkulos", "hyperglykemi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du är AT-läkare på vårdcentralen och har för dagen akutansvar för ett närbeläget äldreboende. Kommunsköterskan ringer till vårdcentralen kl 08 och meddelar att Bertil, 75 år, börjat klaga över sveda när han kissar. Han får gå på toaletten ofta och har också lite ont i medellinjen nertill i buken. Obehagen började i går kväll och han har vaknat fyra gånger under natten p.g.a. sina besvär. Han känner igen symtomen från en urinvägsinfektion han hade för två år sedan. Sköterskan som gick in till Bertil berättar att han kändes varm men för övrigt var i sitt habitualtillstånd. Då det är nära till vårdcentralen får Bertil en akuttid på din mottagning kl 13 för en närmare bedömning. Du ber personalen att ge besked till Bertil att försöka hålla urinen i minst fyra timmar före läkarbesöket.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": "När Bertil kommit till vårdcentralen får han först gå till lab för att lämna prover inklusive urinprov.",
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka undersökningar och prover har du beställt inför den akuta handläggningen av hans nytillkomna urinvägsbesvär?",
+              "maxPoints": 2,
+              "hint": "Tänk på temperatur, urin och blodprov",
+              "facit": [
+                "Temperatur",
+                "Urinsticka",
+                "Urinodling (tas alltid på män med UVI)",
+                "CRP"
+              ],
+              "facitExplanation": "Temp, urinsticka, urinodling, CRP. Urinodling tas alltid på män med UVI. (Ev bladderscan, S-kreatinin).",
+              "tags": ["UVI", "diagnostik", "urinodling"]
+            },
+            {
+              "id": "4-1-2",
+              "text": "Varför är det viktigt att försöka hålla urinen minst 4 timmar före provtagning vad gäller urinsticka respektive urinodling?",
+              "maxPoints": 1,
+              "hint": "Tänk på falskt negativa resultat",
+              "facit": [
+                "Urinsticka: Risk för falskt negativ nitrittest",
+                "Urinodling: Risk för falskt lågt bakterietal vid odling"
+              ],
+              "facitExplanation": "Urinsticka: Risk för falskt negativ nitrittest. Urinodling: Risk för falskt lågt bakterietal vid odling.",
+              "tags": ["UVI", "urinsticka", "provtagning"]
+            },
+            {
+              "id": "4-1-3",
+              "text": "Hur kan man kliniskt särskilja diagnoserna nedre respektive övre urinvägsinfektion?",
+              "maxPoints": 1,
+              "hint": "Feber, CRP och dunkömhet vid övre UVI",
+              "facit": [
+                "Nedre UVI: Vattenkastningsbesvär (sveda, täta trängningar), ömhet över urinblåsan, avsaknad av CRP-förhöjning och ingen feber",
+                "Övre UVI: Feber, förhöjt CRP, dunkömhet över njurloger"
+              ],
+              "facitExplanation": "Nedre UVI: Vattenkastningsbesvär (sveda, täta trängningar), ömhet över urinblåsan, avsaknad av CRP-förhöjning och ingen feber. Övre UVI: Feber, förhöjt CRP, dunkömhet över njurloger.",
+              "tags": ["UVI", "pyelonefrit", "differentialdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "På urinstickan finns ett fält som kallas U-Nitrit.",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Förklara varför positivt U-Nitrit på urinstickan ofta påvisas vid urinvägsinfektion. Beskriv den bakomliggande mekanismen.",
+              "maxPoints": 0.5,
+              "hint": "Nitrat omvandlas av bakterier",
+              "facit": [
+                "Nitrat finns naturligt i många födoämnen och utsöndras i urinen. Många bakterier i urinen ombildar nitrat till nitrit genom en kemisk process, vilket detekteras på urinstickan och indirekt tyder på ökad mängd bakterier i urinen"
+              ],
+              "facitExplanation": "Nitrat finns naturligt i många födoämnen och utsöndras i urinen. Många, men inte alla, bakterier i urinen ombildar genom en kemisk process nitrat till nitrit som detekteras på urinstickas nitritfält, och därmed indirekt tyder på att man har en ökad mängd bakterier i urinen.",
+              "tags": ["UVI", "urinsticka", "bakteriologi"]
+            },
+            {
+              "id": "4-2-2",
+              "text": "Om testet U-Nitrit tas på urinen från en man, när kan resultatet av testet bli falskt positivt (utöver felaktigt hanterat urinprov) respektive falskt negativt (utöver för kort blåstid och för lågt bakterietal)?",
+              "maxPoints": 2,
+              "hint": "Tänk på förhudbakterier, läkemedel, hematuri, och C-vitamin",
+              "facit": [
+                "Falskt positivt: Bakterier under förhuden spolas med (vanligast hos pojkar)",
+                "Falskt positivt: Vissa läkemedel mot tbc (rifampicin) och cytostatika",
+                "Falskt positivt: Makroskopisk hematuri",
+                "Falskt positivt: Starkt koncentrerad urin och maskinavläsning",
+                "Falskt negativt: Intag av höga doser C-vitaminer",
+                "Falskt negativt: Icke-nitritomvandlande bakterier i urinen (t.ex. stafylococcus saprophyticus, enterokocker, pseudomonas)"
+              ],
+              "facitExplanation": "Falskt positivt: Bakterier under förhuden spolas med, vissa tbc-läkemedel (rifampicin) och cytostatika, makroskopisk hematuri, starkt koncentrerad urin och maskinavläsning. Falskt negativt: Höga doser C-vitaminer, icke-nitritomvandlande bakterier (t ex stafyloccoccus saphrophyticus, enterokocker, pseudomonas).",
+              "tags": ["UVI", "urinsticka", "felkällor"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du tar emot Bertil, 75 år, på vårdcentralen kl 13. Han berättar att det svider en hel del när han kissar och det tränger på mest hela tiden, gått på toaletten minst 10 gånger senaste dygnet, under natten minst fyra gånger. Sedan 3 år står Bertil på Finasterid 5 mg x 1 som han fick p.g.a. prostataförstoring och trög miktion. Sedan några månader har han fått ökade problem att komma igång med vattenkastningen och han får även kissa oftare, cirka 6-8 gånger under dagen och ett par gånger nattetid. Vid klinisk undersökning noterar du att Bertils buk är mjuk men att det ömmar något ovan symfysen. Ingen dunkömhet över njurloger. Prostata palperas slät, diffust förstorad med buktande sidolober men inga knölar eller hårdare partier noteras och mittfåran är bevarad. Puls 70 slag/minut. BT 140/85 mm Hg. Temp 37,5 grader. CRP 12 mg/L. Urinstickan visar U-Hb/Erytrocyter 1+, U-Leukocyter 2+, U-Nitrit positiv. Du ställer diagnosen nedre urinvägsinfektion.",
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Mot bakgrund av den utökade anamnesen önskar du göra ytterligare en undersökning på vårdcentralen, vilken?",
+              "maxPoints": 0.5,
+              "hint": "Tänk på prostataförstoring och tömningssvårigheter",
+              "facit": [
+                "Bladderscan (eller kontroll av residualurin med tunn kateter)"
+              ],
+              "facitExplanation": "Bladderscan (eller kontroll av residualurin med tunn kateter).",
+              "tags": ["UVI", "prostataförstoring", "residualurin"]
+            },
+            {
+              "id": "4-3-2",
+              "text": "Hur värderar du Bladderscan-resultatet (40 ml) och vad gör du utifrån resultatet?",
+              "maxPoints": 1,
+              "hint": "Vad är acceptabelt residualurin?",
+              "facit": [
+                "Resturin under 50 ml är acceptabelt",
+                "Resultatet 40 ml föranleder i sig inga åtgärder utöver eventuell behandling av den nedre urinvägsinfektionen"
+              ],
+              "facitExplanation": "<50 ml är acceptabelt. Resultatet 40 ml föranleder i sig inga åtgärder utöver ev behandling av den nedre urinvägsinfektionen.",
+              "tags": ["UVI", "prostataförstoring", "bladderscan"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Du känner till att urinvägsinfektioner kan läka ut spontant men p.g.a. Bertils uttalade symtom bedömer du det rimligt att rekommendera antibiotikabehandling. Du erinrar dig också Bertils önskemål om att på nytt få behandling med ciprofloxacin.",
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilka förstahandsval finns vad gäller typ av antibiotika i det aktuella fallet? Motivera lämpligt val av antibiotikum i det aktuella fallet. Vad svarar du patienten angående hans önskemål?",
+              "maxPoints": 2,
+              "hint": "Tänk på resistensutveckling och att det inte rör sig om febril UVI eller prostatit",
+              "facit": [
+                "Nitrofurantoin är förstahandsval",
+                "Pivmecillinam är förstahandsval",
+                "Det rör sig inte om febril UVI och prostatapalpation ger ej misstanke om bakteriell prostatit",
+                "Ciprofloxacin eller annan kinolon bör sparas för infektioner med feber p.g.a. risk för resistensutveckling"
+              ],
+              "facitExplanation": "Nitrofurantoin eller pivmecillinam är förstahandsval. Ciprofloxacin eller annan kinolon bör sparas för infektioner med feber p.g.a. risk för resistensutveckling.",
+              "tags": ["UVI", "antibiotikabehandling", "antibiotikaresistens"]
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "På din fråga till Bertil om han någon gång reagerat ogynnsamt under eller strax efter antibiotikakur blev svaret att han för 6 år sedan fick en kur penicillin p.g.a. halsfluss, och då efter 8 dagars behandling fick diskreta, glesa hudutslag som kliade en aning. Inga bleka upphöjda flyktiga hudförändringar kunde samtidigt ses.",
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Om Bertil någon gång i framtiden skulle få en streptokockorsakad tonsillit, eller annan infektion med indikation för penicillin V, skulle du utan vidare skriva ut ett recept på penicillin V eller skulle du innan vilja vidta någon åtgärd, i så fall vilken?",
+              "maxPoints": 1.5,
+              "hint": "Tänk på provokation och vad diskreta utslag utan urtikaria innebär",
+              "facit": [
+                "Du skulle inte utan vidare skriva ut penicillin V",
+                "Vid diskreta hudutslag med lätt klåda men ingen urtikaria bör provokation göras på vårdcentralen – ½-1 tablett ges varefter patienten observeras under ca en timme",
+                "Uppstår ingen reaktion kan full penicillinkur ges och patienten ska ej betraktas som allergisk mot penicillin"
+              ],
+              "facitExplanation": "Du skulle inte utan vidare skriva ut pc V. Vid diskreta hudutslag i slutet av pc-kur med lätt klåda men ingen urtikaria bör provokation göras på vårdcentralen då ½-1 tablett ges varefter patienten observeras under ca en timme. Uppstår ingen reaktion kan full penicillinkur ges och patienten ska ej betraktas som allergisk mot penicillin.",
+              "tags": ["penicillinallergi", "antibiotikabehandling", "läkemedelsöverkänslighet"]
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "På samma närbelägna äldreboende har nyss flyttat in en kvinna, Olga 82 år, som har haft mycket problem med upprepade urinvägsinfektioner. Hon har fått åtskilliga antibiotikakurer både hemma och utomlands där hon ofta semestrat, t.ex. långa perioder i Thailand. Olga har tidigare varit pigg och rörlig men fick flytta till boendet efter svårigheter vid mobiliseringen efter en lårbenshalsfraktur. Hon är inte urininkontinent och bär inte KAD. Kommunsköterskan kontaktar nu dig per telefon och anger att Olga blivit lite förvirrad. Sköterskan vill att du ska skriva ut antibiotika till Olga eftersom \"förvirring är känt som ett typiskt tecken på urinvägsinfektion hos äldre\".",
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Hur ser du på den eventuella kopplingen mellan förvirring och urinvägsinfektion samt på sköterskans önskemål om förskrivning av antibiotikum? Motivera.",
+              "maxPoints": 2,
+              "hint": "Finns det evidens för sambandet? Vad bör göras innan antibiotika förskrivs?",
+              "facit": [
+                "Nya svenska forskningsstudier visar att det inte finns något direkt påtagligt samband mellan urinvägsinfektioner och förvirring hos äldre",
+                "Infektioner generellt, framför allt febrila, kan bidra till förvirring – men det gäller inte bara för UVI",
+                "Avvisa i detta skede önskemålet om antibiotika",
+                "Olga bör bedömas för uteslutande av andra orsaker till förvirring"
+              ],
+              "facitExplanation": "Det finns nya svenska forskningsstudier som visade att det inte finns något direkt påtagligt samband mellan urinvägsinfektioner och förvirring hos äldre. Visserligen kan infektioner, framför allt febrila, bidra till förvirring men detta gäller inte bara för UVI. Du avvisar i detta skede önskemålet om antibiotika med hänvisning till att Olga först bör bedömas för uteslutande av andra orsaker till förvirring.",
+              "tags": ["UVI", "äldre", "konfusion"]
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Redan innan du kopplades in hade personalen p.g.a. att Olgas urin luktat illa hunnit ta en urinodling. Några dagar senare kommer svaret på urinodlingen som visar ESBL-producerande E. coli.",
+          "contextImageUrl": "/images/exams/2016-08/page32_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vad står förkortningen ESBL för? Vad innebär detta i praktiken?",
+              "maxPoints": 1,
+              "hint": "Förklara förkortningen och dess kliniska betydelse",
+              "facit": [
+                "ESBL står för Extended Spectrum Beta-Lactamase (betalaktamas med utvidgat spektrum)",
+                "Beteckning på en grupp enzymer som finns hos multiresistenta bakterier – resistenta mot minst 3 av de vanligaste antibiotikagrupperna"
+              ],
+              "facitExplanation": "ESBL står för Extended Spectrum Beta-Lactamase (dvs. betalaktamas med utvidgat spektrum) och är en beteckning på en grupp av enzymer som finns hos multiresistenta (=resistenta mot minst 3 av de vanligaste antibiotikagrupperna) bakterier.",
+              "tags": ["ESBL", "antibiotikaresistens", "UVI"]
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "När du tagit emot ett odlingssvar som i Olgas fall (ESBL-producerande E. Coli), vilka blir dina första åtgärder?",
+              "maxPoints": 1,
+              "hint": "Tänk på förhållningsregler och information",
+              "facit": [
+                "Ta reda på vilka förhållningsregler som gäller för ESBL via Smittskyddsläkarföreningens hemsida",
+                "Kontakta Vårdhygien eller smittskyddet för eventuella lokala rutiner",
+                "Ge skriftlig och muntlig information till personal, anhöriga och patient om att patienten är bärare av multiresistenta ESBL-bakterier"
+              ],
+              "facitExplanation": "Ta reda på förhållningsregler via Smittskyddsläkarföreningens hemsida och kontakta Vårdhygien eller smittskyddet. Ge skriftlig och muntlig information till personal, anhöriga och patient om ESBL-bärarskap.",
+              "tags": ["ESBL", "smittskydd", "vårdhygien"]
+            },
+            {
+              "id": "4-8-2",
+              "text": "Ge exempel på instruktioner till patient, anhöriga och personal vad gäller åtgärder för att förhindra smittspridning vid fynd av ESBL?",
+              "maxPoints": 1,
+              "hint": "Tänk på handhygien och skyddskläder",
+              "facit": [
+                "Personal ska använda skyddskläder och handskar vid skötsel av patienten",
+                "Noggrann handtvätt + handsprit före och efter besök, även för anhöriga",
+                "Patienten får ta emot besök av anhöriga och bekanta – besökande desinficerar händer före och efter besök"
+              ],
+              "facitExplanation": "Personal ska använda skyddskläder och handskar vid skötsel av patienten. Noggrann handtvätt + handsprit före och efter besök, även för anhöriga. Patienten får ta emot besök – besökande desinficerar händer. Smittskyddsanmälan behövs inte göras.",
+              "tags": ["ESBL", "smittskydd", "handhygien"]
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Olgas \"förvirring\" hade yttrat sig i att hon tillfälligt haft svårt att veta vad klockan var och vid något tillfälle haft lite svårt att hitta till sitt rum. Olga förblev feberfri och hennes \"förvirring\" gick över spontant utan antibiotikabehandling. Två år senare har det upptäckts att Olga har bröstcancer med metastasering till skelett och lever, och hennes liv närmar sig sitt slut.",
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "När en patients tillstånd i livets slutskede försämrats så kraftigt att det inte längre är möjligt att behandla den underliggande orsaken bör behandlande läkare genomföra ett informerande samtal med anhörig och patient (om denne klarar av att delta i ett samtal). Vad kallas denna typ av samtal?",
+              "maxPoints": 0.5,
+              "hint": "Specifikt begrepp inom palliativ vård",
+              "facit": [
+                "Brytpunktssamtal"
+              ],
+              "facitExplanation": "Brytpunktssamtal.",
+              "tags": ["palliativ vård", "brytpunktssamtal", "bröstcancer"]
+            },
+            {
+              "id": "4-9-2",
+              "text": "Ange två aspekter som bör tas upp under ett brytpunktssamtal?",
+              "maxPoints": 1,
+              "hint": "Vad informeras patienten/anhöriga om?",
+              "facit": [
+                "Vårdgivare meddelar att det inte längre är meningsfullt, eller t.o.m. är skadligt eller orsakar ökat lidande att försöka behandla den underliggande orsaken",
+                "Istället fokuseras på innehållet i fortsatt vård, palliativ vård, utifrån patientens tillstånd, behov och önskemål"
+              ],
+              "facitExplanation": "Vårdgivare meddelar att det inte längre är meningsfullt att försöka behandla den underliggande orsaken. Istället fokuseras på innehållet i fortsatt vård, palliativ vård, utifrån patientens tillstånd, behov och önskemål.",
+              "tags": ["palliativ vård", "brytpunktssamtal", "kommunikation"]
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "I slutskedet är Olga somnolent och kan inte längre ta emot föda per os. Hon haft svåra smärtor och står på opioider. Hennes andning är rosslig och hon hulkar som om hon vore illamående. Buken är utspänd p.g.a. svår förstoppning.",
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "På vilket sätt bör vid behovs-läkemedel tillföras i livets slutskede när patienten inte längre förmår svälja? Motivera.",
+              "maxPoints": 1,
+              "hint": "Administrationsväg och placering",
+              "facit": [
+                "Subkutan injektion bör ges nära axel på överarmen eller på bröstkorgens framsida",
+                "Inte på bålen eller låren p.g.a. risk för dåligt upptag sekundärt till ödem eller dålig perifer cirkulation"
+              ],
+              "facitExplanation": "Subkutan injektion bör ges nära axel på överarmen eller på bröstkorgens framsida - inte på bålen eller låren p.g.a. risk för dåligt upptag sekundärt till ödem eller dålig perifer cirkulation.",
+              "tags": ["palliativ vård", "smärtlindring", "läkemedelsadministration"]
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Ange ett vid behovs-läkemedel som är lämpligt att ordineras för behandling av rosslighet i livets slutskede?",
+              "maxPoints": 0.5,
+              "hint": "Antikolinergt läkemedel mot sekretion",
+              "facit": [
+                "Inj. glykopyrron (Robinul®) mot rosslighet"
+              ],
+              "facitExplanation": "Inj. glykopyrron (Robinul ®) mot rosslighet.",
+              "tags": ["palliativ vård", "rosslighet", "symtomlindring"]
+            },
+            {
+              "id": "4-11-2",
+              "text": "Ange ett läkemedel som är lämpligt att ordinera i livets slutskede för behandling av opioidorsakad förstoppning när sedvanliga perorala eller rektalt administrerade laxermedel inte haft tillräcklig effekt?",
+              "maxPoints": 0.5,
+              "hint": "Specifikt läkemedel mot opioidinducerad förstoppning",
+              "facit": [
+                "Inj. metylnatrexon (Relistor®) mot opioidinducerad svår förstoppning"
+              ],
+              "facitExplanation": "Inj. metylnatrexon (Relistor ®) mot opioidinducerad svår förstoppning.",
+              "tags": ["palliativ vård", "morfin", "förstoppning"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

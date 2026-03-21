@@ -1,0 +1,1118 @@
+{
+  "id": "2018-05",
+  "title": "AT-prov maj 2018",
+  "date": "2018-05-18",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Fall 1 Kirurgifrågan",
+      "points": 20,
+      "intro": "Du arbetar på ett länssjukhus och går ett pass på akuten som kvällsjour. Det går ett traumalarm och du får höra att en patient har ramlat från ett traktorsläp och initialt haft ett lågt blodtryck uppmätt till 100/60 mm Hg, puls 110 och saturation 97% men är vaken och pratbar. Han har fått smärtstillande i ambulansen och klagat över ont i ryggen och i magen.\n\nPatienten anländer på en scoop-bår. Det rör sig om en 62-årig man, tidigare väsentligen frisk förutom hypertoni och hyperlipidemi.  Han är aldrig tidigare opererad. Han är 175 cm lång och väger 103 kg.\n\nI anamnesen framkommer att han stått på ett traktorsläp lastat med stora stenar, som har vält och där han har slagit i sidan av kroppen mot ett hårt underlag.\n\nDu undersöker patienten enligt ATLS och finner att andningsvägarna är fria, men på grund av hans kroppsstorlek är lungorna svårauskulterade, andningsljuden förefaller liksidiga. Du ser att han har hudavskrap på vänster sida av kroppen som sträcker sig från revbenen via flanken mot vänster höft. Buken är adipös och svårvärderad, ömmar dock vid palpation. Extremiteterna verkar oskadda.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Beskriv kortfattat de olika stegen i traumaundersökningen, enligt ATLS eller motsvarande, i punktform.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ABCDE inklusive stockvändning (log-roll)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Det går ett traumalarm och du får höra att en patient har ramlat från ett traktorsläp och initialt haft ett lågt blodtryck, men är vaken och pratbar. Han har fått smärtstillande i ambulansen och klagat över ont i ryggen och i magen.\n\nPatienten anländer på en scoop-bår. Det rör sig om en 62-årig man, tidigare väsentligen frisk förutom hypertoni och hyperlipidemi. Aldrig tidigare opererad. Han är 175 cm lång och väger 103 kg.\n\nI anamnesen framkommer att han stått på ett traktorsläp lastat med stora stenar, som har vält och där han har slagit i sidan av kroppen mot ett hårt underlag. Du undersöker patienten enligt ATLS och finner att andningsvägarna är fria, och på grund av hans kroppsstorlek är lungorna svårauskulterade, men det låter liksidigt över lungfälten. Du ser att han har hudavskrap på vänster sida av kroppen som sträcker sig från revbenen, flanken mot vänster höft. Buken är adipös och svårvärderad, ömmar dock vid palpation. Extremiteterna verkar oskadda.\n\nUnder pågående undersökning enligt ATLS som du har fått lära dig, ABCDE inklusive stockvändning (log roll), börjar patienten bli motoriskt orolig och pratar lite osammanhängande. Du känner på radialispulsen som du uppfattar som tunn och snabb med en frekvens på 95 slag/min. Sjuksköterskan tar ett blodtryck som visar 90/75 mmHg. Narkosläkare har kommit för att se om du behöver hjälp eftersom kirurgbakjouren inte hunnit till sjukhuset från sitt hem.\n\nDu blir tillfrågad om patienten skall ha vätska.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Resonera hur man tänker vid administrering av vätska i en situation som ovan med hänsyn till risken för ytterligare blödning och vilken vätska och volym du helst vill ge? Hur vill du då lägga upp planen med vätsketerapin för de kommande timmarna?",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ger patienten en bolusdos med 250 ml Ringer-Acetat, (upp till 1000 ml portionsvis acceptabelt enligt senaste ATLS), för att se om man får ett puls / blodtryckssvar. Upprepas vid behov. Eftersträva permissive hypotension, syst BT circa 80mmHg. Du beställer helblod och vill hålla patientens blodtryck åt det lägre hållet för att inte öka riskerna för provocerande blödning (Permissive hypotension)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Patienten anländer på en scoop-bår. Det rör sig om en 62-årig man, tidigare väsentligen frisk förutom hypertoni och hyperlipidemi. Aldrig tidigare opererad. Han är 175 cm lång och väger 103 kg.\n\nI anamnesen framkommer att han stått på ett traktorsläp lastat med stora stenar, som har vält och där han har slagit i sidan av kroppen mot ett hårt underlag. Du undersöker patienten enligt ATLS och finner att andningsvägarna är fria och på grund av hans kroppsstorlek är lungorna svårauskulterade, men det låter liksidigt över lungfälten. Du ser att han har hudavskrap på vänster sida av kroppen som sträcker sig från revbenen, flanken mot vänster höft. Buken är adipös och svårvärderad, ömmar dock vid palpation. Extremiteterna verkar oskadda.\n\nDu ger patienten en bolusdos med 250 ml Ringer-Acetat där du tycker att patienten förbättras något med en puls som palperas fylligare och sjunker i frekvens och du noterar att blodtrycket stiger något. Han får ytterligare 250 ml och sköterskan meddelar att blodtrycket nu är 110/75. Pulsen palperas nu fylligare och långsammare. Du beställer helblod och vill hålla patientens blodtryck åt det lägre hållet för att inte öka riskerna för provocerande blödning (=permissive hypotension).\n\nSköterskan säger nu att patienten ser svullen ut över symfysen och då du palperar i området klagar patienten högljutt. Du tänker på traumat och misstänker bäckenskada.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vilken blir din omedelbara åtgärd?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bäckengördel ev. snabb slätröntgen av bäckenet på akutmottagningen om tillgång finns"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Patienten anländer på en scoop-bår. Det rör sig om en 62-årig man, tidigare väsentligen frisk förutom hypertoni och hyperlipidemi. Aldrig tidigare opererad. Han är 175 cm lång och väger 103 kg.\n\nI anamnesen framkommer att han stått på ett traktorsläp lastat med stora stenar, som har vält och där han har slagit i sidan av kroppen mot ett hårt underlag. Du undersöker patienten enligt ATLS och finner att andningsvägarna är fria och på grund av hans kroppsstorlek är lungorna svårauskulterade men det låter liksidigt över lungfälten. Du ser att han har hudavskrap på vänster sida av kroppen som sträcker sig från revbenen, flanken mot vänster höft. Buken är adipös och svårvärderad, ömmar dock vid palpation. Extremiteterna verkar oskadda.\n\nDu sätter en bäckengördel och får hjälp av ortopedjouren att få den på plats. Vanligast är att man sätter den för högt om man är ovan och inte i nivå med trochanter major, vilket är den korrekta placeringen.\n\nPatienten är nu i detta läge cirkulatoriskt stabil med fortsatt blodtryck åt det lägre hållet. Narkosläkaren har inte intuberat men säkrat infarter, kopplat syrgas på grimma och undrar nu vad som blir din nästa åtgärd.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vilka ytterligare skador bör man misstänka i det här fallet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skada på bäckenet och/med eventuellt även en inre bukblödning på grund av skada på bukorganen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Resonera hur du snabbast skulle vilja komma vidare med utredningen avseende eventuella skador.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT krävs för full poäng, alternativt föregående av FAST"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du misstänker en skada på bäckenet och eventuellt även en inre bukblödning med skada på bukorganen. Alternativet skulle kunna vara att utföra en FAST (ultraljudsundersökning) på akuten, men röntgenjouren säger att CT-apparaten är redo och att ni får komma direkt till röntgenavdelningen, som ligger alldeles i närheten av akuten.\n\nDin bakjour har nu kommit och ni träffas på röntgen där patienten ligger i CT maskinen. Röntgenläkaren säger att det ser ut att finnas fritt blod i buken, framför allt på vänster sida. Vid närmare titt ser det ut som att mjälten är rupturerad och skadan beskrivs som en grad V skada (enligt American Association for the Surgery of Trauma Organ Injury Scale (AAST OIS) I-V):\n\nI. Subkapsulärt hematom täckande <10 % av mjältens yta alternativt slitskada i kapseln med <1 cm vävnadsdjup.\n\nII. Subkapsulärt hematom täckande 10–50 % av mjältens yta, intraparenkymatöst hematom <5 cm i diameter alternativt slitskada i kapseln med 1–3 cm vävnadsdjup.\n\nIII. Subkapsulärt hematom täckande >50 % av mjältens yta, intraparenkymatöst hematom ≥5 cm i diameter alternativt laceration med >3 cm vävnadsdjup.\n\nIV. Laceration som involverar segment- eller hiluskärl orsakande devaskularisering av >25 % av mjälten.\n\nV. Laceration med splittrad mjälte alternativt skada på hiluskärl som devaskulariserar mjälten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Hur kan man handlägga en mjältruptur? Nämn minst tre olika sätt beroende på hur allvarlig skadan är.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En lindrigare mjältskada behandlas oftast konservativt med kontroller i början. En större skada med cirkulatoriskt stabil patient skulle även kunna emboliseras (coilas) på IR-lab. Med en patient som har svårt att hålla trycket bör man laparatomera och extirpera mjälten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": null,
+          "contextImageUrl": "/images/exams/2018-05/page7_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-5-2",
+              "text": "Du tänker för dig själv på blodförsörjningen inför en eventuell embolisering (coiling) eller operation, namnge kärlen A och C på bilden.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A: a. hepaticus communis, (B: a. gastrica sinistra), C: a. lienalis."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "En lindrigare mjältskada behandlas oftast konservativt (icke operativt) med kontroller i början. En större skada med cirkulatoriskt stabil patient skulle även kunna emboliseras (coilas) på IR-lab (interventionsradiologi). Med en patient som har svårt att hålla trycket bör man laparatomera och exstirpera mjälten (operation). A= a. hepaticus communis, B= a. gastrica sinistra och C= a. lienalis är grenarna från truncus coeliacus avgående från bukaorta. Man hittar inga skelettskador på bäckenet, men däremot en överfull urinblåsa där man misstänker att KAD inte sitter på rätt plats i urinblåsan. Provsvar (venblod) har kommit och patienten har ett Hb på 60, blod kopplas på plats.\n\nA= a. hepaticus communis, B= a. gastrica sinistra och C= a. lienalis är grenarna från truncus coeliacus avgående från bukaorta.\n\nMan hittar inga skelettskador på bäckenet, men däremot en överfull urinblåsa där man misstänker att KAD inte sitter på rätt plats i urinblåsan. Provsvar (venblod) har kommit och patienten har ett Hb på 60, blod kopplas på plats.",
+          "contextImageUrl": "/images/exams/2018-05/page8_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilken skada måste man utesluta om KAD inte fungerar hos en traumapatient?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man bör misstänka en skada på urethra."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Man bör misstänka en skada på uretra i första hand eftersom det är viktigt att urinavledningen fungerar optimalt hos en traumapatient som troligast kommer att sövas, opereras och få vätsketerapi under flera timmar och eventuellt dygn. KAD- läge och kuffproblem kan också orsaka problem men bör kunna åtgärdas vid upptäckt. Om en uretraskada föreligger kan man tänka sig en suprapubisk kateter istället.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vid kroppsundersökning, ange 2 förekommande kliniska tecknen på uretraskadan du misstänker om en KAD inte fungerar?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hematom i perineum och/eller blod från urethra."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Vid en uretraskada kan man ha ett hematom i perineum, avvikande palpationsfynd per rektum och/eller blod från urethra.\n\nI det här fallet var det ingen uretraskada, men fel på KAD-kuffen och problemet åtgärdades enkelt på plats.\n\nNi väljer att intubera och akut laparatomera patienten då han håller trycket dåligt och lämpar sig dåligt för embolisering (coiling) då resurserna för detta är begränsade. Mjältens kärl ligeras och mjälten tas bort i sin helhet. Det ser fint ut i övrigt i buken som därefter primärsutureras.\n\nBakjouren åker hem och du blir uppringd efter ett par timmar från uppvakningsavdelningen där de funderar om patienten bör fortsätta med antibiotika som han fick preoperativt inför bukkirurgin. De undrar även om patienten skall ha kvar sin KAD.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Skall patienten ha kvar sin KAD? Resonera kring ditt beslut.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "KAD bör sitta kvar med tanke på nyligen genomgånget trauma och operation. Man kan lättare följa urinproduktionen postoperativt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8-2",
+              "text": "Vad blir ditt svar angående antibiotika? Redogör kortfattat.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Antiobiotikaprofylax preoperativt var tänkt inför bukkirurgi där det skulle ha kunnat förekomma tarmskada och behövs inte längre postoperativt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "KAD bör sitta kvar med tanke på nyligen genomgånget trauma och operation, och avvecklas inte förrän patienten mobiliserats. Man kan lättare följa urinproduktionen postoperativt. Antiobiotikaprofylax preoperativt var tänkt inför bukkirurgi då det skulle ha kunnat förekomma tarmskada och behövs inte längre postoperativt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Vad bör man tänka på sikt vad gäller splenektomerade patienter vad gäller framtida infektioner och vilka åtgärder kan behövas?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vaccination mot pneumokocker, Haemophilus influenzae typ b och meningokocker. Antibiotikaprofylax."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "När man har opererat bort mjälten bör man tänka på risken för allvarlig infektion på sikt: OPSI (overwhelming post-splenectomy infection) är en fulminant livshotande infektion som förekommer hos splenektomerade patienter.\n\nAlla patienter med aspleni/hypospleni bör erbjudas vaccination mot pneumokocker, Haemophilus influenzae typ b och meningokocker. Vaccinformuleringen ska vara anpassad efter ålder, immunfunktion och tidigare genomgångna vaccinationer. Man skall även vara generös med antibiotikaprofylax.\n\nDu träffar patienten på vårdavdelningen nästa dag och han tackar dig för omhändertagandet på akutmottagningen. Han har haft ont i såret under natten och undrar om det är normalt. Det finns inga ordinationer från UVA och sköterskan undrar vad som ordineras mot smärtan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Beskriv hur du tänker när du ordinerar smärtstillande.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Paracetamol 1 g x 4 samt NSAID, t.ex. Ibuprofen 400 mg x 3. Opiat / Opioid v.b."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-12",
+          "context": "Patienten behövde morfin enstaka gång första dygnet vid behov. Du bedömer att det räcker med att patienten får Paracetamol 1 g x 4 samt NSAID, t.ex. Ibuprofen 400 mg x3. Medicineringen fungerar bra, han äter och dricker utan problem. Magen har kommit igång och patienten är snart färdig för utskrivning.\n\nHan vill dock även fråga om ett 12x12 mm stort ytligt krustabelagt sår han har till vänster på bröstet, kl 1 ca 3 cm ovan areola. Han säger att han haft det i ”några år”, och frågar dig ”Vet du vad det kan vara för något?”",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Nämn 2 tänkbara diagnoser som du anser mest sannolika?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-05/page13_img1.jpeg",
+              "facit": [
+                "Bilden föreställer ett basaliom. Differential diagnos: skivepitelcancer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-11-2",
+              "text": "Vilken åtgärd föreslår du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det bör excideras och skickas för PAD."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-13",
+          "context": "Bilden föreställer ett basaliom, men skulle även kunna utgöras av en skivepitelcancer, vilket dock anamnes och kliniskt fynd talar emot. Det bör excideras och skickas för PAD. Färdigbehandlat om radikalt exciderat. PAD visade ett lågaggressivt basaliom grad 1 och ingen ytterligare åtgärd krävdes.\n\nHan har även en mörk fläck på högra flanken. Vet inte riktigt hur länge han har haft den, men hans fru har tjatat på att han måste kolla upp det. Den har ibland blött lite, men är just nu läkt och gör inte ont.",
+          "contextImageUrl": "/images/exams/2018-05/page14_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-12-1",
+              "text": "Vad bör man misstänka? Ge förslag på möjliga diagnoser. Ange ett invasivt och ett icke-invasivt sätt att komma närmare diagnos?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bilden skulle kunna föreställa ett malignt melanom, benignt eller dysplastiskt naevus. Excidera och skicka för PAD eller Dermatoskopi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-14",
+          "context": "Bilden skulle kunna föreställa ett malignt melanom, men även ett benignt eller dysplastiskt naevus.\n\nMan kan antingen göra som med basaliomet, excidera och skicka för PAD, eller skriva en remiss till Hudkliniken för dermatoskopi (växtsätt, färger t.ex. blue veil sign). (Ovan: bild från dermatoskopi)\n\nFörändringen i flanken visade sig vara ett 8 mm stort nodulärt ulcererande malignt melanom, Breslow 4 mm, Clark IV. Radikalt exciderat med 3 mm marginal.",
+          "contextImageUrl": "/images/exams/2018-05/page15_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-13-1",
+              "text": "På vilket sätt bör patienten handläggas vidare med tanke på PAD- fyndet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "På vilket sätt bör patienten handläggas vidare med tanke på PAD-fyndet? (1 p) Utvidgad excision + SN"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-15",
+          "context": "PAD fyndet visar på två prognostiskt ogynnsamma faktorer, växtdjupet (Breslow >1,0mm) samt morfologin (nodöst med ulceration).\n\nMan går vidare med att operera med utvidgad excision för att få bättre marginal till tumören samt exstirperar sentinel node (SN= portvaktslymfkörteln) för att se om det finns spridning till denna.\n\nNär man undersökt PAD finner man ett tumörfritt ärr, men tyvärr påvisades makrometastasering till sentinel node i höger axill.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-14-1",
+              "text": "Vilken specifik typ av röntgenundersökning, som inte finns på alla sjukhus, är särskilt lämplig för att kartlägga metastasutbredningen hos en patient med malignt melanom och som bör göras innan man går vidare med en axillutrymning?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "FDG PET-CT"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-16",
+          "context": "Man gör en FDG PET-CT för att kartlägga eventuell generell metastasering. Undersökningen hos denna patient visar uttalad aktivitet i vänster axill. Man utför en axillutrymning och får i PAD-svaret att det finns spridning till 5/18 lymfkörtlar. Patienten gör en uppföljande PET-CT efter 6 månader och har då spridd sjukdom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-15-1",
+              "text": "Kemoterapi har tyvärr begränsad effekt på malignt melanom. De senaste åren har det tillkommit andra behandlingar av metastaser. Ge förslag på hur man kan behandla spridd melanomsjukdom beroende på metastasutbredning och tumörbiologi?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Operation, BRAF-hämmare och  immunterapi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatrifrågan",
+      "points": 20,
+      "intro": "Du är legitimerad läkare och vikarie på en vårdcentral. Vårdcentralen ligger i ett samhälle på 3 000 personer sex mil utanför en medelstor stad där det också finns ett sjukhus med de flesta grundspecialiteter inklusive en psykiatrisk klinik.\n\nEn 20-årig ung kvinna söker på grund av ångest, sömnsvårigheter och självmordstankar. Under ditt samtal med henne framkommer att hon under det senaste året också skurit sig på underarmarna. Hon arbetar nu på en hamburgerrestaurang, men har haft svårt att klara detta på grund av problem att komma i tid till sina arbetspass.\n\nVid den fortsatta genomgången av hennes livshistoria framkommer att hon gjorde abort vid 16 års ålder, skolgången var problematisk och hon fick inte godkända slutbetyg i gymnasiet. Hon bor hemma hos sin mor. Föräldrarna är skilda sedan flera år tillbaka. Hon har en pojkvän, men relationen är problematisk. Han är ofta ute med sina kompisar och dricker alkohol och använder sannolikt också hasch. Patienten har också själv druckit sig berusad ett antal gånger tillsammans med pojkvännen. Han har vid några tillfällen i berusat tillstånd varit så hotfull mot henne på grund av svartsjuka att hon varit med på sex för att han skulle lugna ner sig.\n\nVid besöket är hon inte så lätt att intervjua, hon hoppar ofta över till ett nytt samtalsämne utan att tala färdigt. Hon ger ett allmänt oroligt intryck och du uppfattar hennes sinnesstämning som något sänkt. Hon har svårt att förklara varför hon skär sig.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Ange 3 tänkbara bakomliggande psykiatriska diagnoser som skulle kunna vara förenliga med patientens beskrivning. För ett differentialdiagnostiskt resonemang.",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du uppfattar att detta är ganska komplicerat. Tänkbara psykiatriska diagnoser kan vara en instabil personlighetsstörning, ADHD, missbruk av något slag, eller ett ångesttillstånd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du är legitimerad läkare och vikarie på en vårdcentral. Vårdcentralen ligger i ett samhälle på 3 000 personer sex mil utanför en medelstor stad där det också finns ett sjukhus med de flesta grundspecialiteter inklusive en psykiatrisk klinik.\n\nEn 20-årig ung kvinna söker på grund av ångest, sömnsvårigheter och självmordstankar. Under ditt samtal med henne framkommer att hon under det senaste året också skurit sig på underarmarna. Hon arbetar nu på en hamburgerrestaurang, men har haft svårt att klara detta på grund av problem att komma i tid till sina arbetspass.\n\nVid den fortsatta genomgången av hennes livshistoria framkommer att hon gjorde abort vid 16 års ålder, skolgången var problematisk och hon fick inte godkända slutbetyg i gymnasiet. Hon bor hemma hos sin mor. Föräldrarna är skilda sedan flera år tillbaka. Hon har en pojkvän, men relationen är problematisk. Han är ofta ute med sina kompisar och dricker alkohol och använder sannolikt också hasch. Patienten har också själv druckit sig berusad ett antal gånger tillsammans med pojkvännen. Han har vid några tillfällen i berusat tillstånd varit så hotfull mot henne på grund av svartsjuka att hon varit med på sex för att han skulle lugna ner sig.\n\nVid besöket är hon inte så lätt att intervjua, hon hoppar ofta över till ett nytt samtalsämne utan att tala färdigt. Hon ger ett allmänt oroligt intryck och du uppfattar hennes sinnesstämning som något sänkt. Hon har svårt att förklara varför hon skär sig.\n\nDu uppfattar att patientens problematik är ganska komplicerad och att hon behöver mycket stöd. Det kan handla om en personlighetsstörning av något slag, till exempel borderline-problematik, något ångesttillstånd, ADHD eller missbruksproblematik.\n\nUnder samtalet framkommer att patienten egentligen söker för att hon vill få något lugnande och något att sova på.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Resonera hur du ställer dig till önskemålet om lugnande respektive sömnmedel.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Säg att du vill veta mer om hennes problematik och att du inte omedelbart vill ge något lugnande eller något att sova på och att hon i stället ska få en samtalskontakt och fortsatt kontakt med läkaren."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du uppfattar att patientens problematik är ganska komplicerad och att hon behöver mycket stöd. Det kan handla om en personlighetsstörning av något slag, till exempel borderline-problematik, något ångesttillstånd, ADHD eller missbruksproblematik.\n\nUnder samtalet framkommer att patienten egentligen söker för att hon vill få något lugnande och något att sova på.\n\nFör att kunna ta ställning till önskemålet om läkemedel behöver du veta mer om hennes problematik.\n\nDu ser till att hon får en direkt kontakt med en KBT-terapeut på hälsocentralen. Patienten träffar terapeuten efter några dagar, och ni diskuterar sedan tillsammans den fortsatta handläggningen. Ni är överens om att patienten behöver en mera långsiktig kontakt och fortsatt utredning. Ni misstänker bland annat att hon skulle kunna ha en ADHD-problematik. Ni remitterar henne därför till den ungdomsmottagning som finns vid den psykiatriska kliniken, men eftersom det är en viss väntetid för att komma dit, fortsätter ni att behålla kontakten med patienten, framför allt via terapeuten.\n\nEfter ett par besök hos terapeuten återkommer patienten med sitt önskemål om något att sova på och för att möta hennes uttryckta behov skriver du nu ut en låg dos av Atarax som lugnande och som hon också kan ta på kvällen för att sova.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Nämn fyra viktiga suicidriskfaktorer du behöver kartlägga för att kunna göra en välgrundad suicidriskbedömning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du frågar om hennes suicidtankar, hur ofta, i vilket sammanhang de kommer och vad hon gör när de kommer. Har hon haft mera konkreta planer på hur hon skulle göra för att ta sitt liv och har hon gjort något suicidförsök tidigare. Det finns sannolikt en förhöjd suicidrisk, men du bedömer den som måttlig, särskilt nu när hon fått en samtalskontakt och löfte om en fortsatt kvalificerad kontakt på ungdomsmottagningen. ("
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "En 20-årig ung kvinna söker på grund av ångest, sömnsvårigheter och självmordstankar. Under ditt samtal med henne framkommer att hon under det senaste året också skurit sig på underarmarna. Hon arbetar nu på en hamburgerrestaurang, men har haft svårt att klara detta på grund av problem att komma i tid till sina arbetspass.\n\nVid den fortsatta genomgången av hennes livshistoria framkommer att hon gjorde abort vid 16 års ålder, skolgången var problematisk och hon fick inte godkända slutbetyg i gymnasiet. Hon bor hemma hos sin mor. Föräldrarna är skilda sedan flera år tillbaka. Hon har en pojkvän, men relationen är problematisk. Han är ofta ute med sina kompisar och dricker alkohol och använder sannolikt också hasch. Patienten har också själv druckit sig berusad ett antal gånger tillsammans med pojkvännen. Han har vid några tillfällen i berusat tillstånd varit så hotfull mot henne på grund av svartsjuka att hon varit med på sex för att han skulle lugna ner sig.\n\nVid besöket är hon inte så lätt att intervjua, hon hoppar ofta över till ett nytt samtalsämne utan att tala färdigt. Hon ger ett allmänt oroligt intryck och du uppfattar hennes sinnesstämning som något sänkt. Hon har svårt att förklara varför hon skär sig.\n\nDu kompletterar med mera information om hennes suicidtankar, hur ofta, i vilket sammanhang brukar de komma och vad gör hon när de kommer? Har hon gjort något suicidförsök tidigare? Har hon haft mera konkreta planer på hur hon skulle göra för att ta sitt liv? Du bedömer suicidrisken som något förhöjd, men inte akut eftersom hon fått en samtalskontakt och även blivit remitterad till ungdomsmottagningen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vad är det i hennes sjukhistoria som gör att det skulle kunna handla om en ADHD-problematik? Ange några kardinalsymtom som krävs för att kunna ställa en ADHD-diagnos.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För ADHD diagnos krävs symtom på uppmärksamhetsstörning, koncentrationssvårigheter och hyperaktivitet, svårt att sitta still, impulsivitet och att problemen börjat tidigt i barnaåren och nu leder till påtagliga problem i livet, funktionsnedsättning i skola och arbete. I detta fall problematisk skolgång, icke godkända slutbetyg, svårt att komma i tid till sitt arbete, impulsivitet, en trasslig social situation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "För ADHD-diagnos krävs symtom på uppmärksamhetsstörning, koncentrationssvårigheter och hyperaktivitet och att problemen börjar tidigt i barnaåren och att dessa leder till påtagliga problem i livet med funktionsnedsättning i skola och arbete. Allt detta stämmer med patientens anamnes.\n\nNästa patient som kommer till dig är en 63-årig undersköterska söker på grund av sömnproblem, viktnedgång, oro och koncentrationssvårigheter. Maken har försökt förmå henne att söka läkare under den senaste månaden eftersom han blivit alltmera orolig för hustruns tillstånd. Hon har fortsatt arbeta trots att hon har stora svårigheter att klara sina arbetsuppgifter, framför allt på grund av trötthet och koncentrationssvårigheter.\n\nMaken berättar att det hela började sedan en vuxen dotter till patienten i ett tidigare förhållande dött i en trafikolycka för ett år sedan. Patientens förhållande till dottern har inte varit särskilt nära. Dottern har bott i Norge i 10 år och kontakten har varit mycket sporadisk.\n\nI status noterar du en kvinna med åldersadekvat utseende som ger en avvaktande kontakt. Grundstämningen är klart sänkt. Hon är tystlåten och svarar inte särskilt utförligt på dina frågor om hennes livssituation. Hon förnekar självmordstankar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "För ett psykiatriskt differentialdiagnostiskt resonemang som kan förklara patientens symtom. Nämn 2 tänkbara psykiatriska diagnoser. Motivera dina förslag.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det hela skulle kunna vara en fördröjd sorgereaktion eller möjligen en tidig demensutveckling, men i första hand är det väl frågan om ett depressivt syndrom som utvecklats som en fördröjd krisreaktion. Hen bör ha uteslutit somatiska förhållanden som åtminstone kan ha bidragit till den psykiska insufficiensen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Nästa patient som kommer till dig är en 63-årig undersköterska söker på grund av sömnproblem, viktnedgång, oro och koncentrationssvårigheter. Maken har försökt förmå henne att söka läkare under den senaste månaden eftersom han blivit alltmera orolig för hustruns tillstånd. Hon har fortsatt arbeta trots att hon har stora svårigheter att klara sina arbetsuppgifter, framför allt på grund av trötthet och koncentrationssvårigheter.\n\nMaken berättar att det hela började sedan en vuxen dotter till patienten i ett tidigare förhållande dött i en trafikolycka för ett år sedan. Patientens förhållande till dottern har inte varit särskilt nära. Dottern har bott i Norge i 10 år och kontakten har varit mycket sporadisk.\n\nI status noterar du en kvinna med åldersadekvat utseende som ger en avvaktande kontakt. Grundstämningen är klart sänkt. Hon är tystlåten och svarar inte särskilt utförligt på dina frågor om hennes livssituation. Hon förnekar självmordstankar.\n\nTillståndet skulle kunna vara en fördröjd sorgereaktion eller en begynnande demensutveckling, men det mesta talar ändå för att det handlar om en djup depression.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Du vill utesluta möjliga somatiska förhållanden som kan bidra till patientens problem. Vilka prover ordinerar Du? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det är viktigt att ta somatiskt status och laboratorieprover, t ex Hb, elektrolyter inkl. kalcium, tyreoidea-prover även om hen uppfattar tillståndet som en depression."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Du uppfattar tillståndet som en depression sannolikt utvecklad utifrån en komplicerad sorgereaktion. Du har uteslutit möjliga somatiska tillstånd som kan ha bidragit till hennes problem, exempelvis anemi, hypotyreos ellerhyperkalcemi.\n\nDu sjukskrev patienten för ett depressivt syndrom och förskrev ett SSRI-preparat som antidepressivum samt zopiklon som sömnmedel. Hon får en återbesökstid efter två veckor, men patienten och hennes make uppmanas höra av sig per telefon om situationen på något sätt förvärras. Hon får också kontakt med en kurator på vårdcentralen, som är utbildad KBT-terapeut.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Motivera dina val av antidepressivum (SSRI-preparat) respektive sömnmedel (zopiklon) i detta fall. Ge förslag på alternativ medicinering och motivera valen.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I första hand ett SSRI-preparat. Ett alternativ kunde vara mirtazapin, som är ett\n\nantidepressivum med måttliga biverkningar, det brukar bidra till förbättrad sömn och den viktuppgång, som ofta förekommer, är ju ingen nackdel i detta fall. Zopiklon är ett beprövat sömnmedel och du bedömer risken för missbruksutveckling som mycket liten i detta fall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Du valde ett SSRI-preparat som förstahandsmedel. Ett alternativt medel kunde vara mirtazapin, som är ett antidepressivum med måttliga biverkningar. Det brukar bidra till en förbättrad sömn och patienterna brukar också gå upp i vikt, vilket i detta fall snarast skulle vara positivt. Zopiklon är ett beprövat sömnmedel och du bedömer risken för att utveckla ett beroende som mycket liten i detta fall.\n\nVid återbesöket efter två veckor har patientens tillstånd snarast försämrats. Hon har sagt till maken vid flera tillfällen att hon inte borde leva, att hon är värdelös, att hon inte kommer att kunna återgå i sitt arbete. Patienten har besökt kuratorn vid ett par tillfällen, men tycker det känns meningslöst att fortsätta kontakten. Patienten bejakar nu att hon har tankar på att livet inte är värt att leva. Hon ter sig nu påtagligt psykomotoriskt hämmad. Du vill remittera henne akut till psykiatriska kliniken på sjukhuset, men hon vill inte, utan vill åka hem och fortsätta sin medicinering hemma.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vilka alternativ har du nu för den fortsatta handläggningen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du kan naturligtvis satsa på en fortsatt öppenvårdskontakt, men tillståndet har ju snarast försämrats. Inte minst har tillkommit livsleda och Du bedömer slutenvård som nödvändig."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Patienten har ju snarast försämrats och nu har det tillkommit uttalad livsleda och psykomotorisk hämning varför du rekommenderar inneliggande vård på psyk kliniken.\n\nDu övervägde att skriva vårdintyg för tvångsvård, men patienten lät sig till slut övertalas att åka in till psykakuten tillsammans med maken.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vad i patientens tillstånd skulle kunna motivera tvångsvård enligt LPT?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten lider av en allvarlig psykisk störning. Hon motsätter sig vård och det finns också en påtaglig suicidrisk. Allt detta motiverar sluten psykiatrisk vård."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "För att tvångsvård ska kunna motiveras enligt LPT krävs allvarlig psykisk störning, att inneliggande dygnetruntvård är nödvändig samt att patientens motsätter sig erbjuden vård.\n\nPatienten lider av en allvarlig psykisk störning. Hon motsatte sig till en början inneliggande vård, som du bedömer nödvändig och det finns också en påtaglig suicidrisk. Allt detta motiverar heldygnsvård. Som intygsskrivande läkare räcker det att du bedömer att det finns ”sannolika skäl” för att förutsättningarna för vård är uppfyllda.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Kognitiv beteendeterapi (KBT) har blivit en mycket vanlig psykoterapiform på senare år. Ange tre karaktäristiska inslag i KBT- behandling.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kognitiv beteendeterapi (KBT) har blivit en mycket vanlig psykoterapiform på senare år. Ange tre karaktäristiska inslag i KBT-behandling. (1,5 p) KBT fokuserar på att förändra tankemönster. Man är mer intresserad av här-och-nu- situationen än barndom och uppväxt. Man har ofta hemuppgifter och diskuterar konkreta behandlingsstrategier för att hantera negativa tankar och beteenden. ("
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-11",
+          "context": "Kognitiv psykoterapi finns i flera olika former, men gemensamt är att terapeuten fokuserar på att förändra patientens tankemönster. Patienten får ofta hemuppgifter och terapeuten diskuterar konkreta sätt att hantera negativa tankar och beteenden. Men i detta fall var nog patienten för dålig för att kunna tillgodogöra sig en KBT- terapi.\n\nPatienten kommer på återbesök efter cirka sex veckor för uppföljning av ett lätt förhöjt blodtryck, som man konstaterade på psykiatriska kliniken. Efter några dagars observation på psyk kliniken hade man inlett ECT-behandling som hade god effekt. Efter åtta behandlingar hade patienten i stort sett blivit återställd från sin depression. Hon fick också kontakt med en psykoterapeut med psykodynamisk inriktning. Hon står på mirtazapin till natten och sover nu bra.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-11-1",
+              "text": "Vad är det i ECT-behandlingen som måste utvecklas för att behandlingen ska få effekt?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ett generellt epileptiskt anfall är nödvändigt för effekt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-12",
+          "context": "För att få önskvärd antidepressiv effekt av ECT måste patienten utveckla ett generaliserat epileptiskt anfall.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-12-1",
+              "text": "Vilken är den vanligaste biverkan vid ECT-behandling?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övergående minnesstörning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-13",
+          "context": "En övergående minnesstörning är den vanligaste biverkan till ECT. ***************************************************************\n\nNy patient. En 46-årig socialsekreterare söker på grund av upplevd stress på arbetet. Han har sjukskrivit sig själv, orkar inte längre med sitt arbete. Han har stora sömnsvårigheter, svårt att somna in och vaknar flera gånger per natt. Han har gått ner flera kilo i vikt och går med mer eller mindre ständig ångest sedan några veckor tillbaka. Han har också svårt att koncentrera sig.\n\nProblematiken har accelererat sedan han också fått ansvar för ensamkommande flyktingungdomar i kommunen. Han upplever sitt arbete som mer eller mindre omöjligt att ordna med boende, skolgång m.m. Patienten har också haft ett chefsuppdrag det senaste året och det har varit en del konflikter på arbetsplatsen som också bidragit till att han inte längre orkar med att arbeta. Patienten ger en god både formell och emotionell kontakt, men du uppfattar grundstämningen som något sänkt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-13-1",
+              "text": "För ett differentialdiagnostiskt resonemang kring patientens problematik.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det hela ter sig som ett utmattningssyndrom alternativt ett blandat ångest- och depressionstillstånd, alternativt en stressreaktion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-14",
+          "context": "En 46-årig socialsekreterare söker på grund av upplevd stress på arbetet. Han har sjukskrivit sig själv, orkar inte längre med sitt arbete. Han har stora sömnsvårigheter, svårt att somna in och vaknar flera gånger per natt. Han har gått ner flera kilo i vikt och går med mer eller mindre ständig ångest sedan några veckor tillbaka. Han har också svårt att koncentrera sig.\n\nProblematiken har accelererat sedan han också fått ansvar för ensamkommande flyktingungdomar i kommunen. Han upplever sitt arbete som mer eller mindre omöjligt att ordna med boende, skolgång m.m. Patienten har också haft ett chefsuppdrag det senaste året och det har varit en del konflikter på arbetsplatsen som också bidragit till att han inte längre orkar med att arbeta. Patienten ger en god både formell och emotionell kontakt, men du uppfattar grundstämningen som något sänkt.\n\nDu bedömer att det handlar om en akut stressreaktion, men utesluter inte att det också kan handla om en depressiv reaktion.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-14-1",
+              "text": "Vilka åtgärder vidtar du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du utvidgar anamnesen, gör en somatisk undersökning och tar EKG och lab-prover, elektrolyter inkl. kalcium, tyreoidea, leverprover."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-15",
+          "context": "Du har tagit en utförlig anamnes, tidigare sjukhistoria, social situation och de aktuella arbetsförhållandena. Han dricker endast lättöl till mat ibland och förnekar självmordstankar. Du har gjort en somatisk undersökning samt tagit en del prover inklusive EKG. Du bedömer att det handlar om en stressreaktion och sjukskriver honom en månad. Du kan dock inte utesluta att det också kan handla om en depressiv reaktion, och därför diskuterar du även sömnmedel och eventuell antidepressiv medicinering. Patienten är inte intresserad av detta utan räknar med att kunna återgå i arbete efter en tids vila.\n\nVid återbesök efter två veckor har han fortsatt samma besvär och det är uppenbart att han behöver en längre sjukskrivning. Patienten är numera intresserad av medikamentell behandling. Du hade gärna velat remittera också den här patienten till den KBT-terapeut som ni har på hälsocentralen, men hon är nu väldigt upptagen och du får själv följa upp patienten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-15-1",
+              "text": "Hur går du vidare med diagnostiseringen av patientens tillstånd?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du kompletterar anamnesen med hjälp av ett diagnosinstrument, exempelvis MINI eller något annat rimligt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-16",
+          "context": "Du kompletterar din anamnes med hjälp av ett diagnosinstrument, exempelvis MINI och din samlade bedömning blir då att patienten lider av ett depressivt syndrom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-16-1",
+              "text": "Ge förslag till lämplig medicinering och hur du tänker följa upp fallet.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du sätter in ett SSRI-preparat med effekt både mot ångest och mot depression samt ett sömnmedel som inte har så stor beroendepotential, exempelvis Propavan. Du planerar att träffa patienten förslagsvis var fjortonde dag framöver för att bl.a. utvärdera effekten av medicineringen, följa upp kontakten med arbetsplatsen och hur han lyckats med sin fysiska aktivitet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Internmedicinfrågan",
+      "points": 20,
+      "intro": "En 64-årig kvinna inkommer i ambulans till sjukhusets akutmottagning med anamnes på feber i 5 dagar, cirka 38,5°C och hosta. Hon förnekar bröstsmärtor. Du är medicinjour och undersöker patienten.\n\nI inkomststatus noterar du bland annat följande. AT: Ser trött ut och svarar fåordigt. Perifert varm. Andningsfrekvens 22/min. Lättare underbenssvullnad bilateralt. Hjärta: Regelbunden rytm. Snabb, något tunn puls, cirka 120/min. Blodtryck: 120/80 mmHg. Lungor: Hypersonor perkussionston, svaga bronkiella andningsljud och enstaka rassel över vänster lungbas.\n\nMedföljande make berättar att hustrun har rökt sedan 20-års ålder och sedan lång tid tillbaka haft hosta som nu förvärrats senaste veckan. Hon har också minskat nästan 10 kg i vikt de senaste åren.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka diagnoser som kräver akut åtgärd måste du utesluta?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pneumoni, KOL med exacerbation, hjärtinfarkt eller hjärtsvikt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": null,
+          "contextImageUrl": "/images/exams/2018-05/page37_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Nu kommer sjuksköterskan med EKG remsan – Hur blir din tolkning?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-05/page37_img2.jpeg",
+              "facit": [
+                "Nu kommer sjuksköterskan med EKG remsan – Hur blir din tolkning (EKG bifogas)? (1 p) Sinustakykardi, för övrigt normalt EKG."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du kan, trots EKG med sinustakykardi och utan andra patologiska förändringar, inte helt utesluta hjärtrelaterad sjukdom, men övriga diagnoser, som kräver akut åtgärd, som pneumoni eller KOL exacerbation, finns också med i dina överväganden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Hur går du nu vidare med utredningen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du beställer rutinblodstatus med CRP samt hjärtskademarkörer, saturationsmätning/arteriell blodgas och akut lungröntgen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du beställde rutinblodprover med CRP och hjärtskademarkörer samt saturationsmätning. Du tog själv en arteriell blodgas och skrev remiss för akut lungröntgen.\n\nSvar kommer snabbt på blodproverna med följande resultat: Hb 140 g/l, LPK 14,3, CRP 220 mg/l, troponin 18 ng/l. Saturation 80%, pO2 5.2 kPa, pCO2 10,4 kPa, BE +2,5, s-laktat 2,8 mmol/l (ref. värde 0,5-2,2) och pH 7,25.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Hur tolkar du provsvaren?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akut respiratorisk svikt med hypoxi och akut respiratorisk acidos, vilket bekräftas av blodgasanalysen. Högt CRP och förhöjt LPK talar för en akut infektion. Det lätt förhöjda troponinvärdet kan förklaras av att pat är hypoxisk och fra. infekterad."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Provsvaren talar för en akut respiratorisk andningssvikt på basen av en akut luftvägsinfektion. Det något förhöjda troponinvärdet kan mest sannolikt förklaras av att patienten är hypoxisk och infekterad. Nu har hon på grund av påverkat allmänstatus och dålig saturation förts till intensivvårdsavdelningen. Lungröntgen ”bedside” visar ett diffust avgränsat basalt infiltrat i vänster lunga.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vilken patogen är vanligast som orsak till en samhällsförvärvad pneumoni och vilket är lämpligt antibiotikaval till denna patient?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pneumokocker. Bensylpenicillin eller t ex Cefotaxim eller liknande cefalosporinpreparat intravenöst"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Efter 3 dagars vård för en odlingsverifierad pneumokockorsakad pneumoni, där patienten på IVA bland annat behandlats med andningsunderstöd i respirator, intravenös antibiotika (bensyl-pc) och bronkvidgande läkemedel, är hon betydligt förbättrad och kan överföras till medicinsk vårdavdelning. Efter ytterligare ett antal dagar är hon uppegående och börjar själv prata om att åka hem.\n\nEn utvidgad anamnes, där du också tar upp samsjuklighet, avslöjar att hon sedan några år tillbaka har tilltagande dyspné vid ansträngning och tidvis produktiv hosta. Innan utskrivningen måste du därför inleda en utredning av hennes misstänkta obstruktiva lungsjukdom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Vilken undersökning krävs för att ställa diagnosen kroniskt obstruktiv lungsjukdom (KOL)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Spirometri med reversibilitetstest (efter bronkdilaterare)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Du remitterar patienten för en spirometri med reversibilitetstest.",
+          "contextImageUrl": "/images/exams/2018-05/page42_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Tolka hennes spirometri (bifogas) och diskutera graden av obstruktivitet utifrån resultatet.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Spirometri, som är basen i utredningen av KOL, visar ett värde på FEV1/FVC som är <0,7 och som inte signifikant förbättras vid reversibilitetstestet med bronkvidgande läkemedel. Detta tillsammans med patientens anamnes bekräftar diagnosen KOL. FEV1 efter bronkdilatation ligger inom 30-50 % av förväntat normalvärde. Baserat på spirometriresultatet har patienten således en KOL i spirometriskt stadium 3"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Efter spirometriundersökningen informerar du patienten om att hon har KOL.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Förutom spirometriresultatet, hur skall du ytterligare värdera sjukdomens svårighetsgrad inför valet av farmakologisk behandling?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sjukdomens svårighetsgrad bedöms, förutom genom den spirometriska klassifikationen, också på basen av svaren på symtomfrågeformulär som t. ex CAT och/eller mMRC tillsammans med frekvensen och svårighetsgraden av exacerbationer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Patienten fick besvara frågeformulären CAT och mMRC för en symtomvärdering av KOL, så att du nu kan göra en stadieindelning av sjukdomen enligt GOLD A-D. Med resultatet som bakgrund och då patienten tidigare är obehandlad förskriver du i första hand ett preparat ur gruppen LAMA (långverkande muskarinreceptorantagonister).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Utifrån patientens situation, vilka icke farmakologiska åtgärder bör du nu föreslå?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Initiera interprofessionell samverkan. Absolut rökstopp – hjälp via rökavvänjningsmottagning. Dietistkontakt för nutritionsråd och viktkontroll. Remiss till fysioterapeut för instruktion om fysisk aktivitet/träning.  Kontakt med KOL-sköterska för\n\nundervisning och uppföljning och kontroll av läkemedelsbehandling. Du ombesörjer också att patienten vaccineras mot influensa och pneumokocker"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "Du förklarar att den viktigaste åtgärden för att förbättra hennes tillstånd är ett absolut rökstopp. Dietistkontakt för nutritionsråd och viktkontroll är särskilt viktig då patienten minskat nästan 10 kg i vikt de senaste åren. I tillägg kommer hon att få vaccination mot influensa och pneumokocker. Mycket viktigt är också kontakt med fysioterapeut för instruktion om fysisk aktivitet och träning, samt kontinuerlig patientutbildning och kontroll av läkemedelsbehandlingen hos KOL-sköterska. Du planerar nu ett uppföljande läkarbesök för denna patient 6-8 veckor efter vårdtillfället.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Vilka kliniska undersökningar planerar du att göra vid återbesöket och varför?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ny lungröntgen för uppföljning av pneumonin (vid KOL ökad risk för malignitet pga rökning) samt ny spirometri för att värdera lungfunktionen då patienten är kliniskt stabil. Saturationsmätning och eventuellt ny arteriell blodgas för att bedöma saturation samt rutinblodstatus med CRP. Ny utvärdering av symtom med CAT och/eller mMRC- frågeformulär"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicinfrågan",
+      "points": 20,
+      "intro": "Du arbetar som underläkare vid en vårdcentral. Denna dag i mitten av augusti börjar du arbetsdagen med telefontid.\n\nPeter, 21 år, ringer med begäran om att få en ny kur antibiotika eftersom den klamydiainfektion han fick behandling för en månad tidigare inte blivit bra.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Hur svarar du Peter?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Önskar du ytterligare information, i så fall vilken? (max 2 p) - Nej, ny antibiotikakur kan inte skrivas utan vidare (0,5 p) - Kompletterad anamnes bör tas, t.ex. aktuella symtom, hur tablettkuren togs, om tabletterna delades med partner (0,5 p) - Sexualanamnes under och efter kuren (eventuellt obehandlad partner och återsmitta) (0,5 p) - Förnyad provtagning av klamydia bör göras (0,5 p) - Provtagning bör kompletteras avseende ytterligare tänkbar smitta, mycoplasma genitalium (och/eller gonorré, analyseras ofta samtidigt med klamydia på lab), om dessa prover inte togs vid första besöket (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Svaret till Peter blev att ny antibiotikakur inte kan skrivas ut utan vidare. Sjukhistorien måste kompletteras, t.ex. aktuella symtom, hur tabletterna togs under antibiotikakuren, om tabletterna ev. delades med partner, sexualanamnes under och efter kuren (ev. obehandlad partner, ev. återsmitta), Prov avseende klamydia bör tas om, kompletterad med provtagning avseende ytterligare tänkbar smitta, t.ex. mykoplasma genitalium och/eller gonorré, om dessa prover inte blev analyserade vid första besöket.\n\nFörnyad provtagning av klamydia ska göras tidigast 4 veckor efter behandlingsstart, p.g.a. ofta kvarvarande DNA-rester under denna tid.\n\nEfter telefontiden tar din mottagning vid. Första patienten är Urban, 44 år, som kommer för kontroll av tablettbehandlad hypertoni. När du hunnit mäta blodtrycket konstaterar du att medelvärdet av två mätningar var 188/106 mm Hg, lika i båda armar, mätt sittande efter 15 minuters vila. Din bedömning blir att hans blodtryck är förhöjt. Urban, som jobbar som IT-tekniker, har sedan många år varit kraftigt överviktig vilket han senaste åren försökt åtgärda genom att styrketräna, uppvisar gärna med stolthet sin kraftiga bicepsmuskulatur. Urban berättar att han märkt att blodtrycksvärdena varierat en hel del när han använt olika blodtrycksmätare.\n\nDin första åtgärd blir att titta tillbaka i journalen på tidigare mätvärden. Du finner att blodtrycket vid de tre närmaste föregående mätningarna låg på 135/88, 178/105, 140/85 (sistnämnda uppmätt för 3 månader sedan) mm Hg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Nämn 4 vanliga orsaker till svängande blodtryck mellan olika mätningar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(max 2 p) - Varierande följsamhet till ordinerad läkemedelsbehandling för blodtrycket (0,5 p), - Variabel stressnivå (0,5 p) - Missbruks/abstinensproblematik (t ex periodvis alkoholmissbruk) (0,5 p) - Vitrockshypertoni (0,5 p) - Olika mätteknik hos olika personer som mäter (0,5 p) - Omväxlande användning av handleds- och överarmsmätare (0,5 p) - Omväxlande användning av 12 och 15 cm-mätare hos individ med kraftiga överarmar (0,5 p) - Sömnapné med variabel obstruktion (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Vanliga orsaker till svängande blodtrycksvärden är: varierande följsamhet till ordinerad läkemedelsbehandling för blodtrycket, variabel stressnivå, missbruks/abstinensproblematik (t ex periodvis alkoholmissbruk), vitrockshypertoni, olika mätteknik hos olika personer som mäter, användande av handledsmätare, omväxlande användning av 12 och 15 cm-mätare hos individ med kraftiga överarmar samt sömnapné med variabel obstruktion. Nästa patient som kommer på mottagningen är Ulla, 48 år, som också kommer för uppföljning av blodtrycket. Eftersom du vill vara väl förberedd inför patientmötet tänker du innan du träffar Ulla igenom vad som bör tas upp vid en sedvanlig blodtryckskontroll (i likhet med vad du gör inför kontroller av diabetespatienter).\n\nNästa patient som kommer på mottagningen är Ulla, 48 år, som också kommer för uppföljning av blodtrycket. Eftersom du vill vara väl förberedd inför patientmötet tänker du innan du träffar Ulla igenom vad som bör tas upp vid en sedvanlig blodtryckskontroll (i likhet med vad du gör inför kontroller av diabetespatienter).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Efter inledningsfraserna fortsätter du konsultationen med att ta upp områden av betydelse gällande Ullas blodtryckssjukdom. Nämn 4 viktiga anamnestiska frågeområden att belysa under ett återbesök för kontroll av hypertoni.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(max 2 p) - Symtom på höga eller låga blodtryck (huvudvärk, yrsel, ortostatism) (0,5 p) - Aktuell stressnivå (0,5 p) - Levnadsvanor i övrigt (tobak, alkohol, fysisk aktivitet, kost, lakrits) (0,5 p) - Följsamhet och ev. biverkningar till blodtrycksmedicinering (0,5p) - Tecken organskada - Funktionsförmåga (utveckling av hjärtsvikt) (0,5 p)\n\n- Ev. ischemiska symtom (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Vid ett återbesök för sedvanlig blodtryckskontroll i primärvården bör följande belysas: Symtom på höga eller låga blodtryck (huvudvärk, yrsel, ortostatism), aktuell stressnivå, levnadsvanor (tobak, alkohol, fysisk aktivitet, kost), följsamhet (compliance) och eventuella biverkningar till blodtrycksmedicinering, tecken till organskada sekundär till hypertonin såsom nedsatt kardiell funktionsförmåga (utveckling av hjärtsvikt) och eventuella ischemiska symtom.\n\nDet har varit svårt att få god kontroll på Ullas blodtryck. Hon har förutom blodtrycket tidigare väsentligen varit frisk, har t ex inte haft några problem med hjärtat och har inte diabetes eller känd njursjukdom. Att Ullas blodtryck var högt upptäcktes då hon sökte för 8 månader sedan för klimakteriella besvär i form av svettningar och blodvallningar. Blodtrycket låg då på 170/100 mm Hg. Ulla hade själv inte märkt något av sitt blodtryck. Efter 2 kontrollmätningar, då blodtrycksvärdena låg tämligen konstanta på samma nivå, gavs levnadsvaneråd och insattes läkemedelsbehandling med T. Enalapril i successivt stigande dos till 20 mg 1x1. Trots detta fortsätter blodtrycket att ligga kvar på i stort sett samma nivå, 168/98 mm Hg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Trots att den insatta läkemedelsbehandlingen varit adekvat har blodtrycket inte gått ned tillräckligt. Nämn 3 kliniskt relevanta tänkbara bakomliggande orsaker till att blodtrycksvärden inte går ned som önskvärt (förutom bristande följsamhet till läkemedelsbehandling, vitrockshypertoni, missbruksproblematik och sömnapné).",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "( max 1,5 p) -  Otillräcklig läkemedelsbehandling, behov av ytterligare preparat (0,5 p) - Njurartärstenos (0,5 p) - Annan njursjukdom (renovaskulär sjukdom eller renoparenkymal sjukdom såsom diabetesnefropati   eller nefrit) (0,5 p) - Primär hyperaldosteronism (0,5 p) - Hög lakritskonsumtion (0,5 p) - Missbruk (0,5 p) - Annat adekvat svar på frågan (0,5 p). [Feokromocytom ger inte poäng då sjukdomen är sällsynt.]"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Nästa patient som kommer på mottagningen är Ulla, 48 år. Hon kommer också för uppföljning av blodtrycket, som varit svårt att få kontroll på. Hon har tidigare inte varit sjuk, har t ex inte haft några problem med hjärtat och har inte diabetes eller känd njursjukdom. Att Ullas blodtryck var högt upptäcktes då hon sökte för 8 månader sedan för klimakteriella besvär i form av svettningar och blodvallningar. Blodtrycket låg på 170/100 mm Hg. Ulla hade själv inte märkt något av sitt blodtryck. Efter 2 kontrollmätningar, då blodtrycksvärdena låg tämligen konstanta på samma nivå, insattes förutom levnadsvaneråd läkemedelsbehandling med T. Enalapril i successivt stigande dos till 20 mg 1x1. Trots detta ligger blodtrycket kvar på i stort sett samma nivå, 168/98 mm Hg.\n\nDen vanligaste orsaken till att blodtrycket inte går ned som förväntat (förutom bristande följsamhet till aktuell läkemedelsbehandling) är otillräcklig läkemedelsbehandling, det vill säga behov av ytterligare blodtryckssänkande läkemedel. Ifall blodtrycket inte gått ned som förväntat efter det att tre olika antihypertensiva preparat från olika läkemedelsgrupper insatts bör sekundär hypertoni (primär hyperaldosteronism, primär hyperparathyroidism, Cushings syndrom, renovaskulär sjukdom t.ex. njurartärstenos eller renoparenkymal sjukdom som diabetesnefropati eller nefrit) övervägas.\n\nHög lakritskonsumtion har också beskrivits som orsak till terapiresistent hypertoni. Feokromocytom, som ofta fått en framskjuten position i läroböcker eller medicinska tidskrifter, är sällsynt.\n\nUlla har tolererat T. Enalapril 20 mg 1x1 väl. I status noteras normalfynd vad gäller hjärta och lungor, och inga ankelödem, men blodtrycket är i överkant, 168/98 mm Hg. Vid senaste kontroll togs blodprover med följande svar: Hb 124 g/L, P-Glucos, icke-fastande 6,5 mmol/L, P-Natrium 142 g/L (ref 137 – 145 mmol/L), P-Kalium 5,1 g/L (ref 3,5 – 4,4 mmol/L), P-Kreatinin 84 mmol/L, eGFR 65 ml/min.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Du överväger att justera Ullas läkemedelsbehandling för hennes blodtryck. Ge två förslag på tänkbara lämpliga kompletterande behandlingar i Ullas fall. Motivera dina förslag.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(max 2 p) - Lägga till tiazid (1 p) - Lägga till kalciumflödeshämmare (1 p) - Annat relevant förslag med motivering, t ex betablockerare vid ischemiska besvär (1 p) [Spironolakton eller ARB ger ej poäng p.g.a. högt P-Kalium.]"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Nästa patient som kommer på mottagningen är Ulla, 48 år. Hon kommer också för uppföljning av blodtrycket, som varit svårt att få kontroll på. Hon har tidigare inte varit sjuk, har t ex inte haft några problem med hjärtat och har inte diabetes eller känd njursjukdom. Att Ullas blodtryck var högt upptäcktes då hon sökte för 8 månader sedan för klimakteriella besvär i form av svettningar och blodvallningar. Blodtrycket låg på 170/100 mm Hg. Ulla hade själv inte märkt något av sitt blodtryck. Efter 2 kontrollmätningar, då blodtrycksvärdena låg tämligen konstanta på samma nivå, insattes förutom levnadsvaneråd läkemedelsbehandling med T. Enalapril i successivt stigande dos till 20 mg 1x1. Trots detta ligger blodtrycket kvar på i stort sett samma nivå, 168/98 mm Hg.\n\nVid senaste kontroll togs blodprover med följande svar: Hb 124 g/L, P-glucos, icke-fastande 6,5 mmol/L, P-Natrium 142 g/L (ref 137 – 145 mmol/L), P-Kalium 5,1 g/L (ref 3,5 – 4,4 mmol/L), P-Kreatinin 84 mmol/L, eGFR 65 ml/min.\n\nTvå lämpliga alternativ till kompletterande behandling i Ullas fall är att fortsätta med Enalapril och lägga till en tiazid, i första hand i låg dos (t.ex. genom att förskriva kombinationstablett) eller att lägga till en kalciumflödeshämmare. Även betablockare kan vara ett alternativ, i synnerhet vid manifest ischemisk sjukdom eller misstänkt angina pectoris. Vid kompletteringen av blodtrycksmedicineringen bör hänsyn tas till det höga kaliumvärdet. Därmed är t.ex. tillägg av ARB (angiotensinreceptorblockerare) eller spironolakton olämpligt i detta skede eftersom dessa preparat kan höja kaliumnivån ytterligare. Kombinationen ACE-hämmare och ARB bör undvikas på denna indikation även av andra skäl.\n\nEftersom Ulla troligen gått relativt länge med blodtrycksförhöjning och det inte tagits EKG på flera år beställer du ett nytt EKG.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Gör en tolkning av Ullas nya EKG.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-05/page54_img1.jpeg",
+              "facit": [
+                "Gör en tolkning av Ullas nya EKG, se nedan. (1 p) - Sinusrytm (0 p) - Höga R-vågsamplituder i vänstersidiga avledningar (0,5 p) - Djupa S-vågor i avledning V1-V3, ST-T-förändringar i laterala avledningar (belastningstecken?) (0,5 p) - Normalställd el-axel. (0 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Nästa patient är Pelle, 23 år som söker för nytillkomna hudförändringar (se foton nedan). Dessa började på bröstkorgen med en lite större, lätt fjällande förändring. Efter cirka en vecka tillkom ett flertal mindre hudrodnader enligt bilder nedan. Ingen klåda. Pelle förnekar allergi och har inte haft eksem som barn. Han undrar nu om han fått mässling eller någon annan smittsam sjukdom.\n\nVid tolkning av EKG:t noterades följande: - Sinusrytm - Den elektriska axeln är normalställd - Höga R-vågsamplituder i vänstersidiga avledningar samt djupa S-vågor i avledning V1-V3 - ST-T-förändringar i laterala avledningar (belastningstecken?).\n\nVid långvarig hypertoni förekommer att vänsterkammarhypertrofi uppstår varvid följande EKG-förändringar kan ses: vänsterställd elektrisk axel, lång VAT (ventrikulär aktiveringstid), lång QRS-tid, ST-T-förändringar (nedåtsluttande ST-T-sänkning, eventuellt inverterad asymmetrisk T-våg).\n\nDet finns också index som används som stöd för EKG-diagnostik av vänsterkammarhypertrofi, t.ex. Sokolow-Lyons (R i V5 eller V6 + S i V1 eller S i V2 ≥ 35 mm eller; R i aVL ≥ 11 mm) och Cornells (S i V3 + R i aVL > 28 mm (män); > 20 mm (kvinnor).\n\nFlera av dessa tecken återfanns på Ullas EKG, se nedan.",
+          "contextImageUrl": "/images/exams/2018-05/page56_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilken diagnos ställer du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-05/page57_img1.jpeg",
+              "facit": [
+                "- Pityriasis rosea (medaljongsjuka)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "De två fotona visar typisk Pityriasis rosea (medaljongsjuka) med karakteristiska förändringar i hudens sprickriktning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Vad beror förändringarna på?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Orsaken är inte helt känd, men troligen orsakas hudförändringarna av en immunologisk reaktion mot en infektion"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-2",
+              "text": "Vad säger du till Pelle angående behandling, prognos och behov av uppföljning?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Ofarligt och ej smittsamt, ingen behandling behövs, försvinner småningom av sig själv"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Vad pityriasis rosea beror på är inte helt känt, men troligen orsakas hudförändringarna av en immunologisk reaktion mot en infektion. Åkomman är ofarlig och smittar ej. Ingen behandling behövs, förändringarna försvinner småningom av sig själv.\n\nNästföljande patient är Anton, 51 år, som berättar att han 8 dagar tidigare råkat halka på en isfläck och översträckt sitt vänstra knä. Ingen direkt smärta eller svullnad efter traumat, men fem dagar senare började han känna värk och tilltagande svullnad av vänster knä. Söker dig på akuttid idag då han tycker att svullnaden borde ha gått ner då det gått mer en vecka sedan han halkade. Han mår inte riktigt bra, känner sig lätt illamående och har kontrollerat tempen (rektaltemp), uppmättes 38,4 grader C. Inga förkylnings- eller andra infektionssymtom. När Anton tagit av sig sina byxor ser du följande:",
+          "contextImageUrl": "/images/exams/2018-05/page60_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Vilka ytterligare anamnestiska uppgifter vill du få i Antons fall med avseende på hans knäsvullnad? Vad frågar du Anton om för att kunna fånga differentialdiagnoser och tänkbara orsaker till svullnaden?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(max 3 p) - Tidigare knäskada? (0,5 p) - Tidigare ledsjukdom? (0,5 p) - Känd malignitet (0,5 p) - Känd gikt? (0,5 p) - Psoriasis? (0,5 p) - Utlandsvistelse nyligen? (0,5 p) - Nyligen genomgången episod med diarré/magsjuka? (0,5 p) - Misstanke sexuellt överförbar sjukdom? (0,5 p) - Fästingbett? (0,5 p) - Sår/hudinfektion? (0,5 p) - Tidigare känd inflammatorisk ryggsjukdom? (0,5 p) - Andra relevanta förslag (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Nästföljande patient är Anton, 51 år, som berättar att han 8 dagar tidigare råkat halka på en isfläck och översträckt sitt vänstra knä. Ingen direkt smärta eller svullnad efter traumat, men fem dagar senare började han känna värk och tilltagande svullnad av vänster knä. Söker dig på akuttid idag då han tycker att svullnaden borde ha gått ner då det gått mer en vecka sedan han halkade. Han mår inte riktigt bra, känner sig lätt illamående och har kontrollerat tempen (rektaltemp), uppmättes 38,4 grader C. Inga förkylnings- eller andra infektionssymtom. När Anton tagit av sig sina byxor ser du följande:",
+          "contextImageUrl": "/images/exams/2018-05/page61_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Nämn de differentialdiagnoser du redan i detta skede börjat fundera över.",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "(max 2,5 p) - Reaktiv artrit (0,5 p) - Uppseglande septisk artrit (0,5 p) - Kristallartrit (pyrofosfatsynovit, gikt) (0,5 p) - Spondartrit (0,5 p) - Psoriasisartrit (0,5 p) - Borreliaartrit  (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "För att komma närmare diagnosen överväger du att punktera knäleden och skicka ledvätska för analys. Nämn de 3 viktigaste ledvätskeanalyserna lämpliga att göra i Antons fall.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Odling (0,5 p) - LPK (poly/mono) (0,5 p) - Kristaller (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-12",
+          "context": "Relevanta frågor till Anton avseende hans knäsvullnad är exempelvis: Tidigare knäskada? Tidigare ledsjukdom? Känd gikt? Psoriasis? Tidigare malignitet? Tidigare känd inflammatorisk ryggsjukdom? Utlandsvistelse nyligen? Nyligen genomgången episod med diarré/magsjuka? Misstanke sexuellt överförbar sjukdom? Fästingbett? Sår/hudinfektion?\n\nDe tänkbara differentialdiagnoser till knäsvullnaden som du i första hand överväger är: reaktiv artrit, uppseglande septisk artrit, kristallartrit (gikt eller pyrofosfatsynovit), spondartrit, psoriasisartrit och borreliaartrit.\n\nOm ingen annan förklaring till febern finns är traumat liksom artros med hydrops mindre sannolika differentialdiagnoser, då dessa tillstånd inte kan förväntas ge nämnvärd temperaturstegring. De ledvätskeanalyer som är viktigast att göra i Antons fall är odling, LPK (poly/mono) samt kristaller.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-12-1",
+              "text": "Ange minst en vanligt förekommande bakomliggande faktor/orsak som kan föregå/utlösa reaktiv artrit?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ange 2 vanligt förekommande bakomliggande faktorer/orsaker som kan föregå/utlösa reaktiv artrit? (max 1 p) - Tarmpatogener som Yersinia, Campylobacter, Salmonella, Shigella (max 0,5 p) - STD t.ex. klamydia eller gonorré (max 0,5 p) - Annan infektion (0,5 p) - HLA B27 positivitet (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

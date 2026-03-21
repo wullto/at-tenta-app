@@ -1,0 +1,929 @@
+{
+  "id": "2015-05",
+  "title": "AT-prov maj 2015",
+  "date": "2015-05-22",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Kirurgi",
+      "points": 20,
+      "intro": "Du är AT-läkare på länsdelssjukhusets akutmottagning. Ambulansen kommer in med en man som skadats i en trafikolycka. Den skadade är en tidigare frisk man i 25-årsåldern. Enligt ambulanspersonal (ambulanssjuksköterska) har patienten blivit påkörd i samband med att han försökte korsa en trafikerad gata utan övergångsställe. Bilisten hann sänka farten till ungefär 20 km/timme. Den skadade träffades i underbensnivå och slungades upp på motorhuven mot vindrutan. Den skadade kan ha varit medvetslös, men var vid medvetande när ambulanspersonalen anlände. Han hade synliga skador på höger underben och vänster underarm/handled. Efter den initiala bedömningen genomför ambulanspersonalen immobilisering av den skadade, lägger honom på en bår och transporterar honom till akutmottagningen, en färd som tar ca 10 minuter.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilken kroppsdel ska prioriteras vid immobiliseringen? Motivera.",
+              "maxPoints": 1,
+              "hint": "Motivera prioriteringen",
+              "facit": [
+                "Halsryggen ska prioriteras",
+                "Immobilisering med halskrage",
+                "Risk för försämrat läge av eventuell instabil halsryggskada, vilket kan få ödesdigra konsekvenser",
+                "Bristande immobilisering av extremitetsskadorna riskerar inte att medföra allvarliga konsekvenser"
+              ],
+              "facitExplanation": "Immobilisering av halsrygg med halskrage. Risk för försämrat läge av eventuell instabil halsryggskada, vilket kan få ödesdigra konsekvenser. (Bristande immobilisering av extremitetsskadorna riskerar inte att medföra allvarliga konsekvenser)",
+              "tags": ["trauma", "ATLS", "halsryggsskada", "immobilisering"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Halsryggen immobiliseras först, därefter extremitetsskadorna. Ambulansen har nu anlänt till akutmottagningen.",
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilka ytterligare moment bör ingå i den primära undersökningen på akutrummet?",
+              "maxPoints": 2,
+              "hint": "Ange momenten i primär undersökning",
+              "facit": [
+                "Luftväg (Airway) med halsryggsimmobilisering",
+                "Ventilation (Breathing)",
+                "Cirkulation med blödningskontroll (Circulation)",
+                "Neurologisk funktion (Disability)",
+                "Exponering (Exposure)"
+              ],
+              "facitExplanation": "(luftväg med halsryggsimmobilisering,) Ventilation, Cirkulation med blödningskontroll, neurologisk funktion, exponering. (A B C D E = Airway, Breathing, Circulation, Disability, Exposure)",
+              "tags": ["ATLS", "ABCDE", "trauma", "primärundersökning"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Undersökningen visar således skador på höger underben och vänster underarm/handled. Patienten hade dessutom ett ytligt skrapsår till vänster på bukväggen. Vid den första undersökningen noterar du även: Blek. Klart medvetande (RLS1). Klagar över smärtor i arm och underben. Kan röra armar och ben, men noggrannare undersökning kan inte göras på grund av smärtor. Ömhet till vänster i buk vid skrapsår. Ingen défense. Pulsoxymeter visar syrgasmättnad 95 %, Puls 90/minut. Blodtryck palpatoriskt 90 mm Hg. Narkosjour, kirurgbakjour och ortopedbakjour är kallade till akutmottagningen.",
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Hur tolkar du den kliniska bilden?",
+              "maxPoints": 1,
+              "hint": "Tolka klinisk bild",
+              "facit": [
+                "Uppenbar risk för utveckling av cirkulatorisk chock"
+              ],
+              "facitExplanation": "Uppenbar risk för utveckling av cirkulatorisk chock",
+              "tags": ["chock", "trauma", "cirkulationssvikt"]
+            },
+            {
+              "id": "1-3-2",
+              "text": "Är det något du bör göra i väntan på att bakjourerna anländer? Motivera.",
+              "maxPoints": 2,
+              "hint": "Motivera åtgärder i väntan på bakjour",
+              "facit": [
+                "Tillförsäkra dig om tillgång till venös(a) infart(er), annars central venkateter",
+                "Ge isoton vätska initialt, t.ex. RingerAcetat – risk för blödningschock",
+                "BAStest inklusive Hb bör tas",
+                "Syrgastillförsel"
+              ],
+              "facitExplanation": "Patientens skador kan ha givit upphov till betydande blödningar och intravenös vätsketillförsel är motiverat. Tillförsäkra dig om tillgång till venös(a) infart(er). Annars central venkateter. Ge isoton vätska initialt t.ex. RingerAcetat. BAStest inklusive Hb bör också tas. Syrgastillförsel.",
+              "tags": ["chock", "trauma", "vätskeresuscitering"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Syrgas tillförs. Efter att ha försäkrat dig om venös(a) infart(er) påbörjas intravenös infusion med RingerAcetat. Blodprover tas och du överväger att ge patienten smärtlindring.",
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vilken typ av analgetikum och administrationssätt föreslår du? Motivera.",
+              "maxPoints": 1,
+              "hint": "Motivera val av analgetikum och administrationssätt",
+              "facit": [
+                "Morfinpreparat intravenöst",
+                "Intravenöst föredras framför intramuskulärt på grund av oklar cirkulation perifert",
+                "Peroral administrering är olämpligt på grund av oklar resorption och eventuella bukskador"
+              ],
+              "facitExplanation": "Morfinpreparat intravenöst är att föredra framför intramuskulär injektion på grund av oklar cirkulation perifert. Peroral administrering är olämpligt på grund av oklar resorption och eventuella bukskador. Smärtlindring är viktigt, men kan emellertid försvåra bedömning av allmäntillstånd och diagnostiken av skadorna.",
+              "tags": ["smärtlindring", "trauma", "analgetika"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Kirurgbakjouren anländer och undersöker patienten. Hon ber dig skriva remiss för traumaundersökning med datortomografi (trauma-DT).",
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Vilka frågeställningar har du avseende buken på trauma-DT?",
+              "maxPoints": 2,
+              "hint": "Ange frågeställningar för trauma-DT buk",
+              "facit": [
+                "Blod i buken?",
+                "Fri gas?",
+                "Parenkymskada mjälte/lever/njurar?",
+                "Bäckenfraktur?"
+              ],
+              "facitExplanation": "Blod i buken? Fri gas? Parenkymskada mjälte/lever/njurar? Bäckenfraktur?",
+              "tags": ["trauma", "datortomografi", "buktrauma"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Ortopedbakjouren frågar dig om patientens distalstatus.",
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vad undersöker du för att ange distalstatus för övre respektive nedre extremitet? Specificera också de anatomiska strukturer du undersöker.",
+              "maxPoints": 3,
+              "hint": "Specificera anatomiska strukturer för distalstatus",
+              "facit": [
+                "Kärl och nervstatus distalt på extremitet/status distalt om skada",
+                "Nervus medianus försörjningsområde (övre extremitet)",
+                "Nervus radialis försörjningsområde (övre extremitet)",
+                "Nervus ulnaris försörjningsområde (övre extremitet)",
+                "Palpation av a. radialis och a. ulnaris (övre extremitet)",
+                "Palpation av a. dorsalis pedis (nedre extremitet)",
+                "Palpation av a. tibialis posterior (nedre extremitet)",
+                "Nervus tibialis försörjningsområde (nedre extremitet)",
+                "Nervus peroneus (fibularis) profunda försörjningsområde (nedre extremitet)",
+                "Nervus peroneus (fibularis) superficialis försörjningsområde (nedre extremitet)"
+              ],
+              "facitExplanation": "Kärl och nervstatus distalt på extremitet/status distalt om skada. Undersökning av nervus medianus, radialis och ulnaris försörjningsområde, samt palpation av a.radialis och a.ulnaris. På foten palperas a. dorsalis pedis, samt a.tibialis posterior, samt nervus tibialis och nervus peroneus (fibularis) profunda och superficialis försörjningsområden.",
+              "tags": ["distalstatus", "extremitetsskada", "neurologi", "kärlstatus"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Du undersöker kärl och nervfunktionen distalt om skadorna och finner ingen funktionsnedsättning. DT buk visade inget avvikande. Patientens tillstånd bedöms nu stabilt. Röntgenundersökning av underarm/handled och underben utförs. Bild 1 visar röntgenundersökning av underarm/handled.",
+          "contextImageUrl": "/images/exams/2015-05/radial-fracture-xray.jpeg",
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "(Bild 1 visar röntgenundersökning av underarm/handled.) Vilken skada ses på bilden?",
+              "maxPoints": 1,
+              "hint": "Identifiera skadan på röntgenbilden",
+              "facit": [
+                "Distal radiusfraktur med dorsalbockning"
+              ],
+              "facitExplanation": "Distal radiusfraktur med dorsalbockning.",
+              "tags": ["fraktur", "radiusfraktur", "röntgen"]
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Den dorsalbockade distala radiusfrakturen är mycket vanligt förekommande och behandlas i regel med sluten reposition och immobilisering med gips.",
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Beskriv hur man går tillväga för att åtgärda den typiska radiusfrakturen.",
+              "maxPoints": 2,
+              "hint": "Beskriv tillvägagångssätt",
+              "facit": [
+                "Anestesi via lokal injektion med t.ex. Xylocain i frakturhematomet",
+                "Reposition av frakturen genom traktion i armens längsriktning och volarbockning av det distala radiusfragmentet",
+                "Därefter läggs en dorsal gipsskena, som fixeras med elastisk binda"
+              ],
+              "facitExplanation": "Anestesi via lokal injektion med t.ex. Xylocain i frakturhematomet. Reposition av frakturen genom traktion i armens längsriktning och volarbockning av det distala radiusfragmentet. Därefter läggs en dorsal gipsskena, som fixeras med elastisk binda.",
+              "tags": ["fraktur", "radiusfraktur", "reposition"]
+            },
+            {
+              "id": "1-8-2",
+              "text": "Hur bör denna radiusfraktur, följas upp? Motivera.",
+              "maxPoints": 1,
+              "hint": "Motivera uppföljning",
+              "facit": [
+                "Röntgenkontroll av frakturläget bör göras efter 1-2 veckor – frakturläget kan ha försämrats",
+                "Gipstid 4-5 veckor",
+                "Rörelseträning av fingrar och skuldra viktigt",
+                "Sjukgymnastik efter avgipsning"
+              ],
+              "facitExplanation": "Röntgenkontroll av frakturläget bör göras efter 1-2 veckor. Frakturläget kan ha försämrats. Gipstid 4-5 veckor. Rörelseträning av fingrar, skuldra viktigt. Sjukgymnastik efter avgipsning.",
+              "tags": ["fraktur", "radiusfraktur", "uppföljning"]
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Röntgenbilden av underbenet (bild 2 och bild 3) visar en tvärfraktur av tibia och fibula. Ortopedbakjouren bestämmer att radiusfrakturen ska behandlas med sluten reposition och gips och att tibiafrakturen ska märgspikas. Operationen genomförs inom 8 timmar och lägena i frakturerna är postoperativt i det närmaste exakta. Emellertid har patienten svåra smärtor i hela underbenet efteråt. Laboratorieprover visar P-Kreatinin 125 μmol/L (55-115 mmol/L) och P-Myoglobin 15000 μg/L (0-85 mg/L).",
+          "contextImageUrl": "/images/exams/2015-05/tibia-fibula-fracture-ap.jpeg",
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Hur tolkar du den kliniska bilden? Motivera.",
+              "imageUrl": "/images/exams/2015-05/tibia-fibula-fracture-lat.jpeg",
+              "maxPoints": 2,
+              "hint": "Tolka och motivera klinisk bild",
+              "facit": [
+                "Kompartmentsyndrom med rhabdomyolys",
+                "Lätt förhöjt kreatinin i plasma kan bero på muskelskador pga. muskelkontusion",
+                "Kraftigt förhöjt myoglobin troligen beror av rhabdomyolys beroende på kompartmentsyndrom i underbenet"
+              ],
+              "facitExplanation": "Kompartmentsyndrom med rhabdomyolys. Lätt förhöjt kreatinin i plasma kan bero på muskelskador pga. muskelkontusion, medan kraftigt förhöjt myoglobin troligen beror av rhabdomyolys beroende på kompartmentsyndrom i underbenet.",
+              "tags": ["kompartmentsyndrom", "rhabdomyolys", "tibiafraktur"]
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Betydande smärtor efter frakturer är inte ovanligt. Vid underbensfrakturer måste kompartmentsyndrom alltid övervägas.",
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Vad innebär kompartmentsyndrom? Förklara.",
+              "maxPoints": 1,
+              "hint": "Förklara kompartmentsyndrom",
+              "facit": [
+                "Underbenets kompartments är anatomiskt uppbyggt av skelett och strama fascier",
+                "När en fraktur inträffar ökar trycket inom fascierummet till följd av blödning från benmärg och skadade muskler",
+                "Denna tryckstegring hindrar cirkulationen i musklerna med vävnadsskada som följd"
+              ],
+              "facitExplanation": "Underbenets kompartments är anatomiskt uppbyggt av skelett och strama fascier. När en fraktur inträffar ökar trycket inom fascierummet till följd av blödning från benmärg och skadade muskler. Denna tryckstegring hindrar cirkulationen i musklerna med vävnadsskada som följd.",
+              "tags": ["kompartmentsyndrom", "fraktur"]
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Akuta kompartmentsyndrom ska opereras så snart som möjligt. Man kan avlasta trycket i drabbade kompartment(s) genom s.k. kompartmentklyvning, då fascierummen öppnas kirurgiskt. Det främre kompartmentet drabbas oftast.",
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Vilka funktioner förlorar man om musklerna i främre kompartment går i nekros?",
+              "maxPoints": 1,
+              "hint": "Ange funktioner som förloras",
+              "facit": [
+                "Dorsalflexion (dorsalextension) i fotled",
+                "Extension av stortå",
+                "Extension av övriga tår"
+              ],
+              "facitExplanation": "Dessa muskler utför dorsalflexion (= dorsalextension) i fotled, samt extension av stortå och övriga tår.",
+              "tags": ["kompartmentsyndrom", "nekros", "anatomi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du har BVC på vårdcentralen och träffar för första gången Ahmad, 18 månader, som är flykting från krigets Syrien och som tillsammans med sin familj nyligen beviljats asyl i Sverige. Vid undersökningen finner du den hos pojkar näst vanligaste (0,5 %) missbildningen som illustreras i bilden.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2015-05/hypospadi-bild.jpeg",
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vad kallas tillståndet och hur uppstår denna missbildning?",
+              "maxPoints": 2,
+              "hint": "Namnge tillståndet och förklara uppkomst",
+              "facit": [
+                "Hypospadi",
+                "Embryonal anläggningsrubbning",
+                "Urethra mynnar i varierande grad på undersidan av penis",
+                "Defekt i urinrörets longitudinella slutning på undersidan av penis under vecka 15"
+              ],
+              "facitExplanation": "Hypospadi är en embryonal anläggningsrubbning som innebär att urethra i varierande grad mynnar på undersidan av penis. Orsaken är en defekt i urinrörets longitudinella slutning på undersidan av penis under vecka 15.",
+              "tags": ["hypospadias", "urologi", "missbildning"]
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vilken åtgärd vidtar du?",
+              "maxPoints": 1,
+              "hint": "Ange åtgärd",
+              "facit": [
+                "Remiss för kirurgisk behandling i förskoleåldern"
+              ],
+              "facitExplanation": "Remiss för kirurgisk behandling i förskoleåldern",
+              "tags": ["hypospadias", "kirurgi", "barnkirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Hypospadi är en anläggningsrubbning som innebär att urethra i varierande grad mynnar på undersidan av penis. Du remitterar Ahmad för kirurgisk behandling i förskoleåldern. Föräldrarna undrar varför det är nödvändigt. Nästa gång som du träffar Ahmad är du specialist i allmänmedicin och Ahmad har hunnit bli 14 år. Han söker på vårdcentralen för ont i halsen och feber sedan 3-4 dagar tillbaka. På direkt fråga säger han att han haft en lättare hosta. Vid undersökningen finner du att Ahmad är febril (39.2° C) och i övrigt opåverkad. Han ömmar rejält i käkvinklarna på båda sidor där det också känns en aning svullet. Svalgstatus visar fynd som vid tonsillit. Ahmads mamma vill gärna att Ahmad ska få penicillin för sin infektion.",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vad svarar du föräldrarna?",
+              "maxPoints": 1,
+              "hint": "Förklara för föräldrarna",
+              "facit": [
+                "Obehandlad medför hypospadi att penis blir krökt",
+                "Det kan göra att det blir svårt för patienten att genomföra samlag i vuxen ålder"
+              ],
+              "facitExplanation": "Obehandlad medför hypospadi, att penis blir krökt och det kan göra att det blir svårt för patienten att genomföra samlag i vuxen ålder.",
+              "tags": ["hypospadias", "urologi"]
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilken diagnos ställer du och vilket är det fullständiga namnet på den viktigaste och vanligaste bakterien som orsakar detta tillstånd?",
+              "imageUrl": "/images/exams/2015-05/tonsillit-svalg.jpeg",
+              "maxPoints": 1,
+              "hint": "Diagnos och bakteriens fullständiga namn",
+              "facit": [
+                "Tonsillit",
+                "Beta-hemolytiska streptokocker grupp A"
+              ],
+              "facitExplanation": "Tonsillit och Beta-hemolytiska streptokocker grupp A",
+              "tags": ["tonsillit", "GAS", "streptokockfaryngit"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Mot en bakgrund av de så kallade Centorkriterierna överväger du att utföra snabbtest avseende Beta-hemolytiska streptokocker grupp A (GAS).",
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Hur många av Centorkriterierna ska vara uppfyllda för att snabbtest för GAS ska vara befogat och vilka av dessa Centorkriterierna uppfyller Ahmad?",
+              "maxPoints": 2,
+              "hint": "Antal kriterier och Ahmads uppfyllda kriterier",
+              "facit": [
+                "Om minst tre av Centorkriterierna är uppfyllda kan snabbtest för GAS motiveras",
+                "Feber ≥38.5°C (uppfyllt av Ahmad)",
+                "Ömmande käkvinkeladeniter (uppfyllt av Ahmad)",
+                "Beläggning på tonsillerna (uppfyllt av Ahmad)",
+                "Frånvaro av hosta är det fjärde kriteriet (ej uppfyllt – Ahmad har hosta)"
+              ],
+              "facitExplanation": "Om minst tre av Centorkriterierna är uppfyllda kan snabbtest för GAS motiveras (0,5p). Feber ≥38.5°C (0,5p), ömmande käkvinkeladeniter (0,5p), beläggning på tonsillerna (0,5p). Frånvaro av hosta är det fjärde kriteriet.",
+              "tags": ["tonsillit", "Centorkriterier", "GAS"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Eftersom Ahmad uppvisar feber ≥38.5° C, ömmande käkvinkeladeniter och beläggning på tonsillerna utför du ett snabbtest avseende Beta-hemolytiska streptokocker grupp A (GAS). Snabbtestet är positivt och du erbjuder Ahmad behandling med penicillin V i 10 dagar som Ahmad och hans mamma accepterar. Femton dagar efter avslutad behandling återkommer Ahmad på nytt i en klinisk bild av tonsillit som uppfyller fyra av fyra möjliga Centorkriterier.",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Hur bedömer du nu detta och vilka åtgärder vidtar du?",
+              "maxPoints": 2,
+              "hint": "Bedömning och åtgärder vid recidiv",
+              "facit": [
+                "Recidivtonsillit = akut tonsillit inom en månad efter avslutad behandling",
+                "Diskutera compliance",
+                "Snabbtest bör bekräftas med svalgodling",
+                "Behandling: klindamycin eller cefadroxil"
+              ],
+              "facitExplanation": "Recidivtonsillit = akut tonsillit inom en månad efter avslutad behandling. Diagnostik: Compliance bör diskuteras. Snabbtest bör bekräftas med svalgodling. (Epidemiologisk utredning vid upprepade recidiv) Behandling: klindamycin eller cefadroxil",
+              "tags": ["tonsillit", "recidiv", "antibiotikabehandling"]
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Nästa gång som du träffar Ahmad är det i sällskap med hans farfar Muhammad som är 76 år och som söker för att han är tröttare än normalt. Han har aldrig tidigare besökt vårdcentralen. Ahmad hjälper idag sin farfar med tolkning eftersom Muhammad pratar mycket dålig svenska. Du får fram att farfadern tidigare varit väsentligen frisk och inte använder några mediciner men röker 15 cigaretter dagligen. Muhammad förnekar förekomst av bröstsmärtor och andfåddhet. Undersköterskan har innan du träffar patienten tagit ett EKG.",
+          "contextImageUrl": "/images/exams/2015-05/ekg-muhammad.jpeg",
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Tolka Muhammads EKG.",
+              "maxPoints": 2,
+              "hint": "Tolka EKG-fynd",
+              "facit": [
+                "Förmaksflimmer (normofrekvent)",
+                "Status post transmural inferior hjärtinfarkt"
+              ],
+              "facitExplanation": "Förmaksflimmer, status post transmural inferior hjärtinfarkt",
+              "tags": ["EKG", "förmaksflimmer", "hjärtinfarkt"]
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Undersköterskan har innan du träffar patienten tagit ett EKG som visar normofrekvent förmaksflimmer och status post inferior hjärtinfarkt. I status noterar du att blodtrycket är 165/85 mm Hg och hjärtat auskulteras utan blåsljud men med oregelbunden rytm. Du bestämmer dig för att ta blodprover och att Muhammad får komma tillbaka imorgon för en ny kontroll av blodtrycket.",
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Ange fyra relevanta blodprover som du vill ta inför morgondagens besök.",
+              "maxPoints": 2,
+              "hint": "Nämn fyra relevanta blodprover",
+              "facit": [
+                "Hb",
+                "Kalium (K)",
+                "Natrium (Na)",
+                "Kreatinin",
+                "Calcium",
+                "CRP",
+                "P-glukos",
+                "TSH",
+                "T4"
+              ],
+              "facitExplanation": "Hb, K, Na, kreatinin, calcium, CRP, p-glukos, tyroideaprover (TSH, T4)",
+              "tags": ["förmaksflimmer", "hypertoni", "provtagning"]
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "När Muhammad kommer åter nästa dag är hans EKG oförändrat och blodtrycket är 172/88 mm Hg. Han väger 84 kg och är 180 cm lång. Provresultat: fP-Glukos 14,3 mmol/L (3,8–6,0), B-Hb 135 g/L (130–170), S-TSH 3,4 mU/L (0,3–4,0), P-Calciumjon 1,29 mmol/L (1,16–1,35), P-Kalium 4,2 mmol/L (3,6–4,6), eGFR 72 ml/min (>70).",
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Ange fyra relevanta riskfaktorer för förmaksflimmer som Muhammad uppvisar.",
+              "maxPoints": 2,
+              "hint": "Nämn fyra riskfaktorer",
+              "facit": [
+                "Hög ålder (9 % vid 75 år)",
+                "Diabetes",
+                "Hypertoni",
+                "Ischemisk hjärtsjukdom (status post hjärtinfarkt)",
+                "Rökning"
+              ],
+              "facitExplanation": "Hög ålder (9 % vid 75 år), diabetes, hypertoni, ischemisk hjärtsjukdom och rökning",
+              "tags": ["förmaksflimmer", "riskfaktorer", "diabetes"]
+            },
+            {
+              "id": "2-7-2",
+              "text": "Vilket/vilka läkemedel överväger du nu att rekommendera att Muhammad börjar med inom den närmaste tiden mot bakgrund av undersökningsresultaten? Motivera varför.",
+              "maxPoints": 4,
+              "hint": "Motivera läkemedelsval",
+              "facit": [
+                "ACE-hämmare eller ARB – för hypertoni",
+                "Insulin eller metformin – för diabetes",
+                "Statin – för diabetes och gammal infarkt",
+                "Warfarin- eller NOAK-terapi – profylax mot tromboembolism vid förmaksflimmer"
+              ],
+              "facitExplanation": "Hypertoni: ACE-hämmare eller ARB. Diabetes: insulin eller metformin. Diabetes + gammal infarkt: statin. Profylax mot tromboembolism: Warfarin- eller NOAK (non-vitamin K antagonist oral anticoagulants)-terapi",
+              "tags": ["förmaksflimmer", "hypertoni", "antikoagulantia", "diabetes"]
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Hans förmaksflimmer kvarstår och blodproverna visar att han har diabetes, sannolikt typ 2. Du påbörjar behandling med ACE-hämmare på grund av det förhöjda blodtrycket samt startar behandling med en statin och metformin eftersom Muhammad har diabetes. Till följd av den förhöjda risken för tromboembolism påbörjar du även behandling med Waran (warfarin). Du berättar att detta fordrar regelbundna kontroller av P-PK (INR).",
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vad betyder PK och förklara dess innebörd?",
+              "maxPoints": 1,
+              "hint": "Förklara PK",
+              "facit": [
+                "PK = Protrombinkomplex",
+                "Samlingsnamn för de K-vitaminberoende koagulationsfaktorerna",
+                "Faktor II (protrombin), faktor VII och faktor X",
+                "Alla bildas i levern"
+              ],
+              "facitExplanation": "Protrombinkomplex som är ett samlingsnamn för de K-vitaminberoende koagulationsfaktorerna, faktor II (protrombin), faktor VII och faktor X, som alla bildas i levern.",
+              "tags": ["antikoagulantia", "warfarin", "koagulation"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Psykiatri",
+      "points": 20,
+      "intro": "Du är AT-läkare på psykiatriska kliniken och har primärjouren. Klockan närmar sig midnatt. Jan, en 22-årig man, inkommer efter att en ST-läkare i allmänmedicin utfärdat vårdintyg i samband med bedömning i en kamrats bostad. Kamraten har uppgett att Jans psykiska försämring inträtt under de senaste timmarna. Jan är hemmahörande i det angränsande landstinget. ST-läkaren, som själv infinner sig med vårdintyget, säger att det var länge sen han fyllde i vårdintyg och vill gärna att du kontrollerar att han gjort rätt.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Är vårdintyget korrekt ifyllt så att det kan användas som underlag för beslut enl. Lagen om Psykiatrisk Tvångsvård (LPT) (frågan avser inte det fingerade personnumret)? Om inte; vilken eller vilka brister ser du?",
+              "maxPoints": 1,
+              "hint": "Identifiera brister i vårdintyget",
+              "facit": [
+                "Nej, vårdintyget är inte korrekt ifyllt",
+                "Ska vara 4§, inte 11§",
+                "Patientens identitet måste vara styrkt"
+              ],
+              "facitExplanation": "Nej. Ska vara 4§, inte 11§. Patientens identitet måste vara styrkt. Felaktiga påståenden om att innehållet i ruta 4 på sida 3 inte är tillräckligt, eller om att patienten måste vara somatiskt undersökt kan ge avdrag.",
+              "tags": ["LPT", "psykiatri", "vårdintyg"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Jan, 22 år, inkommer efter att vårdintyg utfärdats. Du ber om rättning till 4§. Du ber också att ST-läkaren anger hur han har styrkt identiteten vilket ordnar sig då Jan har ett id-kort på sig. Felen rättas och ST-läkaren signerar intyget. Du går in i väntrummet till Jan som har börjat riva sidor ur tidskrifterna och lagt ut dem på rad på golvet. Han rimmar på ditt namn och associerar vidare på sina ord. Han rör sig hela tiden och verkar mycket rastlös. Han vill gärna visa sina teorier. Du fattar kvarhållningsbeslut.",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Om det inte hade gått att få en trovärdig identitet på patienten och om han inte lämnar några kontaktuppgifter till anhöriga eller annan som kan hjälpa till, vad hade ST-läkaren fått göra då?",
+              "maxPoints": 1,
+              "hint": "Åtgärd vid okänd identitet",
+              "facit": [
+                "Kontakta polisen för att få hjälp med identifiering",
+                "Vid okänd identitet kan man alternativt göra en kort beskrivning av personen"
+              ],
+              "facitExplanation": "Kontakta polisen för att få hjälp med identifiering. Vid okänd identitet kan man alternativt göra en kort beskrivning av personen.",
+              "tags": ["LPT", "psykiatri", "identifiering"]
+            },
+            {
+              "id": "3-2-2",
+              "text": "Ange fyra undersökningar, utöver suicidriskbedömning och psykisk status, som behöver göras direkt i anslutning till inläggningen? Motivera",
+              "maxPoints": 2.5,
+              "hint": "Nämn fyra undersökningar med motivering",
+              "facit": [
+                "Urinscreening för droger – akut förlopp tyder på möjlig drogpåverkan",
+                "Kontrollera blodglukos – utesluta hypoglykemi",
+                "Temperaturmätning – utesluta infektion/feber",
+                "Somatisk status: tecken på drogpåverkan, neurologiskt, infektionstecken",
+                "Kontrollera puls och blodtryck, pupiller, stickmärken"
+              ],
+              "facitExplanation": "Ett akut förlopp tyder på att något hänt, eller är under utveckling, som påverkar hjärnan. Försök få information om ev. drogbruk. Urinscreening för droger. Kontrollera blodglukos. Temperatur. Somatisk status så gott det går: tecken på drogpåverkan, neurologiskt, infektionstecken. Kontrollera puls och blodtryck, pupiller, stickmärken. För full poäng ska AT-läkaren utifrån förloppet ange behovet av akut undersöka drogbruk, somatiska parametrar så det framgår att möjliga förklaringsfaktorer som infektion, hypoglykemi, stroke, drogeffekter täcks av.",
+              "tags": ["psykos", "intoxikation", "akutpsykiatri"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du ber att Jan tas in på avdelningen och att kroppstemperatur och urinprov för drogscreening tas. En halvtimme senare ankommer Jan till avdelningen. Där blir han plötsligt utagerande och aggressiv. Han slår mot personal och rycker i dörrarna. Vid försök att begränsa honom slår, biter, sparkar han och skriker om djävulens ankomst. Han verkar nu hallucinera. Du kallas akut till avdelningen och när du kommer har man redan lagt honom i bältessäng i nödvärn.",
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vilka regler gäller för tvångsmedicinering vid kvarhållning enligt LPT?",
+              "maxPoints": 1,
+              "hint": "Regler för tvångsmedicinering vid kvarhållning",
+              "facit": [
+                "Ingen tvångsmedicinering innan intagningsbeslut tagits",
+                "Intagningsbeslut tas av chefsöverläkaren, eller specialistläkare med delegation av chefsöverläkaren",
+                "Undantag om det finns överhängande fara för patientens liv eller hälsa"
+              ],
+              "facitExplanation": "Ingen tvångsmedicinering innan intagningsbeslut tagits av chefsöverläkaren, eller specialistläkare med delegation av chefsöverläkaren (om det inte finns överhängande fara för patientens liv eller hälsa).",
+              "tags": ["LPT", "tvångsmedicinering", "psykiatri"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du ringer bakjouren och får besked att låta Jan ligga kvar i bälte men inte tvångsmedicinera innan intagningsbeslut. Bakjouren kommer in och fattar beslutet efter att ha bedömt Jan. Ni ordinerar intramuskulära injektioner med diazepam och haloperidol. Jan lugnar ner sig något. Han är varm och svettig, spänd i hela kroppen, hallucinerar öppet, paranoid. Jan kan ha tagit drogen MDPV (Metylendioxipyrovaleron, 'badsalt', 'kannibaldrogen').",
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Ange rätt vårdnivå för patienten. Motivera.",
+              "maxPoints": 2,
+              "hint": "Motivera rätt vårdnivå",
+              "facit": [
+                "Intensivvård",
+                "Risk för serotonergt syndrom",
+                "Hypertoni pga. kärlsammandragning och multiorgansvikt med resulterande dödsfall",
+                "Kan behöva sederas med narkos",
+                "Behöver övervakning av andning och vitalparametrar"
+              ],
+              "facitExplanation": "Intensivvård. Risk för serotonergt syndrom, hypertoni pga. kärlsammandragning och multiorgansvikt med resulterande dödsfall. Kan behöva sederas med narkos. Behöver övervakning av andning och vitalparametrar.",
+              "tags": ["intoxikation", "MDPV", "serotonergt syndrom"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Jan förs över till IVA men situationen lugnar sig. Han är nu helt fri från psykotiska symptom och tvångsvården avslutas. Han berättar att han trodde han tog något som skulle vara som amfetamin. Det visar sig att Jan var på väg att flytta till staden. Du får uppgiften att sammanställa hans tidigare vårdkontakter och du får till dig en omfattande journal från BUP och vuxenpsykiatrin. Du läser om normal graviditet, förlossning och tidig utveckling. Psykiska och sociala problem sen barndom, dåliga uppväxtförhållanden, utagerande beteende, skolk, självskadebeteende, impulsivitet, koncentrationssvårigheter, upprepade behandlingsförsök med antidepressiv behandling men dålig följsamhet. Ibland verkar Jan varit framgångsrik men sedan har han bytt intresse eller tröttnat. Han har haft en del orealistiska projekt. Det finns flera havererade förhållanden och Jan har reagerat med självdestruktiva handlingar och suicidala utspel flera gånger i samband med separationer eller inbillade separationer. Genomsnittlig begåvning vid testning i 12 års ålder.",
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vilka tre diagnoser finns anledning att misstänka utifrån ovanstående? Motivera varje diagnos för sig. Vilken är vanligast?",
+              "maxPoints": 4,
+              "hint": "Tre diagnoser med motivering, ange vanligast",
+              "facit": [
+                "ADHD: barndomsdebut, impulsivitet, hjälp av liten dos amfetamin, koncentrationssvårigheter, många relationer, verkar inte kunna fullfölja",
+                "Emotionellt instabil personlighetsstörning (EIPS/borderline): självdestruktivitet, impulsivitet, suicidala utspel, klarar inte separationer",
+                "Bipolär sjukdom: upprepade antidepressiva behandlingar, suicidalitet, perioder av bättre fungerande, perioder med orealistiska projekt",
+                "Vanligast: ADHD"
+              ],
+              "facitExplanation": "ADHD: barndomsdebut, impulsivitet, hjälp av liten dos amfetamin, koncentrationssvårigheter, många relationer, verkar inte kunna fullfölja. Emotionellt instabil personlighetsstörning (borderline): självdestruktivitet, impulsivitet, suicidala utspel, klarar inte separationer. Bipolär sjukdom: upprepade antidepressiva behandlingar, suicidalitet, perioder av bättre fungerande, perioder med orealistiska projekt. Vanligast: ADHD",
+              "tags": ["ADHD", "borderline", "bipolär sjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Jan skulle kunna ha ADHD, emotionellt instabil personlighetsstörning (EIPS, borderline) eller bipolär sjukdom (BS) eller en kombination av två eller alla tre av dessa tillstånd. Differentialdiagnostiken kan vara svår då det finns överlappningar mellan beskrivningarna av dessa tillstånd.",
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Vilken viktig anamnestisk uppgift om Jans bakgrund som skulle kunna ge vägledning saknas det information om?",
+              "maxPoints": 1,
+              "hint": "Saknad anamnestisk uppgift",
+              "facit": [
+                "Hereditet"
+              ],
+              "facitExplanation": "Hereditet",
+              "tags": ["ADHD", "psykiatri", "anamnes"]
+            },
+            {
+              "id": "3-6-2",
+              "text": "Skriv i nedanstående lista på symptom eller företeelser vid vilket av de tre tillstånden de typiskt förekommer. Specificera BS med mani/hypomani eller depression när tillämpligt. Hel- eller halvgardering ger ingen poäng. Grandiositet: / Ständig tomhetskänsla: / Svart-vitt tänkande/idealisering – nedvärdering: / Kan debutera i vuxen ålder: / Dagdrömmeri och vardaglig glömska: / Viktnedgång och morgonångest:",
+              "maxPoints": 3,
+              "hint": "Koppla symtom till rätt diagnos",
+              "facit": [
+                "Grandiositet: BS (mani)",
+                "Ständig tomhetskänsla: EIPS",
+                "Svart-vitt tänkande/idealisering – nedvärdering: EIPS",
+                "Kan debutera i vuxen ålder: BS",
+                "Dagdrömmeri och vardaglig glömska: ADHD",
+                "Viktnedgång och morgonångest: BS (depression)"
+              ],
+              "facitExplanation": "Grandiositet: BS (mani). Ständig tomhetskänsla: EIPS. Svart-vitt tänkande/idealisering – nedvärdering: EIPS. Kan debutera i vuxen ålder: BS. Dagdrömmeri och vardaglig glömska: ADHD. Viktnedgång och morgonångest: BS (depression).",
+              "tags": ["ADHD", "borderline", "bipolär sjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Information om hereditet saknas. Det visar sig efter omfattande utredningar att Jan uppfyller kriterier för alla tre diagnoserna ADHD, emotionellt instabil personlighetsstörning (EIPS) och bipolär sjukdom. För närvarande har Jan inte någon manisk eller depressiv episod.",
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "ADHD och samtidig bipolär sjukdom kan behandlas farmakologiskt. Vilken typ av medicinering är förstahandsalternativ? Motivera.",
+              "maxPoints": 1.5,
+              "hint": "Motivera förstahandsalternativ",
+              "facit": [
+                "Stämningsstabiliserande medicinering",
+                "För att förebygga nya episoder",
+                "Minska risk för att medicinering för ADHD ska provocera fram ny affektiv episod"
+              ],
+              "facitExplanation": "Stämningsstabiliserande medicinering för att förebygga nya episoder och minska risk för att medicinering för ADHD ska provocera fram ny affektiv episod.",
+              "tags": ["ADHD", "bipolär sjukdom", "psykofarmaka"]
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Jan ordineras i första hand stämningsstabiliserande medicinering för att förebygga nya episoder och minska risk för att medicinering för ADHD ska provocera fram ny affektiv episod.",
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vilka tre olika grupper av mediciner används som stämningsstabiliserande vid bipolär sjukdom?",
+              "maxPoints": 1.5,
+              "hint": "Nämn tre grupper",
+              "facit": [
+                "Litium",
+                "Antiepileptika",
+                "Neuroleptika (2:a generationen)"
+              ],
+              "facitExplanation": "Litium, antiepileptika, neuroleptika (2a generationen)",
+              "tags": ["bipolär sjukdom", "stämningsstabiliserare", "psykofarmaka"]
+            },
+            {
+              "id": "3-8-2",
+              "text": "Föreslå tre (inte fler) icke-farmakologiska behandlingar och/eller insatser som kan vara aktuella för Jan.",
+              "maxPoints": 1.5,
+              "hint": "Nämn tre icke-farmakologiska behandlingar",
+              "facit": [
+                "Psykopedagogik till patient och anhöriga",
+                "Psykosociala stödinsatser",
+                "Hjälpmedel (t.ex. kalender, white board, påminnelsefunktioner, timstock, tyngdtäcke)",
+                "Känslomässig färdighetsträning",
+                "Vardagsfunktionsmässig färdighetsträning",
+                "Psykoterapi: Kognitiv beteendeterapi (KBT) eller Dialektisk beteendeterapi (DBT)"
+              ],
+              "facitExplanation": "Psykopedagogik till patient och anhöriga. Psykosociala stödinsatser. Hjälpmedel (t ex kalender, white board, påminnelsefunktioner, timstock, tyngdtäcke). Känslomässig färdighetsträning. Vardagsfunktionsmässig färdighetsträning. Psykoterapi; Kognitiv beteendeterapi (KBT), Dialektisk beteendeterapi (DBT). Ospecifika förslag som samtal, stöd eller uppföljning ger inte poäng.",
+              "tags": ["ADHD", "bipolär sjukdom", "psykoterapi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Internmedicin",
+      "points": 20,
+      "intro": "Linda, 19 år, läser sista året på gymnasiet. Hon är tidigare frisk och tar inga mediciner eller preparat med naturligt ursprung. Den senaste tiden har hon dock haft tilltagande besvär med diarré och buksmärta och söker därför vårdcentralen där hon får träffa dig.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Ange fyra differentialdiagnoser som ter sig rimliga.",
+              "maxPoints": 1,
+              "hint": "Nämn fyra differentialdiagnoser",
+              "facit": [
+                "Infektiös gastroenterit",
+                "Inflammatorisk tarmsjukdom (IBD)",
+                "Celiaki",
+                "Irritable bowel syndrome (IBS)",
+                "Födoämnesintolerans t.ex. laktosintolerans"
+              ],
+              "facitExplanation": "Infektiös gastroenterit, inflammatorisk tarmsjukdom (IBD), celiaki, irritable bowel syndrome (IBS), födoämnesintolerans t ex laktosintolerans. Fyra av fem ovanstående för full poäng.",
+              "tags": ["IBD", "diarré", "differentialdiagnostik"]
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilka anamnestiska uppgifter vill du efterfråga mot bakgrund av de rimliga differentialdiagnoserna? Motivera.",
+              "maxPoints": 2,
+              "hint": "Motivera anamnestiska frågor",
+              "facit": [
+                "Infektion: utlandsresa, epidemiologi, snabbt insjuknande med maxsymtom vid debut, feber, kräkningar, nylig antibiotikakonsumtion",
+                "IBD: hereditet, rökning (talar för Mb Crohn)/rökstopp nyligen (talar för ulcerös kolit), successivt insjuknande, nattlig avföring, blod i avföringen",
+                "Celiaki: hereditet, successivt insjuknande, viktnedgång, association mellan symtom och innehåll i kosten (gluten, laktos)",
+                "IBS: duration >6 månader, symtom lindras av tarmtömning, förändrad tarmtömningsfrekvens, växlande avföringskonsistens, ev. psykosocial stress",
+                "Födoämnesintolerans: samband med intag av specifika födoämnen t.ex. laktos"
+              ],
+              "facitExplanation": "Infektion – utlandsresa, epidemiologi, snabbt insjuknande med maxsymtom vid debut, feber, kräkningar, nylig antibiotikakonsumtion. IBD – hereditet, rökning (talar för Mb Crohn)/rökstopp nyligen (talar för ulcerös kolit), successivt insjuknande, nattlig avföring, blod i avföringen. Celiaki – hereditet, successivt insjuknande, viktnedgång, association mellan symtom och innehåll i kosten (gluten, laktos (sekundär laktosintolerans)). IBS – duration >6 månader, symtom lindras av tarmtömning, förändrad tarmtömningsfrekvens, inte sällan växlande avföringskonsistens, ev. psykosocial stress. Födoämnesintolerans – samband med intag av specifika födoämnen t ex laktos.",
+              "tags": ["IBD", "Crohns sjukdom", "anamnes"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Linda röker 10 cigaretter per dag sedan två år tillbaka. Besvären började med värk i buken en kväll för sex veckor sedan. Hon tänkte att det var något hon ätit, men vare sig föräldrarna eller yngre brodern som ätit samma mat hade fått besvär. Hon har inte varit utomlands nyligen. Besvären har tilltagit och hon tömmer nu tarmen 6-7 gånger per dygn, varav 1-2 gånger på natten. Hon har inte sett något blod i avföringen. Sannolikt har hon gått ned något kilo i vikt. Status: Något blek. Hjärta: Regelbunden rytm, 98/min. BT: 110/70 mm Hg. Buk: Mjuk. Ömhet i vänster och höger fossa iliaca. Ingen défense. Livliga tarmljud. Per rectum: Normalfynd. Temp: 37,3° C. Laboratorieprover: kapillärt Hb 104 g/L (117-153), kapillärt LPK 10,1 x10⁹/L (3,5–8,8), kapillärt CRP 52 mg/L (<10). Du ordinerar kompletterande provtagning och bokar ett återbesök inom två veckor.",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilka kompletterande analyser ordinerar du? Motivera",
+              "maxPoints": 3,
+              "hint": "Motivera kompletterande analyser",
+              "facit": [
+                "Fullständigt blodstatus, retikulocyter, järn, transferrin, transferrinmättnad, ferritin, folat, kobalamin, F-Hb – karakteriserar anemin",
+                "Natrium, Kalium, Kreatinin – dehydrering? Elektrolytrubbning?",
+                "F-kalprotektin, avföringsodlingar/mikroskopi – infektion eller inflammatorisk tarmsjukdom?",
+                "Transglutaminasantikroppar – celiaki?"
+              ],
+              "facitExplanation": "Karakteriserar anemin – fullständigt blodstatus, retikulocyter, järn, transferrin, transferrinmättnad, ferritin, folat, kobalamin, F-Hb (1p). Dehydrering? Elektrolytrubbning? – Natrium, Kalium, Kreatinin (0,5p). Infektion eller inflammatorisk tarmsjukdom? – F-kalprotektin, avföringsodlingar/mikroskopi (1p). Celiaki? – Transglutaminasantikroppar (0,5p)",
+              "tags": ["IBD", "anemi", "provtagning"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Vid återbesöket berättar Linda att hon mår oförändrat. Provresultat: B-Hemoglobin 102 g/L (117-134), B-MCV 86 fL (82-98), B-Retikulocyter 31 x10⁹/L (22-139), B-LPK 10,2 x10⁹/L (3,5-8,8), B-TPK 398 x10⁹/L (160-390), P-Natrium 139 mmol/L (137-145), P-Kalium 3,8 mmol/L (3,5-4,4), P-Kreatinin 62 µmol/L (45-90), P-Järn 4,7 µmol/L (9-34), P-Transferrin 1,8 g/L (1,9-3,3), P-Transferrinmättnadsgrad 0,11 (0,1-0,5), P-Ferritin 39 µg/L (13-130), S-Folat 19 nmol/L (7,6-54), S-Kobalamin 110 pmol/L (180-700), S-Transglutaminas-ak (IgG) <7 U/mL (<7), F-odling allmän: ej påvisade, F-cystor/maskägg: ej påvisade, F-kalprotektin 1265 mg/kg (<50), F-Hb positiv.",
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "F-kalprotektin är förhöjt. Förklara vilka funktioner detta ämne har i kroppen. Förklara också mekanismen som ligger bakom att förhöjd halt i faeces förekommer.",
+              "maxPoints": 2,
+              "hint": "Förklara kalprotektins funktion och mekanismen bakom förhöjning",
+              "facit": [
+                "Kalprotektin är ett calcium- och zinkbindande protein i cytosolen hos framförallt neutrofila granulocyter med bakteriostatisk och fungistatisk effekt",
+                "Det stiger i faeces vid tarminflammation pga. att infiltrat av neutrofila granulocyter vid tarminflammation kommer ut i tarmlumen"
+              ],
+              "facitExplanation": "Kalprotektin är ett calcium- och zinkbindande protein i cytosolen hos framförallt neutrofila granulocyter med bakteriostatisk och fungistatisk effekt (1p). Det stiger i faeces vid tarminflammation p.g.a. att infiltrat av neutrofila granulocyter vid tarminflammation kommer ut i tarmlumen (1p).",
+              "tags": ["kalprotektin", "IBD", "tarminflammation"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Kalprotektin är ett protein i cytosolen hos framförallt neutrofila granulocyter. Ökade halter förekommer i faeces vid tarminflammation pga. att infiltrat av neutrofila granulocyter vid tarminflammation kommer ut i lumen.",
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilken undersökning gör du på vårdcentralen?",
+              "maxPoints": 0.5,
+              "hint": "Undersökning på vårdcentralen",
+              "facit": [
+                "Rektoskopi"
+              ],
+              "facitExplanation": "Rektoskopi",
+              "tags": ["rektoskopi", "IBD", "proktologi"]
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Du kompletterar utredningen på vårdcentralen med en rektoskopi. Bilden visar instrumenten: 1 = handtaget (rektoskopets handtagsdel), 2 = proktoskop, 3 = rektoskopet (tuben), 4 = mandrängen.",
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Beskriv hur du iordningsställer instrumentet innan du påbörjar rektoskopin. Utgå från bilden ovan. Om du inte vet namnet på föremålen som illustreras kan du namnge dem med motsvarande siffror i svaret.",
+              "maxPoints": 2,
+              "hint": "Beskriv iordningställande av rektoskop",
+              "facit": [
+                "Själva rektoskopet (3) monteras på handtaget (1) på motsatt sida om den öppna luckan",
+                "Därefter införs mandrängen (4) genom den öppna luckan",
+                "Instrument nr 2 är ett proktoskop och används inte vid rektoskopi"
+              ],
+              "facitExplanation": "Själva rektoskopet (3) monteras på handtaget (1) på motsatt sida om den öppna luckan. Därefter införs mandrängen (4) genom den öppna luckan. Instrument nr 2 är ett proktoskop och används inte vid rektoskopi.",
+              "tags": ["rektoskopi", "endoskopi", "teknik"]
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Vid rektoskopi upp till 14 cm ses normala förhållanden.",
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vad misstänker du att Linda drabbats av? Vad gör du härnäst?",
+              "maxPoints": 1.5,
+              "hint": "Misstanke och nästa åtgärd",
+              "facit": [
+                "I första hand misstänks inflammatorisk tarmsjukdom (IBD)",
+                "Remiss till gastroenterologisk enhet/medicinklinik utfärdas"
+              ],
+              "facitExplanation": "I första hand misstänks inflammatorisk tarmsjukdom (1p). Remiss till gastroenterologisk enhet/medicinklinik utfärdas (0,5p)",
+              "tags": ["IBD", "Crohns sjukdom", "utredning"]
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Under misstanke om inflammatorisk tarmsjukdom (IBD) remitterar du Linda till gastroenterologisk enhet där man genomför koloskopi. En bild visar markerade delar av gastrointestinalkanalen: pil 1 pekar på colon transversum, pil 2 pekar på appendix vermiformis, pil 3 pekar på ileum, en ytterligare pil pekar på colon sigmoideum.",
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Ange de latinska namnen på de markerade delarna av gastrointestinalkanalen. Vilka av dem bör endoskopisten ha som ambition att inspektera?",
+              "maxPoints": 2,
+              "hint": "Latinska namn och vilka som ska inspekteras",
+              "facit": [
+                "1: Colon transversum",
+                "2: Appendix vermiformis",
+                "3: Ileum",
+                "4: Colon sigmoideum",
+                "Colon transversum (1), Ileum (3) och Colon sigmoideum (4) bör inspekteras"
+              ],
+              "facitExplanation": "1. Colon transversum 2. Appendix vermiformis 3. Ileum 4. Colon sigmoideum. 1, 3 och 4 bör inspekteras.",
+              "tags": ["kolonoskopi", "anatomi", "IBD"]
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Vid koloskopin finner man patologiska förändringar lokaliserade till colon sigmoideum (bild 1) och terminala ileum (bild 2) medan övriga delar av den undersökta tarmslemhinnan har ett normalt makroskopiskt utseende, exemplifierat av bild 3 (colon transversum).",
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "De endoskopiska fynden talar starkt för en av de inflammatoriska tarmsjukdomarna (IBD). Vilken? Motivera. Ange också tre andra former av inflammatorisk tarmsjukdom (IBD).",
+              "maxPoints": 2,
+              "hint": "Identifiera IBD och ange tre andra former",
+              "facit": [
+                "Crohns sjukdom – makroskopiskt utseende med segmentell utbredning av patologiska förändringar, normal rektum och engagemang av distala ileum talar starkt för Crohns sjukdom",
+                "Ulcerös kolit (annan IBD)",
+                "Lymfocytär kolit (annan IBD)",
+                "Kollagen kolit (annan IBD)"
+              ],
+              "facitExplanation": "Crohns sjukdom, ulcerös kolit, lymfocytär kolit, kollagen kolit. De två sistnämnda kan det rimligen inte vara eftersom de hör till gruppen mikroskopiska koliter och i regel inte orsakar makroskopiska förändringar. Makroskopiskt utseende med segmentell utbredning av patologiska förändringar, normal rektum och engagemang av distala ileum talar starkt för Crohns sjukdom.",
+              "tags": ["Crohns sjukdom", "IBD", "endoskopi"]
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "De endoskopiska fynden är förenliga med Crohns sjukdom, vilket sedermera även histologisk undersökning av biopsier som togs i samband med koloskopin talar för.",
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Bland laboratorieproverna noteras bl a lågt S-Kobalamin. Vilken är den mest troliga orsaken bakom detta fynd?",
+              "maxPoints": 1,
+              "hint": "Trolig orsak till lågt S-Kobalamin",
+              "facit": [
+                "Upptaget av kobalamin sker i ileum",
+                "Malabsorption är trolig pga. den av inflammationen skadade slemhinnan i ileum"
+              ],
+              "facitExplanation": "Upptaget av kobalamin sker i ileum. Malabsorption är trolig pga. den av inflammationen skadade slemhinnan i ileum.",
+              "tags": ["kobalaminbrist", "malabsorption", "Crohns sjukdom"]
+            },
+            {
+              "id": "4-9-2",
+              "text": "Huruvida järnbrist föreligger är lite svårt att avgöra. Vilka av provsvaren ovan hade varit avvikande och hur hade de varit avvikande om de varit typiska för järnbrist, exempelvis vid kronisk gastrointestinal blödning?",
+              "maxPoints": 1,
+              "hint": "Provförändringar typiska för järnbrist",
+              "facit": [
+                "MCV: lågt (mikrocytär anemi)",
+                "Ferritin: lågt",
+                "Transferrin: högt",
+                "P-Järn är redan lågt (avvikande)"
+              ],
+              "facitExplanation": "Utöver att P-Järn är lågt så är MCV i regel lågt, ferritin är lågt och transferrin högt vid järnbrist.",
+              "tags": ["järnbrist", "anemi", "provtagning"]
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Upptaget av kobalamin sker i ileum. Malabsorption är trolig pga. den av inflammationen skadade slemhinnan i ileum. Vid järnbrist är i regel MCV lågt, ferritin lågt och transferrin förhöjt.",
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Vad är det som troligen medför att proverna inte är typiska för järnbrist trots att järnbrist är sannolik? Motivera.",
+              "maxPoints": 1,
+              "hint": "Motivera atypiska provsvar vid järnbrist",
+              "facit": [
+                "MCV är i regel lågt vid järnbrist men blir inom referensområdet pga. makrocytär inverkan från kobalaminbristen",
+                "Ferritin är lågt och transferrin högt vid järnbrist men akut eller kronisk inflammation har motsatt effekt på nivåerna vilket bidrar till de värden som ses hos Linda"
+              ],
+              "facitExplanation": "MCV är i regel lågt vid järnbrist men blir i detta läge inom referensområdet pga. makrocytär inverkan från kobalaminbristen. Ferritin är lågt och transferrin högt vid järnbrist men akut eller kronisk inflammation har motsatt effekt på nivåerna vilket sannolikt bidrar till de värden som ses hos Linda.",
+              "tags": ["järnbrist", "kobalaminbrist", "anemi"]
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "För att värdera utbredningen av inflammationen i tunntarmen genomförs undersökning med MR. Undersökningen visar att inflammationen i distala ileum omfattar ett ca 50 cm långt avsnitt. Linda erhåller substitutionsbehandling med järn och kobalamin. Prednisolon ges under två månader för att snabbt dämpa tarminflammationen. Dessutom rekommenderas hon starkt att sluta röka eftersom det försämrar prognosen vid Crohns sjukdom. Recidivrisken bedöms som hög varför kontinuerlig farmakologisk underhållsbehandling riktad mot inflammationen bedöms som indicerad. Bland de läkemedel som övervägs som underhållsbehandling är de s.k. biologiska läkemedlen, exempelvis infliximab.",
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Vilken är verkningsmekanismen för de flesta av de s.k. biologiska läkemedlen som används vid inflammatorisk tarmsjukdom (IBD)?",
+              "maxPoints": 1,
+              "hint": "Verkningsmekanismen för biologiska läkemedel vid IBD",
+              "facit": [
+                "De är antikroppar som binder till TNFα och hämmar därmed dess funktionella aktivitet"
+              ],
+              "facitExplanation": "De är antikroppar som binder till TNFα och hämmar därmed dess funktionella aktivitet.",
+              "tags": ["biologiska läkemedel", "IBD", "TNF-hämmare"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

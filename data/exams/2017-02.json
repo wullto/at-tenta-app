@@ -1,0 +1,896 @@
+{
+  "id": "2017-02",
+  "title": "AT-prov februari 2017",
+  "date": "2017-02-24",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Allmänmedicin",
+      "points": 20,
+      "intro": "Kajsa, 2,5 år, kommer till vårdcentralen en tisdagsmorgon. Hon kommer med sin morfar, Sven, 63 år, som är en pigg pensionär. Kajsa har varit förkyld sedan några dagar och vaknat i natt och varit ledsen och tagit sig åt vänster öra. När du undersöker Kajsa noterar du ett opåverkat allmäntillstånd och rodnad i farynx vid inspektion av munhåla och svalg. I höger öra ses en blek och retningsfri trumhinna och fyndet i vänster öra återges i bild A. Temp 38,2° C.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2017-02/page2_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilken diagnos ställer du och vilken blir din behandlingsordination? Motivera ditt val av behandlingsordination.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "akut mediaotit och aktiv expektans (dvs uppmaning att komma åter vid allmänpåverkan, tilltagande feber, smärta eller rinnande öra och föräldraråd om bl.a. smärtlindring). Grundprincipen är aktiv expektans vid akut mediaotit hos barn 1-12 år"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Kajsa, 2,5 år, kom i sällskap med sin morfar Sven till vårdcentralen en tisdagsmorgon. Kajsa hade varit förkyld sedan några dagar och hade vaknat på natten, varit ledsen och tagit sig åt vänster öra. I vänster öra sågs fynd som stödde diagnosen akut mediaotit. Du gav föräldraråd och ordinerade aktiv expektans d.v.s. du bad Kajsas morfar att Kajsa skulle återkomma vid försämring. Efter två dagar återkommer Kajsa som på natten skrikigt rejält och på nytt tagit sig åt vänster öra. Idag på förmiddagen är Kajsa glad, opåverkad och feberfri men morfar, som är med vid besöket igen, har noterat att det rinner sekret från vänster öra. När du vid dagens besök försöker inspektera trumhinnan på vänster sida lyckas du inte visualisera trumhinnan p.g.a. rikligt med tunt sekret.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilken diagnos ställer du nu och vilken åtgärd föreslår du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "perforerad mediaotit. fenoximetylpenicillin tre ggr dagligen (PcV) i 5 dygn"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Vilka är de två vanligaste bakterierna som orsakar akut mediaotit? Ange bakterierna i rätt ordning det vill säga den vanligaste bakterien först.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "vanligast är Streptococcus pneumoniae (pneumokocker) följt av Haemophilus influenzae."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Senare i veckan träffar du Kajsas morfar Sven, 63 år, som kommer för sin årliga diabeteskontroll på vårdcentralen. Han har haft typ 2-diabetes sedan 6 år tillbaka och behandlas med tablett Metformin 1g x 2. BMI 32 kg/m2, vikt 85 kg, GFR > 90 ml/min, HbA1c 68 mmol/mol. Du har rekommenderat Sven att börja med insulin i form av en-dos regim. Inför start av behandling med insulin har du bett Sven att själv kontrollera sina blodsockervärden. Faste P-glukos är 12 mmol/l och P-glukos på eftermiddagen är 10 mmol/l. Diabetessjuksköterskan, som ska hjälpa Sven att komma igång med insulinbehandlingen, har nu ett antal frågor till dig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vilken typ av insulin väljer du och när ska Sven ta sitt insulin? Vad är en lämplig startdos?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "medellångverkande NPH-insulin till kvällen/natten i dosen 4-12E. Långverkande insulinanaloger är tänkbara men onödigt dyra."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Senare i veckan träffar du Kajsas morfar Sven, 63 år, som kommer för sin årliga diabeteskontroll på vårdcentralen. Han har haft typ 2-diabetes sedan 6 år tillbaka och behandlas med tablett Metformin 1g x 2. BMI 32 kg/m2, vikt 85 kg, GFR > 90 ml/min, HbA1c 68 mmol/mol. Du har rekommenderat Sven att börja med insulin i form av en-dos regim. Inför start av behandling med insulin har du bett Sven att själv kontrollera sina blodsockervärden. Faste P-glukos är 12 mmol/l och P-glukos på eftermiddagen är 10 mmol/l. Du meddelar diabetessjuksköterskan att Sven ska börja med insulinbehandling i form av NPH-insulin till natten i dosen 6E.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Diabetessjuksköterskan undrar hur du har kommit fram till ditt val. Vad är den patofysiologiska förklaringen till ditt val av insulinregim?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sven har höga fasteglukosvärden vilket tyder på att den hepatiska glukosproduktionen kan behöva supprimeras. Då är NPH-insulin till natten ett bra val att starta med."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Slutligen undrar diabetessjuksköterskan hur Sven ska göra med behandlingen med metformin. Vad svarar du diabetessjuksköterskan? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fortsätter med metformin som tidigare. Kombinationen metformin och insulin kan ha synergistiska effekter vid typ 2-diabetes. Metformin orsakar inte hypoglykemier."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Sven har typ 2-diabetes, som initialt behandlats med metformin. När han påbörjade behandling med NPH-insulin blev glukoskontrollen bättre.\n\nDu träffar Sven på nytt efter fem år och Sven är nu 68 år. Han har under denna femårsperiod haft en PCI-behandlad hjärtinfarkt, utvecklat hypertoni, nedsatt njurfunktion (GFR 45 ml/min) och en proliferativ retinopati. BMI är 32 kg/m2 Han har dessutom ett smärtsamt fotsår som inte läker sedan 6 månader och som visas i bild B. Såret är beläget lateralt strax proximalt om dig 5 vänster fot. Det framkommer att han tidigare fått flera antibiotikakurer men aldrig blivit helt bra.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Ange tre sannolika orsaker till nedsatt sårläkning hos denna patient.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-02/page6_img1.jpeg",
+              "facit": [
+                "Arteriell insufficiens, venös insufficiens, neuropati, djup infektion/osteit, dålig metabol kontroll"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Ange tre relevanta saker i status som du fokuserar på vid din undersökning av patienten.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektion (deformitet/tryckbelastning, infektionstecken, behåring, svullnad), vibrationssinne, monofilament, pulsar"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-3",
+              "text": "Ange totalt fyra undersökningar alternativt laboratorieprover som är relevanta för att leda din utredning vidare.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Laboratorieprover: Sårodling, HbA1c, SR/CRP, Blodstatus, Undersökningar: rtg med osteitfrågeställning, tåtrycksmätning/ankeltrycksmätning, (CT angio, duplex)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Sven har typ 2-diabetes, som under många år behandlats med insulin. Han har en tidigare hjärtinfarkt, hypertoni, nedsatt njurfunktion med GFR 45 ml/min och en proliferativ retinopati i anamnesen. Nästa gång du träffar Sven har han hunnit bli 76 år då han inkommer till vårdcentralen med feber (38,5° C). Han är förvirrad och lätt desorienterad till både tid och rum. Han är svårundersökt på grund av motorisk oro och du ser att han har kissat på sig. Vid palpation och perkussion av buken anar du en utfyllnad i nedre delen där han också spänner emot vid palpation. I övrigt inget anmärkningsvärt i status. Man har försökt hjälpa Sven att kasta vatten, men han har problem med att tömma blåsan. Utöver ett antal blodprover som du ordinerar, så bestämmer du dig för att göra en ultraljudsundersökning av blåsan, en så kallad bladderscan. Resultatet ser du på bilden nedan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vad visar undersökningen (dvs vad säger siffran dig och vad visar figurerna)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-02/page7_img1.jpeg",
+              "facit": [
+                "Undersökningen visar uttalad residualurin på drygt 800 ml. Figurerna visar att blåsan i två plan befinner sig inom ultraljudsprobens ”sökområde” och att undersökningen är adekvat utförd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Ange det sannolika tillståndet i nedre buken som han uppvisar och redogör för den bakomliggande patogenesen.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sven har en överfyllnadsinkontinens. Blåsan kan inte tömma sig och avflödeshinder, t.ex. prostataförstoring, är den vanligaste orsaken hos män. När blåstrycket överstiger sfinkterns tryck uppstår urinläckage. I detta fall har patienten en känd mångårig diabetes mellitus som kan orsaka en autonom neuropati och en detrusorunderaktivitet"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-3",
+              "text": "Vilken är din första åtgärd för att hjälpa Sven?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "sätta KAD"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Internmedicin",
+      "points": 20,
+      "intro": "Du är medicinjour på sjukhuset där du tjänstgör som AT-läkare. Det är tisdag och klockan är 15.00 då det kommer ett larm från ambulansen om att man är på väg in till sjukhuset med en medvetandesänkt man, Christer, 59 år. Hans sambo larmade ambulans efter att ha kommit hem och hittat Christer i ett eländigt tillstånd. Ambulansen anländer några minuter senare. Ambulansmännen rapporterar att man fann Christer liggande på soffan i bara underkläderna. Att döma av flera urdruckna flaskor i lägenheten tycks Christer ha konsumerat större mängder alkohol. Du konstaterar genom inspektion att det rör sig om en spensligt byggd man utan tecken till yttre trauma. Patienten är inte väckbar, men gör avvärjningsrörelser. Han spontanandas med andningsfrekvens 12/min och har palpabel puls. Undersköterskan rapporterar att blodtrycket är 108/66 mmHg, temperaturen 36,5° C och syremättnaden 92 %. Sjuksköterskan har kopplat telemetriövervakning, där du ser sinusrytm 98/min och till synes normala QRS-komplex och T-vågor. Sjuksköterskan har också satt perifer infart och är nu i färd med att förbereda för att ta blodprover och frågar dig om vilka analyser du önskar ska genomföras. Du redogör för vilka analyser du önskar ska genomföras och säger också att ett prov är prioriterat och att du önskar svar snarast.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilken analys (blodprov) är högst prioriterad i denna situation?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Då man möter en medvetslös patient är diagnostik och elimination av eventuell hypoglykemi den väsentliga åtgärden vid sidan av säkerställande av respiration och cirkulation. Med nuvarande snabbmetoder kan information om P- glukos erhållas omgående."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du är medicinjour på sjukhuset där du tjänstgör som AT-läkare. Det är tisdag och klockan är 15.00 då det kommer ett larm från ambulansen om att man är på väg in till sjukhuset med en medvetandesänkt man, Christer, 59 år. Hans sambo larmade ambulans efter att ha kommit hem och hittat Christer i ett eländigt tillstånd. Ambulansen anländer några minuter senare. Ambulansmännen rapporterar att man fann Christer liggande på soffan i bara underkläderna. Att döma av flera urdruckna flaskor i lägenheten tycks Christer ha konsumerat större mängder alkohol. Du konstaterar genom inspektion att det rör sig om en spensligt byggd man utan tecken till yttre trauma. Patienten är inte väckbar, men gör avvärjningsrörelser. Han spontanandas med andningsfrekvens 12/min och har palpabel puls. Undersköterskan rapporterar att blodtrycket är 108/66 mmHg, temperaturen 36,5° C och syremättnaden 92 %. Sjuksköterskan har kopplat telemetriövervakning, där du ser sinusrytm 98/min och till synes normala QRS-komplex och T-vågor. Sjuksköterskan har också satt perifer infart och är nu i färd med att förbereda för att ta blodprover och frågar dig om vilka analyser du önskar ska genomföras. Sjuksköterskan tar först P-Glukos kapillärt och rapporterar värdet 1,7 mmol/L. Mot bakgrund av detta ordinerar du omedelbar behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Ange i detalj vilken ordination du förmedlar till sjuksköterskan.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Injektion Glukos 300 mg/mL (1p) intravenöst i volymen 30–50 mL (1p) (kan behöva upprepas), tills P-glukos normaliserats (>4 mmol/L) eller patienten vaknat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du är medicinjour på sjukhuset där du tjänstgör som AT-läkare. Det är tisdag och klockan är 15.00 då det kommer ett larm från ambulansen om att man är på väg in till sjukhuset med en medvetandesänkt man, Christer, 59 år. Hans sambo larmade ambulans efter att ha kommit hem och hittat Christer i ett eländigt tillstånd. Ambulansen anländer några minuter senare. Ambulansmännen rapporterar att man fann Christer liggande på soffan i bara underkläderna. Att döma av flera urdruckna flaskor i lägenheten tycks Christer ha konsumerat större mängder alkohol. Du konstaterar genom inspektion att det rör sig om en spensligt byggd man utan tecken till yttre trauma. Patienten är inte väckbar, men gör avvärjningsrörelser. Han spontanandas med andningsfrekvens 12/min och har palpabel puls. Undersköterskan rapporterar att blodtrycket är 108/66 mmHg, temperaturen 36,5° C och syremättnaden 92 %. Sjuksköterskan har kopplat telemetriövervakning, där du ser sinusrytm 98/min och till synes normala QRS-komplex och T-vågor. Sjuksköterskan har också satt perifer infart och är nu i färd med att förbereda för att ta blodprover och frågar dig om vilka analyser du önskar ska genomföras. Sjuksköterskan tar först P-Glukos kapillärt och rapporterar värdet 1,7 mmol/L. Du ordinerar injektion Glukos 300 mg/mL. Efter tillförsel av 30 mL upphör patientens medvetandesänkning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "I denna situation kan behandling enligt ovan medföra en mycket negativ konsekvens. Vilken? Hur minskar du risken för denna negativa konsekvens?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Brist på tiamin (vitamin B1) är vanligt förekommande vid alkoholmissbruk och ökar risken för Wernicke-Korsakoffs syndrom (1p), som kan ge svår invaliditet i form av minnesstörning och motoriska rubbningar, speciellt då parenteralt glukos tillförs utan föregående eller samtidig tillförsel av tiamin. Tiamin (1p) (licenspreparatet Vitamin B1-Ratiopharm eller Neurobion) måste normalt ges före intravenös tillförsel av glukos när Wernicke-Korsakoffs syndrom misstänks. I detta fall kan dock behandling av hypoglykemi inte anstå och tiamin får ges så fort hypoglykemin eliminerats."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Vid inspektion av hudkostymen ses över buken fynd enligt Bild A. På multipla ställen över bålen ses fynd enligt Bild B.\n\nDu är medicinjour på sjukhuset där du tjänstgör som AT-läkare. Det är tisdag och klockan är 15.00 då det kommer ett larm från ambulansen om att man är på väg in till sjukhuset med en medvetandesänkt man, Christer, 59 år. Hans sambo larmade ambulans efter att ha kommit hem och hittat Christer i ett eländigt tillstånd. Ambulansen anländer några minuter senare. Ambulansmännen rapporterar att man fann Christer liggande på soffan i bara underkläderna. Att döma av flera urdruckna flaskor i lägenheten tycks Christer ha konsumerat större mängder alkohol. Du konstaterar genom inspektion att det rör sig om en spensligt byggd man utan tecken till yttre trauma. Patienten är inte väckbar, men gör avvärjningsrörelser. Han spontanandas med andningsfrekvens 12/min och har palpabel puls. Undersköterskan rapporterar att blodtrycket är 108/66 mmHg, temperaturen 36,5° C och syremättnaden 92 %. Sjuksköterskan har kopplat telemetriövervakning, där du ser sinusrytm 98/min och till synes normala QRS-komplex och T-vågor. Sjuksköterskan har också satt perifer infart och är nu i färd med att förbereda för att ta blodprover och frågar dig om vilka analyser du önskar ska genomföras. Sjuksköterskan tar först P-Glukos kapillärt och rapporterar värdet 1,7 mmol/L. Du ordinerar injektion Glukos 300 mg/mL intravenöst i volymen 30 mL varvid patientens medvetandesänkning upphör. Parenteral tillförsel av glukos ökar i denna situation risken för Wernicke-Korsakoffs syndrom, som kan ge svår invaliditet i form av minnesstörning och motoriska rubbningar. Du ordinerar därför också parenteral tillförsel av tiamin så fort hypoglykemin eliminerats. Christer är nu vaken och det framkommer att han sedan 12 år tillbaka behandlas med Enalapril hydrochlorothiazide 20 mg/12,5 mg 1 x 1 pga. hypertoni. I övrigt tar han inga mediciner eller hälsokostpreparat. Han appendektomerades i tonåren och har genom åren också vårdats på sjukhus i samband med diverse skador och olyckshändelser. Fram tills för två månader sedan arbetade han som bilmekaniker men den lilla firman gick i konkurs och Christer blev arbetslös, något som har tagit honom hårt. Som en konsekvens av detta har han de senaste månaderna tyckt att allt är meningslöst, ätit dåligt och konsumerat öl och sprit dagligen. Överkonsumtion av alkohol har förekommit i perioder under många år men inte så pass uttalat som de senaste månaderna. Status AT: Antytt ikteriska sclerae. Alkoholdoftande. Hjärta: Regelbunden rytm, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning vid perkussion. BT: 112/70 mmHg. Buk: Mjuk, oöm. Omfångsökad, inga säkra resistenser. Flankdämpning bilateralt. Avlägsna tarmljud. PR: Normalfynd. Neurologi: RLS 1. Ögonrörelser och pupillreaktioner normala. Reflexer sidlika i övre och nedre extremiteter. Grov kraft och sensibilitet normala. Babinskis tecken saknas bilateralt. EKG: Sinusrytm, 88/min, höga QRS-amplituder över framväggen. I övrigt invändningsfritt. SaO2: 95 %",
+          "contextImageUrl": "/images/exams/2017-02/page12_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Hur benämns fynden i Bild A resp. Bild B? Redogör också för de bakomliggande patofysiologiska mekanismerna till uppkomst av respektive förändring.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-02/page12_img2.jpeg",
+              "facit": [
+                "A – Caput medusae (0,5p). Uppkommer vid portal hypertension (0,5p) till följd av försvårat venöst avflöde från och/eller ökat tillflöde av blod till splanknikuskärlbädden. B - Spider naevus (0,5p). Vasodilatation i kutana arterioli. Anses uppkomma till följd av hyperöstrogenemi (0,5p), exempelvis vid cirros."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Mot bakgrund av vad som hittills framkommit, förklara de mekanismer som mest sannolikt varit involverade vid uppkomst av hypoglykemi hos Christer.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fynden i status (ascites, caput medusae, spider naevi och trolig icterus) tyder på förekomst av cirros – leversvikt (0,5p). Hepatocyterna har en viktig funktion i upprätthållande av normoglykemi genom sin förmåga att utsöndra glukos till cirkulationen. Vid exempelvis fasta och/eller malnutrition (sannolik hos Christer) kan hepatocyterna genom glykogenolys och glukoneogenes (0,5p) bilda glukos. Denna förmåga nedsätts vid sviktande hepatocytär funktion. Alkohol (etanol) har en särskild benägenhet att utlösa hypoglykemi (0,5p). Vid metabolism av etanol i hepatocyterna ökar kvoten NADH/NAD+ (0,5p) vilket inhiberar glukoneogenesen. (Det finns också belägg för att etanol ökar blodflödet i Langerhans cellöar och stimulerar sekretionen av insulin)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du är medicinjour på sjukhuset där du tjänstgör som AT-läkare. Det är tisdag och klockan är 15.00 då det kommer ett larm från ambulansen om att man är på väg in till sjukhuset med en medvetandesänkt man, Christer, 59 år. Ambulansmännen rapporterar att man fann Christer liggande på soffan i bara underkläderna. Att döma av flera urdruckna flaskor i lägenheten tycks Christer ha konsumerat större mängder alkohol. Du konstaterar genom inspektion att det rör sig om en spensligt byggd man utan tecken till yttre trauma. Patienten är inte väckbar, men gör avvärjningsrörelser. Han spontanandas med andningsfrekvens 12/min och har palpabel puls. Blodtrycket är 108/66 mmHg, temperaturen 36,5° C och syremättnaden 92 %. På telemetriövervakning ser du sinusrytm 98/min och till synes normala QRS-komplex och T-vågor. Sjuksköterskan tar först P-Glukos kapillärt och rapporterar värdet 1,7 mmol/L. Du ordinerar injektion Glukos 300 mg/mL intravenöst i volymen 30 mL varvid patientens medvetandesänkning upphör. Du ordinerar också parenteral tillförsel av tiamin. Christer är nu vaken och det framkommer att han sedan 12 år tillbaka behandlas med Enalapril hydrochlorothiazide 20 mg/12,5 mg 1 x 1 pga. hypertoni. I övrigt tar han inga mediciner eller hälsokostpreparat. Han appendektomerades i tonåren och har genom åren också vårdats på sjukhus i samband med diverse skador och olyckshändelser. Fram tills för två månader sedan arbetade han som bilmekaniker men är nu arbetslös, något som har tagit honom hårt. Som en konsekvens av detta har han de senaste månaderna tyckt att allt är meningslöst, ätit dåligt och konsumerat öl och sprit dagligen. Överkonsumtion av alkohol har förekommit i perioder under många år men inte så pass uttalat som de senaste månaderna.   AT: RLS 1. Antytt ikteriska sclerae. Alkoholdoftande. Hjärta: Regelbunden rytm, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning vid perkussion. BT: 112/70 mmHg. Buk: Mjuk, oöm. Omfångsökad, inga säkra resistenser. Flankdämpning bilateralt. Avlägsna tarmljud. PR: Normalfynd. Neurologi: RLS 1. Ögonrörelser och pupillreaktioner normala. Reflexer sidlika i övre och nedre extremiteter. Grov kraft och sensibilitet normala. Babinskis tecken saknas bilateralt. EKG: Sinusrytm, 88/min, höga QRS-amplituder över framväggen. I övrigt invändningsfritt. SaO2: 95 % Du bedömer att hypoglykemin utlösts av leversvikt i kombination med intag av alkohol. Efter behandling är P-Glukos 4,7 mmol/L. KAD sätts varvid det tömmer sig 100 mL urin. Svar på övriga blodprover har nu anlänt. Analys Resultat Referens B-Hemoglobin 132 134-170 g/L B-LPK 4,3 3,5-8,8 x109//L B-TPK 92 140-350 x109//L P-Natrium 134 137-145 mmol/L P-Kalium 4,9 3,5-4,4 mmol/L P-Kreatinin 198 70-115 µmol/L\n\nP-Troponin T 9 <15 ng/L P-Albumin 31 36-45 g/L P-Bilirubin 62 <26 µmol/L P-Bilirubin, konj 47 <4 µmol/L P-ALP 1,6 0,6-1,8 µkat/L P-ASAT 2,9 <0,76 µkat/L P-ALAT 1,4 <1,2 µkat/L P-GT 12 <2,0 µkat/L P-Amylas 0,30 0,15-1,10 µkat/L P-PK (INR) 1,5 0,8-1,2 P-CRP 12 <10 mg/L P-Etanol 20 mmol/L P-Metanol Ej påvisbart P-Paracetamol Ej påvisbart\n\nEfter samråd med din bakjour ordnar du med inläggning av patienten på internmedicinsk vårdavdelning. Du skriver också remiss till bilddiagnostisk undersökning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilken undersökning skriver du remiss till? Motivera. Ange också dina frågeställningar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ultraljud buk. (0,5p) DT buk med kontrast är olämpligt pga. nedsatt njurfunktion Ascites? (omfångsökad buk med flankdämpning), Vidgade gallvägar/fokala leverförändringar? (patologiska leverprover inkl. icterus), Trombos i v. porta eller vv.hepaticae? (statusfynd tydande på portal hypertension), Atrofiska njurar eller tecken till postrenalt hinder? (förhöjt kreatinin), Tecken till pankreatit/pankreascysta? (alkoholmissbruk, ascites), Tecken till cirros? (0,5p per korrekt frågeställning)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Christer, 59 år, har hittats i medvetandesänkt tillstånd. Att döma av flera urdruckna flaskor i lägenheten tycks Christer ha konsumerat större mängder alkohol. På akutmottagningen är han inte väckbar, men gör avvärjningsrörelser. Han spontanandas och har palpabel puls. Blodtrycket är 108/66 mmHg, temperaturen 36,5° C och syremättnaden 92 %. Telemetri visar sinusrytm 98/min och normala QRS-komplex och T-vågor. Sjuksköterskan tar först P-Glukos kapillärt och rapporterar värdet 1,7 mmol/L. Du ordinerar Injektion Glukos 300 mg/mL intravenöst i volymen 30 mL varvid patientens medvetandesänkning upphör. Du ordinerar också parenteral tillförsel av tiamin. Christer är nu vaken och det framkommer att han sedan 12 år tillbaka behandlas med Enalapril hydrochlorothiazide 20 mg/12,5 mg 1 x 1 pga. hypertoni. I övrigt tar han inga mediciner eller hälsokostpreparat. Han appendektomerades i tonåren och har genom åren också vårdats på sjukhus i samband med diverse skador och olyckshändelser. Han har nyligen blivit arbetslös, något som har tagit honom hårt. Som en konsekvens av detta har han de senaste månaderna tyckt att allt är meningslöst, ätit dåligt och konsumerat öl och sprit dagligen. Överkonsumtion av alkohol har förekommit i perioder under många år men inte så pass uttalat som de senaste månaderna.   AT: RLS 1. Antytt ikteriska sclerae. Alkoholdoftande. Hjärta: Regelbunden rytm, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning vid perkussion. BT: 112/70 mmHg. Buk: Mjuk, oöm. Omfångsökad, inga säkra resistenser. Flankdämpning bilateralt. Avlägsna tarmljud. PR: Normalfynd. Neurologi: RLS 1. Ögonrörelser och pupillreaktioner normala. Reflexer sidlika i övre och nedre extremiteter. Grov kraft och sensibilitet normala. Babinskis tecken saknas bilateralt. EKG: Sinusrytm, 88/min, höga QRS-amplituder över framväggen. I övrigt invändningsfritt. SaO2: 95 %. Du bedömer att hypoglykemin utlösts av leversvikt i kombination med intag av alkohol. Efter behandling är P-Glukos 4,7 mmol/L. KAD sätts varvid det tömmer sig 100 mL urin. Svar på övriga blodprover har nu anlänt. Analys Resultat Referens B-Hemoglobin 132 134-170 g/L B-LPK 4,3 3,5-8,8 x109/L B-TPK 92 140-350 x109//L P-Natrium 134 137-145 mmol/L P-Kalium 4,9 3,5-4,4 mmol/L P-Kreatinin 198 70-115 µmol/L P-Troponin T 9 <15 ng/L P-Albumin 31 36-45 g/L P-Bilirubin 62 <26 µmol/L P-Bilirubin, konj 47 <4 µmol/L P-ALP 1,6 0,6-1,8 µkat/L P-ASAT 2,9 <0,76 µkat/L P-ALAT 1,4 <1,2 µkat/L P-GT 12 <2,0 µkat/L\n\nP-Amylas 0,30 0,15-1,10 µkat/L P-PK (INR) 1,5 0,8-1,2 P-CRP 12 <10 mg/L P-Etanol 20 mmol/L P-Metanol Ej påvisbart P-Paracetamol Ej påvisbart\n\nEfter samråd med din bakjour ordnar du med inläggning av patienten på internmedicinsk vårdavdelning. Du skriver också remiss till bilddiagnostisk undersökning. Ultraljud buk påvisar måttliga mängder ascites. Leverparenkymet är högekogent som vid steatos och har antytt oregelbunden struktur. Inga fokala förändringar i levern. Öppetstående v. porta och vv. hepaticae. Normalvida gallvägar. Gallblåsan innehåller ett 8 mm stort konkrement. Mjälten är måttligt förstorad. Kollateraler ses paraumbilikalt. Inga patologiska förändringar påvisas i pankreas och njurar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Mot bakgrund av vad som hittills framkommit, vilka orsaker bedömer du kan ha bidragit till patientens försämrade njurfunktion?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienter med cirros/leversvikt och ascites har nedsatt cirkulerande blodvolym och är mycket känsliga för hypovolemi (0,5p). Utveckling av akut tubulär nekros sekundärt till hypovolemi är den vanligaste orsaken till sviktande njurfunktion i dessa fall. Behandling med Enalapril hydrochlorothiazide har med stor sannolikhet bidragit (1p). Preparatet måste sättas ut i detta läge.  En annan orsak kan vara hepatorenalt syndrom (0,5p). Denna diagnos kan dock inte ställas i nuläget innan ovanstående faktorer eliminerats."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Efter inläggning på avdelning fattas beslut om att behandla patientens ascites. Vilken behandling är lämplig att ordinera? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandling med diuretika är kontraindicerad i denna situation. Lämplig behandling är laparocentes (1p) i kombination med intravenös tillförsel av albumin (1p), det senare för att öka den intravasala volymen vilket i kombination med utsättning av Enalapril hydrochlorothiazide kan förväntas förbättra njurfunktionen och minska tendensen till uppkomst av ascites."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Christer, 59 år, inkommer medvetandesänkt i ambulans till akutmottagningen. Hypoglykemi diagnostiseras och behandlas. Du bedömer att hypoglykemin utlösts av leversvikt i kombination med intag av alkohol. Du ordinerar också parenteral tillförsel av tiamin. Christer är nu vaken och det framkommer att han sedan 12 år tillbaka behandlas med Enalapril hydrochlorothiazide 20 mg/12,5 mg 1 x 1 pga. hypertoni. Fram tills för två månader sedan arbetade han som bilmekaniker men är nu arbetslös, något som har tagit honom hårt. Som en konsekvens av detta har han de senaste månaderna tyckt att allt är meningslöst, ätit dåligt och konsumerat öl och sprit dagligen. Överkonsumtion av alkohol har förekommit i perioder under många år men inte så pass uttalat som de senaste månaderna.   AT: RLS 1. Antytt ikteriska sclerae. Alkoholdoftande. Hjärta: Regelbunden rytm, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning vid perkussion. BT: 112/70 mmHg. Buk: Mjuk, oöm. Omfångsökad, inga säkra resistenser. Flankdämpning bilateralt. Avlägsna tarmljud. PR: Normalfynd. Neurologi: RLS 1. Ögonrörelser och pupillreaktioner normala. Reflexer sidlika i övre och nedre extremiteter. Grov kraft och sensibilitet normala. Babinskis tecken saknas bilateralt. EKG: Sinusrytm, 88/min, höga QRS- amplituder över framväggen. I övrigt invändningsfritt. SaO2: 95 %. Efter behandling är P-Glukos 4,7 mmol/L. Svar på övriga blodprover har nu anlänt. B-Hemoglobin 132 (134-170 g/L), B-Leukocyter 4,3 (3,5–8,8 x109/L), B-Trombocyter 92 (140-350 x109/L), P-Natrium 134 (137-145 mmol/L), P-Kalium 4,9 (3,5–4,4 mmol/L), P-Kreatinin 198 (70-115 μmol/L), P-Troponin T 9 (<15 ng/L), P-Albumin 31 (36-45 g/L), P-Bilirubin 62 (<26 μmol/L), P-Bilirubin, konjugerat 47 (<4 μmol/L), P- ALP 1,6 (0,6-1,8 μkat/L), P-ASAT 2,9 (<0,76 μkat/L), P-ALAT 1,4 (<1,2 μkat/L), P- GT 12 (<2,0 μkat/L), P-Amylas 0,30 (0,15–1,10 μkat/L), P-PK (INR) 1,5 (0,8-1,2), P- CRP 12 (<10 mg/L), P-Etanol 20 mmol/L, P-Metanol ej påvisbart, P-Paracetamol ej påvisbart. Efter samråd med din bakjour ordnar du med inläggning av patienten på internmedicinsk vårdavdelning. Ultraljud buk påvisar måttliga mängder ascites. Leverparenkymet är högekogent som vid steatos och har antytt oregelbunden struktur. Inga fokala förändringar i levern. Öppetstående v. porta och vv. hepaticae. Normalvida gallvägar. Gallblåsan innehåller ett 8 mm stort konkrement. Mjälten är måttligt förstorad. Kollateraler ses paraumbilikalt. Inga patologiska förändringar påvisas i pankreas och njurar. Enalapril hydrochlorothiazide seponeras. Albumin ges intravenöst och laparocentes genomförs. Sammanlagt tömmer det sig 6 liter klar, halmgul vätska.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Vilka analyser är rimligt att utföra på ascitesvätskan? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Asc-Leukocyter, Asc-odling (1p)- Infektion? (spontan bakteriell peritonit kan uppkomma vid cirros och är förenat med hög mortalitet om det inte diagnostiseras och behandlas). Även om det mesta talar för att orsaken till ascites är cirros rör det sig om ett förstagångsinsjuknande och därför bör man utesluta annan genes. Man bör därför analysera Asc-Albumin eller Asc-Protein (0,5p) (transudat eller exsudat?) och cytologi (0,5p) (malignitet?)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Christer är nu vaken och det framkommer att han sedan 12 år tillbaka behandlas med Enalapril hydrochlorothiazide 20 mg/12,5 mg 1 x 1 pga. hypertoni. Fram tills för två månader sedan arbetade han som bilmekaniker men är nu arbetslös, något som har tagit honom hårt. Som en konsekvens av detta har han de senaste månaderna tyckt att allt är meningslöst, ätit dåligt och konsumerat öl och sprit dagligen. Överkonsumtion av alkohol har förekommit i perioder under många år men inte så pass uttalat som de senaste månaderna.   AT: RLS 1. Antytt ikteriska sclerae. Alkoholdoftande. Hjärta: Regelbunden rytm, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning vid perkussion. BT: 112/70 mmHg. Buk: Mjuk, oöm. Omfångsökad, inga säkra resistenser. Flankdämpning bilateralt. Avlägsna tarmljud. PR: Normalfynd. Neurologi: RLS 1. Ögonrörelser och pupillreaktioner normala. Reflexer sidlika i övre och nedre extremiteter. Grov kraft och sensibilitet normala. Babinskis tecken saknas bilateralt. EKG: Sinusrytm, 88/min, höga QRS- amplituder över framväggen. I övrigt invändningsfritt. SaO2: 95 %. Efter behandling är P-Glukos 4,7 mmol/L. Svar på övriga blodprover har nu anlänt. B-Hemoglobin 132 (134-170 g/L), B-Leukocyter 4,3 (3,5–8,8 x109/L), B-Trombocyter 92 (140-350 x109/L), P-Natrium 134 (137-145 mmol/L), P-Kalium 4,9 (3,5–4,4 mmol/L), P-Kreatinin 198 (70-115 μmol/L), P-Troponin T 9 (<15 ng/L), P-Albumin 31 (36-45 g/L), P-Bilirubin 62 (<26 μmol/L), P-Bilirubin, konjugerat 47 (<4 μmol/L), P- ALP 1,6 (0,6-1,8 μkat/L), P-ASAT 2,9 (<0,76 μkat/L), P-ALAT 1,4 (<1,2 μkat/L), P- GT 12 (<2,0 μkat/L), P-Amylas 0,30 (0,15–1,10 μkat/L), P-PK (INR) 1,5 (0,8-1,2), P- CRP 12 (<10 mg/L), P-Etanol 20 mmol/L, P-Metanol ej påvisbart, P-Paracetamol ej påvisbart. Efter samråd med din bakjour ordnar du med inläggning av patienten på internmedicinsk vårdavdelning. Ultraljud buk påvisar måttliga mängder ascites. Leverparenkymet är högekogent som vid steatos och har antytt oregelbunden struktur. Inga fokala förändringar i levern. Öppetstående v. porta och vv. hepaticae. Normalvida gallvägar. Gallblåsan innehåller ett 8 mm stort konkrement. Mjälten är måttligt förstorad. Kollateraler ses paraumbilikalt. Inga patologiska förändringar påvisas i pankreas och njurar. Enalapril hydrochlorothiazide seponeras. Albumin ges intravenöst och laparocentes genomförs. Sammanlagt tömmer det sig 6 liter klar, halmgul vätska. Odling från ascites påvisar inga mikroorganismer. Cytologi påvisar inga maligna celler och Asc-Leukocyter är inte förhöjt. Asc-Albumin är 12 g/L. Det rör sig således om ett transudat vilket är förenligt med att cirros är den bakomliggande orsaken. Christer bedöms av dietist och erhåller adekvat nutrition. Behandling mot alkoholabstinens ges. Bedömning av psykiater görs och man kommer överens om poliklinisk uppföljning via beroendekliniken. Efter en veckas vårdtid är Christer pigg. Elektrolyter och kreatinin har normaliserats och leverproverna har förbättrats påtagligt. Det är dags för utskrivning. Poliklinisk uppföljning planeras även via medicinmottagningen. För att motverka recidiv av ascites kommer Christer de närmaste månaderna att medicinera med Spironolakton.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Hur motverkar spironolakton ascites?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid cirros med portal hypertension föreligger vasodilatation vilket bl a medför nedsatt renal perfusion. Kompensatoriskt sker ökad utsöndring av aldosteron varvid njurarna ökar reabsorptionen av natrium och vatten med följd av tendensen till att bilda ascites ökar. Spironolakton motverkar detta eftersom det är en aldosteronantagonist. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "I samband med utskrivningen överenskommes också om att Christer i samband med framtida uppföljning ska genomgå ytterligare undersökningar för att tidigt spåra komplikationer till cirros.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-2",
+              "text": "Vilka undersökningar, utöver status och laboratorieprover, är lämpliga att med regelbundna intervall genomföra hos Christer vid den framtida uppföljningen? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blödande varicer (0,5p) i esofagus och/eller ventrikeln är en fruktad komplikation vid cirros. Effektiv profylaktisk behandling finns. Av denna anledning bör gastroskopi (0,5p) göras. Risken för uppkomst av hepatocellulär cancer (0,5p) är påtagligt ökad vid cirros. Vid tidig upptäckt finns kurativ behandling. Screening med regelbundna ultraljudsundersökningar (0,5p) är därför motiverade om patienten kan bli föremål för kurativt syftande behandling vid eventuell upptäckt av hepatocellulär cancer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Psykiatri",
+      "points": 20,
+      "intro": "Du arbetar som AT-läkare på en vårdcentral. Elsa, 40 år, har blivit uppsatt på ett besök utifrån frågeställningen: alkoholproblem? I journalen framgår att det finns flera tidigare kontakter genom åren som ibland föranlett sjukskrivningar. Det finns ingen tidigare alkoholrelaterad diagnos. Det visar sig att Elsas mor, i samråd med Elsa, bokat besöket utifrån oro för dotterns alkoholkonsumtion. Elsa är arbetslös, ensamstående och har ett tonårsbarn.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Du ber sköterskan förbereda besöket genom att låta Elsa i förväg fylla i ett av WHO framtaget och validerat frågeformulär för att snabbare kunna värdera alkoholkonsumtionen. Vilket?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "AUDIT"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Formuläret ger en sammanräknad poängsumma utifrån frågor som täcker skilda aspekter på utveckling av riskfylld eller skadlig alkoholkonsumtion. Nämn tre.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "frekvens, mängd, beroendetecken, alkoholrelaterade skador"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Elsa är på vårdcentralen utifrån moderns oro för hennes alkoholkonsumtion. Sköterskan har delat ut ett AUDIT-formulär i förväg men Elsa har inte fyllt i några svar eftersom hon bara dricker cider och det finns inte med på blanketten. Det är svårt att ta en anamnes då Elsa verkar misstolka frågorna men samtidigt ger ett ärligt intryck. I psykiskt status noterar du bristande ögonkontakt, bristande emotionell kontakt och att hon har svårt att hålla sig till ämnet. Efter en stunds diskussion kommer du fram till att Elsa dricker 2-4 burkar à 33 cl cider med 5 % alkoholhalt 4-5 gånger i veckan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Hur värderar du alkoholkonsumtionen utifrån risk för beroende och skador? Motivera ditt svar. (2p) Ni kommer överens om att Elsa ska komma på ett nytt besök redan efter ett par veckor för att kunna få mer och bättre underlag för diagnostik och vidare handläggning. Du hinner kort informera Elsa om hur du värderar hennes alkoholkonsumtion och ber henne lämna prover inför nästa besök.  Du informerar henne också att prov för att värdera alkoholkonsumtionen kommer att tas.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Riskkonsumtion, högriskkonsumtion. En burk cider 5 % utgör ett standardglas alkohol (ca 12 gram alkohol). För kvinnor anses nio standardglas (108 gram alkohol) per vecka innebära riskkonsumtion och 15 standardglas (180 gram alkohol) innebära högriskkonsumtion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Med vilken biomarkör kan du via blodprov med god sensitivitet och mycket hög specificitet värdera de senaste veckornas alkoholkonsumtion?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "PEth (fosfatidyletanol), (CDT ger 0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Elsa är på vårdcentralen utifrån moderns oro för hennes alkoholkonsumtion. Sköterskan har delat ut ett AUDIT-formulär i förväg men Elsa har inte fyllt i några svar eftersom hon bara dricker cider och det finns inte med på blanketten. AUDIT kartlägger aspekterna frekvens, mängd, beroendetecken och alkoholrelaterade skador. Det är svårt att ta en anamnes då Elsa verkar misstolka frågorna men samtidigt ger ett ärligt intryck. I psykiskt status noterar du bristande ögonkontakt, bristande emotionell kontakt och att hon har svårt att hålla sig till ämnet. Efter en stunds diskussion kommer du fram till att Elsa dricker 2-4 burkar á 33 cl cider med 5 % alkoholhalt 4-5 gånger i veckan. Du beställer analys av fosfatidyletanol (B-PEth) för att värdera de senaste veckornas alkoholkonsumtion. Du valde att inte analysera CDT pga. provets lägre sensitivitet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Specificiteten för fosfatidyletanol är teoretiskt 100 %. Varför?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fosfatidyletanol förekommer inte normalt i kroppen utan bildas bara i närvaro av etanol."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Elsa är på vårdcentralen utifrån moderns oro för hennes alkoholkonsumtion. Hon missförstår ofta frågor och ger bristfällig kontakt. Med tanke på att de flesta tenderar att undervärdera eller underrapportera sin alkoholkonsumtion bedömer du att Elsa har en högriskkonsumtion. Du informerar henne kort om hälsorisken av en för hög alkoholkonsumtion. För att kunna ta ställning till om hon också har ett beroende, eller alkoholbruksyndrom, förbereder du vilka frågor du ska ställa. Frågorna tar upp olika kriterier.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilka två kriterier avser fysiologiska adaptationer?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Abstinens och tolerans"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Elsa är på vårdcentralen utifrån moderns oro för hennes alkoholkonsumtion. Hon missförstår ofta frågor och ger bristfällig kontakt. Du bedömer att hon har en högriskkonsumtion av alkohol. Du informerar henne kort om hälsorisken av en för hög alkoholkonsumtion. För att kunna ta ställning till om Elsa också har ett beroende, eller alkoholbruksyndrom, planerar du att fråga om hon har utvecklat tolerans, det vill säga om hon behöver konsumera större mängd alkohol för att uppnå samma effekt, och om hon upplevt abstinenssymptom i samband med tillnyktring.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Beskriv kortfattat den gemensamma fysiologiska bakgrunden till fenomenen tolerans och abstinens vid substansbruksyndromen.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tolerans reflekterar en anpassning till mer eller mindre långvarig närvaro av en farmakologiskt aktiv substans. Det sker genom att nedbrytande enzymer regleras upp (metabol tolerans) eller genom att receptorer regleras ner (farmakologisk tolerans). På så vis uppstår en ny homeostatisk jämvikt som förutsätter närvaro av substansen och ”bristsymptom” (abstinens) vid avbrott i tillförsel av substansen. Abstinenssymptomen är vanligtvis motsatta dem som åstadkoms av substansen. För full poäng behöver svaret innehålla beskrivning av att en anpassning (tolerans) sker genom förändrad nedbrytning och receptorreglering och att abstinens kan relateras till detta."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Nämn fyra av de övriga kriterier som tyder på alkoholberoende.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "kontrollförlust, försök sluta, tar mycket tid, starkt begär efter alkohol, misslyckas med att fullgöra skyldigheter, återkommande sociala problem, överger andra aktiviteter, alkoholintag i farliga situationer, fortsätter trots att det ger hälsoproblem."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-3",
+              "text": "Du tänker sedan igenom vilka evidensbaserade behandlingsalternativ som kan bli aktuella. Ett har du faktiskt redan inlett. Vilket?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "”Brief intervention”: Att med rådgivning i enstaka sessioner förmedla hälsorisken med för hög alkoholkonsumtion.  Provtagning med alkoholkonsumtionsmarkör kan användas för att förstärka en sådan intervention men är i sig inte en evidensbaserad metod."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Elsa är på vårdcentralen utifrån moderns oro för hennes alkoholkonsumtion. Hon missförstår ofta frågor och ger bristfällig kontakt. Du bedömde att hon har en högriskkonsumtion av alkohol och gav kort rådgivning genom att informera om hälsorisker med hög alkoholkonsumtion. Brist på tider ledde till att det tog en dryg månad innan Elsa kom på det uppföljande återbesöket. Hon hade lämnat prover veckan före. PEth-värdet var <0,05 µmol/L och visade att Elsa nu hade ingen eller låg alkoholkonsumtion. Hon berättade att hon slutat dricka tvärt efter det föregående besöket: ”Doktorn sa ju att det var dåligt för hälsan med alkohol.” Istället hade ett annat besvär blivit värre igen. Hon undrar om det inte finns något annat än alkohol som gör att det blir lättare att ta bussen för att gå och handla eller göra andra ärenden som innebär att vara bland andra människor som tittar eller att hon riskerar möta någon som känner igen henne och som vill prata. Hon oroar sig alltid inför händelser och aktiviteter men kan inte svara på vad som hon egentligen är orolig för. Hon förnekar att hon är rädd för att få panik och verkar inte förstå vad du menar när du försöker beskriva en panikattack. Hon känner sig uttröttad av all oro, är spänd och har ofta svårt att somna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Vilka tre ångestsyndrom kan föreligga utifrån beskrivningen? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Social fobi: ångest i sociala situationer, för att bli iakttagen. Agorafobi: ångest för att åka buss, för att befinna sig i folksamling. Generaliserat ångestsyndrom: förväntansångest inför händelser och aktiviteter, lätt uttröttad, spänd, sömnstörning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Elsa har slutat dricka alkohol efter att ha fått information om hälsoriskerna med hög alkoholkonsumtion. Du bedömde att hon hade en högriskkonsumtion av alkohol. Det verkar som att hon, nu när hon blivit nykter, har svårare att hantera olika ångestskapande situationer och händelser, eller förväntan inför dessa. Du misstänker att Elsa kan ha social fobi, agorafobi eller generaliserat ångestsyndrom. Oberoende av vilken specifik diagnos det handlar om har hon ett tydligt lidande och undviker eller lider sig igenom olika situationer. Besvären verkar påtagligt begränsa hennes tillvaro. Det verkar ofta vara svårt för Elsa att förstå eller svara på ibland även enkla frågor. Hon svarar ofta som om hon tänker på något annat eller associerar på ett annorlunda sätt. Hon verkar inte resonera adekvat. Du får nöja dig med att sätta diagnosen ospecificerat ångestsyndrom då det varken fullt ut går att bekräfta eller avskriva något av de tre alternativen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Trots svårigheterna att sätta en specifik diagnos finns indikation för behandling. Vilken behandling är förstahandsalternativet vid lindriga till måttliga ångestsyndrom av typen social fobi eller agorafobi?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kognitiv beteendeterapi: KBT"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Elsa har slutat dricka alkohol efter att ha fått information om hälsoriskerna med hög alkoholkonsumtion. Du bedömde att hon hade en högriskkonsumtion av alkohol. Det verkar som att hon, nu när hon blivit nykter, har svårare att hantera olika ångestskapande situationer och händelser, eller förväntan inför dessa.  Då hon är mycket svår att intervjua, missförstår, eller associerar annorlunda och inte verkar ta in kontexten har du inte lyckats skärpa diagnostiken, men diagnostiserar ändå ett ospecificerat ångestsyndrom. Du föreslår kognitiv beteendeterapi (KBT) och försöker beskriva principen för behandlingen men Elsa säger att det har hon provat förut och hon klarade inte av att delta i behandlingen. Det är bara flummigt snack och dessutom ska man göra just det som man mår dåligt av. Hon tycker det bara gör saken värre. Ni diskuterar medicinering istället.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vilken sorts farmakologisk behandling är förstahandsvalet? Beskriv verkningsmekanismen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SSRI: serotoninåterupptagshämmare"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-8-2",
+              "text": "Nämn ett preparat och beskriv hur du ordinerar fram till uppföljning.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Börja med halva måldosen, vanligtvis en halv tablett om dagen i en vecka, sedan en hel tablett om dagen tills vidare.  Exempel på preparat: sertralin 50 mg, escitalopram 10 mg, fluoxetin 20 mg."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Elsa har slutat dricka alkohol efter att ha fått information om hälsoriskerna med hög alkoholkonsumtion. Du bedömde att hon hade en högriskkonsumtion av alkohol. Det verkar som att hon, nu när hon blivit nykter, har svårare att hantera olika ångestskapande situationer och händelser, eller förväntan inför dessa.  Då hon är mycket svår att intervjua, missförstår, eller associerar annorlunda och inte verkar ta in kontexten har du inte lyckats skärpa diagnostiken, men diagnostiserar ändå ett ospecificerat ångestsyndrom. Hon förefaller tidigare inte kunnat ta till sig KBT- behandling. Du föreslår SSRI-preparatet Sertralin 50 mg, en halv tablett per dag i en vecka, sedan en hel tablett dagligen. Det visar sig att Elsa har haft Sertralin för några år sedan och att medicinen faktiskt gjorde tillvaron lite lättare för henne. När medicinen tog slut hade hon slutat och visste inte att hon kunde begära att få förnyade recept. Även om hon fick viss lindring står det klart att det inte hade så stor betydelse på sikt. Journalen avslöjar att Elsa har haft många kontakter de senaste 20 åren med olika läkare och fått varierande psykiatriska diagnoser. Hon saknar fullständiga grundskolebetyg och fullföljde inte gymnasiet. Hon har aldrig haft ett fast arbete och arbetsförmedlingen verkar ha givit upp försöken med praktikplatser. Hon har inte haft någon långvarig relation. Vid det uppföljande återbesöket efter två veckor har modern skickat med en lapp där hon meddelar att Elsa, precis som hon själv, är en högsensitiv person, överkänslig för olika sinnesintryck som ljud, ljus och beröring, och har svårt klara av förändringar eller oväntade händelser mm. I status noterar du alltjämt bristande emotionell kontakt och bristande ögonkontakt, svårt att hålla sig till ämnet, tendens till missförstånd, svårt med turtagning. Stämningsläget är neutralt. Du har nu tillräckligt underlag, ett mönster av livslångt illabefinnande och dysfunktion, för att remittera Elsa för utredning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Vilka två frågeställningar är mest rimliga? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Autismspektrumtillstånd och intellektuellt funktionshinder/utvecklingsstörning/mental retardation. Båda motiveras av (till synes) livslånga svårigheter som förekommer i olika sammanhang. Svårigheter med kommunikation, missförstånd, ögonkontakt, intryckskänslighet, med förändringar talar för autism."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-9-2",
+              "text": "Vad ska ingå i en utredning i detta fall utöver en heltäckande anamnes och anhörigintervju med hereditet, utvecklingshistoria osv, samt bredare kriterieprövning för olika diagnosalternativ, somatisk genomgång, neurologstatus och laboratorieprover?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "psykologisk testning för att värdera intellektuell nivå/intelligenskvot"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Det är din sista AT-placering och du har gjort kirurgi, medicin och psykiatri tidigare.\n\nAnna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Anna Karin är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten.\n\nDet är knappast möjligt att ställa diagnos baserat på dessa fynd, men det finns några diagnoser som du skulle vilja diskutera med din handledare.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2017-02/page32_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka diagnoser bör övervägas? Ange fyra och vilka två av dessa som är mest rimliga.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Herpes zoster och rotsmärtor av annan orsak är mest rimliga. (Pleurasmärta, myalgi, revbenssmärta, hydronefros)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Det är din sista AT-placering och du har gjort kirurgi, medicin och psykiatri tidigare. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Anna Karin är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten.\n\nDin handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge henne en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen.\n\nNu misstänks dorsalgi/lumbago med rotsmärtor. Du ska undersöka patienten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vad bör ingå i den neurologiska undersökningen inriktad mot aktuella symtom?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Motorisk funktion och sensibilitet i nedre extremiteterna bilateralt. Reflexer: Patellar, Achilles. Stortåextesion. Lasegues test (Straight leg raise). Bålsensibilitet och Babinski."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Det är din sista AT-placering och du har gjort kirurgi, medicin och psykiatri tidigare. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Anna Karin är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.\n\nDu utför undersökning av sensibilitet och motorik, särskilt nedanför segment Th11. Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vad innebär Lasegues tecken? Vad tyder avsaknad på?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid undersökning avseende Lasegues tecken lyfts det sträckta benet från underlaget (straight leg raise). Om smärtor inom n. ischiadicus försörjningsområde uppstår vid höftflexion 30-70 grader är testet positivt. Lasegues tecken finns när nervrötterna till segmenten inom n. ischiadicus innerveringsområde är påverkade vid t.ex. diskbråck. Avsaknad av tecknet tyder på att dessa nervrötter inte är engagerade i Anna Karins symptombild."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Hon är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida.\n\nDu inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilka är differentialdiagnoserna? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tumör/metastas i kota eller spinalkanal. Infektion i kota skulle kunna vara volymkrävande och trycka på delar av ryggmärgen.  Neurodegenerativa tillstånd skulle också kunna ge liknande symptombild. Spinal stenos på grund av t.ex. diskbråck skulle kunna ge liknande symptom liksom kotkompressioner med dislokationer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Hon är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida. Du inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre.\n\nDu diskuterar detta med din handledare. Ni gör tillsammans undersökningarna på nytt och kompletterar med temperatur- och smärtkänslighet. Ni finner då att temperatur- och smärtkänslighet är normal på vänster sida men nedsatt på höger sida, där dock motorik och sensibilitet för beröring är intakt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Ge en förklaring till ovanstående.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skador på ryggmärgen begränsade till ena sidan ger bortfall av temperatur- och smärtkänslighet på den kontralaterala sidan, eftersom de fibrer som leder temperatur- och smärtförnimmelser (tractus spinothalamicus) korsar i ryggmärgen i segmentnivå. (De motoriska banorna korsar i förlängda märgen) (Brown-Sequards syndrom)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Hon är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida. Du inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre. Vid kompletterade undersökning finner du att temperatur- och smärtkänslighet är normal på vänster sida men nedsatt på höger sida, där dock motorik och sensibilitet för beröring är intakt.\n\nSkador på ryggmärgen begränsade till ena sidan ger bortfall av temperatur- och smärtkänslighet på den kontralaterala sidan, eftersom de fibrer som leder temperatur- och smärtförnimmelser (tractus spinothalamicus) korsar i ryggmärgen i segmentnivå. (Brown-Sequards syndrom).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilka undersökningar bör du göra på vårdcentralen nu? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CRP, SR, Hb, vita (borde ha gjorts tidigare), Skelettröntgen av bröst- ländrygg och bäcken för att verifiera skelettdestruktioner. Röntgen lungor för att utesluta infektion och tumör."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Hon är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida. Du inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre. Vid kompletterade undersökning finner du att temperatur- och smärtkänslighet är normal på vänster sida men nedsatt på höger sida, där dock motorik och sensibilitet för beröring är intakt.\n\nRöntgen visar en drygt centimeterstor, nästan sfärisk, destruktion av skelettstrukturen i den vänstra delen av kotkropp Th11. Röntgen lungor visar en 3 cm stor förtätning basalt i vänster lunga. CRP 20 mg/L, SR 45 mm/h, vita 7 x 109/L, Hb 105 g/L",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vad tyder en förtätning i vänster lunga på?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kan vara ospecifikt, men kan vara lungtumör/metastas, infektion eller rest från tidigare genomgången lungsjukdom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Hon är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida. Du inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre. Vid kompletterade undersökning finner du att temperatur- och smärtkänslighet är normal på vänster sida men nedsatt på höger sida, där dock motorik och sensibilitet för beröring är intakt. Röntgen visar en drygt centimeterstor nästan sfärisk destruktion av skelettstrukturen i den vänstra delen av kotkropp Th11. Röntgen lungor visar en 3 cm stor förtätning basalt i vänster lunga. CRP 20 mg/L, SR 45 mm/h, vita 7 x 109/L, Hb 105 g/L.\n\nDu och din handledare kontaktar jourhavande ortoped på närmaste sjukhus. Ni gör bedömningen att detta tillstånd är allvarligt, men patienten är ännu inte informerad. Frågan om akuttransport till sjukhuset diskuteras.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Vilka symptom skulle absolut motivera akuttransport när det gäller ryggens sjukdomar och skador?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bortfall av urinblåsans och/eller ändtarmens sfinkterfunktion motiverar akuttransport för snar bedömning och ev. operation. Nytillkomna sensoriska/motoriska bortfall och progredierande neurologi motiverar också akuttransport. Svår smärta och svårigheter att gå har många ryggpatienter, som trots sina akuta svårigheter inte behöver få bestående men."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Du tjänstgör tillsammans med tre distriktsläkare. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Hon är tidigare väsentligen frisk. Arbetar heltid på bank. Röker 10-20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka. Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor på bålens vänstra sida inom det med streck markerade området i Bild 1. Området är ungefär 5 cm brett. Du kan inte finna rodnad eller annan synlig förändring i området. Vid palpation av övriga buken framkommer ingen smärta. Inte heller påvisas dunkömhet, resistenser eller défense. Lungorna auskulteras med normala andningsljud. Smärtan är inte andningskorrelerad. Ingen dämpning vid perkussion över lungfälten. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida. Du inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre. Vid kompletterade undersökning finner du att temperatur- och smärtkänslighet är normal på vänster sida men nedsatt på höger sida, där dock motorik och sensibilitet för beröring är intakt. Röntgen visar en drygt centimeterstor nästan sfärisk destruktion av skelettstrukturen i den vänstra delen av kotkropp Th11. Röntgen lungor visar en 3 cm stor förtätning basalt i vänster lunga. CRP 20 mg/L, SR 45 mm/h, vita 7 x 109/L, Hb 105 g/L. Jourhavande ortoped på närmaste sjukhus. Frågan om akuttransport till sjukhuset diskuteras.\n\nAnna Karin informeras om tillståndet. Hon har blås- och tarmfunktion under kontroll men transporteras i ambulans till universitetssjukhuset redan samma dag. På universitetskliniken utreds patientens tillstånd ytterligare. En tänkbar förklaring är att det rör sig om en metastas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Vilka tumörer ger ofta skelettmetastasering?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I princip kan alla cancerformer ge skelettmetastaser, men bröstcancer, (prostatacancer), njurcancer, thyreoideacancer och lungcancer är särskilt benägna att spridas till skelettet"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Du arbetar som AT-läkare på vårdcentral. Vårdcentralen är belägen i glesbygd och det finns bland annat utrustning för skelettröntgen och nätkontakt med universitetssjukhusets röntgenavdelning, som är belägen 15 mil bort. Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Röker 10- 20 cigaretter per dag sedan 38 år. Dricker 1-2 glas vin dagligen. Motionerar med terränglöpning 5 km två gånger per vecka.  Smärtorna i vänster flank debuterade för fem dagar sedan utan föregående trauma. Din handledare och du är överens om att herpes zoster är tänkbart, men eftersom blåsor och allmänna infektionstecken saknas verkar den diagnosen mindre sannolik. Rotsmärta av annan genes kan inte uteslutas, men eftersom andra symptom inte föreligger och Anna Karin verkar helt opåverkad, beslutar ni att expektera och ge patienten en återbesökstid om en vecka. Om utslag tillkommer innan dess anmodas Anna Karin höra av sig. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor.  Inga utstrålande smärtor i nedre extremiteterna och inte heller tecken till sfinkterdysfunktion framkommer i anamnesen. Nu misstänks dorsalgi/lumbago med rotsmärtor.  Patienten kan gå, men upplever svaghet i vänster ben. Quadriceps- och achillesreflexer är mer lättutlösta på vänster sida, svaghet i muskulaturen generellt i vänster ben. Inga avvikelser påvisas i höger ben. Lasegues tecken saknas bilateralt. Babinskis tecken påvisas på vänster sida. Du inser att någonting påverkar nedre delen av bröstryggens spinalkanal, så att delar av ryggmärgen på den nivån fungerar sämre. Vid kompletterade undersökning finner du att temperatur- och smärtkänslighet är normal på vänster sida men nedsatt på höger sida, där dock motorik och sensibilitet för beröring är intakt. Röntgen visar en drygt centimeterstor nästan sfärisk destruktion av skelettstrukturen i den vänstra delen av kotkropp Th11. Röntgen lungor visar en 3 cm stor förtätning basalt i vänster lunga. CRP 20 mg/L, SR 45 mm/h, vita 7 x 109/L, Hb 105 g/L. Jourhavande ortoped på närmaste sjukhus. Frågan om akuttransport till sjukhuset diskuteras. Anna Karin informeras om tillståndet. Hon har blås- och tarmfunktion under kontroll men transporteras i ambulans till universitetssjukhuset redan samma dag. På universitetskliniken utreds patientens tillstånd ytterligare. En tänkbar förklaring är att det rör sig om en metastas.\n\nAnna Karin genomgår en CT-ledd punktionsbiopsi. Biopsi av destruktion visade växt av adenocarcinom med sannolikt ursprung från lungan. Hon opererades med laminektomi Th11, utskrapning av metastasen i Th11:s kotkropp, cementering och stabilisering med skruvar och stag. Anna Karin klarade ingreppet väl och mobiliserades. Hennes blås- och tarmsfinkterfunktioner har varit intakta. Behandling av lungcancern med cytostatika initierades. Hon slutar röka. Tre månader senare, under en promenad, fastnar hon med foten mot en rot, varvid benet utåtroteras kraftigt. Hon kände en intensiv smärta i ljumsken innan hon föll. Du undersöker Anna Karins fot, knäled och höftled. Fot, fotled, knäled utan anmärkning. Vid rotationsrörelser i höftled uppger Anna Karin svåra smärtor, ledstatus kan inte genomföras på grund av smärtorna.\n\nDu beställer en röntgenundersökning av höftleden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Vad har troligen hänt?   Vilka är dina frågeställningar?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Medial collumfraktur (typiskt förlopp) eventuellt en patologisk fraktur. Fraktur? Felställningar? Destruktioner i skelettet?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Anna Karin är tidigare väsentligen frisk. Smärtorna i vänster flank debuterade för 5 dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor i medellinjen i nivå med nedre bröstrygg fram mot området nedanför naveln på vänster sida av bukväggen. Området är ungefär 5 cm brett. Du kan dock inte finna rodnad eller annan synlig förändring i området. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor. Nu misstänks dorsalgi/lumbago med rotsmärtor Th11. Röntgen visar en destruktion av skelettstrukturen i den vänstra delen av kotkropp Th11. Röntgen lungor visar en 3 cm stor förtätning basalt i vänster lunga. CRP 20 mg/L, SR 45 mm/h, vita 7 x 109/L, Hb 105 g/L Frågan om akuttransport till sjukhuset diskuteras. Anna Karin informeras om tillståndet. Hon har blås- och tarmfunktion under kontroll men transporteras i ambulans till universitetssjukhuset redan samma dag. På universitetskliniken utreds patientens tillstånd ytterligare. En tänkbar förklaring är att det rör sig om en metastas. Anna Karin genomgår en CT-ledd punktionsbiopsi. Biopsi av destruktion visade växt av lungcancer. Hon opererades med laminektomi Th11, utskrapning av metastasen i Th11:s kotkropp, cementering och stabilisering med skruvar och stag. Anna Karin klarade ingreppet väl och mobiliserades. Hennes blås- och sfinkterfunktioner har varit intakta. Behandling av lungcancern med cytostatika initierades. Hon slutar röka. Tre månader senare, under en promenad fastnar hon med foten mot en rot, varvid benet utåtroteras kraftigt. Hon kände en intensiv smärta i ljumsken innan hon föll. Fot, fotled, knäled utan anmärkning. Vid rotationsrörelser i höftled uppger Anna Karin svåra smärtor, ledstatus kan inte genomföras på grund av smärtorna. Du beställer en röntgenundersökning av höftleden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Beskriv eventuella skelettskador och felställningar (1p) Se röntgenbilder:",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Röntgenundersökning visar en medial cervikal höftfraktur med dorsalbockning av caputfragmentet och varisering av frakturen. Inga destruktioner i skelettet i höften."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-12",
+          "context": "Anna Karin, 55 är, söker på grund av utstrålande smärtor i vänster flank. Anna Karin är tidigare väsentligen frisk. Smärtorna i vänster flank debuterade för 5 dagar sedan utan föregående trauma. Vid undersökning finner du att patienten anger smärtor i medellinjen i nivå med nedre bröstrygg fram mot området nedanför naveln på vänster sida av bukväggen. Området är ungefär 5 cm brett. Du kan dock inte finna rodnad eller annan synlig förändring i området. Patienten återkommer efter en vecka och har då värk i nedre delen av bröstryggen i övergången mot ländryggen. Den utstrålande smärtan i flank och bukvägg finns kvar, men det finns inga blåsor. Nu misstänks dorsalgi/lumbago med rotsmärtor Th11. Röntgen visar en destruktion av skelettstrukturen i den vänstra delen av kotkropp Th11. Röntgen lungor visar en 3 cm stor förtätning basalt i vänster lunga. CRP 20 mg/L, SR 45 mm/h, vita 7 x 109/L, Hb 105 g/L Frågan om akuttransport till sjukhuset diskuteras. Anna Karin informeras om tillståndet. Hon har blås- och tarmfunktion under kontroll men transporteras i ambulans till universitetssjukhuset redan samma dag. På universitetskliniken utreds patientens tillstånd ytterligare. En tänkbar förklaring är att det rör sig om en metastas. Anna Karin genomgår en CT-ledd punktionsbiopsi. Biopsi av destruktion visade växt av lungcancer. Hon opererades med laminektomi Th11, utskrapning av metastasen i Th11:s kotkropp, cementering och stabilisering med skruvar och stag. Anna Karin klarade ingreppet väl och mobiliserades. Hennes blås- och sfinkterfunktioner har varit intakta. Behandling av lungcancern med cytostatika initierades. Hon slutar röka. Tre månader senare, under en promenad fastnar hon med foten mot en rot, varvid benet utåtroteras kraftigt. Hon kände en intensiv smärta i ljumsken innan hon föll. Fot, fotled, knäled utan anmärkning. Vid rotationsrörelser i höftled uppger Anna Karin svåra smärtor, ledstatus kan inte genomföras på grund av smärtorna. Du beställer en röntgenundersökning av höftleden.\n\nRöntgenundersökning visar en medial cervikal höftfraktur med dorsalbockning av caputfragmentet och varisering av frakturen. Inga destruktioner i skelettet i höften.\n\nDet förekommer två principiellt olika behandlingar av denna frakturtyp.",
+          "contextImageUrl": "/images/exams/2017-02/page44_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-12-1",
+              "text": "Vilka är de två behandlingsprinciperna? Beskriv metoderna. Skillnader ur rehabiliteringssynpunkt?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-02/page45_img1.jpeg",
+              "facit": [
+                "Osteosyntes (spikning eller skruvning av frakturen) och ersättning av caput med en endoprotes (eller en totalprotes). Båda metoderna tillåter belastning och gångträning direkt efter operation, men osteosyntesen förutsätter att frakturen läker och rehabiliteringstiden blir längre för de osteosyntesopererade."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

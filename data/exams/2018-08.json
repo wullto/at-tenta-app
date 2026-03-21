@@ -1,0 +1,1004 @@
+{
+  "id": "2018-08",
+  "title": "AT-prov augusti 2018",
+  "date": "2018-08-24",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Fall 1 Psykiatri",
+      "points": 20,
+      "intro": "Du går en av dina första jourer som nylegitimerad läkare efter AT på den psykiatriska kliniken i Gammalköping. Det har varit en lugn kväll när jourtelefonen ringer. Det är sjuksköterskan som ringer från en av avdelningarna. Sjuksköterskan har en ensamstående 35 årig somatisk frisk man på avdelningen som vårdas för svår depression och ett nyligen genomfört ett allvarligt suicidförsök med tabletter. Han beskriver tidigare episoder med nedstämdhet men har varken vårdats inneliggande tidigare eller har haft kontakt med den psykiatriska öppenvården. Det finns en ärftlig belastning för affektiv sjukdom och patientens morbror suiciderade i ung ålder.\n\nPatienten vårdas nu sedan sju dagar enligt Hälso- och sjukvårdslagen (HSL). På plats berättar sjuksköterskan att hon är orolig för patienten. Under vårdtiden har antidepressiv behandling påbörjats. Patienten har inte sovit bra de senaste nätterna och har mycket ångest. Sjuksköterskan berättar även att modern precis ringt och berättat att hennes son SMS:at att han inte vill leva längre eller vill vara kvar på sjukhuset.\n\nSjuksköterskan vill att du bedömer patienten. Under samtalet är patienten ångestdriven och nedstämd, han nekar aktuella suicidala tankar samt planer och bagatelliserar meddelandet till modern: ”Det är ju sådant men säger ibland utan att mena det”. Han insisterar på att bli utskriven nu och går inte att övertala att kvarstanna på vårdavdelningen.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilket handlingsalternativ ser du som det mest lämpliga i den aktuella situationen? Motivera ditt svar",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom patienten är deprimerad, ångestfull, kommunicerat dödsönskan och nyligen genomfört ett allvarligt suicidförsök får man anta att det föreligger en suicidrisk som är så pass hög att inneliggande vård kan anses nödvändigt. Du bör därför primärt överväga att konvertera patienten till lagen om psykiatrisk tvångsvård (LPT). Att låta patienten gå hem är ett mindre lämpligt alternativ utifrån status och anamnes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Sjuksköterskan har en ensamstående 35 årig somatisk frisk man på avdelningen som vårdas för svår depression och ett nyligen genomfört allvarligt suicidförsök med tabletter. Han beskriver tidigare episoder med nedstämdhet men har varken vårdats inneliggande tidigare eller har haft kontakt med den psykiatriska öppenvården. Det finns en ärftlig belastning för affektiv sjukdom och patientens morbror suiciderade i ung ålder. Patienten vårdas sedan sju dagar enligt HSL.\n\nPå plats berättar sjuksköterskan att hon är orolig för patienten. Under vårdtiden har antidepressiv behandling påbörjats. Patienten har inte sovit bra de senaste nätterna och har mycket ångest. Sjuksköterskan berättar även att modern precis ringt och berättat att hennes son SMS:at att han inte vill leva längre eller vill vara kvar på sjukhuset. Sjuksköterskan vill att du bedömer patienten. Under samtalet är patienten ångestdriven och nedstämd, han nekar aktuella suicidala tankar och planer och bagatelliserar meddelandet till modern: ”Det är ju sådant med säger ibland utan att mena det”. Han insisterar på att bli uppskriven nu. I din bedömning av patienten konkluderar du att patienten är både ångestdriven och nedstämd och du tycker inte han är helt trovärdig i sitt avståndstagande från suicidala tankar och planer. Han har även nyss kommunicerat en dödsönskan till anhörig. Du gör bedömningen att suicidrisken är klart förhöjd och detta motiverar vidare slutenvård även mot patientens vilja. Du bestämmer dig för att konvertera patienten i samråd med din bakjour från vård enligt HSL till Lagen om psykiatrisk tvångsvård (LPT).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vårdintyget behöver fyllas i av dig. Dagens datum är 2018-08-23 och klockan visar 23.15. Patienten heter Per Petterson (per.nr 830101-1010) och hans adress är Solvägen 8, 11111 Gammelköping där han även är folkbokförd. Fyll i under motsvarande rubriker från sidan 1 i vårdintyget nedan under respektive rubriker",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vårdintyget behöver fyllas i av dig. Dagens datum är 2018-08-23 och klockan visar 23.15. Patienten heter Per Petterson (per.nr 830101- 1010) och hans adress är Solvägen 8, 11111 Gammelköping där han även är folkbokförd. Fyll i under motsvarande rubriker från sidan 1 i vårdintyget nedan under respektive rubriker (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Den undersökte\n\nc) -Efternamn och förnamn\n\nd) -Personnummer\n\ne) Utdelningsadress, postnummer, postort\n\nf) -Folkbokföringsort\n\ng) -Identiteten styrkt genom\n\nLäkarens redogörelse för de omständigheter som föranleder vårdbehovet\n\nh) -Bakgrund. Ange relevanta uppgifter för bedömning av vårdbehovet, t.ex. tidigare ohälsa och vård samt sociala förhållanden\n\na) Vårdintyget utfärdat den\n\nb) Detta intyg avser (§)",
+          "contextImageUrl": "/images/exams/2018-08/page4_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Du har nu fyllt i vårdintyget för konvertering enligt 11§ enligt visat vårdintyg. Vilka kriterier gäller för konvertering av patient enligt 11§ i Lagen om psykiatrisk tvångsvård (LPT)?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page6_img1.jpeg",
+              "facit": [
+                "1. Patienten lider av en allvarlig psykisk störning 2. Patienten har ett oundgängligt behov av psykiatrisk dygnetruntvård (slutenvård) 3. Patienten motsätter sig erbjuden vård alternativt att det finns grundad anledning att anta att vården inte kan ges med personens samtycke 4. Om förutsättningarna kring vården av en patient som är frivilligt inlagd för psykiatrisk slutenvård förändras så att de 3 grundläggande kriterierna för tvångsvård är uppfyllda och patienten dessutom befaras kunna skada sig själv eller annan person kan vården konverteras från HSL till LPT."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "I din bedömning av Per konkluderar du att patienten är både ångestdriven och nedstämd och du tycker inte han är helt trovärdig i sitt avståndstagande från suicidala tankar och planer. Du gör bedömningen att suicidrisken är klart förhöjd och motiverar vidare slutenvård även mot patientens vilja.\n\nDu bestämmer dig för att konvertera Per från HSL till Lagen om psykiatrisk tvångsvård (LPT) enligt 11§LPT då 1: Patienten lider av allvarlig psykisk störning i form av allvarlig depression med akut suicidrisk. 2: Patienten bedöms ha ett oundgängligt behov av heldygnsvård. 3: Patienten medverkar ej i vården. 4: Du gör bedömningen att patienten riskerar att allvarligt skada sig själv.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vid konvertering av patient enligt 11§LPT behöver man särskilt beakta två viktiga juridiska handläggningsrutiner till skillnad från när vårdintyg utfärdas enligt 4§LPT. Vilka är dessa två handläggningsrutiner?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Konverteringsbeslutet enligt §11LPT ska 1: Underställas Förvaltningsrätten inom ett dygn. 2: Om vård enligt LPT bedöms behövligt utöver de första 4 dagarna efter konverteringsbeslutet ska ansökan om medgivande till detta skickas till Förvaltningsrätten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Intagningsbeslut 11§LPT fattas av chefsöverläkare senast inom 24 timmar. Konverteringsbeslutet ska underställas Förvaltningsrätten inom ett dygn. Om vård enligt LPT bedöms behövligt utöver de första 4 dagarna efter konverteringsbeslutet ska ansökan om medgivande till detta skickas till Förvaltningsrätten.\n\nDagen efter din jour fattade överläkaren intagningsbeslut. Under samtalet där du var med beskrev Per starka suicidala tankar samtidigt som han var mycket ambivalent till att stanna på avdelningen. Han beskrev även att han känt sig uppvarvad och orolig de senaste dagarna. Statusmässigt noterade du att Per var forcerad, talade högt och snabbt, och var motorisk orolig. Han var svår att avbryta men kunde hålla en röd tråd i samtalet. Det bedömdes att vidare inneliggande vård var nödvändigt i suicidpreventivt syfte och för att optimera hans läkemedelsbehandling.\n\nPer har en historik på återkommande depressiva episoder och vårdas nu efter ett allvarligt suicidförsök för depression. I börja av vårdtiden påbörjades medicinering med Citalopram med aktuell dos 20mgx1.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Utifrån den historik och status som framkommer vad bör du överväga differentialdiagnostiskt? Motivera ditt svar",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Återkommande depressiva episoder, ärftlig belastning och misstanke om tilltagande uppvarvning efter insättning av ett SSRI preparat kan tala för att det föreligger ett bipolärt syndrom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vad bör du penetrera utöver tidigare suicidalitet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Om det förekommer tidigare episoder av hypomani eller manier."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "När du pratar närmare med Per framkommer att han i perioder varit onaturligt upprymd och driftig genom att starta flera företag som senare gått i konkurs. Han berättar att närstående reagerat på hans beteende men han själv inte haft tid att närmare reflektera över detta. Tillsammans med överläkaren görs bedömningen att Per sannolikt lider av ett bipolärt syndrom typ 2 med recidiverande depressioner och hypomana episoder.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Hur resonerar du kring aktuell behandling med Citalopram? Motivera ditt svar",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Citalopram bör seponeras då det hos patienter med bipolärt syndrom kan utlösa hypomani/mani om man inte har samtidig behandling med ett stämningsstabiliserande läkemedel."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Vad är förstahandsval i behandling av bipolärt syndrom? Ge förslag på specifikt läkemedel och motivera varför",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Litiumbehandling har god återfallsförebyggande effekt och är förstahandsval vid behandling av bipolärt syndrom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Bedömningen görs att Per lider av ett bipolärt syndrom typ 2 med återkommande depressiva episoder och hypomaniska faser. Eftersom han beskriver symptom på uppvarvning och ni misstänker en begynnande mani seponeras Citalopram omgående. Ni föreslår insättning av Litium som är förstahandsval i behandling av bipolärt syndrom. Behandling initieras och efter tre veckors inneliggande vård är Per klart förbättrad. Hans grundstämning har normaliserats, suicidtankarna har försvunnit och Per är själv inställd på att fortsätta med Litiumbehandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vad behöver du ge Per för information om Litiumbehandling avseende biverkningar på kort och långs sikt samt uppföljning?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Litium kan ge biverkningar vid långvarig behandling som kräver särskild observans; påverkan på tyreoidea, paratyreoidea och njurfunktion. Li har ett smalt terapeutiskt\n\nintervall och uppföljning med blodprov är nödvändigt. Vanliga biverkningar är finvågig tremor, viktökning, diarré och acne."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-2",
+              "text": "Hur planerar du uppföljning den närmaste tiden för Per efter att han skrivs ut från den psykiatriska slutenvården? Motivera ditt svar",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svåra affektiva tillstånd såsom bipolär typ 1 och svårstabiliserad bipolär typ 2 med avancerad behandling följs upp regelbundet inom psykiatrisk specialistvård. Lämpliga fall av bipolär typ 2 i stabilt skede med begränsat vårdbehov kan efter bedömning av psykiater överföras till primärvården för långtidsuppföljning. Resonemang runt suicidrisk och behov av uppföljning inom specialistvården kan ge delpoäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du arbetar på en vårdcentral några mil från ett länsdelsjukhus. En 55-årig man söker dig akut på vårdcentralen för smärtor i höger flank, till höger i buken, strålande mot ryggen. Smärtan började plötsligt för 6 timmar sedan och känns hela tiden. Smärtan blir starkare i intervaller. Han har svårt att sitta stilla på grund av smärtan. Han är inte tidigare bukopererad. Han har tablettbehandlad diabetes som behandlas med metformin 500mg 1 x 1 samt hypertoni behandlad med enalapril 10 mg 1x1 och hyperlipidemi behandlad med atorvastatin 20 mg 1x1. Han har känd nedsatt njurfunktion med S-Kreatinin 146 mmol/l (ref <100 mmol/l) och eGFR 42 ml/min (ref >60 ml/min) vid senaste kontrollen för 4 mån sedan.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Hur vill du komplettera anamnesen? Nämn fyra relevanta frågeställningar och motivera varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Feber? miktionsbesvär?  Kräkningar/illamående, ändrade avföringsvanor? Tidigare njursten/gallsten? korrelation till måltid, alkohol, tobak"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vad kan förklara symtomen? Ange 4 möjliga diagnoser.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Njursten, gallsten, pankreatit, bukaortaaneurysm, ileus, divertikulit"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du arbetar på en vårdcentral några mil från ett länsdelsjukhus. En 55-årig man söker dig akut på vårdcentralen för smärtor i höger flank, till höger i buken, strålande mot ryggen. Smärtan började plötsligt för 6 timmar sedan och känns hela tiden. Smärtan blir starkare i intervaller. Han har svårt att sitta stilla på grund av smärtan. Han är inte tidigare bukopererad. Han har tablettbehandlad diabetes som behandlas med metformin 500mg 1 x 1 samt hypertoni behandlad med enalapril 10 mg 1x1 och hyperlipidemi behandlad med atorvastatin 20 mg 1x1. Han har känd nedsatt njurfunktion med S-Kreatinin 146 mmol/l (ref <100 mmol/l) och eGFR 42 ml/min (ref >60 ml/min) vid senaste kontrollen för 4 mån sedan.\n\nHan förnekar miktionsbesvär och kräkningar, smärtorna korrelerar inte till måltid. Han har haft ett liknande anfall för 4 år sedan.\n\nI status noterar du: Allmäntillstånd: Något smärtpåverkad, temp 37,2o Cor: Regelbunden rytm frekvens 80 Pulm: auskulteras utan anmärkning Bltr: 145/85 mmHg Buk: palp mjuk, men öm utåt höger flank till höger i buken. Ingen palpömhet i epigastriet eller under höger arcus. Per rectum: palperas utan anmärkning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilka laboratorieprover finns anledning att kontrollera på det lokala laboratoriet på vårdcentralen? Nämn 2 och motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CRP, Hb, urinsticka. En sten i urinvägarna kan ofta medföra hematuri, vanligen mikroskopisk hematuri. Vid feber och högt CRP kan avstängd pyelit misstänkas vilket utreds akut."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du arbetar på en vårdcentral några mil från ett länsdelsjukhus. En 55-årig man söker dig akut på vårdcentralen för smärtor i höger flank, till höger i buken, strålande mot ryggen. Smärtan började plötsligt för 6 timmar sedan och känns hela tiden. Smärtan blir starkare i intervaller. Han har svårt att sitta stilla på grund av smärtan. Han är inte tidigare bukopererad. Han har tablettbehandlad diabetes som behandlas med metformin 500mg 1 x 1 samt hypertoni behandlad med enalapril 10 mg 1x1 och hyperlipidemi behandlad med atorvastatin 20 mg 1x1. Han har känd nedsatt njurfunktion med S-Kreatinin 146 mmol/l (ref <100 mmol/l) och eGFR 42 ml/min (ref >60 ml/min) vid senaste kontrollen för 4 mån sedan. Han förnekar miktionsbesvär och kräkningar, smärtorna korrelerar inte till måltid. Han har haft ett liknande anfall för 4 år sedan.\n\nI status noterar du: Allmäntillstånd: Något smärtpåverkad, temp 37,2o Cor: Regelbunden rytm frekvens 80 Pulm: auskulteras utan anmärkning Bltr: 145/85 mmHg Buk: palp mjuk men öm över i höger flanken till höger i buken. Ingen palpömhet i epigastriet eller under höger arcus. Per rectum: palperas utan anmärkning.\n\nUrinstickan visar röda 3+ men i övrigt utan anmärkning. CRP 10 mg/l",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilken är den sannolika diagnosen? Vilken är patogenesen till smärtan?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "? (1p) Urinvägssten, njursten"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Vilken akut läkemedelsbehandling bör patienten få på vårdcentralen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "NSAID t ex inj diclofenac 75 mg im.  Vid otillräcklig effekt eller vid överkänslighet eller andra kontraindikationer för NSAID (t ex ulcussjukdom, nedsatt njurfunktion, antikoagulantiabehandling) kan Spasmofen vara ett alternativ."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du arbetar på en vårdcentral några mil från ett länsdelsjukhus. En 55-årig man söker dig akut på vårdcentralen för smärtor i höger flank, till höger i buken, strålande mot ryggen. Smärtan började plötsligt för 6 timmar sedan och känns hela tiden. Smärtan blir starkare i intervaller. Han har svårt att sitta stilla på grund av smärtan. Han är inte tidigare bukopererad. Han har tablettbehandlad diabetes som behandlas med metformin 500mg 1 x 1 samt hypertoni behandlad med enalapril 10 mg 1x1 och hyperlipidemi behandlad med atorvastatin 20 mg 1x1. Han har känd nedsatt njurfunktion med S-Kreatinin 146 mmol/l (ref <100 mmol/l) och eGFR 42 ml/min (ref >60 ml/min) vid senaste kontrollen för 4 mån sedan. Han förnekar miktionsbesvär och kräkningar, smärtorna korrelerar inte till måltid. Han har haft ett liknande anfall för 4 år sedan.\n\nI status noterar du: Allmäntillstånd: Något smärtpåverkad, temp 37,2o Cor: Regelbunden rytm frekvens 80 Pulm: auskulteras utan anmärkning Bltr: 145/85 mmHg Buk: palp mjuk men öm över i höger flanken till höger i buken. Ingen palpömhet i epigastriet eller under höger arcus. Per rectum: palperas utan anmärkning. Urinstickan visar röda 3+ men i övrigt utan anmärkning. CRP 10 mg/l Patienten får en injektion Spasmofen (innehåller morfin, kodein, noskapin, metylskopolamin, papaverin) 1 ml im och blir smärtfri inom 45 min.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vilka blodprover föreslår du för patientens upprepade njurstenbesvär? Ange 3 och motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "S-kreatinin, S-kalcium, S-urat"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Vilken utredning beställer du för att verifiera diagnosen? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "DT urografi efter ca 3-4 veckor för att få uppfattning av eventuellt kvarvarande njurstenar, deras storlek, läge samt utesluta andra orsaker till hematuri.  Utan hematuri kunde även DT urinvägsöversikt ha varit ett alternativ"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-3",
+              "text": "Vilket läkemedel får patienten med sig på recept? Vilka ordinationer får patienten vid hemgång?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "NSAID supp t ex diclofenac supp 50mg vb (högst 3 per dygn). Stort vätskeintag ska undvikas (uretärsten kan inducera smärtanfall)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du arbetar på en vårdcentral några mil från ett länsdelsjukhus. En 55-årig man söker dig akut på vårdcentralen för smärtor i höger flank, till höger i buken, strålande mot ryggen. Smärtan började plötsligt för 6 timmar sedan och känns hela tiden. Smärtan blir starkare i intervaller. Han har svårt att sitta stilla på grund av smärtan. Han är inte tidigare bukopererad. Han har tablettbehandlad diabetes som behandlas med metformin 500mg 1 x 1 samt hypertoni behandlad med enalapril 10 mg 1x1 och hyperlipidemi behandlad med atorvastatin 20 mg 1x1. Han har känd nedsatt njurfunktion med S-Kreatinin 146 mmol/l (ref <100 mmol/l) och eGFR 42 ml/min (ref >60 ml/min) vid senaste kontrollen för 4 mån sedan. Han förnekar miktionsbesvär och kräkningar, smärtorna korrelerar inte till måltid. Han har haft ett liknande anfall för 4 år sedan.\n\nI status noterar du: Allmäntillstånd: Något smärtpåverkad, temp 37,2o Cor: Regelbunden rytm frekvens 80 Pulm: auskulteras utan anmärkning Bltr: 145/85 mmHg Buk: palp mjuk men öm över i höger flanken till höger i buken. Ingen palpömhet i epigastriet eller under höger arcus. Per rectum: palperas utan anmärkning. Urinstickan visar röda 3+ men i övrigt utan anmärkning. CRP 10 mg/l Du beställer S- kreatinin, S-Kalium, S-kalcium samt S-urat samt ett recept på Spasmofen supp 50mg vb högst 4 per dygn\n\nDu skriver remiss till DT urinvägsöversikt som kan utföras efter ca 4 veckor",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilka instruktioner får patienten angående sin medicinering om DT urografi med jodkontrast skulle bli aktuell?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka instruktioner får patienten angående sin medicinering före röntgenundersökningen? (1p) Får göra uppehåll med metformin i samband med kontraströntgen (i synnerhet vid GFR<45 ml/min). Om njurarna skadas av jodkontrastmedel kan metformin ansamlas och orsaka laktatacidos, en potentiellt livshotande komplikation. Återinsätts 2 dygn efter undersökningen när det kontrollerats att njurfunktionen (S-kreatinin, GFR) är oförändrat"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Nästa patient är en 30 årig tidigare väsentligen frisk kvinna. Hon har fött sitt andra barn för en månad sedan och sedan 2 dagar märkt en ömmande rodnad på höger bröst som hon visar dig.",
+          "contextImageUrl": "/images/exams/2018-08/page17_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Hur vill du komplettera anamnesen? Vilken diagnos misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mastit. Ofullständig tömning av brösten? amningsteknik, feber"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Nästa patient är en 30 årig tidigare väsentligen frisk kvinna. Hon har fött sitt andra barn för en månad sedan och sedan 2 dagar märkt en ömmande rodnad på höger bröst som hon visar dig.\n\nHon berättar att hon haft problem med amningen och haft svårt att tömma brösten ordentligt. Hon har inte haft feber. I status noterar du ett värmeökat rodnat 4 cm stort indurerat område ovan mamillen. Du misstänker mastit.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Hur kan mastit uppkomma?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mjölkstockning är en icke-infektiös inflammation i bröstvävnaden som kan uppstå om avflödet av mjölk är försvårat. Vid kvarstående mjölkstockning kan även bakterieinfektion tillkomma"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-7-2",
+              "text": "Vilken behandling ordinerar du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Råd: Intensifiera amningen, massage av ömt område, tillför värme, undvik kyla. (1p) Läkemedel: Oxytocin nässpray (Syntocinon) 1 sprayning 5 minuter före amning eller pumpning kan vid behov underlätta brösttömning (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Nästa patient är en 30 årig tidigare väsentligen frisk kvinna. Hon har fött sitt andra barn för en månad sedan och sedan 2 dagar märkt en ömmande rodnad på höger bröst som hon visar dig.Hon berättar att hon haft problem med amningen och haft svårt att tömma brösten ordentligt. Hon har inte haft feber. I Status noterar du ett värmeökat rodnat 4 cm stort indurerat område ovan mamillen. Du misstänker mastit.\n\nEfter 10 dagar kommer hon tillbaka till dig på mottagningen. Hon har försökt pumpa ur bröstet och har även använt oxytocin nässpray (Syntocinon) 1 sprayning 5 minuter före urpumpning Trots det har rodnaden på högra bröstet ökat till 8 cm och hon har sedan 2 dagar också haft feber 38,5 grader. Status: Området är indurerat men ingen palpabel fluktuation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vilken behandling föreslår du nu? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fluklocacillin (1g x 3 i 10 dagar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Nästa patient är en 30 årig tidigare väsentligen frisk kvinna. Hon har fött sitt andra barn för en månad sedan och sedan 2 dagar märkt en ömmande rodnad på höger bröst som hon visar dig.Hon berättar att hon haft problem med amningen och haft svårt att tömma brösten ordentligt. Hon har inte haft feber. I Status noterar du ett värmeökat rodnat 4 cm stort indurerat område ovan mamillen. Du misstänker mastit. Efter 10 dagar kommer hon tillbaka till dig på mottagningen. Hon har försökt pumpa ur bröstet och har även använt oxytocin nässpray (Syntocinon) 1 sprayning 5 minuter före urpumpning Trots det har rodnaden på högra bröstet ökat till 8 cm och hon har sedan 2 dagar också haft feber 38,5 grader. Status: Området är indurerat men ingen palpabel fluktuation.\n\nDu misstänker att mjölkstockningen komplicerats av en bakteriell mastit och föreslår behandling med flukloxacillin. Patienten berättar att hon är allergisk för pencillin då hon tidigare fått kliande utslag av Kåvepenin (fenoximetylpenicillin).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vilka bakterier är troliga? Vilken behandling föreslår du nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stafylokocker, streptokocker och koliformer. Recept Erytromycin (250mg 2x2 i 10 dagar) (ev klindamycin men ej vid samtidig amning pga biverkningsrisk för barnet)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-2",
+              "text": "Om det senare skulle vara aktuellt att avsluta amningen och patienten behöver farmakologisk hjälp med att minska produktionen av bröstmjölk, vilket läkemedel kan du i så fall förskriva och vilken verkningsmekanism har det?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tablett Pravidel (bromokriptin). (1p) Verkar som prolaktinhämmare och minskar prolaktinutsöndringen från hypofysframloben. Prolaktin är nödvändigt för laktationen (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Fall 3 Kirurgi",
+      "points": 20,
+      "intro": "Det är måndag morgon och du går jour på akutmottagningen där du förväntas bedöma patienter med kirurgiska och urologiska sjukdomar.\n\nDin första patient heter Michael och är 47 år. Han är gift och har en 17 årig son. Michael arbetar som försäljare. Sedan 3 dagar har han tilltagande ont i magen och nu tillkomst av feber. Han berättar att han hade en episod av frossa före ankomst till sjukhuset. Han har kräkts en gång. Han förnekar förändrade vattenkastnings- eller avföringsvanor.\n\nHan uppger att han inte har några allergier eller överkänslighet. Han blev appendektomerad vid 18 års ålder. På vårdcentralen har man något år tidigare diagnosticerat ett förmaksflimmer och något förhöjda blodfetter. I läkemedelslistan, som han lämnar fram, står det tablett Waran enligt behandlingsschema samt Tablett Metoprolol 50 mg x1.\n\nI status finner du följande: AT: Smärtpåverkad. Ter sig orienterad. Kroppstemperatur 38,8. Ögonvitorna är antytt ikteriska. Saturation: 97% Hjärta: Oregelbunden rytm. Puls 94 slag/min. Blodtryck 150/95 mmHg. Lungor: Vesikulära andningsljud. Inga krepitationer eller rassel. Buk: Överviktig. Tvärgående ca 5 cm lång väl läkt ärr vid McBurneys punkt. Ömmar distinkt under höger arcus med antydd defence. Ingen palpabel resistens. Per rektum: Tomt i ampullen. Oömt.\n\nVid blodprovstagning finner man följande värden:\n\nB-Hb: 136 (ref 117-153 g/L) P- CRP: 162 (< 3 mg/L) B-LPK:17,8 (3,5-8,8 x10/L) P-GT: 1,9 (< 2.0 mikrokat/L) P-Natrium:142 (137-145 mmol/L) P- Kalium: 3,4 (3,5-4,6 mmol/L) P-Kreatinin: 96 (< 90 mikromol/L) P- Bilirubin: 68 (< 26 mikromol/L) P-ASAT: 0,38 (< 0,76 mikrokat/L) P- glukos: 5,8 (4,0-6,0 mmol/L) P-ALAT: 0,42 (< 1,1 mikrokat/L) P-ALP: 2,3 (< 1,9 mikrokat/L) P-albumin: 36 (36-45 g/L) Urinsticka: 2+ ketoner",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Du önskar komplettera tidigare blodprovstagning med tanke på patientens anamnes och status. Nämn ytterligare två laboratorieprover du ordinerar och motivera varför dessa bör tas",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A. PK/INR, urin- och blododling, amylas, blodgruppering, bastest. Koagulationsstatus då patienten medicinerar med Waran. Odling pga frossa och förhöjda infektionsprover. Amylas pga höga buksmärtor.  Pre-operativ blodgruppering och bastest inför eventuell kirurgi. LD och konjugerat/okunjugerat bilirubin kan övervägas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Nivån av CRP (C-reaktivt protein) mäts ofta vid inflammation och infektion i kroppen. Varför stiger CRP vid infektion? Redogör för var proteinet bildas och varför värdet kan vara förhöjt",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nivån av CRP (C-reaktivt protein) mäts ofta vid inflammation och infektion i kroppen. Varför stiger CRP vid infektion? Redogör för var det bildas och varför värdet kan vara förhöjt (1p) CRP står för C-reaktivt protein och är ett akutfasprotein som produceras i levern som svar på inflammatoriska stimuli genom cytokiner och tumörnekrotisk faktor alfa."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Det är måndag morgon och du går jour på akutmottagningen där du förväntas bedöma patienter med kirurgiska och urologiska sjukdomar.\n\nDin första patient heter Michael och är 47 år. Han är gift och har en 17 årig son. Han arbetar som försäljare. Sedan 3 dagar har han tilltagande ont i magen och nu tillkomst av feber. Han berättar att han hade en episod av frossa före ankomst till sjukhuset. Han har kräkts en gång. Han förnekar förändrade vattenkastnings- eller avföringsvanor.\n\nHan uppger att han inte har några allergier eller överkänslighet. Han blev appendektomerad vid 18 års ålder. På vårdcentralen har man något år tidigare diagnosticerat ett förmaksflimmer och något förhöjda blodfetter. I läkemedelslistan, som han lämnar fram, står det tablett Waran enligt behandlingsschema samt Tablett Metoprolol 50 mg x1.\n\nI status finner du följande: AT: Smärtpåverkad. Ter sig orienterad. Kroppstemperatur 38,8. Ögonvitorna är antytt ikteriska. Saturation: 97% Hjärta: Oregelbunden rytm. Puls 94 slag/min. Blodtryck 150/95 mmHg. Lungor: Vesikulära andningsljud. Inga krepitationer eller rassel. Buk: Överviktig. Tvärgående ca 5 cm lång väl läkt ärr vid McBurneys punkt. Ömmar distinkt under höger arcus med antydd defence. Ingen palpabel resistens. Per rektum: Tomt i ampullen. Oömt.\n\nVid blodprovstagning finner man följande värden:\n\nB-Hb: 136 (ref 117-153 g/L) P- CRP: 162 (<3 mg/L) B-LPK:17,8 (3,5-8,8 x10/L) P-GT: 1,9 (< 2.0 mikrokat/L) P-Natrium:142 (137-145 mmol/L) P- Kalium: 3,4 (3,5-4,6 mmol/L) P-Kreatinin: 96 (< 90 mikromol/L) P- Bilirubin: 68 (< 26 mikromol/L) P-ASAT: 0,38 (< 0,61 mikrokat/L) P- glukos: 5,8 (4,0-6,0 mmol/L) P-ALAT: 0,42 (< 0,76 mikrokat/L) P- ALP: 2,3 (<1,9 mikrokat/L) P-albumin: 36 (36-45 g/L). P- Pankreasamylas < 0,13 (0,15- 1,1 mikrokat/L) P-PK(INR): 1,8 (<1,2) Urinsticka: 2+ ketoner\n\nDu har också ordinerat ett EKG, blodgruppering och bastest, PK/INR samt amylas. Blod- och urinodling togs samtidigt.\n\nDu gör bedömningen att patienten behöver utredas vidare med röntgenologisk diagnostik och läggas in på vårdavdelning. Du ordinerar dropp och smärtstillande. En remiss för ultraljud buk skrives och akutmärkes. Patient Michael är dock svårundersökt och undersökningen blir inkomplett.",
+          "contextImageUrl": "/images/exams/2018-08/page23_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilka är ultraljudets begränsningar vid undersökning av övre delen av buken? Nämn två patientrelaterade faktorer.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ultraljud av övre delen av buken kan bli inkomplett på grund av skymmande tarmgas och intraabdominellt fett. Smärta orsakat av tryck från transducern samt svårigheter att ligga still och medverka vid undersökningen kan även begränsa undersökningen. Anatomin kan vara en begränsande faktor ex levern kan var högt liggande och skymmas av revben."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Patient Michael har nu erhållit 1 liter Ringer-acetat intravenöst och 5 mg Morfin intravenöst på vårdavdelningen. Ett ultraljud av buken har påvisat en ömmande, utspänd, tjockväggig gallblåsa innehållande stenar.\n\nDå extrahepatiska gallvägar ej kan undersökas på grund av skymmande tarmgas och intraabdominellt fett genomförs en kompletterande datortomografi av lever och gallvägar.\n\nPreliminärsvaret från datortomografin är följande: ”Utspänd och tjockväggig gallblåsa med ett flertal olikstora konkrement. Dilaterade intra-och extrahepatiska gallvägar fram till en 15 mm stor ursparning vid papillen. Ingen ileusbild. I övriga intet avvikande inom de parenkymatösa organen”.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-2",
+              "text": "Patientens anamnes och avvikande röntgenfynd talar för ett särskilt sjukdomstillstånd. Ange namn på detta tillstånd.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Frossa, feber och förhöjda infektions- och leverprover talar för bakteriemi med gallvägsursprung (kolangit). Ultraljud och DT buk talar för cholecystit och misstänkt koledochussten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-3",
+              "text": "Ge förslag på antibiotika som kan vara lämpligt för denna patient? Motivera varför du väljer detta eller dessa preparat.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kan variera. Ex Piperacillin-tazobaktam, Cefotaxim/ Metronidazol/ampicillin (täckning enterokocker). Vid Pc-allergi: Trimetoprim-sulfametoxazol (Eusaprim) eller Ciprofloxacin. Ofta både aerob och anaerob infektion. Tarmpatogener. Aerober (E. coli, Klebsiella pneumoniae, Enterobacter, S. faecalis); anaerober (Bacteroides fragilis, Clostridium perfringens)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Michael läggs in på vårdavdelning med pågående infusion med Ringer-acetat och smärtlindras med injektion Morfin intravenöst vid behov. Första dosen antibiotika är given intravenöst.\n\nDu ringer nu och informerar din kollega om att den inlagda patienten uppvisar typiska symptom som vid akut kolangit med slängande feber, buksmärtor och ikterus (Charcot’s triad). CRP (C-reaktivt protein), som är ett akutfasprotein, är förhöjt som svar på den förmodade inflammationen i gallvägar.\n\nPatientens kliniska status tillsammans med röntgenfynd som talar för kolecystit samt sten i extrahepatiska gallvägar gör att ni beslutar er för att operationsanmäla patienten inom 6 timmar för en samtidig kolecystektomi och ERCP. PK/INR värdet är 1.8 och patienten har inte tagit tablett Waran på 1 dygn.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Patient Michael ställer följande frågor som du noggrant svarar på. Vad består gallstenar av och hur bildas gallstenar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gallsten kan bestå av kolesterol, bilirubin och kalcium samt mindre mängder fettsyror, triglycerider, proteiner och polysackarider. Gallan övermättad med kolesterol pga för hög kolesterolutsöndring (ex obesitas, DM), minskning av gallutsöndring mm. Överskottskolesterol tillsammans med mucin bildar mikrokristaller som kan bilda stenar. I djupa gallvägarna består primära stenar oftast av pigmentstenar bestående av kalcium-bilirubinat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "Vilka omedelbara kirurgiska komplikationer kan uppstå efter genomgången ERCP och kolecystektomi? Nämn 3 stycken. (1,5p)\n\nDu ritar en översiktlig bild över gallvägarna och förklarar för patient Michael hur man går till väga vid en galloperation och samtidig ERCP.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka omedelbara kirurgiska komplikationer kan uppstå efter genomgången ERCP och kolecystektomi? Nämn 3 stycken. (1,5p) Blödning, gallgångsskada (galläckage) och pankreatit."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": null,
+          "contextImageUrl": "/images/exams/2018-08/page26_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-3-3",
+              "text": "Vad heter de extrahepatiska gallvägarna? Fyll i de fyra anatomiska namnen på gallvägar från lever, gallblåsa och bukspottskörtel.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ductus hepaticus communis, ductus cysticus, ductus choledochus, ductus pancreaticus."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Patient Michael har nu fastat i över 6 timmar och är klar för att sövas för att genomgå den planerade operationen med kolecystektomi och per-operativ ERCP då den preliminära diagnosen är kolecystit och kolangit till följd av stenar i gallblåsa och gallvägar.\n\nHan har erhållit infusion Ringer-acetat, injektion Morfin iv och infusion Piperacillin- tazobaktam och är cirkulatoriskt stabil. Koagulationsprovet PK/INR är korrigerat. Han känner sig väl informerad om att operationen kan genomföras både med titthålsteknik och med öppen kirurgi. Han förstår också risken med sövning och eventuella kirurgiska komplikationer.\n\nDu har också ritat en bild för patienten som förklarar att gallan transporteras från lever till tolvfingertarm via flera gångar och att gallblåsan lagrar och koncentrerar gallan som en extra reserv vid framförallt fettrik mat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vid sövning av en patient med ett akut tillstånd i buken brukar anestesiologen använda tekniken ”rapid sequence induction” (RSI). Ge 2 exempel på åtgärder anestesiologen ibland vidtar vid sövning av patient med ”akut buk” och vilka risker man vill undvika och förebygga.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid ofullständig fasta eller förlångsammad ventrikeltömning tex vid diabetes, smärta och opiatmedicinering ökar risken för aspiration. Även många läkemedel som används inom anestesin ökar denna risk. Åtgärder kan vara höjd huvudända, v-sond och extubera sent. Krikoidtryck rekommenderas ej längre. Pre-oxygenering för att vädra ut kvävgas och skapa en syrgasdepå. Snabbverkande läkemedel av induktionsmedel och muskelrelaxerande läkemedel. Opiater kan blockera smärt- och stressreaktion av laryngoskopet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Vid längre kirurgiska ingrepp och sövning erhåller patienten ofta en urinvägskateter. Det finns medicinska fördelar med att en patient (som kan ta sig själv till toaletten) har en urinvägskateter postoperativt på den kirurgiska eftervårdsavdelningen. Nämn en fördel med att en patient erhåller en urinvägskateter.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid längre kirurgiska ingrepp och sövning erhåller patienten ofta en urinvägskateter. Det finns medicinska fördelar med att en patienten (som kan ta sig själv till toaletten) har en urinvägskateter postoperativt på den kirurgiska eftervårdsavdelningen. Nämn en fördel med att en patient erhåller en urinvägskateter. (0,5 p) Undvika överfylld blåsa. Mer korrekt vätskebalansmätning (ev timdiures) Kan mäta abdominellt tryck."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-3",
+              "text": "Nämn en nackdel med att en patient erhåller en urinvägskateter (förutom patientens subjektiva upplevelse av obehag och smärta).",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Risk för urinvägsinfektion. Blödning och skada på urethra vid inkorrekt katetersättning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-4",
+              "text": "En inte helt ovanlig komplikation till ERCP är pankreatit. Andra orsaker till pankreatit kan vara gallsten och tumörer i gallvägar och bukspottskörtel. Vilka övriga orsaker till pankreatit känner du till? Ange två förslag.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alkohol, trauma, kirurgi, läkemedel (flertal bl a antikolinergika, kortison), intorkning, hyperparathyreodism, hypercalcemi, hyperlipidemi. Infektioner (flertal bla påssjuka, röda hund och mycoplasma), autoimmuna sjukdomar (ex mb Crohn, vaskulit, SLE, cystisk fibros), tromboembolism."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-5",
+              "text": "Beskriv kortfattat varför en av dessa kan orsaka pankreatit.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ödem och obstruktion ex sten i ampulla Vaterii (Oddi) kan ge gallreflux in i pankreasgångarna och minska flödet från pankreasgången. Endotel i pankreasgången skadas och enzymer kan läcka ut i parenkymet. En direkt skada ex vid trauma (kirurgi) på de acinära cellerna kan leda till frisättning av aktiverat trypsin som skadar den omgivande vävnaden med ödem, blödning och nekros. Alkohol ger ökad vätske- och bikarbonatsekretion från pankreas, ökar trycket i gångar samt mängden fria syreradikaler."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Det är nu tisdag morgon och patient Michael blev opererad under gårdagen då han genomgick en laparoskopisk kolecystektomi och samtidig ERCP. En makroskopiskt inflammerad och benign gallblåsa exstirperades samt även en cm stor sten avlägsnades i distala ductus choledochus efter att en papillotomi endoskopiskt hade utförts. Han mår nu bättre, ingen feber har uppmätts inför ronden och buksmärtorna har nu övergått i ömhet och stramhet vid operationssåren (porthålen) som är sydda med enstaka, icke absorberbara suturer.\n\nEn nytillkommen smärta i höger axel har dock uppstått efter operationen vilket oroar honom och gör att han har svårt att ta djupa andetag. Blodprover som tagits på morgonen visar oförändrat normala värden på hemoglobin och elektrolyter. Resultat från blodprovstagning visar även sjunkande CRP och bilirubin jämfört med före operationen. Amylas är normalt.\n\nBlodtrycket är oförändrat (150/95) och vätskebalansen normal. Kirurgen planerar att återinsätta tablett Waran till kvällen då inga akuta postoperativa komplikationer har uppstått i form av blödning eller pankreatit.\n\nDu blir nu ombedd att inför hemgång besvara de frågor som patient och hustru ställer till dig. I ditt utskrivningsmeddelande med läkemedelsberättelse ger du postoperativa ordinationer samt några råd om vad han bör tänka på de följande veckorna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vad är den rimligaste förklaringen till att patienten upplever en smärta i axeln. Vad kallas detta fenomen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A. Refererad smärta. När den upplevda smärtan lokalisation inte överensstämmer med ursprung för var sjukdomen eller skadan uppkommit. Refererad smärta kan förklaras av konvergensteorin som innebär att neuron från viscera och somatiska afferenter (nociceptorisk aktivitet) konvergerar i ryggmärgens dorsalhorn och omkopplas till samma sekundära neuron i ryggmärgen. Hjärnan kan ej tolka från vilket primärt neuron signalerna i det sekundära neuronet kommer från utan tolkar smärtan som kommande från den somatiska nervens innervationsområde."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Vilka ytterligare råd vill du ge till patienten avseende fysisk ansträngning samt post-operativa ordinationer avseende smärtlindring och stygnborttagning. (1,5 p)\n\nPatienten och hans hustru blir mycket nöjda över ditt utförliga utskrivningssamtal och lämnar snart avdelningen. Du sätter dig i lugn och ro och påbörjar signering av laboratorie- och röntgensvar som väntar i din inkorg. Till din förvåning ser du att det dykt upp ett tillägg till den skiktröntgen (datortomografi) som patient Michael genomgick före operationen: ”I vänster binjure ses en cirka 0,5 cm stor välavgränsad homogen struktur med typiskt adenomutseende”.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka ytterligare råd vill du ge till patienten avseende fysisk ansträngning samt post-operativa ordinationer avseende smärtlindring och stygnborttagning. (1,5p)\n\nUndvika tunga lyft 2-6 v pga risk för porthålsbråck. Paracetamol. Oxikodon el morfinanaloger. Bör undvika NSAID pga blödningsrisk och Waranmedicinering. Suturborttagning 10-14 dagar postoperativt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-3",
+              "text": "Vid en röntgenologisk undersökning av en patient finner man ibland flera bifynd. Vid denna eftergranskning av röntgenbilder har man diagnosticerat en förändring i binjuren. Vad kallar du beskrivningen av detta fynd med ett annat ord?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med adrenalt incidentalom (AI) avses en förstoring av, eller expansiv process i, en eller båda binjurarna som upptäckts med CT, MRT eller ultraljud på annan indikation än misstanke om binjuresjukdom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-4",
+              "text": "Hur handlägger du fyndet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid en homogen och välavgränsad röntgenologiskt verifierad förändring <1 cm hos patient utan känd malignitet behövs ingen ytterligare DT-karakteristik eller radiologisk uppföljning. Biokemisk screening (hormonanalys) vid klinisk misstanke t ex aldosteronism."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Fall 4 Internmedicin",
+      "points": 20,
+      "intro": "Du är medicinjour på ett mellanstort sjukhus i Sverige, när du får ett stroke-larm. Sture 86 år som bor hemma med sin hustru, har insjuknat med högersidig svaghet och hustrun har larmat ambulans. Sture är vanligen uppegående, tar inga mediciner. Blodtrycket i ambulansen var 190/100.\n\nDetta är den information du har, du väljer att avstå från att komplettera den utan går snabbt vidare i din handläggning.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Varför är det bråttom vid misstänkt stroke?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärnceller dör för varje minut som syrebrist råder. Effekten av insatt behandling minskar över tid och ju tidigare insatt behandling desto bättre resultat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Du är medicinjour på ett mellanstort sjukhus i Sverige, när du får ett stroke-larm. Sture 86 år som bor hemma med sin hustru, har insjuknat med högersidig svaghet och hustrun har larmat ambulans. Sture är vanligen uppegående, tar inga mediciner. Blodtrycket i ambulansen var 190/100.\n\nHjärnceller dör för varje minut som syrebrist råder. Effekten av insatt behandling minskar över tid och ju tidigare insatt behandling desto bättre resultat. Vid strokelarm vill man därför inte onödigt fördröja den första DT undersökningen, det är rimligt att anamnes och status inte är heltäckande och man kan behöva ompröva sin initiala bedömning.\n\nDu skriver remiss för urakut DT-hjärna och funderar över kontraindikationer för trombolysbehandling. I FASS står 27 kontraindikationer uppräknade, flera anses vara av begränsad relevans nu när vi fått mer erfarenhet av behandlingen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Nämn 4 kontraindikationer som du anser är viktiga och motivera svaret.",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Intracerebral blödning, Insjuknandetid utom terapeutiskt intervall, pågående AK behandling, medvetslöshet, NIHSS"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du är medicinjour på ett mellanstort sjukhus i Sverige, när du får ett stroke-larm. Sture 86 år som bor hemma med sin hustru, har insjuknat med högersidig svaghet och hustrun har larmat ambulans. Sture är vanligen uppegående, tar inga mediciner. Blodtrycket i ambulansen var 190/100.\n\nEffekten av insatt behandling minskar över tid, vid strokelarm vill man därför inte onödigt fördröja den första DT undersökningen, det är rimligt att anamnes och status inte är heltäckande och man kan behöva ompröva sin initiala bedömning. Du skriver remiss för urakut DT-hjärna och funderar över kontraindikationer för trombolysbehandling.\n\nKontraindikatoner 1 Intracerebral blödning – direkt livshotande att behandla med trombolys, absolut kontraindikation.\n\n2 Pågående antikoagulantiabehandling, gäller warfarin (Waran)och alla övriga direktverkande antokoagulantia (sk NOAK) såsom Apixaban (Eliquis), Dabigatran (Pradaxa) , Rivaroxaban (Xarelto) och Edoxaban (Lixiana). – Om patienten tagit sina läkemedel ska man inte ge trombolys, men vi vet att compliance brister och om ett akut PK INR är under 1,6 kan man ge trombolys. När det gäller NOAK, kan man överväga trombolys om patienten inte tagit sin tablett de senaste 12-24 timmarna, Dabigatran har en antidot som upphäver effekten och patienter har erhållit trombolys efter reversering av dabigatraneffekten med Idarucizumab (Praxbind).\n\n3 Insjuknandetid, var insjuknandet bevittnat? Vid wake-up, när var patienten senast frisk? Om man inte vet säkert att vi befinner oss inom 4,5 timmar från insjuknandet – måste man avstå trombolys.\n\n4 Systoliskt Blodtryck > 185, en relativ kontraindikation, går ju att behandla med tex Trandate.\n\n5 Ålder – utgör ingen kontraindikation alls. Vi har nu fleråriga data att effekten överväger risken även hos patienter över 80 år.\n\n6 Medvetslöshet – om patienten är medvetslös kan man inte utföra ett neurologstatus enl. NIHSS (National Institute of Health Stroke Scale) och man kan inte utvärdera effekten.\n\n7 NIHSS > 25, relativ kontraindikation, talar för en mycket utbredd stroke, risk för hemorragisk omvandling, men som alltid får man väga risken mot nyttan. Det finns fler, med dessa bör man i varje fall tänka igenom. (1p per väl motiverad kontraindikation, max 4.)\n\nDu är medicinjour på ett mellanstort sjukhus i Sverige, när du får ett stroke-larm. Sture 86 år som bor hemma med sin hustru, har insjuknat med högersidig svaghet och hustrun har larmat ambulans. Sture är vanligen uppegående, tar inga mediciner. Blodtrycket i ambulansen var 190/100.\n\nEffekten av insatt behandling minskar över tid, vid strokelarm vill man därför inte onödigt fördröja den första DT undersökningen, det är rimligt att anamnes och status inte är heltäckande och man kan behöva ompröva sin initiala bedömning.\n\nSture insjuknade plötsligt med högersidiga bortfall. Hustrun larmade direkt och det har bara gått 40 minuter sedan insjuknandet. Du går vidare med urakut DT hjärna inom ”rädda hjärnan larm”.\n\nUndersökningen tolkas i Australien på jourtid, varför det blir några minuters fördröjning. Du väljer därför att själv titta på bilderna.\n\nIbland blir man förvånad, när DT undersökningen visar något oväntat. Du får nu 4 olika bilder, som kan dyka upp vid akut DT undersökning hos en patient som kommer in på strokelarm med, plötsligt insättande högersidig svaghet. Du kommer att vilja komplettera anamnesen, men nu först bara bedöma bilden och ta nästa steg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Bild nr 1 - Vilken diagnos misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page33_img1.jpeg",
+              "facit": [
+                "En förändring som ger misstankar om tumör, med ett ödem och viss överskjutning av medellinjen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Sture 86 år, som kom på strokelarm hemifrån, visade sig ha en förändring som ger misstankar om tumör, med ett ödem och viss överskjutning av medellinjen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilken initial behandling rekommenderar du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page34_img1.jpeg",
+              "facit": [
+                "Högdos kortison och kontakt med neurokirurg vid närmaste neurokirurgiska klinik."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Ytterligare utredning akut?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ytterligare utredning? (0,5p) Kontrastförstärkt DT / MR,  primärtumörutredning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Sture 86år, som kom på strokelarm hemifrån, visade sig ha en förändring som ger misstankar om tumör, med ett ödem och viss överskjutning av medellinjen\n\nDärför ordinerar du\n\n1.) Högdos kortison och kontakt med neurokirurg vid närmaste neurokirurgiska klinik\n\n2.) Kontrastförstärkt DT / MR, och sedan primärtumörutredning",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Bild nr 2 - Vilken diagnos misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page36_img1.jpeg",
+              "facit": [
+                "Intracerebral blödning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Sture 86, som kom på strokelarm hemifrån, visade sig ha en intracerebral blödning",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilken initial behandling rekommenderar du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page37_img1.jpeg",
+              "facit": [
+                "Sängläge med 30 graders höjd huvudända, blodtryckskontroll och S-Na > 140 mmol/liter, blodsockerkontroll, upprepade neurologstatus. Sture tog ingen blodförtunnande medicin men annars skulle man reversera eventuell antikoagulantia. Neurokirurgen bör kontaktas, även om det sällan är aktuellt med kirurgisk intervention."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Ytterligare utredning akut?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ytterligare utredning? (0,5p) Vidare utredning syftar till att avgöra orsaken till blödningen, hypertoniblödning? Blödning i ett cavernom? Blödning i en tumör? Cerebral amyloid angiopati? DT angio och eller MR"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Sture 86 år, som kom på strokelarm hemifrån, visade sig ha en intracerebral blödning\n\nDu ordinerar 1. Sängläge med 30 graders höjd huvudända, blodtryckskontroll och S-Na > 140 mmol/liter, blodsockerkontroll, upprepade neurologstatus. Sture tog ingen blodförtunnande medicin men annars skulle man reversera eventuell antikoagulantia. Neurokirurgen bör kontaktas, även om det sällan är aktuellt med kirurgisk intervention.\n\n2. Vidare utredning syftar till att avgöra orsaken till blödningen, hypertoniblödning? Blödning i ett cavernom? Blödning i en tumör? Cerebral amyloid angiopati? DT angio och eller MR",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Bild nr 3- Vilken diagnos misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page39_img1.jpeg",
+              "facit": [
+                "Visade sig ha ett kroniskt subduralhematom med färskt inslag och viss överskjutning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Sture 86 år, som kom på strokelarm hemifrån, visade sig ha ett kroniskt subduralhematom med färskt inslag och viss överskjutning",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Vilken initial behandling rekommenderar du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page40_img1.jpeg",
+              "facit": [
+                "Du kontaktar närmaste neurokirurg för ställningstagande till utrymning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-2",
+              "text": "Ytterligare utredning akut?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ytterligare utredning? (0,5p) Ytterligare bilddiagnostik behövs inte i akutskedet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Sture 86 år, som kom på strokelarm hemifrån, visade sig ha ett kroniskt subduralhematom med färskt inslag och viss överskjutning\n\n1. Du kontaktar närmaste neurokirurg för ställningstagande till utrymning\n\n2. Ytterligare bilddiagnostik behövs inte i akutskedet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Bild nr 4 - Vilken diagnos misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page42_img1.jpeg",
+              "facit": [
+                "A Bild nr 4 - Vilken diagnos misstänker du? (1p) Visade sig ha en normal DT hjärna."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Sture 86 år, som kom på strokelarm hemifrån, visade sig ha en normal DT hjärna. Insjuknandet var bevittnat av hustrun, det hade gått 40 min mellan insjuknandet och ankomst till sjukhuset. Nu har det gått ytterligare 30 minuter.\n\nVid förnyat neurologstatus får Sture totalt 9 poäng på NIHSS (National Institute of Health Stroke Scale) 3p för svaghet höger arm, 3p för svaghet höger ben, 2p för språk och 1p för orientering. Blodtrycket är nu 180/100",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Vilken initial behandling rekommenderar du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-08/page43_img1.jpeg",
+              "facit": [
+                "Sture får behandling med trombolys (0,9 mg alteplas/kg kroppsvikt (maximalt 90 mg) som intravenös infusion under 60 minuter, med 10 % av totaldosen given som initial intravenös bolus) omedelbart efter att DT hjärna har bedömts."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-10-2",
+              "text": "Ytterligare utredning akut?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du beställer också en DT-angiografi för att visualisera ocklusionen. I detta fall kunde någon tromb inte identifieras, varför trombektomi inte blev aktuell, utan patienten tas till strokeenheten. Alla patienter oavsett ålder, svårighetsgrad av stroke eller tidigare funktionsnivå är hjälpta av vård på strokeenhet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "Sture 86 år, som kom på strokelarm hemifrån, visade sig ha en normal DT hjärna. Insjuknandet var bevittnat av hustrun, det har gått 40 min mellan insjuknandet och att han kom till sjukhuset. Nu har det gått ytterligare 30 minuter. Vid förnyat neurologstatus får Sture totalt 9 poäng på NIHSS (National Institue of Health Stroke Scale) 3p för svaghet höger arm, 3p för svaghet höger ben, 2p för språk och 1p för orientering. Blodtrycket är nu 180/100\n\nBlödning har uteslutits, Sture tar ingen antikoagulantia, det har bara gått en dryg timme sedan insjuknandet, ålder är ingen kontraindikation för trombolys och blodtrycket är 180/100\n\n1. Sture får behandling med trombolys (0,9 mg alteplas/kg kroppsvikt (maximalt 90 mg) som intravenös infusion under 60 minuter, med 10 % av totaldosen given som initial intravenös bolus) omedelbart efter att DT hjärna har bedömts.\n\n2. Du beställer också en DT-angiografi för att visualisera ocklusionen. I detta fall kunde någon tromb inte identifieras, varför trombektomi inte blev aktuell, utan patienten tas till strokeenheten. Alla patienter oavsett ålder, svårighetsgrad av stroke eller tidigare funktionsnivå är hjälpta av vård på strokeenhet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Vilka fyra undersökningar ordinerar du för att hitta orsaken/riskfaktorer till varför denna patient fick en stroke. Motivera.",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                ". (4p 1 Blodtryckskontroller / hpertoni, 2 Telemetri/ Förmaksflimmer, 3 kolesterol, 4 blodsockerkontroll/ diabetes, 5 carotisduplex/ symtomgivande stenoser."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-12",
+          "context": "Sture insjuknade plötsligt med högersidiga bortfall. Hustrun larmade direkt och det har bara gått 40 minuter sedan insjuknandet. Sture hade en normal DT undersökning, fick trombolys inom 30 min från ankomst till sjukhuset, DT angio kunde inte visualisera någon tromb, varför patienten kunde stanna på strokenheten.\n\nPå strokeenheten ordinerar du upprepade blodtryckskontroller och paresschema, för att diagnosticera eventuell hypertoni, och eller försämring/ förbättring av symtomen. Hypertoni är en mycket vanlig riskfaktor och bör behandlas aktivt.\n\nTelemetri är också angeläget att koppla, ju längre man letar efter förmaksflimmer desto fler upptäcker man. Emboli från ett förmaksflimmer utgör orsaken till ischemisk stroke i minst 30% av fallen. Även paroxysmala förmaksflimmer kan orsaka embolisk stroke.\n\nKolesterol är en riskfaktor för åderförkalkning och arteriella tromboser, du bör kontrollera LDL kolesterol för att avgöra hur potent och vilken dos av statiner som bör sättas in. Diabetes är en riskfaktor för stroke, du bör kontrollera flera p-glukos, HbA1c och/eller OGTT (oral glukos tolerans test) för att utvärdera om patienten behöver specifika livsstilsråd eller farmakologisk behandling.\n\nCarotisduplex för att finna storkärlssjuka bör utföras och eventuell kärlkirurgi om man ser en tät symtomgivande stenos bör opereras inom 2 veckor för att ha bäst effekt. Ibland har DT angiografi visualiserat halskärlen och då behövs ingen carotisduplex. Symtomen går i regress under det att trombolysen administreras. Telemetri under 24 timmar visar inget förmaksflimmer, upprepade blodtryck ligger på 145-150/90, LDL- kolesterol 3,5. DT-angiografi visualiserade även halskärlen och man såg en 80%-ig stenos i höger carotis interna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-12-1",
+              "text": "Utgör denna stenos indikation för akut kärlkirurgi? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej, den högersidiga carotisstenosen har inte varit symtomgivande vid denna stroke, och asymtomatiska carotisstenoser behöver inte opereras akut."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-13",
+          "context": "Sture insjuknade plötsligt med högersidiga bortfall. Hustrun larmade direkt och det har bara gått 40 minuter sedan insjuknandet. Sture hade en normal DT undersökning, fick trombolys inom 30 min från ankomst till sjukhuset, DT angio kunde inte visualisera någon tromb, varför patienten kunde stanna på strokenheten.\n\nSymtomen går i regress under det att trombolysen droppar in. Telemetri 24 timmar visar inget säkert flimmer, upprepade blodtryck ligger på 145-150/90, LDL-kolesterol 3,5. DT-angio visualiserade halskärlen och man såg en 80%-ig stenos i höger carotis interna. Nej, den högersidiga carotisstenosen har inte varit symtomgivande vid denna stroke, och asymtomatiska carotisstenoser behöver inte opereras akut.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-13-1",
+              "text": "Vilken medicinsk behandling bör Sture få när han skrivs ut? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Trombocythämmare, statin och blodtrycksmedicin. 1p för 2 mediciner, 2 p om man nämner alla 3 läkemedel som bör förskrivas"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "id": "2016-05",
+  "title": "AT-prov maj 2016",
+  "date": "2016-05-20",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Kirurgi",
+      "points": 20,
+      "intro": "Du är jour på ett länssjukhus en fredagskväll när du tar du emot Filip, en 19-årig man som inkommer p.g.a. ett knivstick. Vid ankomsten är han orolig, men kan ändå berätta att han tog emot ett knivstick mot bålen för ca 45 minuter sedan. Såret är beläget i mellersta axillarlinjen på vänster sida. Det är ca 2,5 cm brett och du bedömer att det går in mellan costae 8 och 9. Du handlägger patienten enligt ATLS (Advanced Trauma Life Support), A-E.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Beskriv hur du genomför din undersökning motsvarande A och B.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Om patienten talar obehindrat bedöms övre luftvägen fri (A).",
+                "Du räknar andningsfrekvens, registrerar SaO2, observerar, palperar, perkuterar och auskulterar hals-thorax (B)."
+              ],
+              "facitExplanation": "A: bedöm luftvägen – talar patienten obehindrat är den fri. B: andningsfrekvens, SaO2, observation, palpation, perkussion och auskultation av hals-thorax.",
+              "tags": ["trauma", "knivstick", "ATLS", "ABCDE"]
+            },
+            {
+              "id": "1-1-2",
+              "text": "Vilka är dina frågeställningar under respektive undersökningsmoment (A respektive B)?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A: Är övre luftvägen fri?",
+                "B: Liksidiga och normala andningsrörelser, perkusionstoner och andningsljud? Cyanos? Halsvensstas? Trakeal deviation? Subkutant emfysem?"
+              ],
+              "facitExplanation": "Under A besvaras frågan om luftvägen är fri. Under B söker du tecken på pneumothorax, hemothorax eller ventilpneumothorax: liksidiga rörelser, andningsljud, perkussionstoner, cyanos, halsvensstas, trakeal deviation och subkutant emfysem.",
+              "tags": ["trauma", "knivstick", "pneumotorax", "ATLS"]
+            },
+            {
+              "id": "1-1-3",
+              "text": "Vilken behandling startar du oavsett utfallet av din undersökning? (Frågan avser enbart moment relaterade till A och B)",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Syrgasbehandling."
+              ],
+              "facitExplanation": "Syrgasbehandling ges oavsett utfall av A- och B-undersökningen vid trauma.",
+              "tags": ["trauma", "ATLS", "syrgasbehandling"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Du bedömer att övre luftvägen är fri då patienten talar obehindrat. Patientens SaO2 bedömd med pulsoxymeter är 92 % och andningsfrekvensen 28/minut. Du ordinerar syrgas. Du palperar thorax och finner symmetriska andningsrörelser. Auskultationen är svårvärderad då Filip är orolig, men du uppfattar ändå att andningsljuden är svagare på vänster sida. Du ser ingen halsvensstas, trakeal deviation eller subkutant emfysem. Du beslutar dig för att snabbt ta en frontal lungröntgenbild på akutrummet. Denna visar en pneumothorax på vänster sida; luftspalten är maximalt 5 cm. Det finns en mindre mängd vätska på samma sida.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Patientens pneumothorax är rimligen traumatisk. Vilken/vilka mekanismer kan ligga bakom hans pneumothorax?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Enbart skada på bröstkorgsväggen är möjligt, men troligen föreligger en kombination med lung-/luftvägsskada."
+              ],
+              "facitExplanation": "Knivstick i laterala thorax kan skada bröstkorgsvägg och/eller lunga. En isolerad bröstkorgsväggsskada kan ge pneumothorax men det troligaste är en kombinerad skada med lungparenkym eller luftvägar.",
+              "tags": ["pneumotorax", "trauma", "knivstick"]
+            },
+            {
+              "id": "1-2-2",
+              "text": "Vilken/vilka åtgärder bör vidtas? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Såret täcks med lufttätt förband.",
+                "Pleuradränage anläggs på vänster sida för att expandera lungan, förbättra ventilationen och eliminera risken för ventilpneumothorax."
+              ],
+              "facitExplanation": "Lufttätt förband förhindrar vidare luftinsug. Pleuradränage evakuerar luft och vätska, låter lungan expandera och eliminerar risk för livshotande ventilpneumothorax.",
+              "tags": ["pneumotorax", "thoraxdränage", "trauma"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Filips pneumothorax skulle kunna vara orsakad enbart av en skada på bröstkorgsväggen, men det troligaste är att även lungan är skadad. Såret täcks med lufttätt förband och ett pleuradränage anläggs på vänster sida. När lungan expanderar förbättras ventilationen; åtgärden eliminerar risken för utveckling av ventilpneumothorax. Efter detta värderar du cirkulationen. Pulsfrekvensen är 98 slag/minut och blodtrycket 115/65 mmHg. SaO2 har stigit till 96%. Efter initial bedömning A-E uppfattar du Filip som stabil och du går vidare till sekundär evaluering. Du genomför bl.a. ett komplett bukstatus.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vilka frågeställningar vill du besvara med din bukundersökning?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Finns tecken på intraabdominell skada i form av blödning eller organperforation (peritonit)?"
+              ],
+              "facitExplanation": "Vid knivstick mot nedre thorax/övre buk ska man utesluta intraabdominell skada, framför allt blödning och organperforation med peritonitutveckling.",
+              "tags": ["trauma", "knivstick", "bukundersökning", "peritonit"]
+            },
+            {
+              "id": "1-3-2",
+              "text": "Beskriv momenten i din bukundersökning och ange vilka fynd du söker för att besvara dina frågeställningar.",
+              "maxPoints": 4,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektion: Är buken uppdriven eller sammanfallen? Asymetri? Blödning kan ge uppdriven buk, eventuellt med asymetri.",
+                "Auskultation: Blödning och organperforation kan ge tarmparalys med upphävda tarmljud. Tidsaspekten gör parametern svårbedömd.",
+                "Perkussion: Blödning kan ge dämpad ton. Peritonit kan göra perkussionen smärtsam.",
+                "Palpation: Peritoneal svullnad och ömhet vid blod eller tarminnehåll i buken. Ökad smärta vid hosta/rörelse talar för peritoneal retning. Bedöm retningens utbredning."
+              ],
+              "facitExplanation": "En systematisk bukundersökning inkluderar inspektion (uppdrivning, asymetri), auskultation (tarmljud), perkussion (dämpning, smärta) och palpation (ömhet, defence, peritoneal retning). Samtliga fynd kopplas till misstanke om blödning eller peritonit.",
+              "tags": ["bukundersökning", "trauma", "peritonit"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Din frågeställning när du undersöker buken är om det finns tecken på intraperitoneal skada, som kan utgöras av blödning och/eller organperforation. Vid inspektion uppfattar du buken lätt uppdriven på vänster sida. Filip ömmar över en motsvarande svullnad. Du hör inga tarmljud. Vid ny evaluering är Filips vitalparametrar försämrade: RLS 2; pulsfrekvens 129/minut; blodtryck 90/65 mmHg; SaO2 92% (10 liter O2). Din bedömning är att det kan finnas blod i buken; säkrast är omedelbar laparotomi. Vid operationen finner ni en skada på diafragma på vänster sida samt ett rejält hematom som utgår från en skada på mjälthilus. Ni beslutar om splenektomi och suturerar defekterna i diafragma och i thoraxväggen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Du erinrar dig att patienter utan mjälte skall vaccineras; rutinmässigt används två vaccin. Mot vilka bakterier riktar sig vaccinationen?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pneumokoccer och meningokoccer."
+              ],
+              "facitExplanation": "Splenektomerade patienter vaccineras rutinmässigt mot pneumokoccer (Streptococcus pneumoniae) och meningokoccer (Neisseria meningitidis) på grund av ökad infektionsrisk.",
+              "tags": ["splenektomi", "vaccination", "trauma"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Splenektomerade patienter vaccineras rutinmässigt mot pneumokoccer och meningokoccer.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Dessa två bakterier har en gemensam egenskap, som är avgörande för att patienter utan mjälte behöver vaccineras mot dem. Vilken är denna egenskap?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pneumokoccer och meningokoccer är båda kapselbärande. Mjälten bidrar till skyddet mot infektioner av kapselbärande bakterier."
+              ],
+              "facitExplanation": "Båda är kapselbärande bakterier. Mjälten är central för opsonisering och fagocytos av kapselbärande bakterier; utan mjälte minskar detta skydd markant.",
+              "tags": ["splenektomi", "vaccination", "immunologi"]
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vad svarar du? Beskriv förutsättningar för, och planering av avvecklingen av pleuradränaget.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förutsättning för drändragning är att det inte föreligger läckage av luft eller väsentliga mängder vätska.",
+                "Dränaget observeras avseende luftläckage i vattenlåset. Patientens ventilation bedöms kliniskt inklusive auskultation.",
+                "Vid upphört läckage kan dränaget stängas av ca fyra timmar och status kontrolleras med lungröntgen. Alternativt drändragning utan föregående avstängning."
+              ],
+              "facitExplanation": "Dränaget avlägsnas när luftläckaget upphört och ventilationen är återställd. Metoden inkluderar klinisk bedömning, eventuell radiologisk kontroll efter avstängning eller direktdrändragning.",
+              "tags": ["thoraxdränage", "pneumotorax", "postoperativ vård"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Fyra dagar efter ingreppet rapporteras Filip försämrad. Buken är uppdriven och ömmande fr.a. på vänster sida. Filip har kräkts och förnekar gasavgång. Temperaturen är 38,8°C; CRP 290 (<5) mg/l; Hb 119 (134–170) g/L; LPK 16,2 (3–9 ×10⁹/l); S-Na 136 (137–145) mmol/L; S-K 4,5 (3,6–4,6) mmol/L; S-kreatinin 112 (45–90) µmol/l.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Du remitterar till datortomografi av buken. Vilka är dina frågeställningar?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gasfördelning i buken – fri gas?",
+                "Tecken på inflammation: vätska, svullnad eller avgränsad abscess?",
+                "Vänstersidig njur- eller urinvägsskada är ytterligare en relevant frågeställning."
+              ],
+              "facitExplanation": "Frågeställningarna innefattar fri gas i buken (läckage), förekomst av abscess eller vätskeansamling, samt möjlig njur-/urinvägsskada.",
+              "tags": ["postoperativ komplikation", "abscess", "DT-buk"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Svaret efter datortomografi av buken: \"Status efter splenektomi. Mindre mängd fri gas i buken. Ventrikeln är utspänd och full med vätska. Övriga delar av tarmen (tunntarm + kolon) är generellt lätt dilaterade. På platsen för mjälten ses en 6 × 8 × 12 cm stor avgränsad vätskeansamling, som delvis innehåller gas.\"",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Hur tolkar du fyndet \"mindre mängd fri gas i buken\"?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mindre mängd fri gas i buken fyra dagar efter en laparotomi kan vara normalt, men är ett observandum om patientens förlopp avviker från det förväntade."
+              ],
+              "facitExplanation": "Residualgas efter laparotomi kan kvarstå några dagar och är inte alltid patologiskt, men i kombination med klinisk försämring och inflammationsparametrar är det ett viktigt fynd.",
+              "tags": ["postoperativ komplikation", "radiologi", "fri gas"]
+            },
+            {
+              "id": "1-7-2",
+              "text": "Du avser diskutera läget med överläkaren på avdelningen, men inser att det finns åtgärder som behöver vidtas direkt. Vilka är dina ordinationer? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ventrikelsond (ventrikeln är utspänd).",
+                "Blododling följt av antibiotika (rimlig abscess med infektionstecken i labprover).",
+                "Ökad vätsketillförsel (förhöjt kreatinin och paralytisk tarm)."
+              ],
+              "facitExplanation": "Ventrikelsond avlastar utspänd ventrikel. Blododling + antibiotika behandlar sannolik abscess. Ökad vätska korrigerar dehydrering/prerenal njurpåverkan.",
+              "tags": ["abscess", "postoperativ komplikation", "antibiotikabehandling"]
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Den avgränsade, gasinnehållande vätskan är rimligen en abscess som behöver dräneras. Vid reoperation finner ni en abscess i övre vänstra delen av buken orsakad av en genomgående skada på vänster kolonflexur som förbisetts vid förra ingreppet. Skadan kräver resektion och ni bedömer att kolostomi är säkrast. Filip skrivs ut efter ytterligare 10 dagars vård. Vid återbesök två månader senare mår han bra och planeras för stominedläggning. En månad senare söker han akut med \"stomin som inte fungerar – inte tömt påsen på två dagar\". Han har haft ont i buken sedan dagen innan och kräkts vid två tillfällen. Buken är generellt uppdriven men mjuk. Stomipåsen är tom; afebril.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Hur bedömer du den aktuella situationen (mest sannolik diagnos?) och hur bemöter du patientens egen förklaringsmodell (att bristande stomifunktion är orsaken till hans problem)?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mest sannolik diagnos: tarmobstruktion (mekaniskt ileus). Andra diagnoser med inslag av tarmparalys är möjliga.",
+                "Förklaring till patienten: ett hinder i tarmen gör att passagen till stomin uteblir – det är hindret som är orsaken, inte stomin i sig."
+              ],
+              "facitExplanation": "Mekaniskt ileus är vanlig komplikation efter bukkirurgi och förklarar utebliven stomifunktion. Patienten behöver förstå att stomin inte är defekt utan att ett hinder proximalt hindrar passage.",
+              "tags": ["ileus", "stomi", "postoperativ komplikation"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Internmedicin",
+      "points": 20,
+      "intro": "Du arbetar som primärjour på medicinakuten en höstkväll när du larmas till akutrummet. In kommer en svårt andningspåverkad kvinna i 70-årsåldern. Patienten är själv alltför medtagen för att lämna någon anamnes. Enligt ambulanssköterskan har patienten, som är på tillfälligt besök i staden, varit dålig några dagar och försämrats ytterligare sista timmarna, varför anhöriga larmat ambulans.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka moment (vad och i vilken ordning) ingår i din initiala bedömning? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ABCDE-systematik: A – fri luftväg?, B – lungauskultation, andningsfrekvens och pulsoximetri, C – puls och blodtryck, D – vakenhet/medvetandegrad, E – temperatur.",
+                "Systematiken säkerställer att livshotande tillstånd inte missas."
+              ],
+              "facitExplanation": "ABCDE-principen (Airway, Breathing, Circulation, Disability, Exposure) används för att strukturerat och prioriterat identifiera livshotande tillstånd.",
+              "tags": ["ABCDE", "akutmedicin", "andningssvårigheter"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du bedömer patienten enligt ABCDE och finner fria luftvägar (A), rassel och expiratoriska ronki vid lungauskultation, andningsfrekvens 30/minut och syrgassaturation 85% (B), hjärtfrekvens 100/minut och blodtryck 130/80 mmHg (C), patienten är vaken RLS 1 (D) och temperaturen är 37,5°C (E).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Ge förslag på preliminärdiagnos och tre rimliga differentialdiagnoser. Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Utifrån hög andningsfrekvens och sänkt SaO2 är de sannolikaste diagnoserna: hjärtsvikt med inkompensation (preliminärdiagnos), KOL-exacerbation, lunginflammation (pneumoni) och lungemboli."
+              ],
+              "facitExplanation": "Andnöd + rassel + ronki + sänkt saturation hos äldre kvinna utan anamnes ger breda differentialdiagnoser. Hjärtsvikt är vanligast, men KOL-exacerbation, pneumoni och lungemboli måste uteslutas.",
+              "tags": ["hjärtsvikt", "KOL", "differentialdiagnostik", "andningssvårigheter"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Din bedömning är att patienten mest sannolikt har hjärtsvikt med inkompensation, alternativt KOL-exacerbation, lunginflammation eller lungemboli.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilka specifika statusuppgifter, som kan hjälpa dig att skilja mellan ovanstående diagnoser, saknar du? Motivera och koppla fynd till ovanstående diagnoser.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Halsvensstas? (hjärtsvikt)",
+                "Perifera ödem? (hjärtsvikt)",
+                "Hjärtauskultation – blåsljud? (hjärtsvikt)",
+                "Ensidig bensvullnad? (lungemboli)",
+                "Kroppskonstitution – tunnformad thorax och avmagring? (KOL)",
+                "Lungperkussion: dämpning (pneumoni eller hjärtsvikt), hypersonor ton (KOL)"
+              ],
+              "facitExplanation": "Specifika statusfynd riktar diagnostiken: halsvenstas/ödem pekar mot hjärtsvikt, ensidig bensvullnad mot lungemboli, tunnformad thorax mot KOL, perkussionsdämpning mot pneumoni/vätska.",
+              "tags": ["hjärtsvikt", "KOL", "lungemboli", "klinisk undersökning"]
+            },
+            {
+              "id": "2-3-2",
+              "text": "Vilka patientnära undersökningar (som kan utföras på akutrummet) bedömer du mest relevanta i nuläget? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Arteriell blodgas, EKG och (ekokardiografi)."
+              ],
+              "facitExplanation": "Blodgas ger information om syresättning och ventilation. EKG kan visa ischemitecken, arytmier eller högerbelastning (lungemboli). Ekokardiografi kan bedöma vänster- och högerkammarfunktion direkt.",
+              "tags": ["EKG", "blodgas", "akutmedicin"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du undersöker henne närmare och finner bland annat pretibiala pittingödem och halsvenstas men du hör inga kardiella blåsljud. Du ordinerar EKG (se nedan), arteriell blodgas (pH 7,38, Laktat 0,9 mmol/l, pCO2 4,9 kPa, pO2 7,4 kPa, Basöverskott -2 mmol/l, syrgasmättnad 87%), och kapillärt CRP 10 mg/l (<5).",
+          "contextImageUrl": "/images/exams/2016-05/ekg-limb-leads.jpeg",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Tolka EKG.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": "/images/exams/2016-05/ekg-chest-leads.jpeg",
+              "facit": [
+                "Sinustakykardi.",
+                "Inferolateral ST-sänkning.",
+                "Främre vänstersidigt hemblock (LAH – left anterior hemiblock)."
+              ],
+              "facitExplanation": "EKG visar sinustakykardi och vänstersidigt främre skänkelblock (LAH) samt ST-sänkningar inferolateralt, förenligt med hjärtsvikt/ischemisk hjärtsjukdom.",
+              "tags": ["EKG", "hjärtsvikt", "ischemisk hjärtsjukdom"]
+            },
+            {
+              "id": "2-4-2",
+              "text": "Vilken diagnos bedömer du nu mest sannolik? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärtsvikt är mest sannolik diagnos. Halsvenstas, perifera ödem och EKG-bilden med ST-sänkningar och LAH stödjer detta."
+              ],
+              "facitExplanation": "Kombinationen av halsvenstas, pittingödem och EKG-förändringar gör hjärtsvikt till den mest sannolika diagnosen.",
+              "tags": ["hjärtsvikt", "EKG", "diagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "EKG visar sinustakykardi och vänstersidigt främre skänkelblock samt ST-sänkningar inferolateralt. Du bedömer hjärtsvikt som den mest sannolika diagnosen. Patienten försämras: andningsfrekvensen går upp, SaO2 sjunker till 80% trots 3 liter syrgas på grimma. Blodtrycket stiger till 180/95 mmHg. Du hör blöta rassel över hela lungfälten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Du bedömer det som ett lungödem. Vad ordinerar du för farmakologisk behandling?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Morfin, intravenös loopdiuretika (furosemid) och nitroglycerin."
+              ],
+              "facitExplanation": "Triplettbehandling: morfin (ångestlindring, sympatikusdämpning), iv furosemid (diures, preloadminskning) och nitroglycerin (vasodilatation, preload- och afterloadminskning).",
+              "tags": ["lungödem", "hjärtsvikt", "akutbehandling"]
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Din bedömning är att patienten har utvecklat ett lungödem och du ordinerar 10 liter syrgas på mask, morfin, furosemid iv samt nitroglycerin buccalt. Patienten förbättras något, men inte tillräckligt – SaO2 ligger kvar strax över 80% och blodtrycket är oförändrat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Motivera och förklara den kliniska effekten för ovanstående läkemedel i generella termer relaterat till den aktuella kliniska situationen.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Morfin: ångestlindring och minskning av sympatikuspåslag.",
+                "Intravenöst loopdiuretika (furosemid): minskar cirkulerande volym och därmed preload.",
+                "Nitroglycerin: dilaterar perifert och avlastar hjärtat genom minskat preload och afterload."
+              ],
+              "facitExplanation": "Samtliga läkemedel minskar hjärtats arbetsbelastning. Morfin dämpar sympatikuspåslag. Furosemid minskar preload via ökad diures. Nitroglycerin minskar preload (vendilatation) och afterload (artärdilatation).",
+              "tags": ["lungödem", "hjärtsvikt", "farmakologi"]
+            },
+            {
+              "id": "2-6-2",
+              "text": "Vilken icke-farmakologisk behandling riktad mot hennes andningssvårigheter överväger du i detta skede?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CPAP (Continuous Positive Airway Pressure)."
+              ],
+              "facitExplanation": "CPAP är förstahandsval som icke-farmakologisk behandling vid lungödem som inte svarar tillräckligt på farmakologisk behandling.",
+              "tags": ["CPAP", "lungödem", "andningsstöd"]
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Patienten erhåller CPAP-behandling och förbättras snabbt. Vid rond är hon opåverkad i vila men blir andfådd vid förflyttning ca 20 m. Journalkopior visar hjärtinfarkt för 5 år sedan, kliniskt kompenserad vid återbesök. Ekokardiografi efter infarkten visade mindre hypokinesi lateralt men bevarad vänsterkammarfunktion.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Förklara vad CPAP-behandling har för positiva fysiologiska effekter vid lungödem.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CPAP ger minskat alveolärt och interstitiellt ödem, ökar intrathorakalt tryck vilket minskar preload, och minskar blodtryck vilket minskar afterload."
+              ],
+              "facitExplanation": "CPAP ökar det funktionella residualkapaciteten, minskar atelektaser, reducerar alveolärt ödem och minskar hjärtats arbete via minskat venöst återflöde (preload) och afterload.",
+              "tags": ["CPAP", "lungödem", "fysiologi"]
+            },
+            {
+              "id": "2-7-2",
+              "text": "Vilken funktionsklass, enligt New York Heart Association (NYHA), bedömer du att patienten befinner sig i nu? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "NYHA klass III – symtom redan vid måttlig till lätt ansträngning (andnöd vid ca 20 meters promenad)."
+              ],
+              "facitExplanation": "NYHA III innebär symtom vid lätt till måttlig ansträngning. Patienten är opåverkad i vila men andfådd vid 20 meters gång, vilket stämmer med NYHA III.",
+              "tags": ["hjärtsvikt", "NYHA-klassificering"]
+            },
+            {
+              "id": "2-7-3",
+              "text": "Du har fått svar på nt-pro-BNP; detta är 6000 ng/l (<400 ng/l). Vad har nt-pro-BNP för fysiologisk funktion och varför är det förhöjt hos patienter med hjärtsvikt?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "NT-pro-BNP är en natriuretisk peptid som insöndras som svar på höga fyllnadstryck i hjärtat (kammarväggssträckning).",
+                "Vid hjärtsvikt ökar fyllnadstrycken vilket stimulerar utsöndringen – förhöjt värde talar starkt för hjärtsvikt."
+              ],
+              "facitExplanation": "BNP/NT-pro-BNP frisätts från myokardceller vid ökad kammarväggssträckning till följd av volymöverbelastning. Det verkar natriuretiskt och vasodilatatoriskt som kompensatorisk mekanism. Förhöjda värden bekräftar hjärtsviktsdiagnosen.",
+              "tags": ["hjärtsvikt", "BNP", "biomarkörer"]
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Ekokardiografi visar normalvid högerkammare med normal funktion, dilaterad vänsterkammare med generellt nedsatt funktion och ejektionsfraktion ca 30%. Läkemedelslistan: Trombyl 75 mg x1, Metoprolol 100 mg x1, Simvastatin 40 mg t.n. samt Furix 40 mg x1 (insatt detta vårdtillfälle).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Definiera begreppet ejektionsfraktion.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ejektionsfraktionen är den andel av slutdiastoliska vänsterkammarvolymen som pumpas ut i aorta per slag: EF = Slagvolym / Slutdiastolisk volym × 100 (%)."
+              ],
+              "facitExplanation": "Normal EF är ≥55%. EF 30% innebär kraftigt nedsatt systolisk vänsterkammarfunktion.",
+              "tags": ["hjärtsvikt", "ekokardiografi", "kardiologi"]
+            },
+            {
+              "id": "2-8-2",
+              "text": "Det har blivit dags att skriva hem patienten. Vilket/vilka ytterligare läkemedel bedömer du skall övervägas? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ACE-hämmare (t.ex. ramipril, enalapril) – har visat gynnsam effekt på morbiditet och mortalitet hos patienter med hjärtsvikt och sänkt vänsterkammarfunktion.",
+                "Angiotensinreceptorblockerare (ARB) som alternativ om ACE-hämmare inte tolereras.",
+                "Mineralokortikoidantagonist (spironolakton eller eplerenon) – har också prognostiskt gynnsam effekt vid sänkt EF."
+              ],
+              "facitExplanation": "Vid hjärtsvikt med sänkt EF (HFrEF) är ACE-hämmare hörnstensbehandling. ARB kan ersätta ACE-hämmare vid intolerans. MRA (spironolakton/eplerenon) ger ytterligare mortalitetsvinst i tillägg till ACE-hämmare + betablockerare.",
+              "tags": ["hjärtsvikt", "ACE-hämmare", "farmakologi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du har akutmottagning på vårdcentralen när Nils, 16 år, söker för halsont. Hans mamma är med vid besöket. Han är frisk i övrigt, idrottar mycket och spelar framförallt ishockey. Han har haft ordentligt ont i halsen i fem dagar och har hög feber sedan tre dagar med en temperatur på 39°C. Ingen hosta. Lite grötigt tal. Ingen liknande sjukdom förekommer i omgivningen.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": "När du undersöker honom ser du detta halsstatus.",
+          "contextImageUrl": "/images/exams/2016-05/hals-tonsillit.jpeg",
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vad blir dina alternativa diagnoser? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tonsillit (bakteriell, vanligen streptokocker).",
+                "Mononukleos (EBV-infektion/körtelfeber)."
+              ],
+              "facitExplanation": "Halsstatus med röda, belagda tonsiller hos ung patient med hög feber och halsont utan hosta är förenligt med både bakteriell tonsillit och mononukleos. Dessa är de viktigaste differentialdiagnoserna.",
+              "tags": ["tonsillit", "mononukleos", "GAS", "differentialdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Du bedömer att bilden kan stämma med antingen tonsillit eller mononukleos.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vad undersöker du förutom mun- och svalg på Nils? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ytliga lymfkörtlar (generaliserad lymfadenopati talar för mononukleos).",
+                "Lungor (auskultation) och buk (palpation av lever och mjälte – splenomegali vid mononukleos)."
+              ],
+              "facitExplanation": "Mononukleos ger ofta generaliserad lymfadenopati och organengagemang (splenomegali, hepatomegali). Palpation av lymfkörtlar och buk samt lungauskultation är centralt för att skilja mononukleos från tonsillit.",
+              "tags": ["mononukleos", "tonsillit", "klinisk undersökning"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du noterar att Nils har ett flertal ömma, förstorade och svullna lymfkörtlar i halsregionen. Lungorna auskulteras normala. Han ömmar lätt i buken upptill vänster.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vilka akutprover beställer du för att erhålla direkt svar på vårdcentralen? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Snabbtest för streptokocker (utesluta bakteriell tonsillit).",
+                "Snabbtest för mononukleos (heterofila antikroppar, t.ex. Monospot)."
+              ],
+              "facitExplanation": "Snabbtester möjliggör direkt svar på vårdcentralen. Streptotest utesluter GAS-tonsillit. Monospot/mononukleostest detekterar heterofila antikroppar vid EBV-infektion.",
+              "tags": ["tonsillit", "mononukleos", "GAS", "snabbtest"]
+            },
+            {
+              "id": "3-3-2",
+              "text": "Med tanke på att halsstatus kan stämma överens med både tonsillit och mononukleos ordinerar du snabbtester för streptokocker och mononukleos. Båda dessa undersökningar visar sig vara negativa. Vad blir ditt nästa steg för att komma närmare rätt diagnos? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kompletterande provtagning med svalgodling (utesluta streptokocker vid negativt snabbtest).",
+                "Leukocyter med differentialräkning (atypiska lymfocyter vid mononukleos)."
+              ],
+              "facitExplanation": "Negativt snabbtest utesluter inte definitivt GAS-tonsillit – svalgodling ger säkrare svar. Differentialräkning kan påvisa atypiska lymfocyter typiska för mononukleos.",
+              "tags": ["tonsillit", "mononukleos", "diagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du beställer leukocyter med differentialräkning och svalgodling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Du träffar Nils dagen efter och har fått provsvar. Leukocyterna är 25 ×10⁹/L med neutrofila celler på 25% och något atypiska lymfocyter på 70% med basofil cytoplasma. (Övrigt blodstatus ua.) Svalgodlingen är negativ. Hur tolkar du svaret?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bedöms som en virusorsakad halsinfektion som kan stämma med mononukleos: kraftig lymfocytos med atypiska lymfocyter och negativ svalgodling."
+              ],
+              "facitExplanation": "Lymfocytos med atypiska lymfocyter (basofil cytoplasma, reaktiva T-celler) och negativ bakterieodling talar starkt för viral orsak, i första hand mononukleos orsakad av EBV.",
+              "tags": ["mononukleos", "provtolkning", "hematologi"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Din bedömning är att bilden kan stämma med en virusorsakad halsinfektion, i första hand mononukleos. Nils mamma arbetar i sjukvården och är mycket orolig för att du inte helt säkert kan säga vad detta är och undrar om det inte kan vara början till leukemi med tanke på de kraftigt förhöjda atypiska lymfocyterna och svullna lymfkörtlar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vad svarar du?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den kliniska bilden är typisk för körtelfeber (mononukleos) liksom förekomsten av atypiska lymfocyter.",
+                "Avsaknaden av omogna celler bland leukocyterna talar mot leukemi.",
+                "Enstaka fall av EBV-infektion kan ge ett lymfoproliferativt syndrom, men detta är sällsynt."
+              ],
+              "facitExplanation": "Atypiska lymfocyter vid mononukleos är reaktiva T-celler, inte maligna celler. Frånvaron av blastar/omogna celler skiljer tillståndet från leukemi. Den kliniska bilden (feber, halsont, lymfadenopati) är typisk för EBV-infektion.",
+              "tags": ["mononukleos", "leukemi", "patientkommunikation"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Du informerar mamma om att den kliniska bilden stämmer väl överens med körtelfeber och att atypiska lymfocyter syns vid infektioner som mononukleos och att det inte finns några omogna celler bland leukocyterna. Du har emellertid inte någon helt säker diagnos.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Finns det ytterligare provtagning som kan hjälpa dig? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Transaminaser (ASAT, ALAT) med tanke på leverpåverkan vid mononukleos.",
+                "Serologi för EBV (Epstein-Barrvirus) kan övervägas för specifik diagnos."
+              ],
+              "facitExplanation": "Leverpåverkan är vanlig vid mononukleos. Transaminaser hjälper att kartlägga leverskadan. EBV-serologi med IgM och IgG ger specifik bekräftelse av diagnosen.",
+              "tags": ["mononukleos", "EBV", "leverprover"]
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Du beställer transaminaser med tanke på leverpåverkan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Dessa prover på Nils visar s-ASAT 4,0 µkat/L (<1,0) och s-ALAT 5,0 µkat/L (<1,0). Vilken är mekanismen bakom de förhöjda transaminaserna?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I stort sett alla med mononukleos får en hepatitretning med läckage av transaminaser från levercellerna. Även övriga leverprover kan påverkas."
+              ],
+              "facitExplanation": "EBV infekterar leverceller och ger en hepatit med cellyskada och läckage av intracellulära enzymer (ASAT, ALAT) till blodet.",
+              "tags": ["mononukleos", "hepatit", "leverprover"]
+            },
+            {
+              "id": "3-7-2",
+              "text": "Serologi för Epstein-Barrvirus är specifikt för mononukleos men behöver sällan användas. EBV visar i detta fallet förhöjt IgM men normalt IgG. Hur tolkar du det?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förhöjt EBV-IgM säkerställer diagnosen mononukleos och tyder på primärinfektion. IgM ses tidigt i förloppet och sjunker sedan, medan IgG stiger och kan kvarstå livslångt."
+              ],
+              "facitExplanation": "Vid primär EBV-infektion stiger IgM tidigt och sjunker sedan. IgG stiger senare och kvarstår som immunologiskt minne. Förhöjt IgM med normalt IgG bekräftar pågående primärinfektion.",
+              "tags": ["mononukleos", "EBV", "serologi"]
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Nils mår inte bra och undrar om han kan få penicillin som en kompis blev bra av när han hade halsont och feber. Vad svarar du och vilken behandling rekommenderar du?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Penicillin har ingen effekt vid virusorsakad mononukleos och ska inte ges.",
+                "NSAID kan dämpa symtom. Vid svårigheter med andning och nutrition bör sjukhusvård övervägas."
+              ],
+              "facitExplanation": "Mononukleos är virusorsakad – antibiotika har ingen effekt. Amoxicillin/ampicillin ska aktivt undvikas då det ger exantem vid mononukleos. Symtomatisk behandling med NSAID rekommenderas.",
+              "tags": ["mononukleos", "antibiotikabehandling", "patientkommunikation"]
+            },
+            {
+              "id": "3-8-2",
+              "text": "Behandling med antibiotika har ingen effekt men NSAID kan dämpa vissa symtom. Sjukhusvård kan i sällsynta fall bli aktuell. Efter 10 dagar träffar du Nils igen. Han är nu feberfri och mår mycket bättre. Han vill börja träna ishockey. Vad svarar du? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nils bör avhålla sig från kontaktsporter (ishockey) under drygt en månad efter feberfrihet med tanke på risk för lever- och mjältskada/mjältruptur."
+              ],
+              "facitExplanation": "Mjälten är förstorad vid mononukleos och känslig för trauma. Kontaktsporter kan utlösa mjältruptur, ett livshotande tillstånd. Vila rekommenderas drygt en månad efter symtomfrihet.",
+              "tags": ["mononukleos", "mjältruptur", "sjukskrivning"]
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Nils undrar om han kan få körtelfeber igen. Vad blir ditt svar?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nytt insjuknande i mononukleos är mycket sällsynt, men kan förekomma i enstaka fall med reaktivering av EBV."
+              ],
+              "facitExplanation": "EBV etablerar latens i B-lymfocyter efter primärinfektion. Immunitet bildas och recidiv av klinisk mononukleos är sällsynt, även om reaktivering kan förekomma vid immunosuppression.",
+              "tags": ["mononukleos", "EBV", "immunologi"]
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "Du säger till Nils att han bör avhålla sig från sporter med kroppskontakt under drygt en månad med tanke på risk för lever- och mjältskada. Recidiv är mycket sällsynt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Hur kommer det sig att din initiala provtagning avseende heterofila antikroppar (snabbtest) inte gav utslag?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Första dagarna efter mononukleosinsjuknande har inte tillräckligt antal heterofila antikroppar bildats för att ge utslag på serologiska tester, vare sig Monospot eller EBV-serologi."
+              ],
+              "facitExplanation": "Heterofila antikroppar tar 1–2 veckor att bildas i tillräcklig mängd för positivt snabbtest. Tidig provtagning kan ge falskt negativt svar.",
+              "tags": ["mononukleos", "snabbtest", "diagnostik"]
+            },
+            {
+              "id": "3-10-2",
+              "text": "Hur resonerar du ifråga om de förhöjda transaminaserna och hur är prognosen efter genomgången sjukdom?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Leverprover behöver som regel inte följas upp då de normaliseras spontant.",
+                "Långdragen trötthet kan kvarstå länge hos en del individer efter genomgången mononukleos."
+              ],
+              "facitExplanation": "Transaminasstegringen är övergående och normaliseras utan behandling. Prognosen är generellt god men postinfektiöst trötthetssyndrom kan förekomma under månader.",
+              "tags": ["mononukleos", "leverprover", "prognos"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatri",
+      "points": 20,
+      "intro": "Du är AT-läkare och har jour på psykiatriska akutmottagningen en fredagskväll. Kl. 22:30 inkommer Klas på remiss från kirurgakuten där han blivit suturerad. Kirurgjouren misstänkte att Klas var psykiskt sjuk. Klas som är 19 år hade varit på en krog där han uppträtt högljutt och störande. Han hade varit provocerande och råkat i slagsmål och fått skador i ansiktet. Vid ankomsten är han påverkad av alkohol och blåser 0,9‰. Han är motoriskt orolig och vill se din läkarlegitimation och säger i nästa andetag att han vill åka tillbaka till krogen. Klas börjar diskutera svensk psykiatri, övergår till diskussion om vädret och slutför inte denna diskussion då han är arg över att ha körts till sjukhuset. I den fortsatta monologen svär han sedan över sin arbetsgivare som inte befordrar honom. Klas är lättretlig och är latent aggressiv.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilken provtagning kan vara lämplig att ta redan under kvällen? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Drogscreening bör göras på kvällen då en del substanser inte kan fångas nästa dag."
+              ],
+              "facitExplanation": "Många droger metaboliseras snabbt och kan inte påvisas i urin/blod nästföljande dag. Akut drogscreening ger information om aktuellt substansbruk.",
+              "tags": ["intoxikation", "drogscreening", "psykiatri"]
+            },
+            {
+              "id": "4-1-2",
+              "text": "Du inser att han kan ha alkoholproblem. Vilka ytterligare tre preliminära diagnoser överväger du? Motivera.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bipolär sjukdom (mani) – uppvarvning, grandiositet, minskat sömnbehov.",
+                "Narkotikamissbruk – kan ge liknande bild som mani.",
+                "ADHD – impulsivitet, motorisk oro.",
+                "Kombinationer av ovanstående är möjliga."
+              ],
+              "facitExplanation": "Alkoholpåverkan kan maskera underliggande psykiatrisk sjukdom. Mani, narkotikamissbruk och ADHD är viktiga differentialdiagnoser vid detta beteendemönster. Kombinationer är vanliga.",
+              "tags": ["bipolär sjukdom", "ADHD", "intoxikation", "differentialdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Du ordinerar drogscreening. Klas börjar bli aggressiv och vill lämna akutmottagningen. Pappan ringer och berättar att Klas under ett par veckors tid varit ordentligt uppvarvad, knappt sovit något den senaste veckan, inte gått till jobbet och gjort av med 100 000 kronor i arv på att festa. Han har druckit en del alkohol, varit ute på nätterna och knappt ätit. Han har tidigare varit frisk, skötsam och klarade sig bra i skolan. Fastern var psykiskt sjuk och tog livet av sig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilken är den troligaste diagnosen med tanke på Klas sjukdomsbild? Motivera.",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bipolär sjukdom (manisk episod, sannolikt av psykotisk valör). Anamnesen om god funktion tidigare gör att drogmissbruk och ADHD faller – kvar finns bipolär sjukdom."
+              ],
+              "facitExplanation": "Akut manisk episod med grandiositet, minskat sömnbehov, impulsivitet och riskbeteende hos tidigare välfungerande person med hereditet för bipolär sjukdom talar starkt för bipolär sjukdom.",
+              "tags": ["bipolär sjukdom", "mani", "psykiatri"]
+            },
+            {
+              "id": "4-2-2",
+              "text": "Du gör bedömningen att Klas behöver läggas in, men han vägrar. Hur löser du det?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kalla på bakjour eller annan legitimerad läkare som kan göra en vårdintygsbedömning och eventuellt skriva vårdintyg enligt LPT (Lagen om psykiatrisk tvångsvård)."
+              ],
+              "facitExplanation": "När en patient vägrar nödvändig psykiatrisk vård och uppfyller kriterierna kan en legitimerad läkare utfärda vårdintyg, vilket möjliggör inläggning för bedömning om LPT.",
+              "tags": ["LPT", "tvångsvård", "bipolär sjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du kallade på en legitimerad läkare som skrev vårdintyg. Du bedömer att Klas sannolikt har en bipolär sjukdom av psykotisk valör.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilka kriterier måste Klas uppfylla för att det skall gå att skriva vårdintyg?",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Han måste ha en allvarlig psykisk störning.",
+                "Han måste vara i oundgängligt behov av psykiatrisk vård dygnet runt.",
+                "Han måste motsätta sig vården eller inte kunna fatta ett grundat ställningstagande till densamma."
+              ],
+              "facitExplanation": "Dessa tre kriterier enligt LPT (Lagen om psykiatrisk tvångsvård) måste samtliga vara uppfyllda för att vårdintyg ska kunna utfärdas. Allvarlig psykisk störning + vårdbehov dygnet runt + bristande samtycke/insikt.",
+              "tags": ["LPT", "tvångsvård", "psykiatri"]
+            },
+            {
+              "id": "4-3-2",
+              "text": "Vad finns det för farmakologiska behandlingsprinciper för att behandla en akut mani? Nämn tre olika principer och exemplifiera med substans.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Antimanisk medicinering: t.ex. litium eller quetiapin.",
+                "Stämningsstabiliserande medicinering: t.ex. litium eller valproat.",
+                "Dämpande medicinering (antipsykotika): t.ex. olanzapin eller quetiapin."
+              ],
+              "facitExplanation": "Akut mani behandlas med kombination av stämningsstabiliserare (litium, valproat), antimaniska medel och antipsykotika för dämning. Bensodiazepiner kan användas som tillägg för snabb sedering.",
+              "tags": ["bipolär sjukdom", "mani", "farmakologi"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Klas behandlades med valproat och olanzapin i antimanisk dos. Han förbättrades successivt och tvångsvården kunde avskrivas. Stämningsläget slog sedan om till en depression och Klas blev djupt deprimerad. Han blev passiv, tystlåten och tyckte att allt var meningslöst.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vad måste du undersöka redan innan du tar ställning till om och hur du skall behandla Klas depression?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En ordentlig suicidriskbedömning måste göras."
+              ],
+              "facitExplanation": "Depression vid bipolär sjukdom innebär hög suicidrisk. Suicidriskbedömning är obligatorisk innan behandlingsbeslut fattas.",
+              "tags": ["bipolär sjukdom", "depression", "suicidriskbedömning"]
+            },
+            {
+              "id": "4-4-2",
+              "text": "På vilka sätt kan man behandla Klas depression? Motivera.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Minska dosen av olanzapin för att inte ge onödig dämpning.",
+                "Behålla stämningsstabiliserare (valproat) och lägga till antidepressivum (med stämningsstabiliserande skydd för att undvika maniinducering).",
+                "ECT (elektrokonvulsiv terapi) kan övervägas vid svår depression."
+              ],
+              "facitExplanation": "Vid bipolär depression justeras antipsykotika, stämningsstabiliserare behålls och antidepressivum kan adderas under skydd. ECT är effektivt vid svår depression och kan accelerera tillfrisknandet.",
+              "tags": ["bipolär sjukdom", "depression", "ECT"]
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Suicidriskbedömning visade att Klas klarade sig med normal tillsyn. Dosen av olanzapin minskades och ett antidepressivum lades till under skydd av stämningsstabiliserande medicin. Efter tre veckor hade depressionen hävts och Klas kunde skrivas ut. Man bedömde att Klas pga hereditet – flera i släkten har bipolär sjukdom – borde ha långtidsprofylax trots att han bara haft ett sjukdomstillfälle.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vilka olika farmakologiska behandlingsmöjligheter finns för sådan profylax och vilka biverkningar behöver du ta hänsyn till i de olika alternativen? Ge exempel på läkemedel från tre olika grupper.",
+              "maxPoints": 3,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Litium: biverkningar inkluderar njurpåverkan, sköldkörtel- och bisköldkörtelrubbningar, hudpåverkan (akne, psoriasis) samt diarré.",
+                "Antiepileptika: valproat (sedation hos äldre, tremor, illamående, teratogent), karbamazepin (sedation), lamotrigin (allvarliga hudbiverkningar, sedation, gastrointestinala besvär).",
+                "Antipsykotika (andra generationens): metabolt syndrom (samtliga), sedation."
+              ],
+              "facitExplanation": "Tre huvudgrupper för bipolär profylax: litium (förstahandsval vid klassisk bipolär I), antiepileptika (valproat, lamotrigin, karbamazepin) och antipsykotika (quetiapin m.fl.). Biverkningsprofilen är avgörande för val.",
+              "tags": ["bipolär sjukdom", "litium", "stämningsstabiliserare"]
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Med hänsyn till den tunga herediteten väljer man att behandla Klas med litium trots att han bara haft ett skov av sjukdomen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vad måste du informera patienten om med tanke på läkemedelsinteraktioner med litium?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Interaktionen med NSAID-preparat kan vara problematisk: NSAID kan öka serumnivån av litium med upp till 50%, en vanlig orsak till plötsligt stigande litiumnivåer och risk för litiumtoxicitet."
+              ],
+              "facitExplanation": "NSAID hämmar prostaglandinmedierad njurexkretion av litium, vilket kan leda till farlig litiumackumulation. Patienten ska instrueras att undvika NSAID (t.ex. ibuprofen) och använda paracetamol istället.",
+              "tags": ["litium", "läkemedelsinteraktion", "bipolär sjukdom"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

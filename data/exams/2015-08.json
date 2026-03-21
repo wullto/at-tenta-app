@@ -1,0 +1,859 @@
+{
+  "id": "2015-08",
+  "title": "AT-prov augusti 2015",
+  "date": "2015-08-28",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": "Du ombeds i din roll som vikarierande distriktsläkare göra hembesök hos en familj långt ut i obygden i kommunen Gäddeskog där du arbetar. Mottagningssköterskan berättar att mamman i en familj skall ha ringt men varit ganska oklar över vilket problem som föranlett samtalet. I alla fall framkom att maken hade lite feber och lite ont i magen och dessutom i ryggen och hade varit förkyld och lite av varje. Han sades ha svårt att komma till vårdcentralen. Familjen hade ingen fungerande bil och den enda taxin fanns 5 mil bort.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": "Du tar bilen dit via en lång och slingrig skogsväg. Du kommer fram till en fallfärdig ladugård, hundar som skäller i en hundgård och ett omålat boningshus. När du ringer på svarar ingen. Du ser att någon kikar fram bakom gardinerna. Till sist hör du att dörrens lås, det finns tre stycken, låses upp och dörren sätts på glänt med dubbla säkerhetskedjor. Den, som uppenbarligen är mamman i familjen, tittar fram. Efter att ha tvingats legitimera dig för att visa att du är den person som sköterskan lovat skall komma, släpps du in. På fråga varför huset har så många lås får du svaret att man inte kan lita på någon. Speciellt kan man inte lita på poliserna som åker förbi någon gång per månad, eller på lantbrevbäraren eller på sophämtaren som kommer varannan vecka. De brukar nämligen rapportera till partiledningen om vad som försiggår. Partiledningen har en kommunikationscentral i ett hus vid en telemast som står någon kilometer bort. Då och då brummar det från huset vid masten; det är då meddelanden sänds.",
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vad kallas detta symtom?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Vanföreställningar",
+                "Paranoid vanföreställning"
+              ],
+              "facitExplanation": "Ordet 'vanföreställningar' måste finnas med. Det blir rätt även om man lägger till ordet 'paranoid' i någon vändning, men inte för bara ordet 'paranoia'.",
+              "tags": ["vanföreställningar", "psykos", "schizofreni"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Du inser att det på något sätt finns en psykiatrisk problembild hos mamman. Du har i alla fall fokus på varför du blivit ombedd att åka hit och ber att få träffa maken som ju är sjuk på något sätt. Du noterar i alla fall att huset är helt ostädat, ovädrat och luktar verkligen smutsigt. Maken är på övervåningen säger makan och visar vägen, men vid varje dörr stannar hon och gör korstecken fem gånger och knackar på dörrposten fyra gånger.",
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vad kallas ett sådant symtom?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Tvångshandling"
+              ],
+              "facitExplanation": "Symtomet kallas tvångshandling – ett repetitivt, ritualiserat beteende som personen känner sig tvingad att utföra.",
+              "tags": ["tvångssyndrom", "tvångshandling", "OCD"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Du blir ännu mer övertygad om att det finns en psykiatrisk problembild hos mamman i familjen, eftersom hon uppvisar både vanföreställningar och tvångshandlingar. Hon visar dig i alla fall uppför en smal trappa till övervåningen. Hon stannar plötsligt till i halva trappan, blir blick stilla, tystnar, går några steg till, tittar upp i taket, och stannar plötsligt igen mitt i steget och det hela upprepas.",
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Du tänker till för dig själv och inser att det finns flera förklaringar till detta. Förutom misstänksamhet vad kan det dessutom vara symtom på?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Hörselhallucinationer",
+                "Hörselhallucinos",
+                "Hallucinos"
+              ],
+              "facitExplanation": "Beteendet – att stanna, bli stilla, tystna och titta upp – kan vara symtom på hörselhallucinos (att höra röster eller ljud som inte finns).",
+              "tags": ["hallucinos", "hörselhallucinationer", "psykos", "differentialdiagnoser"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Hon visar dig i alla fall uppför en smal trappa till övervåningen som är lika ovårdad som bottenvåningen. Du hör ett jämrande från ett inre rum och möter maken som ligger på sängen i rummet. Han visar sig vara en man i 40-50 årsåldern, ytterst mager med nästan gråblek hy. Det finns ett tiotal flaskor vid sängen och en omisskännlig alkoholdoft i rummet. Han mår inte bra säger han. Han säger sig inte ha druckit 'så mycket' sprit, men har ändock legat till sängs och bara druckit alkohol i stället för mat de senaste två veckorna. Du föreslår att han skall acceptera inläggning på sjukhus. Han tycker inte det behövs.",
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vilket är det fullständiga namnet på den lag som kan vara tillämplig om han inte accepterar vård av fri vilja?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Lag om vård av missbrukare i vissa fall"
+              ],
+              "facitExplanation": "Lagen heter 'Lag om vård av missbrukare i vissa fall'. Förkortningen LVM ger halv poäng.",
+              "tags": ["alkoholmissbruk", "LVM", "tvångsvård", "medicinsk juridik"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du inser att något måste göras. Om han inte slutar dricka kommer detta att bli hans snara död. Du överväger om inte Lag om vård av missbrukare i vissa fall; förkortad LVM kan vara tillämplig.",
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Lagen ger möjlighet för tvångsvård vid vissa typer av missbruk. Vilka?",
+              "maxPoints": 1.5,
+              "hint": "Nämn de tre typerna av missbruk",
+              "facit": [
+                "Alkohol",
+                "Droger (narkotika)",
+                "Flyktiga lösningsmedel"
+              ],
+              "facitExplanation": "Enligt lagtexten: alkohol, droger och flyktiga lösningsmedel (0,5 poäng för varje).",
+              "tags": ["LVM", "missbruk", "medicinsk juridik"]
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vad krävs för att en person skall kunna tvångsvårdas enligt denna lag?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "facit": [
+                "Fortgående missbruk av alkohol, narkotika eller flyktiga lösningsmedel med vårdbehov",
+                "Vårdbehovet kan inte tillgodoses enligt socialtjänstlagen eller på annat sätt",
+                "Personen utsätter sin fysiska eller psykiska hälsa för allvarlig fara, eller löper uppenbar risk att förstöra sitt liv",
+                "Kan befaras komma att allvarligt skada sig själv eller någon närstående"
+              ],
+              "facitExplanation": "Tre kriterier måste vara uppfyllda: (1) fortgående missbruk med vårdbehov, (2) vårdbehovet kan inte tillgodoses på frivillig väg, och (3) personen utsätter sin hälsa för allvarlig fara, löper risk att förstöra sitt liv, eller kan skada sig själv/närstående.",
+              "tags": ["LVM", "tvångsvård", "medicinsk juridik", "missbruk"]
+            },
+            {
+              "id": "1-5-3",
+              "text": "Vem beslutar om tvångsvård enligt LVM?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Förvaltningsrätten"
+              ],
+              "facitExplanation": "Det är Förvaltningsrätten som beslutar om tvångsvård enligt LVM. Endast helt korrekt svar ger poäng.",
+              "tags": ["LVM", "medicinsk juridik", "tvångsvård"]
+            },
+            {
+              "id": "1-5-4",
+              "text": "Vem är skyldig att anmäla när någon kan antas vara i behov av vård enligt denna lag?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "facit": [
+                "Myndigheter som i sin verksamhet regelbundet kommer i kontakt med missbrukare"
+              ],
+              "facitExplanation": "Svaret 'sjukvården' räcker inte. Det korreka svaret är myndigheter som i sin verksamhet regelbundet kommer i kontakt med missbrukare.",
+              "tags": ["LVM", "anmälningsplikt", "medicinsk juridik"]
+            },
+            {
+              "id": "1-5-5",
+              "text": "Till vilken instans skall anmälan göras?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Socialnämnden"
+              ],
+              "facitExplanation": "Endast ordet 'Socialnämnden' ger full poäng. Övrigt, t.ex. 'De sociala myndigheterna' eller 'socialjouren' ger 0,5 poäng.",
+              "tags": ["LVM", "anmälningsplikt", "medicinsk juridik"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Utan att fatta beslut om vilka åtgärder du skall ta initiativ till avseende makens alkoholbruk vänder du dig nu från mannen till makan och frågar lite mer om henne. Hon har under tiden stått i bakgrunden och varit helt tyst. Efter lite följdfrågor får du fram att hon i sin ungdom bott i ett kollektiv och försökt förstå 'hur allt hänger ihop'. Hon blev intagen på en psykiatrisk klinik där hon vårdades i två år och medicinerats med 'sprutor'. Efter utskrivning hade hon inte haft något arbete, inte 'orkat', utan bott ensam i flera år och fått socialhjälp. De kan när som helst gå ut i skogen och slippa alla opålitliga människor och både känna och höra 'alltets närvaro'.",
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilken underliggande sjukdom är det sannolikt att hon har? Svaret skall motiveras med relevanta symtom.",
+              "maxPoints": 2,
+              "hint": "Ange sjukdom och motivera med symtom",
+              "facit": [
+                "Schizofreni",
+                "Motivering: Tidigare lång sjukperiod med misstänkt psykosbild som behandlats parenteralt",
+                "Kvarstående bild med vanföreställningar och hallucinos"
+              ],
+              "facitExplanation": "Sjukdomen är schizofreni (1 p). Motivering: Tidigare lång sjukperiod med misstänkt psykosbild som behandlats parenteralt (0,5 p), samt kvarstående bild med misstänkt funktionsstörning, vanföreställningar och hallucinos (0,5 p).",
+              "tags": ["schizofreni", "psykos", "differentialdiagnoser"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Du tror att hon har en schizofreni som är måttligt symtomfattig. Man brukar tala om principiellt skilda symtomtyper vid schizofreni.",
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vad i patientens symptombild utgör negativa respektive positiva symtom?",
+              "maxPoints": 2,
+              "hint": "Ange vilka symtom som är positiva respektive negativa",
+              "facit": [
+                "Positiva symtom: vanföreställningar och hallucinationer (hörselhallucinationer)",
+                "Negativa symtom: tillbakadragenhet och viljelöshet (orkeslöshet)"
+              ],
+              "facitExplanation": "Positiva symtom är sådana som 'tillkommer' och som friska personer inte har – här vanföreställningar och hallucinationer (1p). Negativa symtom innebär förlust av mentala förmågor som friska människor har – här tillbakadragenhet och viljelöshet (1p).",
+              "tags": ["schizofreni", "positiva symtom", "negativa symtom", "psykiatri"]
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Du tror att hon har en så kallad residualschizofreni som är måttligt symtomfattig med positiva symtom i form av vanföreställningar och hörselhallucinos och negativa i form av tillbakadragenhet och initiativlöshet (orkeslöshet). De första symtomen på en schizofreni ser väldigt olika ut för olika personer. Ofta finns en lång så kallad prodromalfas med lindriga symtom.",
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Ange två viktiga differentialdiagnoser, förutom schizofreni, för en tidigare helt välfungerande 18-årig yngling vars prodromalfas endast innebär negativa symtom.",
+              "maxPoints": 1,
+              "hint": "Ange två differentialdiagnoser",
+              "facit": [
+                "Depression",
+                "Drogmissbruk"
+              ],
+              "facitExplanation": "Depression (0,5 p) och Drogmissbruk (0,5 p).",
+              "tags": ["schizofreni", "differentialdiagnoser", "depression", "missbruk"]
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Du frågar om det inte är besvärligt för dem att bo så här långt ut på landet. Det framkommer att sonen Nils är 10 år och bor på bottenvåningen. Nils sitter vid datorn. Han har inte varit i skolan de senaste fyra veckorna. Efter ett långt samtal får du klart för dig att Nils sitter på rummet hela dagarna. Han får hämta 'flaskorna' till pappa från ladugården och bära ner pappans potta. Då och då är pappa riktigt sur och arg. När han stiger upp på morgonen får han först väcka mamma och laga frukost åt mamma och pappa. Uppenbarligen är det stor risk att Nils far illa i hemmiljön.",
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Det finns en lag som hjälper till och ger stöd för barn som far illa. Skriv ut hela lagens namn.",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Lag med särskilda bestämmelser om vård av unga",
+                "Lag om vård av unga"
+              ],
+              "facitExplanation": "Lagen heter 'Lag med särskilda bestämmelser om vård av unga'. Godkänt svar är även 'Lag om vård av unga'. Bara förkortningen LVU ger 0,5 p.",
+              "tags": ["LVU", "barn som far illa", "medicinsk juridik", "barnskydd"]
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Du bedömer alltså att förhållandena i hemmet är sådana att Nils riskerar att fara illa i sin hemmiljö. Han får inte gå till skolan, han sitter ensam i sitt rum hela dagarna, han tvingas hjälpa pappan med sitt missbruk och delvis ta ansvar för mat och andra sysslor när mamman är oförmögen att bidra på ett bra sätt hemma. Du uppfattar att Lag med särskilda bestämmelser om vård av unga, LVU, kan vara tillämplig.",
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Vem är skyldig att göra anmälan enligt denna lag?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "facit": [
+                "Myndigheter vars verksamhet berör barn och ungdom, och andra myndigheter inom hälso- och sjukvården",
+                "Anställda hos sådana myndigheter",
+                "De som är verksamma inom yrkesmässigt bedriven enskild verksamhet som berör barn och unga"
+              ],
+              "facitExplanation": "Anmälningsskyldiga är: (1) myndigheter vars verksamhet berör barn och ungdom, och andra myndigheter inom hälso- och sjukvården, (2) anställda hos sådana myndigheter (skyldigheten ligger på enskild medarbetare, inte bara myndigheten), (3) de som är verksamma inom yrkesmässigt bedriven enskild verksamhet som berör barn och unga.",
+              "tags": ["LVU", "anmälningsplikt", "medicinsk juridik", "barnskydd"]
+            },
+            {
+              "id": "1-10-2",
+              "text": "Till vem skall enligt lagen anmälan göras?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Socialnämnden"
+              ],
+              "facitExplanation": "Anmälan skall göras till socialnämnden. Ordet 'Socialnämnden' ger 1 p; annat som speglar 'sociala myndigheter, socialjour' ger 0,5 p.",
+              "tags": ["LVU", "anmälningsplikt", "medicinsk juridik"]
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "När du till sist lämnar huset ser du dels ett vapenskåp i hallen och dels genom fönstret en gammal amerikansk minilastbil från 1950-talet. Du frågar makan och hon berättar att maken har vapen men jagar mest småvilt ensam. Nu har han inte jagat sedan senhösten. Körkort då, visst. Men nu när han är sjuk så står bilen still.",
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Du måste överväga några åtgärder. Vilka och varför?",
+              "maxPoints": 2,
+              "hint": "Ange två åtgärder med motivering",
+              "facit": [
+                "Anmäla vapeninnehavet till polismyndigheten – Vapenlagen ger skyldighet att anmäla om patient av medicinska skäl är olämplig att inneha skjutvapen",
+                "Anmälan enligt körkortslagen till Transportstyrelsen – om läkare finner att körkortshavaren av medicinska skäl är olämplig att ha körkort ska läkaren anmäla till Transportstyrelsen"
+              ],
+              "facitExplanation": "Åtgärd 1: Överväga att anmäla vapeninnehavet till polismyndigheten (0,5 p) eftersom Vapenlagen säger att alla läkare har skyldighet att omedelbart anmäla om en patient av medicinska skäl är olämplig att inneha skjutvapen (0,5 p). Åtgärd 2: Överväga anmälan enligt körkortslagen till Transportstyrelsen (0,5 p) eftersom läkare skall anmäla om körkortshavaren av medicinska skäl är olämplig att ha körkort (0,5 p).",
+              "tags": ["medicinsk juridik", "vapenlagen", "körkortslagen", "missbruk"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Internmedicin",
+      "points": 20,
+      "intro": "Det är natt och du arbetar sedan ett par timmar på akuten. Ambulansen har precis kört in en patient med hög prioritet på akutrummet. Patienten heter Signe och är 74 år. Hon sitter på kanten av britsen och andas snabbt. Hon berättar att hon sista veckan blivit allt mer andfådd.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": "Patienten heter Signe och är 74 år. Hon sitter på kanten av britsen och andas snabbt. Hon berättar att hon sista veckan blivit allt mer andfådd.",
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Du tänker snabbt igenom de vanligaste diagnoserna vid dyspné. Nämn två diagnoser som är vanliga orsaker till dyspné.",
+              "maxPoints": 2,
+              "hint": "Nämn två diagnoser",
+              "facit": [
+                "Pneumoni",
+                "Lungemboli",
+                "Hjärtsvikt",
+                "Pneumothorax",
+                "KOL"
+              ],
+              "facitExplanation": "1 poäng per differentialdiagnos. Vanliga orsaker till dyspné inkluderar pneumoni, lungemboli, hjärtsvikt, pneumothorax och KOL.",
+              "tags": ["dyspné", "differentialdiagnoser", "akutmedicin"]
+            },
+            {
+              "id": "2-1-2",
+              "text": "Ange för varje diagnos två anamnestiska uppgifter som styrker misstanken om respektive diagnos.",
+              "maxPoints": 2,
+              "hint": "Ange två anamnestiska uppgifter per diagnos",
+              "facit": [
+                "Pneumoni: gradvis insjuknande, hosta, feber, pleuritsmärtor",
+                "Lungemboli: plötslig debut, pleuritsmärtor, centrala bröstsmärtor, riskfaktorer, svullet underben",
+                "Hjärtsvikt: gradvis insättande, viktuppgång, värre i plant liggande, underbensödem, nattlig dyspné",
+                "Pneumothorax: abrupt debut, andningskorrelerade bröstsmärtor, underliggande KOL, rökare",
+                "KOL: ökad mängd sputum, missfärgade sputa, rökare"
+              ],
+              "facitExplanation": "0,5 poäng per relevant anamnestisk uppgift.",
+              "tags": ["anamnes", "dyspné", "differentialdiagnoser"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "När du pratar med Signe framkommer det att hon fick ont i bröstet när hon städade ur sommarstugan för några månader sedan. Hon trodde själv att hon sträckt sig eller fått diskbråck, så hon gick och lade sig och vilade. Smärtan gick inte över direkt, men blev bättre de kommande dagarna. Sedan Signe städade ur stugan har hon fått sämre och sämre ork. Hon blev också successivt mer andfådd vid promenader. Nu kan hon inte ens längre plocka svamp. Du har börjat rikta in dig på 3 möjliga differentialdiagnoser: hjärtsvikt, lungemboli och KOL.",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Du överväger om Signe kan ha haft en hjärtinfarkt. Nämn fyra viktiga riskfaktorer för hjärtinfarkt.",
+              "maxPoints": 2,
+              "hint": "Nämn fyra riskfaktorer",
+              "facit": [
+                "Diabetes",
+                "Hyperlipidemi",
+                "Hypertoni",
+                "Bukfetma",
+                "Metabola syndromet",
+                "Rökning",
+                "Manligt kön",
+                "Ålder"
+              ],
+              "facitExplanation": "Diabetes, hyperlipidemi, hypertoni, bukfetma, metabola syndromet, rökning, manligt kön, ålder.",
+              "tags": ["hjärtinfarkt", "riskfaktorer", "ischemisk hjärtsjukdom"]
+            },
+            {
+              "id": "2-2-2",
+              "text": "Namnge två statusfynd per differentialdiagnos (hjärtsvikt, lungemboli och KOL) som specifikt styrker och skiljer ut respektive diagnos.",
+              "maxPoints": 3,
+              "hint": "Ange två statusfynd för varje av de tre diagnoserna",
+              "facit": [
+                "Hjärtsvikt: svullna underben, ascites, hepatomegali, halsvenstas, rassel basalt på lungorna, nedsatt a-ljud basalt och dämpning",
+                "Lungemboli: takykardi, hosta, hemoptys, hypotoni, halsvenstas, normalstatus i vila",
+                "KOL: ronchi, hypersonor perkussionston, förlängt expirium, cyanos, barrel chest"
+              ],
+              "facitExplanation": "Hjärtsvikt styrks av: svullna underben, ascites, hepatomegali, halsvenstas, rassel basalt, nedsatt a-ljud basalt och dämpning. Lungemboli styrks av: takykardi, hosta, hemoptys, hypotoni, halsvenstas, normalstatus i vila. KOL styrks av: ronchi, hypersonor perkussionston, förlängt expirium, cyanos, barrel chest.",
+              "tags": ["hjärtsvikt", "lungemboli", "KOL", "klinisk undersökning"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Signe har lösa rassel upp till skapulahöjd bilateralt och tydliga underbensödem. Cor regelbunden rytm utan bi- eller blåsljud. Buk sammanfallen, mjuk och oöm. Normala tarmljud. Ingen tydlig ascites eller resistenser. Ingen dunkömhet. Vitalparametrar: Puls 105/min, BT 160/95 mmHg, Andningsfrekvens 27/min, Saturation 89%, temp 37,1°C. EKG: Sinusrytm, frekvens 87 slag per minut. Svikteko visar nedsatt vänsterkammarfunktion.",
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Du börjar bli allt mer säker på din diagnos, men du vet att patienter kan lida av flera sjukdomar samtidigt så du bestämmer dig för att beställa fyra blodprover med akutsvar samtidigt som du inleder behandling. Ange fyra blodprover du vill ta, och motivera varför.",
+              "maxPoints": 2,
+              "hint": "Ange fyra prover med motivering",
+              "facit": [
+                "CRP/LPK – för att påvisa eventuell infektion",
+                "D-dimer – för att värdera sannolikhet för lungemboli",
+                "BNP/NT-proBNP – för att styrka hjärtsvikt",
+                "Blodgas – för att värdera ventilation och laktat"
+              ],
+              "facitExplanation": "CRP/LPK (uteslut infektion), D-dimer (uteslut LE vid låg klinisk misstanke), BNP (bekräfta hjärtsvikt), arteriell blodgas (kontrollera ventilation och laktat).",
+              "tags": ["hjärtsvikt", "laboratorieutredning", "akutmedicin"]
+            },
+            {
+              "id": "2-3-2",
+              "text": "Ange en viktig akut intravenös läkemedelsbehandling som behöver ordineras på akutrummet? Nämn det generiska substansnamnet och dess verkningsmekanism.",
+              "maxPoints": 4,
+              "hint": "Nämn substansnamn och verkningsmekanism",
+              "facit": [
+                "Furosemid – loopdiuretikum som verkar genom hämning av kloridresorptionen i den uppåtstigande skänkeln av Henles slynga, men verkar även i proximala och distala tubuli",
+                "Morfin – verkar genom bindning till opioidreceptorer vilket medför en analgetisk och ångestdämpande effekt"
+              ],
+              "facitExplanation": "Furosemid är ett loopdiuretikum som verkar genom hämning av kloridresorptionen i den uppåtstigande skänkeln av Henles slynga, men verkar även i proximala och distala tubuli. Morfin verkar genom bindning till opioidreceptorer vilket medför en analgetisk och ångestdämpande effekt.",
+              "tags": ["hjärtsvikt", "läkemedelsbehandling", "diuretika", "akutmedicin"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Med sängen i hjärtläge och dessutom syrgas, två spray Nitro under tungan och några minuters CPAP-behandling blir Signes andningsfrekvens lägre och andningsarbetet lugnare. NT pro-BNP är 18 000, D-dimer är <0,5, CRP <5. Enligt nya europeiska riktlinjer är ejektionsfraktion (EF) <40% hjärtsvikt med nedsatt EF och EF ≥40% hjärtsvikt med bevarad EF.",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Man indelar, enligt nya europeiska riktlinjer, diagnosen hjärtsvikt i två grupper; hjärtsvikt med nedsatt ejektionsfraktion (EF) och hjärtsvikt med bevarad EF. Vid vilken procentuell EF drar man gränsen mellan dessa båda grupper?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "40%"
+              ],
+              "facitExplanation": "Gränsen dras vid EF 40%. EF <40% = hjärtsvikt med nedsatt EF. EF ≥40% = hjärtsvikt med bevarad EF.",
+              "tags": ["hjärtsvikt", "ejektionsfraktion", "ekokardiografi"]
+            },
+            {
+              "id": "2-4-2",
+              "text": "Hjärtsvikt delas in i 4 funktionsklasser kallade NYHA 1, 2, 3 och 4. Klassificeringen är viktig för behandlingsval och prognos. Beskriv kortfattat NYHA klassifikationen.",
+              "maxPoints": 2,
+              "hint": "Beskriv de fyra NYHA-klasserna",
+              "facit": [
+                "NYHA I: Hjärtsjukdom utan symtom vid fysisk aktivitet",
+                "NYHA II: Lätta symtom vid måttlig ansträngning",
+                "NYHA III: Uttalade symtom vid lätt ansträngning",
+                "NYHA IV: Symtom i vila"
+              ],
+              "facitExplanation": "New York Heart Association Functional Classification (NYHA) är ett system för klassificering av allvarlighetsgraden av hjärtsvikt. Klassificeringen utgår från mängden symtom och begränsningen av möjlighet till ansträngning vid olika grad av fysisk aktivitet.",
+              "tags": ["hjärtsvikt", "NYHA-klassifikation", "funktionsbedömning"]
+            },
+            {
+              "id": "2-4-3",
+              "text": "Hjärtsvikt förklaras till 80% av två sjukdomstillstånd. Vilka två sjukdomstillstånd?",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "Hypertoni",
+                "Ischemisk hjärtsjukdom"
+              ],
+              "facitExplanation": "Hypertoni och ischemisk hjärtsjukdom är bakomliggande faktorer i 80% av hjärtsvikt.",
+              "tags": ["hjärtsvikt", "hypertoni", "ischemisk hjärtsjukdom"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du är AT-läkare vid en vårdcentral 50 km från ett länssjukhus. Idag möter Du Sven som är 68 år, tidigare ekonom och pensionär sedan 3 år. Sven är gift och har vuxna barn. Han har tidigare varit hängiven cigarettrökare men slutade för 5 år sedan. Sven är opererad med coronary-bypass på grund av angina pectoris och medicinerar mot hypertoni och hyperlipidemi. Sven har inte diabetes. För en vecka sedan sökte Sven akut en kväll vid ortens primärvårdsmottagning på grund av obehaglig oro i bröstet. Sven hade känt av bröstet i 6 dagar. Vid akutbesöket fick Sven besked om att EKG visade förmaksflimmer med cirka 90 slag per minut och att en remiss skickades till länssjukhuset för ställningstagande till elkonvertering. Dessutom skickades en remiss till din allmänläkarmottagning för inställning av antikoagulantiabehandling inför eventuell el-konvertering.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": "Sven är 68 år, opererad med coronary-bypass på grund av angina pectoris och medicinerar mot hypertoni och hyperlipidemi. EKG visade förmaksflimmer med cirka 90 slag per minut.",
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Nämn två viktiga orsaker till sekundärt förmaksflimmer?",
+              "maxPoints": 1,
+              "hint": "Nämn två orsaker",
+              "facit": [
+                "Thyreotoxicos",
+                "Läkemedel",
+                "Alkohol"
+              ],
+              "facitExplanation": "Viktiga orsaker till sekundärt förmaksflimmer är thyreotoxicos, läkemedel och alkohol.",
+              "tags": ["förmaksflimmer", "sekundärt förmaksflimmer", "thyreotoxikos"]
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vad mer behöver du veta för att ta ställning till om Sven bör behandlas med frekvensreglering eller el-konvertering?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Flimrets duration: paroxysmalt, persisterande eller permanent",
+                "Svens symtom: palpitationer, trötthet, andfåddhet, hjärtsvikt, bröstsmärta"
+              ],
+              "facitExplanation": "Man behöver veta flimrets duration (paroxysmalt, persisterande eller permanent) och Svens symtom (palpitationer, trötthet, andfåddhet, hjärtsvikt, bröstsmärta).",
+              "tags": ["förmaksflimmer", "elkonvertering", "frekvensreglering", "anamnes"]
+            },
+            {
+              "id": "3-1-3",
+              "text": "Ange två viktiga riskfaktorer för att utveckla förmaksflimmer.",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Rökning",
+                "Diabetes mellitus",
+                "Hypertoni",
+                "Hyperlipidemi",
+                "Hjärtsvikt"
+              ],
+              "facitExplanation": "Viktiga riskfaktorer för att utveckla förmaksflimmer är rökning, DM, hypertoni, hyperlipidemi och hjärtsvikt.",
+              "tags": ["förmaksflimmer", "riskfaktorer", "hypertoni"]
+            },
+            {
+              "id": "3-1-4",
+              "text": "Vad behöver du veta mera för att ta ställning till om Sven ska behandlas med antikoagulantia?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Risken för tromboembolism – CHADS2-score ≥1 poäng indikerar antikoagulativ behandling med Waran eller NOAK",
+                "Blödningsrisk med antikoagulation – HAS-BLED-score ≥3 poäng indikerar försiktighet"
+              ],
+              "facitExplanation": "Man behöver bedöma risken för tromboembolism (CHADS2-score) och blödningsrisk (HAS-BLED-score).",
+              "tags": ["förmaksflimmer", "antikoagulantia", "CHADS2", "tromboembolism"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Vid ditt möte med Sven berättar han att han dagligen dricker en flaska vin, som han uppger att han mår bra av, men som han även fått behandling för vid upprepade tillfällen på beroendeenheter. Laboratorieutredning visar B-Hemoglobin 136 g/L, Ery-MCV 98 fl, B-leukocyter 8,8, P-glucos 6,5 mmol/L, P-Kalium 3,6 mmol/L, P-Natrium 140 mmol/L, P-Kreatinin 140 µmol/L, P-ALAT 1,27 µkat/L, P-ASAT 1,26 µkat/L, P-TSH 2,5 mIE/L, lipidstatus inom referensområdet. EKG visar sinusrytm. Du konstaterar att Sven troligen har intermittent förmaksflimmer med oklar duration, hypertoni samt nedsatt lever- och njurfunktion, sannolikt beroende på hög alkoholkonsumtion.",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Ange 4 viktiga faktorer hos Sven för bedömning av blödningsrisk vid oral antikoagulantiabehandling.",
+              "maxPoints": 2,
+              "hint": "Ange fyra faktorer",
+              "facit": [
+                "Hypertension",
+                "Njursvikt (kreatinin 140 µmol/L)",
+                "Leverpåverkan (förhöjt ALAT och ASAT)",
+                "Ålder >65 år",
+                "Behandling med ASA",
+                "Alkoholkonsumtion >8 standardglas per vecka"
+              ],
+              "facitExplanation": "Faktorer för bedömning av blödningsrisk (HAS-BLED): hypertension, njursvikt, leverpåverkan, ålder >65 år, behandling med ASA, alkoholkonsumtion >8 standardglas per vecka.",
+              "tags": ["antikoagulantia", "blödningsrisk", "HAS-BLED", "förmaksflimmer"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du konstaterar att Sven har förhöjd blödningsrisk vid oral antikoagulantiabehandling (HAS-BLED ≥3 poäng) varför antikoagulantiabehandling inte är aktuell. Två månader senare kommer Sven till dig akut då han känner andfåddhet i vila, är svullen om fötterna och har gått upp 8 kg i vikt. Vid undersökning noterar du pittingödem på underbenen, oregelbunden puls med frekvens 120 slag/minut, andningsfrekvens 25 andetag/minut och EKG visar förmaksfladder med varierande AV-blockering.",
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad är orsaken till Svens akuta besvär? Vilken är den mest troliga etiologin? Hur handlägger du Sven akut?",
+              "maxPoints": 2,
+              "hint": "Ange orsak, etiologi och akut handläggning",
+              "facit": [
+                "Hjärtsvikt utlöst av förmaksfladder med hög frekvens och misstänkt alkoholkardiomyopati",
+                "Akut inläggning vid medicinklinik, transport med ambulans"
+              ],
+              "facitExplanation": "Orsaken är hjärtsvikt utlöst av förmaksfladder med hög frekvens och misstänkt alkoholkardiomyopati. Handläggning: akut inläggning vid medicinklinik, transport med ambulans.",
+              "tags": ["hjärtsvikt", "förmaksfladder", "alkoholkardiomyopati", "akutmedicin"]
+            },
+            {
+              "id": "3-3-2",
+              "text": "Vilka två bilddiagnostiska och ytterligare två laboratorieundersökningar bör utföras i den fortsatta utredningen?",
+              "maxPoints": 2,
+              "hint": "Ange två bilddiagnostiska och två laboratorieundersökningar",
+              "facit": [
+                "Bilddiagnostik: röntgen hjärta och lungor",
+                "Bilddiagnostik: ekokardiografi",
+                "Labprover: elektrolyter, S-albumin",
+                "Labprover: S-troponin"
+              ],
+              "facitExplanation": "Bilddiagnostik: röntgen hjärta och lungor, ekokardiografi. Laboratorieprover: elektrolyter, S-albumin och S-troponin.",
+              "tags": ["hjärtsvikt", "ekokardiografi", "laboratorieutredning", "bilddiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Vid inläggningstillfället konstaterades att Sven drabbats av hjärtsvikt utlöst av förmaksfladder med hög frekvens och misstänkt alkoholkardiomyopati. Svens symtom och vikt lindrades efter att vätskedrivande behandling med furosemid initierades. Efter ett par dagar lämnade Sven sjukhuset med fortsatt uppföljning vid din vårdcentral. S-NT-proBNP är högt, 1080 ng/L (<230).",
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vad är den mest sannolika mekanismen som orsakar att NT-proBNP är högt hos Sven? Förklara patofysiologin?",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "proBNP insöndras från celler i förmak och kammare som reaktion på volymsbelastning och ökad kammartension i hjärtat",
+                "BNP är ett peptidhormon med vasodilaterande och natriuretiska egenskaper som bildas i muskelceller i hjärtkamrarna som svar på uttänjning",
+                "Beslutsgränsen för S-NT proBNP att utesluta akut hjärtsvikt anges till <300 ng/L"
+              ],
+              "facitExplanation": "proBNP insöndras från celler i förmak och kammare som reaktion på volymsbelastning och ökad kammartension i hjärtat. BNP är ett peptidhormon med vasodilaterande och natriuretiska egenskaper. Hos människa bildas BNP huvudsakligen i muskelceller i hjärtkamrarna som svar på uttänjning.",
+              "tags": ["hjärtsvikt", "BNP", "NT-proBNP", "patofysiologi"]
+            },
+            {
+              "id": "3-4-2",
+              "text": "Ange två läkemedel, förutom vätskedrivande behandling, som kan vara aktuella för Sven mot hjärtsvikten och förklara varför de har en positiv effekt.",
+              "maxPoints": 2,
+              "hint": "Ange två läkemedel med förklaring",
+              "facit": [
+                "ACE-hämmare eller angiotensinreceptorblockerare – inhibition av RAAS",
+                "Betablockerare – sänker ökat sympaticustonus, sänker hjärtfrekvensen och har antiarytmisk effekt",
+                "Aldosteronblockerare – förbättrar den autonoma funktionen"
+              ],
+              "facitExplanation": "Inhibition av Renin-angiotensinsystemet (RAAS) med ACE-hämmare eller angiotensinreceptorblockerare. Betablockad sänker ökat sympaticustonus, sänker hjärtfrekvensen och har antiarytmisk effekt. Aldosteronblockad förbättrar den autonoma funktionen.",
+              "tags": ["hjärtsvikt", "läkemedelsbehandling", "ACE-hämmare", "betablockerare"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Efter sjukhusvården på grund av hjärtsvikt inser nu Sven allvaret med sitt riskbruk och önskar din hjälp med disulfirambehandling (Antabus) för att avsluta sitt alkoholbruk. Vid tidigare uppehåll i alkoholintaget har han inte haft krampanfall eller delirium. Sven kan inte tänka sig vård via sjukhus och har inte använt disulfiram tidigare.",
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "På vilket sätt minskar disulfiram risken för alkoholintag? Förklara verkningsmekanismen.",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "Hämning av enzymet alkoholdehydrogenas som ger anhopning av acetaldehyd",
+                "Anhopning av acetaldehyd ger kliniska symtom: ansiktsrodnad, känsla av andnöd, hjärtklappning, huvudvärk, illamående och kräkning"
+              ],
+              "facitExplanation": "Disulfiram hämmar enzymet alkoholdehydrogenas vilket ger anhopning av acetaldehyd som är en viktig faktor för de kliniska disulfiram/alkoholsymtomen: ansiktsrodnad, känsla av andnöd, hjärtklappning, huvudvärk, illamående och kräkning.",
+              "tags": ["alkoholmissbruk", "disulfiram", "läkemedelsbehandling", "farmakologi"]
+            },
+            {
+              "id": "3-5-2",
+              "text": "Nämn två medicinska tillstånd som måste beaktas innan behandling med disulfiram sätts in i Svens fall.",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "Inkompenserad hjärtsvikt",
+                "Aktuell leversvikt"
+              ],
+              "facitExplanation": "Inkompenserad hjärtsvikt och aktuell leversvikt måste beaktas innan disulfirambehandling sätts in i Svens fall.",
+              "tags": ["disulfiram", "kontraindikationer", "hjärtsvikt", "läkemedelsbehandling"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "För att avsluta bruket av alkohol från en flaska vin per dag till total abstinens finns risk för allvarliga abstinenssymtom vid abrupt stopp av intaget.",
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Nämn tre allvarliga abstinenssymtom och vilken respektive förebyggande medicinsk behandlingsåtgärd du rekommenderar i Svens fall?",
+              "maxPoints": 2,
+              "hint": "Nämn tre symtom med respektive behandling",
+              "facit": [
+                "Delirium tremens – bensodiazepinderivat i nedtrappande dosering",
+                "Abstinenskramper – bensodiazepinderivat (karbamazepin ej aktuellt i Svens fall pga hjärtsvikt)",
+                "Wernickes encephalopati – höga doser vitamin B1 (tiamin)"
+              ],
+              "facitExplanation": "Delirium tremens, abstinenskramper och Wernickes encephalopati. Behandling: bensodiazepinderivat i nedtrappande dosering (karbamazepin ej aktuellt i Svens fall pga hjärtsvikt), höga doser vitamin B1.",
+              "tags": ["alkoholabstinens", "delirium tremens", "Wernickes encefalopati", "läkemedelsbehandling"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Moa arbetar som personlig assistent och söker på akutmottagning en söndag kväll med 2 dygns anamnes på tilltagande smärtor invid ändtarmsöppningen. Du är kirurgjour och bedömer henne. Hon är 19 år och tidigare helt frisk, senaste menstruation 1 vecka sedan, äter inga mediciner förutom p-piller. Vid undersökning är hon helt opåverkad med normalt bukstatus. Vid inspektion av perineum ser du en rodnad och svullnad till höger om anus. Vid rektalpalpation är hon öm på höger sida, men Du kan inte känna någon resistens eller fluktuation. Kroppstemperaturen är 38°C. I LAB status noteras CRP 62 (ref. <10 mg/L), leukocyter 16,5 (ref. 3.5-9.0 x 10⁹/L), och Hb 104 (ref. 117-153 g/L).",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": "Vid inspektion av perineum ser du en rodnad och svullnad till höger om anus (se bild). Vid rektalpalpation är hon öm på höger sida, men Du kan inte känna någon resistens eller fluktuation. Kroppstemperaturen är 38°C. CRP 62, leukocyter 16,5, Hb 104.",
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Ställ diagnos och ange lämplig behandling?",
+              "maxPoints": 2,
+              "hint": null,
+              "imageUrl": "/images/exams/2015-08/perianal-abscess-bild1.jpeg",
+              "facit": [
+                "Diagnos: perianal abscess",
+                "Behandling: incision i narkos"
+              ],
+              "facitExplanation": "Diagnosen är perianal abscess och rekommenderad behandling är incision i narkos.",
+              "tags": ["perianal abscess", "kolorektal kirurgi", "diagnos"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Du planerar inläggning för incision av perianal abscess. Moa har inte ätit eller druckit sedan eftermiddagen och bedöms efter preoperativ fasta klar för operation kl. 22.00. Vid incisionen perianalt i främre högra kvadranten tömmer sig rikligt med pus. Din bakjour lämnar nu operationssalen.",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Operationssköterskan frågar vilka suturer som du vill sy ihop såret med. Vad svarar du? Motivera svaret. Bör antibiotika sättas in? Motivera.",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "Såret ska inte sutureras – på grund av behov av fortsatt dränage och infektionsrisk om man syr ihop det",
+                "Antibiotika ska inte ges – antibiotika har ingen plats efter incision hos en i övrigt frisk patient"
+              ],
+              "facitExplanation": "Såret efter incision av anal abscess ska inte sutureras på grund av infektionsrisken. Antibiotika har ingen plats efter incision hos en i övrigt frisk patient.",
+              "tags": ["perianal abscess", "postoperativ vård", "antibiotika", "kolorektal kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Nästa morgon går du rond på intagningsavdelningen. Moa mår bra och har inte ont längre. Du bedömer att hon kan skrivas ut. Hon frågar då vad orsaken till hennes abscess/infektion kan vara. Du svarar att kryptoglandulär infektion, dvs en infektion som utgår från de anala körtlarna, är den vanligaste orsaken till perianal abscess.",
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Ange ytterligare två vanliga orsaker som kan vara relevanta i Moas fall.",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "Infekterad Bartolinit cysta",
+                "Mb Crohn (underliggande inflammatorisk tarmsjukdom)"
+              ],
+              "facitExplanation": "Ytterligare två vanliga orsaker som kan ha relevans i Moas fall är: 1. Infekterad Bartolinit cysta. 2. Mb Crohn, dvs underliggande inflammatorisk tarmsjukdom.",
+              "tags": ["perianal abscess", "Morbus Crohn", "differentialdiagnoser", "inflammatorisk tarmsjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Moa åker nu hem och du rekommenderar henne att höra av sig om hon inte blir helt bra.",
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilken följdsjukdom bör hon informeras om?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Analfistel (risk ca 25-50%)"
+              ],
+              "facitExplanation": "Hon bör informeras om risken för analfistel som är cirka 25-50%.",
+              "tags": ["analfistel", "perianal abscess", "komplikationer", "kolorektal kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "När du går igenom dina provsvar en vecka senare ser Du ett odlingssvar som togs på operation när Moas abscess inciderades. I abscessen växte: E Coli och Klebsiella pneumoniae.",
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vidtar du någon ytterligare åtgärd med anledning av odlingssvaret?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Ingen ytterligare åtgärd",
+                "Dessa bakterier innebär att risken för fistelutveckling ökar och troligen ligger uppemot 50%"
+              ],
+              "facitExplanation": "Odlingssvaret föranleder ingen ytterligare åtgärd. Dock innebär dessa bakterier att risken för fistelutveckling ökar och troligen ligger uppemot 50%.",
+              "tags": ["perianal abscess", "odlingssvar", "analfistel", "bakteriologi"]
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Du träffar Moa igen 6 månader senare. Moas sår har inte läkt utan det fortsätter att rinna från såret som nu liknar en liten upphöjd rodnad. Hon berättar att det ömmar och att hon måste ha trosskydd då det ständigt tömmer sig lite blodtillblandat sekret. Hon berättar också att hon sedan ungefär 4 månader har sett rött blod i avföringen. Hennes Mor har också berättat att en av hennes äldre bröder, som bor i USA sedan 5 år, behandlas med läkemedel på grund av en tarmsjukdom.",
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vad misstänker du och vilken undersökning bör göras vid mottagningsbesöket förutom inspektion, palpation och laboratorieprover? Motivera ditt svar.",
+              "maxPoints": 3,
+              "hint": null,
+              "facit": [
+                "Misstanke om inflammatorisk tarmsjukdom (Mb Crohn eller ulcerös kolit)",
+                "Undersökning: rektoskopi",
+                "Motivering: för att få en diagnos och kunna sätta in behandling"
+              ],
+              "facitExplanation": "På grund av misstanke om inflammatorisk tarmsjukdom och behov av att sätta in behandling bör rektoskopi utföras med biopsitagning.",
+              "tags": ["inflammatorisk tarmsjukdom", "Morbus Crohn", "rektal blödning", "rektoskopi"]
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Du misstänker att Moa har inflammatorisk tarmsjukdom och gör rektoskopi och tar biopsi. Vid rektoskopi ser Du rodnad ödematös slemhinna med ulcerationer. Detta utseende gäller hela rektalslemhinnan från linea dentata och upp till cirka 12 cm, högre upp skymtar du slemhinna av mer normalt utseende.",
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "När biopsi tas på grund av generella slemhinneförändringar bör den inte tas ventralt – varför?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": "/images/exams/2015-08/rektoskopi-bild2.jpeg",
+              "facit": [
+                "Risk för perforation"
+              ],
+              "facitExplanation": "Biopsi av generella slemhinneförändringar bör inte tas ventralt på grund av risk för perforation.",
+              "tags": ["rektoskopi", "biopsi", "kolorektal kirurgi", "komplikationer"]
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Du bör inte ta biopsier ventralt på grund av perforationsrisken. När Du passerar ut med rektoskopet ser du en liten 'grop' snett framåt på vänster sida som det rinner lite pus ifrån.",
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Vad är sannolikt detta?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Den inre fistelmynningen"
+              ],
+              "facitExplanation": "Det är sannolikt den inre fistelmynningen.",
+              "tags": ["analfistel", "rektoskopi", "kolorektal kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Det är troligen den inre fistelmynningen. Du remitterar Moa till en gastroenterolog på närliggande länssjukhus för utredning av misstänkt Mb Crohn.",
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Hon ringer en vecka senare och berättar att hon har fått mer ont och att det har svullnat upp igen invid ändtarmen. Vad gör du nu?",
+              "maxPoints": 1,
+              "hint": null,
+              "facit": [
+                "Ordna så att Moa blir undersökt igen (akut bedömning)"
+              ],
+              "facitExplanation": "Du ordnar så att Moa blir undersökt igen.",
+              "tags": ["perianal abscess", "akutbedömning", "kolorektal kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "När du skriver in henne är hon afebril och berättar att symptomen har ändrats så att hon nu har väldigt ont vid defekation och ständigt rött blod på pappret när hon torkar sig. Vid palpation har hon en kraftig spasm i anus och ömmar dorsalt i analkanalen. Vid undersökning i narkos håller man isär huden med fingrarna och en smal hake.",
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Vilken är diagnosen?",
+              "maxPoints": 1,
+              "hint": null,
+              "imageUrl": "/images/exams/2015-08/anal-fissur-bild3.jpeg",
+              "facit": [
+                "Kronisk analfissur"
+              ],
+              "facitExplanation": "Diagnosen är kronisk analfissur.",
+              "tags": ["anal fissur", "rektal blödning", "kolorektal kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "I samma narkos träs en tunn gummitråd igenom Moas fistel och knyts som en lös ögla.",
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Hur bör fissuren behandlas och vilken fysiologisk effekt vill man uppnå med behandlingen av fissuren? Vad är syftet med den tunna gummitråden genom fisteln?",
+              "maxPoints": 3,
+              "hint": "Besvara tre delar: behandling, fysiologisk effekt, syfte med gummitråd",
+              "facit": [
+                "Behandling: Nitroglycerinsalva",
+                "Fysiologisk effekt: relaxerar den interna anal sfinktern och sänker vilotrycket",
+                "Syftet med gummitråden: att dränera fisteln, dvs hindra att någon del av fisteln läker igen"
+              ],
+              "facitExplanation": "Fissuren behandlas med Nitroglycerinsalva som relaxerar den interna anal sfinktern och därmed sänker vilotrycket. Den tunna gummitrådens syfte är att dränera fisteln, det vill säga hindra att någon del av fisteln läker igen.",
+              "tags": ["anal fissur", "analfistel", "läkemedelsbehandling", "kolorektal kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-12",
+          "context": "Fissuren behandlas med Nitroglycerinsalva som relaxerar den interna anal sfinktern och därmed sänker vilotrycket. Den tunna gummitrådens syfte är att dränera fisteln, det vill säga hindra att någon del av fisteln läker igen.",
+          "questions": [
+            {
+              "id": "4-12-1",
+              "text": "Hur lång är behandlingstiden och vilken biverkning är vanlig vid behandling med Nitroglycerinsalva?",
+              "maxPoints": 2,
+              "hint": null,
+              "facit": [
+                "Behandlingstid: till smärtan avtar och högst under 8 veckor",
+                "Vanlig biverkning: huvudvärk (uppträder hos cirka hälften av patienterna)"
+              ],
+              "facitExplanation": "Behandlingen ska fortgå till smärtan avtar och högst under 8 veckor. Huvudvärk är en vanlig biverkning som uppträder hos cirka hälften av patienterna.",
+              "tags": ["anal fissur", "nitroglycerin", "läkemedelsbiverkningar", "läkemedelsbehandling"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --use-npm)",
+      "Bash(export PATH=\"$PATH:/usr/local/bin:/opt/homebrew/bin:/opt/homebrew/sbin\")",
+      "Bash(npm --version)",
+      "Read(//usr/local/bin/**)",
+      "Read(//private/etc/**)",
+      "Read(//Users/olofwullt/**)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --use-npm --yes)",
+      "Bash(npx create-next-app@latest at-tenta-app --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --use-npm --yes)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(python3 -c \"import fitz; print\\(''pymupdf ok''\\)\")",
+      "Bash(python3 -c \"import pdfplumber; print\\(''pdfplumber ok''\\)\")",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(cp page8_img1.jpeg hudlesion-1.jpeg)",
+      "Bash(cp page9_img1.jpeg hudlesion-2.jpeg)",
+      "Bash(cp page9_img2.jpeg hudlesion-3.jpeg)",
+      "Bash(cp page21_img1.jpeg astrid-pittingoedem.jpeg)",
+      "Bash(cp page22_img1.jpeg marta-erysipelas.jpeg)",
+      "Bash(cp page24_img1.jpeg eva-knasvullnad.jpeg)",
+      "Bash(cp page27_img1.jpeg sven-dvt-ben.jpeg)",
+      "Bash(cp page32_img1.jpeg caput-medusae.jpeg)",
+      "WebFetch(domain:ki.se)",
+      "Bash(curl -s \"https://ki.se/lime/eat-provet/eat-provarkivet\")",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "id": "2018-02",
+  "title": "AT-prov februari 2018",
+  "date": "2018-02-23",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm\n\nLungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilka enskilda akut-prover och undersökningar (max 6), som kan analyseras på akutrummet, beställer du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kroppstemperatur, EKG, Hb, P-glu, blodgas och CRP"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad.\n\nDu kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Tolka EKG:t! (2p) (nedskalad A4 med pappershastighet 50 mm/s, 5 mm mellan fetlagda linjer)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-02/page3_img1.jpeg",
+              "facit": [
+                "Tolka EKG:t! (nedskalad A4 med pappershastighet 50 mm/s, 5 mm mellan fetlagda linjer) (2p) Förmaksflimmer med låg kammarfrekvens, inkomplett vänstersidigt grenblock (bakre skänkeln) LPH, inferior T-vågsnegativisering"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH och ingen koldioxidretention.\n\nEKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T-vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Du planerar att lägga in Doris. Vilken vårdnivå bedömer du som adekvat? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "( 1p) HIA eller annan avdelning med möjlighet till telemetriövervakning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Vilken ytterligare uppgift bedömer du viktigast för fortsatt handläggning? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Aktuell medicinlista; det är sannolikt att hennes medicinering påverkat det aktuella tillståndet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l)och blodgas, som visar normalt pH och ingen koldioxidretention. EKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T- vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem.\n\nDu lägger in Doris på en avdelning med möjlighet till telemetriövervakning och kompletterar provtagningen med natrium, kalium, kreatinin och TSH. Du efterforskar hennes medicinlista; denna faxas till dig av hemtjänsten: T Metformin 500 mg x 2 T Furosemid 40 mg x 2 T Bisoprolol 5 mg x 1 T Digoxin 0,13 mg x 1 T Enalapril 10 mg x 2 T Diklofenak 25 mg x 3 T Morfin 10 mg x 3 T Metoprolol 50 mg x 1 Du gör en läkemedelsgenomgång.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vad är anmärkningsvärt med denna lista? Motivera.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dubbla preparat av beta-blockad. Stående dos med NSAID och kortverkande Morfin är inte adekvat behandling för långvarig smärta. Digoxin olämpligt nu med tanke på bradykardin!"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Vilka eventuella förändringar av den stående medicineringen gör du för det kommande dygnet? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Samtliga preparat sätts ut med tanke på bradykardi, hypotoni och klinisk intorkning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-3",
+              "text": "Vilken ytterligare laboratorieparameter behöver du ta reda på med anledning av medicinlistan? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontroll S-digoxin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne  då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l)och blodgas, som visar normalt pH och ingen koldioxidretention. EKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T- vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem. Du lägger in Doris på en avdelning med möjlighet till telemetriövervakning och kompletterar provtagningen med natrium, kalium, kreatinin och TSH. Du efterforskar hennes medicinlista; denna faxas till dig av hemtjänsten: T Metformin 500 mg x 2, T Furosemid 40 mg x 2, T Bisoprolol 5 mg x 1, T Digoxin 0,13 mg x 1, T Enalapril 10 mg x 2, T Diklofenak 25 mg x 3, T Morfin 10 mg x 3, T Metoprolol 50 mg x 1\n\nDu gör en läkemedelsgenomgång och noterar att patienten har dubbla preparat av beta- blockad; digitalis och metformin bedömer du som olämpliga i den aktuella situationen. Stående ordination med NSAID och kortverkande morfin är inte adekvat behandling för smärta. Du beslutar att initialt pausa samtliga läkemedel. Du ordinerar S-Digoxin. Proverna visar S- Na 132 mmol/l (137-145); S-K 2,8 mmol/l (3,6-4,6); S-Kreatinin 200 μmol/l (45-90); S-TSH 2,0 mIU/L (0,3-4,2)  och S-digoxin 2,8 nmol/l (<1,4).\n\nDoris är fortfarande bradykard, men blodtrycket har gått upp något efter en liter NaCl.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Föranleder utfallet på proverna någon aktiv åtgärd med tanke på hennes arytmi? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypokalemin måste åtgärdas med tanke på digitalisintoxikationen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne  då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l)och blodgas, som visar normalt pH och ingen koldioxidretention. EKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T- vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem. Du lägger in Doris på en avdelning med möjlighet till telemetriövervakning och kompletterar provtagningen med natrium, kalium, kreatinin och TSH. Du efterforskar hennes medicinlista; denna faxas till dig av hemtjänsten: T Metformin 500 mg x 2, T Furosemid 40 mg x 2, T Bisoprolol 5 mg x 1, T Digoxin 0,13 mg x 1, T Enalapril 10 mg x 2, T Diklofenak 25 mg x 3, T Morfin 10 mg x 3, T Metoprolol 50 mg x 1. Du gör en läkemedelsgenomgång och noterar att patienten har dubbla preparat av beta-blockad; digitalis och metformin bedömer du som olämpliga i den aktuella situationen. Stående ordination med NSAID och kortverkande morfin är inte adekvat behandling för smärta. Du beslutar att initialt pausa samtliga läkemedel. Du ordinerar S-Digoxin. Proverna visar S-Na 132 mmol/l (137-145); S-K 2,8 mmol/l (3,6-4,6); S-Kreatinin 200 μmol/l (45-90); S-TSH 2,0 mIU/L (0,3-4,2)  och S-digoxin 2,8 nmol/l (<1,4). Doris är fortfarande bradykard, men blodtrycket har gått upp något efter en liter NaCl.\n\nDu bedömer att Doris hypokalemi behöver åtgärdas med tanke på digitalisintoxikationen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Hur väljer du att åtgärda hypokalemin? Ange ordinationen detaljerat.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Intravenös substitution med 40 mmol Kalium som tillsatts till infusion ges med 10 mmol/timma."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne  då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l)och blodgas, som visar normalt pH och ingen koldioxidretention. EKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T- vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem. Du lägger in Doris på en avdelning med möjlighet till telemetriövervakning och kompletterar provtagningen med natrium, kalium, kreatinin och TSH. Du efterforskar hennes medicinlista; denna faxas till dig av hemtjänsten: T Metformin 500 mg x 2, T Furosemid 40 mg x 2, T Bisoprolol 5 mg x 1, T Digoxin 0,13 mg x 1, T Enalapril 10 mg x 2, T Diklofenak 25 mg x 3, T Morfin 10 mg x 3, T Metoprolol 50 mg x 1. Du gör en läkemedelsgenomgång och noterar att patienten har dubbla preparat av beta-blockad; digitalis och metformin bedömer du som olämpliga i den aktuella situationen. Stående ordination med NSAID och kortverkande morfin är inte adekvat behandling för smärta. Du beslutar att initialt pausa samtliga läkemedel. Du ordinerar S-Digoxin. Proverna visar S-Na 132 mmol/l (137-145); S-K 2,8 mmol/l (3,6-4,6); S-Kreatinin 200 μmol/l (45-90); S-TSH 2,0 mIU/L (0,3-4,2)  och S-digoxin 2,8 nmol/l (<1,4). Doris är fortfarande bradykard, men blodtrycket har gått upp något efter en liter NaCl.\n\nEfter att du tillsatt kalium i hennes droppordinationer normaliseras elektrolyterna och kreatinin halveras, efter ytterligare något dygn har hjärtfrekvensen gått upp.\n\nTre dagar senare blir du som ansvarig underläkare på avdelningen tillkallad då Doris plötsligt blivit försämrad. Hon har själv tillkallat hjälp och är nu så andfådd och ångestfylld att hon knappt kan prata. Blodtryck 240/120 mmHg, hjärtfrekvens 115/min, syrgasmättnad 85 % med en liter 02 per minut via grimma. Vid auskultation av lungorna hör du rassel bilateralt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vilken är din preliminärdiagnos? Vilken mekanism bedömer du som mest sannolikt bakomliggande? Motivera.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lungödem sannolikt utlöst av det höga blodtrycket som ger en akut belastning på vänster kammare där det ökade trycket fortplantar sig bakåt till lungcirkulationen och ger hydrostatiskt utträde av vätska från lungkapillärer ut i alveoler."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne  då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l)och blodgas, som visar normalt pH och ingen koldioxidretention.\n\nEKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T- vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem. Du lägger in Doris på en avdelning med möjlighet till telemetriövervakning och kompletterar provtagningen med natrium, kalium, kreatinin och TSH. Du efterforskar hennes medicinlista; denna faxas till dig av hemtjänsten: T Metformin 500 mg x 2, T Furosemid 40 mg x 2, T Bisoprolol 5 mg x 1, T Digoxin 0,13 mg x 1, T Enalapril 10 mg x 2, T Diklofenak 25 mg x 3, T Morfin 10 mg x 3, T Metoprolol 50 mg x 1. Du gör en läkemedelsgenomgång och noterar att patienten har dubbla preparat av beta-blockad; digitalis och metformin bedömer du som olämpliga i den aktuella situationen. Stående ordination med NSAID och kortverkande morfin är inte adekvat behandling för smärta. Du beslutar att initialt pausa samtliga läkemedel. Du ordinerar S-Digoxin. Proverna visar S-Na 132 mmol/l (137-145); S-K 2,8 mmol/l (3,6-4,6); S-Kreatinin 200 μmol/l (45-90); S-TSH 2,0 mIU/L (0,3-4,2)  och S-digoxin 2,8 nmol/l (<1,4). Doris är fortfarande bradykard, men blodtrycket har gått upp något efter en liter NaCl. Efter att du tillsatt kalium i hennes droppordinationer normaliseras elektrolyterna och kreatinin halveras, efter ytterligare något dygn har hjärtfrekvensen gått upp. Tre dagar senare blir du som ansvarig underläkare på avdelningen tillkallad då Doris plötsligt blivit försämrad. Hon har själv tillkallat hjälp och är nu så andfådd och ångestfylld att hon knappt kan prata. Blodtryck 240/120 mmHg, hjärtfrekvens 115/min, syrgasmättnad 85 % med en liter 02 per minut via grimma. Vid auskultation av lungorna hör du rassel bilateralt.\n\nDu bedömer att Doris drabbats av ett hypertoniutlöst lungödem",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Vilka tre läkemedel och vilken icke-farmakologisk behandling ordinerar du akut? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Morfin, Nitroglycerinpreparat, Loop-diuretika; CPAP-behandling"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l) och blodgas, som visar normalt pH, p02: 8,2 kPa och ingen koldioxidretention. Doris, 88 år, har inkommit till medicinakuten i taxi en sensommarkväll. Hemtjänsten har skickat in henne  då hon tacklat av sista veckorna, ätit och druckit dåligt och nu kan hon inte ens sitta upp. Doris säger inte mycket själv, men förnekar smärtor. Status: AT: Orienterad till person, men inte i tid och rum. Perifert kompenserad. Nedsatt hudturgor. Hjärta: Inga blåsljud. Blodtryck: 80/40 mmHg. Buk: Magerlagd; palperas mjuk och oöm. Lungor: Basala bilaterala krepitationer vid auskultation, pulsoxymetri: 91% syrgasmättnad. Du kontrollerar temp (37,2°C) och ordinerar EKG, Hb (150 g/l), P-glukos (4,5 mmol/l), CRP (10 mg/l)och blodgas, som visar normalt pH och ingen koldioxidretention. EKG visar långsamt förmaksflimmer och inkomplett vänstersidigt grenblock (bakre skänkeln) samt inferior T- vågsnegativisering. Nu har du fått kontakt med Doris dotter, som berättar att patienten har behandling för diabetes, hjärtflimmer, högt blodtryck och mångåriga smärtproblem. Du lägger in Doris på en avdelning med möjlighet till telemetriövervakning och kompletterar provtagningen med natrium, kalium, kreatinin och TSH. Du efterforskar hennes medicinlista; denna faxas till dig av hemtjänsten: T Metformin 500 mg x 2, T Furosemid 40 mg x 2, T Bisoprolol 5 mg x 1, T Digoxin 0,13 mg x 1, T Enalapril 10 mg x 2, T Diklofenak 25 mg x 3, T Morfin 10 mg x 3, T Metoprolol 50 mg x 1. Du gör en läkemedelsgenomgång och noterar att patienten har dubbla preparat av beta-blockad; digitalis och metformin bedömer du som olämpliga i den aktuella situationen. Stående ordination med NSAID och kortverkande morfin är inte adekvat behandling för smärta. Du beslutar att initialt pausa samtliga läkemedel. Du ordinerar S-Digoxin. Proverna visar S-Na 132 mmol/l (137-145); S-K 2,8 mmol/l (3,6-4,6); S-Kreatinin 200 μmol/l (45-90); S-TSH 2,0 mIU/L (0,3-4,2)  och S-digoxin 2,8 nmol/l (<1,4).  Doris är fortfarande bradykard, men blodtrycket har gått upp något efter en liter NaCl. Efter att du tillsatt kalium i hennes droppordinationer normaliseras elektrolyterna och kreatinin halveras, efter ytterligare något dygn har hjärtfrekvensen gått upp. Tre dagar senare blir du som ansvarig underläkare på avdelningen tillkallad då Doris plötsligt blivit försämrad. Hon har själv tillkallat hjälp och är nu så andfådd och ångestfylld att hon knappt kan prata. Blodtryck 240/120 mmHg, hjärtfrekvens 115/min, syrgasmättnad 85 % med en liter 02 per minut via grimma. Vid auskultation av lungorna hör du rassel bilateralt. Du bedömer att Doris drabbats av ett hypertoniutlöst lungödem\n\nDu ordinerar morfin, nitroglycerin, furosemid och CPAP-behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Beskriv vad dessa läkemedel och CPAP behandling har för positiva fysiologiska effekter i den aktuella situationen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Morfin: Minskad ångest-> minskat sympatikuspåslag, Nitroglycerinpreparat: Perifer dilatation -> minskat venöst återflöde och sänkt blodtryck, Loop-diuretika: ökad diures -> minskad venöst återflöde och sänkt blodtryck, CPAP: Ökat intrathorakalt tryck -> minskat venöst återflöde"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "Det är september och du är AT-läkare på Hälsans vårdcentral i Mälardalen. Din nästa akutpatient är en 35-årig kvinna. Hon är tidigare frisk men har nu fått ett utslag på ena benet sedan någon vecka. Hon har kontorsarbete men är mycket i sin trädgård och ute i naturen. Utslaget besvärar henne inte men hon undrar vad det är. Se bild.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilken diagnos är trolig?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2018-02/page12_img1.jpeg",
+              "facit": [
+                "Infektion av bakterien borrelia burgdorferi"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vad kallas detta utslag?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Erytema migrans"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Det är oktober och du är AT-läkare på Hälsans vårdcentral. Din nästa akut patient är en 35-årig kvinna.  Hon är tidigare frisk men har nu fått ett utslag på ena benet sedan någon vecka. Har kontorsarbete men är ute mycket i sin trädgård och naturen. Utslaget besvärar henne inte men hon undrar vad det är.\n\nDu förklarar för patienten att utslaget är en borreliainfektion orsakad av ett fästingbett. Din patient undrar om du verkligen kan veta det säkert. Ska jag inte ta några prover, undrar hon?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vad svarar du?  Motivera och beskriv möjlig provtagning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man kan mäta antikroppar av immunglobulinerna s- IgM och s-IgG mot borrelia som talar för en ny respektive en tidigare infektion. I detta tidiga skede ger provet ingen ytterligare information eftersom antikroppar ofta inte har hunnit bildats."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Det är oktober och du är AT-läkare på Hälsans vårdcentral. Din nästa akut patient är en 35-årig kvinna.  Hon är tidigare frisk men har nu fått ett utslag på ena benet sedan någon vecka. Har kontorsarbete men är ute mycket i sin trädgård och naturen. Utslaget besvärar henne inte men hon undrar vad det är.  Du förklarar för patienten att hon är infekterad av en borreliabakterie. Din patient undrar om du verkligen kan veta det säkert. Ska jag inte ta några prover, undrar hon? Man kan mäta borrelia-antikroppar av immunglobulinerna s- IgM och s-IgG mot borrelia som talar för ny respektive en tidigare infektion. I detta tidiga skede ger provet ingen ytterligare information eftersom antikroppar som regel inte har hunnit bildats.\n\nDu rekommenderar att hon får en kur med penicillin V. Hon säger då att hon är allergisk mot penicillin. Hon har en gång fått andningssvårigheter och ledsvullnader under behandling av en öroninflammation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilken behandling föreslår du i stället? Ange preparat och vilken läkemedelsgrupp detta preparat tillhör.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du skriver ut doxycyklin i dos 2 x 100 mg för 10 dagars behandling. Tillhör gruppen tetracykliner."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Det är oktober och du är AT-läkare på Hälsans vårdcentral. Din nästa akut patient är en 35-årig kvinna.  Hon är tidigare frisk men har nu fått ett utslag på ena benet sedan någon vecka. Har kontorsarbete men är ute mycket i sin trädgård och naturen. Utslaget besvärar henne inte men hon undrar vad det är.  Du förklarar för patienten att hon är infekterad av en borreliabakterie Du skriver ut doxycyklin i dos 2 x 100 mg för 10 dagars behandling. Tillhör gruppen tetracykliner.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vilken verkningsmekanism har doxycyklin?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Verkar genom inhibering av den ribosomala proteinsyntesen och effekten är huvudsakligen bakteriostatisk"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Det är oktober och du är AT-läkare på Hälsans vårdcentral. Din nästa akut patient är en 35-årig kvinna.  Hon är tidigare frisk men har nu fått ett utslag på ena benet sedan någon vecka. Har kontorsarbete men är ute mycket i sin trädgård och naturen. Utslaget besvärar henne inte men hon undrar vad det är.  Du förklarar för patienten att hon är infekterad av en borreliabakterie Du skriver ut doxycyklin i dos 2 x 100 mg för 10 dagars behandling. Tillhör gruppen tetracykliner. Verkar genom inhibering av den ribosomala proteinsyntesen och effekten är bakteriostatisk. Vad bra säger din patient. Kan jag då åka på planerad solsemester till Thailand nästa vecka?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vad svarar du? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du upplyser henne om att det finns en risk för solerytem med tanke på tetracyklinbehandlingen och att hon bör ha en hög solskyddsfaktor + täckande kläder och hålla sig i skuggan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du upplyser henne om att det finns en risk för solerytem med tanke på tetracyklinbehandlingen och att hon bör ha en hög solskyddsfaktor + täckande kläder och hålla sig i skuggan.\n\nFamiljen åker på sin solsemester men när hon kommit hem från Thailand söker både hon och hennes man på vårdcentralen efter ett par dagar. Mannen som du träffar först är 38 år och tidigare frisk. Han har sedan ett par dagar drabbats av diarréer med lätt blodtillblandning samt feber upp till 38 grader C. Han är opåverkad när du pratar med honom men berättar att han innan hemresan hade täta vattentunna diarréer. Nu på tredje dagen är de halvfasta och illaluktande med en frekvens av 3-4 gånger per dag.  Han har noterat en lätt blodtillblandning vid ett tillfälle. Mår lite illa men har inga kräkningar. Övriga familjemedlemmar har inga magbesvär.  I status noterar du lätt ömhet i buken men övrig bedömning är ua.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vilken provtagning ordinerar du? Ange högst tre prover och motivera varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du beställer Hb, CRP och en faecesodling. För många beställda prover ger 1 p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Patienten går hem i väntan på provsvar men ordinerar du någon behandling och vilka eventuella råd ger du patienten? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du rekommenderar vila i hemmet, hygienråd och vätska enligt sedvanlig rutin. Lovar ringa så snart provsvar anländer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Familjen åker på sin solsemester men när hon kommit hem från Thailand söker både hon och hennes man på vårdcentralen efter ett par dagar. Mannen som du träffar först är 38 år och tidigare frisk. Han har sedan ett par dagar drabbats av diarréer med lätt blodtillblandning samt feber upp till 38 grader C. Han är opåverkad när du pratar med honom men berättar att han innan hemresan hade täta vattentunna diarréer men nu på tredje dagen är de halvfasta och illaluktande med en frekvens av 3-4 gånger per dag.  Han har noterat en lätt blodtillblandning någon gång. Mår lite illa men har inga kräkningar. Övriga familjemedlemmar har inga liknande symtom.  I status noterar du lätt ömhet i buken men övrig bedömning är ua.\n\nDu beställer Hb, CRP och faecesodling samt ordinerar vila i hemmet, hygienråd och vätska. Provsvaren visar Hb 145 g/L, CRP 50 mg/L och faecesodling växt av campylobacter jejuni. Du ringer patienten och talar om att han har fått en campylobacterinfektion. Han har fortfarande lite diarreer men mår bättre. Han undrar om du kan behandla honom så att han blir bra nu när du vet vad han drabbats av?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Vad svarar du? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Campylobacterinfektion som vanligen läker utan antibiotikabehanding.  Problem med resistens finns. Du förordar expektans."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Familjen åker på sin solsemester men när hon kommit hem från Thailand söker både hon och hennes man på vårdcentralen efter ett par dagar. Mannen som du träffar först är 38 år och tidigare frisk. Han har sedan ett par dagar drabbats av diarreer med lätt blodtillblandning samt feber upp till 38 grader C. Han är opåverkad när du pratar med honom men berättar att han innan hemresan hade täta vattentunna diarreer men nu på tredje dagen är de halvfasta och illaluktande med en frekvens av 3-4 gånger per dag.  Han har noterat en lätt blodtillblandning någon gång. Mår lite illa men har inga kräkningar. Övriga familjemedlemmar har inga liknande symtom.  I status noterar du lätt ömhet i buken men övrig bedömning är ua. Du ringer patienten och talar om att han har fått en campylobacterinfektion. Han har fortfarande lite diarreer men mår bättre.\n\nCampylobacterinfektion som vanligen läker utan antibiotikabehanding.  Problem med resistens finns. Du förordar expektans.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Denna sjukdom är anmälningspliktig enligt smittskyddslagen. Vilka åtgärder behöver du göra i detta fall?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Läkaren är skyldig att företa smittspårning och ge råd till patienten med tanke på hans arbete och andra kontakter. Patienten har IT-arbete som delvis kan utföras i hemmet och bedöms kunna återgå till arbetsplatsen när diarréerna upphört."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Läkaren är skyldig att företa smittspårning och ge råd till patienten med tanke på hans arbete och andra kontakter. Patienten har IT-arbete som delvis kan utföras i hemmet och bedöms kunna återgå till arbetsplatsen när diarréerna upphört Hans fru som var den patient som du nyligen behandlade med doxycyklin för borrelia är din nästa patient.  Hennes borreliautslag har försvunnit och hon fick inga problem med solerytem i Thailand. Hon har fått feber drygt 38 grader C sedan ett par dagar kombinerat med muskelvärk och huvudvärk. Med tanke på att hon varit i Thailand funderar du på om hon kan ha fått en tropisk sjukdom, som ökar i hela världen, och svenskar som reser till Thailand kan drabbas av (inte malaria).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vilken tropisk sjukdom är trolig i detta fall?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Denguefeber"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Hans fru som var den patient som du nyligen behandlade med doxycyklin för borrelia kommer härnäst.  Hennes utslag har försvunnit och det gick bra med solen i Thailand. Hon har emellertid fått feber på drygt 38 grader C sedan ett par dagar kombinerat med muskelvärk och huvudvärk. Med tanke på att hon varit i Thailand funderar du på om hon kan ha fått en tropisk sjukdom som de många svenskar som reser dit kan drabbas av (inte malaria). Du misstänker att hon fått denguefeber.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Vad är etiologin till denguefeber och hur sprids den?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En vektorburen zoonos som sprids av dagaktiva myggor och orsakas av ett virus i gruppen flavivirus. Sprids ej från människa till människa."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-2",
+              "text": "Vilken provtagning beställer du för att fastställa diagnosen? (1p)\n\nProvtagningen bekräftar diagnosen denguefeber och när du meddelar patienten undrar hon hur detta ska gå. Finns det någon behandling, blir jag bra?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilken provtagning beställer du för att fastställa diagnosen? (1p) Serologi för antikroppar mot denguevirus."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-3",
+              "text": "Vad ger du för råd?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Terapin är symtomatisk. De flesta blir helt bra utan komplikationer och många får endast en lätt feber som övergående symtom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Kirurgi",
+      "points": 20,
+      "intro": "Du tjänstgör på en kirurgklinik på ett länssjukhus och under ett mottagningspass träffar du Svea Ek, född 1938. Av journalen framgår att hon opererades för 7 månader sedan för koloncancer; ingreppet utfördes via ett medellinjesnitt. Patienten har nu beställt en tid p.g.a. en svullnad av bukväggen. Svullnaden har utvecklat sig successivt; Svea har egentligen ganska lite besvär av den, men är orolig. I övrig är patienten frisk och utan pågående läkemedelsbehandling.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2018-02/page23_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Bilden visar utseendet av patientens bukvägg i stående. Under undersökningen säger Svea: ”När jag lägger mig ner försvinner svullnaden”. Vilken diagnos är mest sannolik? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bukväggsbråck (ärrbråck). Svullnaden försvinner i liggande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Du tjänstgör på en kirurgklinik på ett länssjukhus och under ett mottagningspass träffar du Svea Ek, född 1938. Av journalen framgår att hon opererades för 7 månader sedan för koloncancer; ingreppet utfördes via ett medellinjesnitt.  Hon har nu beställt en tid p.g.a. en svullnad av bukväggen. Svullnaden har utvecklat sig succesivt; Svea har egentligen ganska lite besvär av den, men är orolig. I övrig är patienten frisk och utan pågående läkemedelsbehandling.\n\nSvullnaden reponeras i liggande. Mest rimlig diagnos är därför ärrbråck.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilken information och vilka rekommendationer ger du Svea angående hennes bråck?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du informerar Svea om att hon har ett bukväggsbråck. Bråcket i sig är ofarligt, men läker inte av sig själv. Det enda sättet att bota henne är med operation. Ingreppet innebär en viss risk som skall vägas mot nyttan. Efter operation finns risk för recidiv. Indikationen för operation beror därför i stor utsträckning av patients besvär. En anpassad bråckgördel kan lindra besvären. Du informerar om risken för inklämning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du tjänstgör på en kirurgklinik på ett länssjukhus och under ett mottagningspass träffar du Svea Ek, född 1938. Av journalen framgår att hon opererades för 7 månader sedan för koloncancer och hon har nu beställt en tid p.g.a. ärrbråck.  I övrig är patienten frisk och utan pågående läkemedelsbehandling.\n\nDu informerar Svea om att hon har ett bukväggsbråck. Bråcket i sig är ofarligt, men läker inte av sig själv. Det enda sättet att bota henne är med operation. Ingreppet innebär en viss risk som skall vägas mot nyttan. Indikationen för operation beror därför i stor utsträckning av patients besvär. En anpassad bråckgördel kan lindra besvären. Ni kommer överens om expektans.\n\nÅtta månader senare är du jour på samma länssjukhus och kl 13.00 tar du emot Svea på nytt. Hon bor nu på ett äldreboende och ansvarig distriktssköterska har remitterat in henne och bifogat en anteckning: ”Hej! Svea har sedan igår kväll klagat på buksmärtor och hon har kräkts vid tre tillfällen. Både jag och patienten uppfattar att hennes buk svullnat. Temp idag på morgonen 36,9. Senaste avföring hade hon igår morse; hon har kunnat kissa som vanligt. Tacksam för akut läkarbedömning! Hälsningar!”\n\nPatientens operation för koloncancern nu ligger 15 månader tillbaka i tiden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Trots knappa uppgifter funderar Du över tänkbara differentialdiagnoser. En tänkbar diagnos är mekanisk ileus.\n\nVilka delar av patientens kliniska bild talar för denna diagnos?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Smärta, kräkning, buksvullnad och frånvaro av feber."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "Det finns alltid en bakomliggande orsak till ett mekaniskt ileustillstånd. Vilka möjliga orsaker identifierar du i det aktuella fallet",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inklämt ärrbråck, adherenser efter operation, tumörrecidiv, metakron cancer"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du är jour på ett länssjukhus och tar emot Svea Ek, född 1938. Hon har buksmärtor och kräkningar; buken har svullnat. Temp 36,9. Senaste avföring hade hon igår morse; hon har kunnat kissa som vanligt. Patienten opererades för 15 månader sedan för koloncancer. Hon har ett känt ärrbråck i medellinjen. I övrig är patienten frisk och utan pågående läkemedelsbehandling.\n\nSmärta, kräkning och buksvullnad är typiskt för mekaniskt ileus; frånvaro av feber stärker sannolikheten för denna diagnos. Möjliga bakomliggande orsaker till mekaniskt ileus hos denna patient är inklämt ärrbråck, adherenser efter operation och tumörrecidiv. När du möter Svea kompletterar du anamnesen, men egentligen framkommer inget nytt; din misstanke om mekaniskt ileus kvarstår. Du undersöker nu patienten och genomför ett komplett bukstatus.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Redogör för hur du genomför status av buken och beskriv, under varje moment, vilka fynd (positiva och negativa) du söker för att verifiera eller förkasta diagnosen mekaniskt ileus.",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "1. Inspektion: Buksvullnad, ärr i medellinjen med uppdrivning av bråcket. 2. Auskultation: Stegrade tarmljud i intervaller; klingande/metalliska ljud. 3. Perkussion: Huvudsakligen tympanistisk ton 4. Palpation: Generellt obehag, men utan peitoneal retning. Bukväggsbråcket kan vara reponibelt eller inte. Palpation av ljumskar; inklämt bråck? 5. PR: Normalfynd/tom ampull"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Du är jour på ett länssjukhus och tar emot Svea Ek, född 1938. Hon har buksmärtor och kräkningar; buken har svullnat. Temp 36,9. Senaste avföring hade hon igår morse; hon har kunnat kissa som vanligt. Patienten opererades för 15 månader sedan för koloncancer. Hon har ett känt ärrbråck i medellinjen. I övrig är patienten frisk och utan pågående läkemedelsbehandling. Du bedömer det sannolikt att patienten har mekaniskt ileus. Möjliga bakomliggande orsaker till mekaniskt ileus hos denna patient är inklämt ärrbråck, adherenser efter operation och tumörrecidiv.\n\nNär du undersöker patienten har hon av triageläkaren fått 5 mg morfin och du finner du henne relativt opåverkad; hon uppger att smärtan minskat betydlig. Buken är uppdriven och tympanistisk. Ärrbråcket är 15x8 cm och spänt. Du uppfattar att du kan reponera in detta i buken, men när du släpper trycket tränger bråcket omedelbart ut igen. Buken är utan peritoneal retning.\n\nLab: Hb 146 (117-153) g/L; S-Natrium 132 (137-145) mmol/L; S-Kalium 4,1 (3,6-4,6) mmol/L; S-Kreatinin 142 (45-90) µmol/L; CRP 12 (<5) mg/L ; leverstatus + amylas normala.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Du beslutar dig för att lägga in patienten och utreda henne med CT- buköversikt.\n\nVilka är dina tre viktigaste frågeställningar på röntgenremissen (endast de tre första du nämner bedöms)? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ileus – tarmdilatation, inkl nivå av hindret (mest sannolik diagnos) Tecken på inklämt bråck (om tecken på detta – stark operationsindikation) Tumörrecidiv – det kanske mest komplicerade läget. Fri gas ger enbart poäng om det klart motiveras med att det är den allvarligaste frågeställningen och behöver uteslutas även om det bedöms som osannolikt utifrån den kliniska bilden."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Du är jour på ett länssjukhus och tar emot Svea Ek, född 1938. Hon har buksmärtor och kräkningar; buken har svullnat. Temp 36,9. Senaste avföring hade hon igår morse; hon har kunnat kissa som vanligt. Patienten opererades för 15 månader sedan för koloncancer. Hon har ett känt ärrbråck i medellinjen. I övrig är patienten frisk och utan pågående läkemedelsbehandling. Du bedömer det sannolikt att patienten har mekaniskt ileus. Möjliga bakomliggande orsaker till mekaniskt ileus hos denna patient är inklämt ärrbråck, adherenser efter operation och tumörrecidiv. Hon är opåverkad efter 5 mg morfin sc; smärtan har minskat betydlig. Buken är uppdriven och tympanistisk. Ärrbråcket är ca 15x8 cm och spänt. Du kan reponera detta, men när du släpper trycket tränger bråcket omedelbart ut igen. Ingen peritoneal retning.\n\nLab: Hb 146 (117-153) g/L; S-Natrium 132 (137-145) mmol/L; S-Kalium 4,1 (3,6-4,6) mmol/L; S-Kreatinin 142 (45-90) µmol/L; CRP 12 (<5) mg/L ; leverstatus + amylas normala.\n\nEfter två timmar ringer sköterskan från avdelningen och säger att Svea är tillbaka från röntgen och att svaret har kommit: ”CT-Buköversikt: Ingen fri gas. Ventrikeln är dilaterad; proximala tunntarmen är vidgad till ca 5 cm. Distala ileum och kolon är sammanfallen. Multipla gas-vätskenivåer. En betydande del av bukväggen i medellinjen består av ett bråck som innehåller vida, men även sammanfallna tarmslyngor.\n\n- Mekanisk tunntarmsileus. Orsaken till hindret är oklart, men det kan inte uteslutas att bukväggsbråcket är en del av mekanismen. ”",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Patienten har tunntarmsileus, ett tillstånd som leder till vätskebalansrubbning. Vilka är de huvudsakliga orsakerna till vätskebalansrubbningen som ses vid tunntarmsileus (2p)\n\nDu tycker situationen är svårbedömd och tillkallar en mer erfaren kollega som också bedömer patienten. Efter diskussion enas ni om att starta med att behandla patienten konservativt och observera utvecklingen av den kliniska bilden.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Resorptionen av vätska i distala tunntarmen är upphävd pga passagehindret; innehållet står kvar i tarmen eller dräneras till sonden/kräkning. Osmotiska trycket i den vätska som står i tarmen är högt med ytterligare vätskeretention i tarmen som följd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "a. Vilka moment ingår i din konservativa behandling? (1p) b. Beskriv hur du tänker genomföra observationen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Smärtstillande (opiat), vätskebehandling (kristalloid), ventrikelsond. Du observerar allmäntillstånd, puls, blodtryck, syremättnad, temp, smärtareaktion, bukstatus och GI-funktion (utbyte i sonden, ev gas-faecesavgång); passageröntgen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Du handlägger Svea Ek, född 1938 pga ileus.  Hon har buksmärtor och kräkningar; Temp 36,9. Patienten opererades för 15 månader sedan för koloncancer; känt ärrbråck i medellinjen. I övrig är patienten frisk och utan pågående läkemedelsbehandling. Hon är opåverkad efter 5 mg morfin sc; Buken är uppdriven och tympanistisk. Ärrbråcket är ca 15x8 cm och spänt. Du kan reponera detta, men när du släpper trycket tränger bråcket omedelbart ut igen. Ingen peritoneal retning. Lab: Hb 146 (117-153) g/L; S-Natrium 132 (137-145) mmol/L; S-Kalium 4,1 (3,6-4,6) mmol/L; S-Kreatinin 142 (45-90) µmol/L; CRP 12 (<5) mg/L ; leverstatus + amylas normala.\n\n”CT-Buköversikt: Ingen fri gas. Ventrikeln är dilaterad; proximala tunntarmen är vidgad till ca 5 cm. Distala ileum och kolon är sammanfallen. Multipla gas-vätskenivåer. En betydande del av bukväggen i medellinjen består av ett bråck, som innehåller vida, men även sammanfallna tarmslyngor. - Mekaniskt tunntarmsileus. Orsaken till hindret är oklart, men det kan inte uteslutas att bukväggsbråcket är en del av mekanismen. ”\n\nNi gör ett försök att behandla patienten konservativt.\n\nDu ordinerar smärtstillande, vätskebehandling och ventrikelsond. Du observerar allmäntillstånd, puls, blodtryck, syremättnad, temperatur, smärtreaktion, bukstatus och gastrointestinal funktion (utbyte i sonden, ev gas- fäcesavgång); när ventrikeln är tömd startar du passageröntgen.\n\nPåföljande dag är patientens läge väsentligen oförändrat. Hon har fått två sprutor morfinanalgetika de senaste 8 timmarna. En passageröntgenbild tagen efter 16 timmar visar att kontrasten står stilla i proximala tunntarmen. Hon mår illa och du öppnar ventrikelsonden och får ca 800 ml i omedelbart utbyte. Ni beslutar att operera patienten.",
+          "contextImageUrl": "/images/exams/2018-02/page29_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vätskan som dräneras via sonden innehåller bl a galla och sekretionen från ventrikeln. Ange producerad dygnsvolym samt pH i den producerade vätskan för nedanstående två organ (2p):",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vätskan som dräneras via sonden innehåller bl a galla och sekretionen från ventrikeln. Fyll i nedanstående tabell om volym/pH avseende vätskeproduktion från nedanstående organ (2p):\n\nDygnsvolym\n\nVätskans pH\n\nVentrikel\n\n……1500…..ml\n\n……1-3,5……\n\nLever (galla) ……1000…..ml\n\n………7,8……"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Vid operationen finner Ni att tunntarmen sitter fast i hårda sammanväxningar till vänster i buken. Ni uppfattar att det skulle kunna röra sig om ett cancerrecidiv, men situationen är svårbedömd. Ni tar biopsier från det misstänkta recidivet och operatörens bedömning är att det kanske inte är uteslutet att ett eventuellt recidiv kan avlägsnas radikalt vid en eventuell senare operation. För att lösa patientens ileus lägger ni ut en loopileostomi proximalt om hindret; bukväggsbråcket repareras med nätplastik. Nästa morgon möter du patienten vid ronden; hon ligger på ett enkelrum.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Hur informerar du patienten om hennes situation?\n\nVilka åtgärder planerar du för att senare kunna ge patienten fullständig information om behandlingen av hennes tumörsjukdom?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du informerar om att det som stoppat tarmfunktionen kan vara ett tumöråterfall eller sammanväxningar efter hennes tidigare operation och att prover är tagna från förändringarna. Hon har fått en stomi för att lösa den akuta situationen (ileus). Du planerar nu metastasutredning (MR/CT av buken/thorax) och när svaret från patologen anlänt kommer hennes situation att diskuteras på multidisciplinär konferens."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatrifrågan",
+      "points": 20,
+      "intro": "Aysha, 24 år, inkommer själv på psykiatriska akutmottagningen efter att hennes närstående uppmanat henne att söka akut i flera veckor. Hon känner sig ¨utmattad och helt tom¨ efter ett intensivt halvår.\n\nHon berättar att hon mådde som sämst för en månad sedan. Hon lämnade då knappt lägenheten, slutade betala räkningar och misskötte sin personliga hygien. Hon orkade inte komma ur sängen, sov fler timmar än vanligt. Hon beskriver att den tunga nedstämdheten nu har börjat klinga av men att hon fortfarande känner sig vara tom på känslor. Hon vill inte göra något. Hon känner inte att hon ¨vill leva eller dö’. Hon har svårt att koncentrera sig vilket noteras även vid samtalet. Den senaste veckan har hon börjat sova mindre och sämre istället, känner sig rastlös på kvällarna. Hon tycker själv att hon har ¨gått in i väggen¨.\n\nAysha är ensamboende och studerar heltid på konsthögskolan. Hon har haft ett extra jobb på en konsthall. Hon kände sig orättvist behandlad på sin arbetsplats och vantrivdes på sistone. Hon säger också att hon har haft kärleksproblem, samt att hon har ¨blivit dragen in i konflikter¨, det är ingen som riktigt förstår henne.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Utifrån ovanstående anamnestiska uppgifter, vilka psykiatriska diagnoser överväger du? Nämn fyra och motivera kort varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Anpassningsstörning, egentlig depression, utmattningssyndrom, postmanisk återhämtning/bipolär depression (bipolärt syndrom). ( 4 x 0,5 p för diagnosförslag och rätt motivering)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Ange två endokrinologiska sjukdomar som kan ge liknande symtombild.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "T.ex. Hypotyreos,Cushings syndrom, hyperkalcemi-orsakade sjukdomar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Aysha, 24 år, inkommer själv på psykiatriska akutmottagningen efter att hennes närstående uppmanat henne att söka akut i flera veckor. Hon känner sig ¨utmattad och helt tom¨ efter ett intensivt halvår.\n\nHon berättar att hon mådde som sämst för en månad sedan. Hon lämnade då knappt lägenheten, slutade betala räkningar och misskötte sin personliga hygien. Hon orkade inte komma ur sängen, sov fler timmar än vanligt. Hon beskriver att den tunga nedstämdheten nu har börjat klinga av men att hon fortfarande känner sig vara tom på känslor. Hon vill inte göra något. Hon känner inte att hon ¨vill leva eller dö’. Hon har svårt att koncentrera sig vilket noteras även vid samtalet. Den senaste veckan har hon börjat sova mindre och sämre istället, känner sig rastlös på kvällarna. Hon tycker själv att hon har ¨gått in i väggen¨.\n\nDu överväger huvudsakligen följande diagnoser: anpassningsstörning, egentlig depression, utmattningssyndrom och bipolärt syndrom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Nämn ett psykometriskt verktyg som kan vara till hjälp vid differentialdiagnostisering.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MINI eller SCID-I."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Nämn ett psykometriskt verktyg som kan vara till hjälp för att bedöma svårighetsgraden av depression.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MADRS, PHQ-9 eller CPRS."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-3",
+              "text": "Vilka läkemedel kan öka risk för att utlösa depression? Nämn två.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka läkemedel kan öka riska för att utlösa depression? Nämn två. (1p) Kortison, interferon, betablockerare. P-piller också möjligt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Aysha, 24 år, inkommer själv på psykiatriska akutmottagningen efter att hennes närstående uppmanat henne att söka akut i flera veckor. Hon känner sig ¨utmattad och helt tom ¨efter ett intensivt halvår.\n\nHon berättar att hon mådde som sämst för en månad sedan. Hon lämnade då knappt lägenheten, slutade betala räkningar och misskötte sin personliga hygien. Hon orkade inte komma ur sängen, sov fler timmar än vanligt. Hon beskriver att den tunga nedstämdheten nu har börjat klinga av men att hon fortfarande känner sig vara tom på känslor. Hon vill inte göra något. Hon känner inte att hon ¨vill leva eller dö’. Hon har svårt att koncentrera sig vilket noteras även vid samtalet. Den senaste veckan har hon börjat sova mindre och sämre istället, känner sig rastlös på kvällarna. Hon tycker själv att hon har ¨gått in i väggen¨.\n\nMed hänsyn till hennes nuvarande tillstånd och sjukdomsförlopp bedömer du att hon har en recidiverande depression, medelsvår episod. Aysha beskriver att hon hade haft två tidigare skov med liknade depressiva symptom men hon sökte inte vård. Du bedömer svårighetsgraden av hennes depression med MADRS-M där hon får 32 poäng (maxpoäng 54). Du bedömer suicidrisken som låg för närvarande och bestämmer dig för att behandla Ayshas depression.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilken farmakologisk behandling bör vara förstahandsrekommendation vid denna typ av depression?  Motivera kort varför.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Antidepressiv medicinering, selektiva serotoninåterupptagshämmare (SSRI), Serotonin- och noradrenalinåterupptagshämmare (SNRI)I eller Mirtazapin i första hand vid egentlig depression med måttlig svårighetsgrad."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Aysha, 24 år, inkommer själv på psykiatriska akutmottagningen efter att hennes närstående uppmanat henne att söka akut i flera veckor. Hon känner sig ¨utmattad och helt tom ¨efter ett intensivt halvår.\n\nHon berättar att hon mådde som sämst för en månad sedan. Hon lämnade då knappt lägenheten, slutade betala räkningar och misskötte sin personliga hygien. Hon orkade inte komma ur sängen, sov fler timmar än vanligt. Hon beskriver att den tunga nedstämdheten nu har börjat klinga av men att hon fortfarande känner sig vara tom på känslor. Hon vill inte göra något. Hon känner inte att hon ¨vill leva eller dö’. Hon har svårt att koncentrera sig vilket noteras även vid samtalet. Den senaste veckan har hon börjat sova mindre och sämre istället, känner sig rastlös på kvällarna. Hon tycker själv att hon har ¨gått in i väggen¨.\n\nDin bedömning är att Aysha lider av en egentlig depression av måttlig svårighetsgrad samt att det finns behov av farmakologisk behandling. Du väljer mellan ett SSRI-, SNRI- preparat och Mirtazapin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vad står förkortningarna SSRI och SNRI för? Hur skiljer sig SSRI-, SNRI- preparat och Mirtazapin åt vad gäller farmakologiska verkningsmekanismer?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Selektiva serotoninåterupptagshämmare (SSRI) verkar genom återupptagshämning av serotonin i synapsen) (0,5p). Till skillnad från SSRI så verkar Serotonin- och noradrenalinåterupptagshämmare (SNRI) både på serotonin- och noradrenalinnivåerna i hjärnan. Ofta har SNRI även en svagt hämmande effekt på dopaminupptaget (0,5p). Mirtazapin är en alfa2-antagonist och påverkar både serotonin- och noradrenalinfrisättning (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Nämn två vanligt förekommande biverkningar i respektive grupp (dvs. SSRI, SNRI, Mirtazapin).",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nämn två vanligt förekommande biverkningar i respektive grupp? (1,5p)\n\nSSRI: förändrad aptit, minskad libido, ejakulationsstörning, ångest, rastlöshet, onormala drömmar, huvudvärk, illamående, ökad svettning. (minst två för 0,5 p) SNRI: Minskad aptit, hypertoni, tinnitus, förvirrat tillstånd, hjärtklappning, förstoppning, menstruationsrubbningar.  (minst två för 0,5 p) Mirtazapin: ökat aptit, viktuppgång, trötthet, sedering, huvudvärk, muntorrhet (minst två för 0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-3",
+              "text": "Om Aysha visar sig vara gravid under första trimestern, vad behöver du överväga och vilka lämpliga källor kan hjälpa dig?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Välbeprövade SSRI eller psykologisk behandling (KBT/ITP) med täta besök (0,5p). Av de SSRI bör Paroxetin undvikas då liten riskökning för hjärtmissbildning har rapporterats i vissa studier. Vid utebliven förbättring bör man överväga behandling med SNRI eller ECT. I första hand icke farmakologisk behandling mot sömnstörningen. (0,5p). Om man sätter in sömngivande läkemedel skall det vara antingen propiomazin eller prometazin. Resonerande svar om källor som finns till hjälp alltså inte bara FASS (t.ex. psykiatristod.se, janusinfo.se, Uptodate)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Aysha, 24 år, inkommer själv på psykiatriska akutmottagningen efter att hennes närstående uppmanat henne att söka akut i flera veckor. Hon känner sig ¨utmattad och helt tom ¨efter ett intensivt halvår.\n\nHon berättar att hon mådde som sämst för en månad sedan. Hon lämnade då knappt lägenheten, slutade betala räkningar och misskötte sin personliga hygien. Hon orkade inte komma ur sängen, sov fler timmar än vanligt. Hon beskriver att den tunga nedstämdheten nu har börjat klinga av men att hon fortfarande känner sig vara tom på känslor. Hon vill inte göra något. Hon känner inte att hon ¨vill leva eller dö’. Hon har svårt att koncentrera sig vilket noteras även vid samtalet. Den senaste veckan har hon börjat sova mindre och sämre istället, känner sig rastlös på kvällarna. Hon tycker själv att hon har ¨gått in i väggen¨.\n\nDin bedömning var att Aysha lider av recidiverande depression och numera av en medelsvår episod. Hon fick börja farmakologisk behandling med T. Cipralex 10 mg 1x1. Fyra veckor senare, strax innan planerat återbesök hos dig, inkommer Aysha med polis till psykiatriska akutmottagningen, enligt LPT § 47.  Du råkar vara jourhavande läkare. Hon har varit provocerande och hotfull hemma hos sin mor. Hennes mor blev rädd och ringde sedan polisen.\n\nHon känner igen dig i korridoren och börjar prata med dig direkt vid ankomsten. Hon börjar prata om mediciner som hon fick av dig, om sin mor, för att sen övergå till Postmodernism och till senaste Almedalsveckan. Det blir svårt för dig att hänga med och att avbryta hennes monolog.  På frågan om ankomstskäl berättar hon att hennes mor och före detta arbetsgivare är i maskopi mot henne för att stjäla all hennes genialitet och framtida konstverk.  Det är svårt att närma sig en djupare diskussion om hur hon mår och om vad som hänt. Hon ter sig lättretlig och aggressiv; hon förefaller svänga kraftigt i sitt humör.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Aysha hoppar från ett tema till ett annat utan sammanhang. Vad kallas detta symtom?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tankeflykt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-2",
+              "text": "Hur bedömer du nu patientens tillstånd och hur handlägger du situationen i akutskedet?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten lider av ett maniformt tillstånd (0,5p).  Den förskrivna medicinen (T. Cipralex) har med största sannolikhet bidragit och bör seponeras omgående (0,5p ). Patienten är i behov av inneliggande vård.  Det finns starka skäl att överväga utfärdande av vårdintyg (0,5p). Drogscreening bör göras på samma dag då en del inte kan fångas nästa dag (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Aysha, 24 år, inkommer själv på psykiatriska akutmottagningen efter att hennes närstående uppmanat henne att söka akut i flera veckor. Hon känner sig ¨utmattad och helt tom ¨efter ett intensivt halvår.\n\nHon berättar att hon mådde som sämst för en månad sedan. Hon lämnade då knappt lägenheten, slutade betala räkningar och misskötte sin personliga hygien. Hon orkade inte komma ur sängen, sov fler timmar än vanligt. Hon beskriver att den tunga nedstämdheten nu har börjat klinga av men att hon fortfarande känner sig vara tom på känslor. Hon vill inte göra något. Hon känner inte att hon ¨vill leva eller dö’. Hon har svårt att koncentrera sig vilket noteras även vid samtalet. Den senaste veckan har hon börjat sova mindre och sämre istället, känner sig rastlös på kvällarna. Hon tycker själv att hon har ¨gått in i väggen¨.\n\nSituationen bedömdes i början som en depressiv episod men nu har hon inkommit till psykiatriska akutmottagningen med tydliga maniforma symtom.  Du bedömer att hon är i behov av inneliggande vård enligt LPT.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilka kriterier gör att vård enligt LPT kan vara nödvändig i detta fall?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka kriterier gör att vård enligt LPT kan vara nödvändigt i detta fall? (1,5 p) Lider av en allvarlig psykisk störning (0,5) och på grund av sitt psykiska tillstånd och sina personliga förhållanden i övrigt har ett oundgängligt behov av psykiatrisk vård, som inte kan tillgodoses på annat sätt än genom att patienten är intagen på en sjukvårdsinrättning för kvalificerad psykiatrisk dygnetruntvård (sluten psykiatrisk tvångsvård) (0,5p). En förutsättning för vård enligt denna lag är att patienten motsätter sig sådan vård som sägs i första stycket, eller det till följd av patientens psykiska tillstånd finns grundad anledning att anta att vården inte kan ges med hans eller hennes samtycke (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Under samtalet, blir det alltmer tydligt att patienten lider av vanföreställningar. Hur skiljer sig vanföreställningar från tvångstankar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skillnader som bygger på innehållet av tvångstankar eller vanföreställningar ger inga poäng. Tex  Tvångstankar (obsessioner) är ¨återkommande och ihållande tankar, impulser, tvivel eller inre bilder¨ i sin symtomform till skillnad från vanföreställningar som är övertygelser, falska uppfattningar, besynnerliga idéer som inte bygger på förnuft.  Tvångstankar är ego-dystona till skillnad från vanföreställningar som ofta är ego- syntona. Exempelvis, pedofilitvångstankar orsakar konflikt mellan deras innehåll och ens självbild (och moraliska värderingar)  Vi tvångstankar uppvisar personen patologiskt tvivel om de ”tankar” kan vara sanna. Ett sådant tvivel förekommer, i regel, inte vid vanföreställningar.  Vanföreställningar låter sig inte korrigeras med tvångshandlingar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-3",
+              "text": "Vilka farmakologiska behandlingsprinciper finns för att behandla en akut mani? Nämn tre olika principer och exemplifiera med substans.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Följande behandlingsprinciper:\n\n Insättning av tillfällig akut antimanisk medicinering ex litium eller neuroleptika som olanzapin,  Upptrappning och dosjustering av stämningsstabiliserande medicinering ex litium eller valproat, lamotrigin  Alternativt dämpande medicinering ex olanzapin eller benzodiapiner (0,5 p per princip, och 0,5 för rätt exempel)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

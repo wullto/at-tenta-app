@@ -1,0 +1,828 @@
+{
+  "id": "2017-05",
+  "title": "AT-prov maj 2017",
+  "date": "2017-05-19",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning i glesbygd. Den specialist du arbetar med är sjuk. Du kommer överens med bakjouren på närliggande sjukhus att du, som nu är inne på din tredje AT-månad, skall ta hand om dagens patienter och att du kan ringa till bakjouren närhelst du behöver det. Du suckar men inser att detta är en inte ovanlig situation i dagens sjukvårdsverige. Dagens första nybesök är Robert Blom, 35 år. Han sitter i väntrummet och tittar tomt framför sig, är klädd i en gräll grön skjorta med olikfärgade fåglar på. Om halsen har han en löst knuten violett halsduk. När du ropar upp hans namn reagerar han först inte. Du går då fram mot honom och ropar ånyo ut hans namn. Han rycker då till, tittar upp, nickar utan att säga något och reser sig sakta upp. Du visar honom in till ditt samtalsrum. Han följer med dig i tystnad. Efter att ha kommit in i samtalsrummet frågar du vänligt vad du kan hjälpa honom med. Det är mina nerver, svarar han. ”Ni har ju fått en remiss!” Remissen från distriktsläkaren säger att Robert de senaste åren blivit alltmer initiativlös, trött och glädjelös. Vid några tillfällen har han dock besökt en gammal skolkamrat, druckit sprit, och då blivit, som remissen säger, ”komplett galen”.  Efter varje sådant tillfälle har Robert blivit våldsamt skuldtyngd, tyst och ännu mer inbunden. Distriktsläkaren har föreslagit medicinering, men Robert har vägrat. Han berättar att han är född i trakten och har aldrig flyttat från denna. Just nu bor han i sitt föräldrahem, en liten gård bara några kilometer från öppenvårdsmottagningen. Hans liv har varit ganska varierande. Han gick ut skolan efter 9 år med dåliga betyg. Redan under tonåren intresserade han sig för bilar och motorsport. När han fick körkort började han tävla. Det gick mycket bra, han vann en hel del priser och blev väldigt bekräftad. Han träffade många tjejer. En av dem blev gravid och då gifte de sig. Efter att ha fått två barn skilde de sig. Hon hade tidigare haft vårdnaden om deras barn eftersom ”man hade sagt att han inte var lämplig”. Det skedde i samband med skilsmässan för 10 år sedan. När hon flyttade utomlands 7 år senare, för 3 år sedan fick han dock vårdnaden om båda barnen, som nu är 12 respektive 14 år. Han har haft svårt att orka ta ansvar och skolan har flera gånger klagat över att barnen varit dåligt klädda under vintern. Det äldsta barnet har dessutom skaffat sig vänner som han inte gillar, har börjat vara borta på nätterna utan tillåtelse, och skolkar ofta från skolan. Du misstänker att barnen far illa.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Lagstiftningen anger hur du skall överväga att agera efter att ha fått denna sista information. Vad heter den här mest aktuella lagen och vad anger den för en situation som denna?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Socialtjänstlagen (1p). Du är skyldig att genast anmäla till Socialnämnden (0,5 p) om du i ditt arbete misstänker att ett barn far illa (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Du är AT-läkare på en psykiatrisk öppenvårdsmottagning. Idag är den specialist du arbetar med sjuk. Du skall ta hand om dagens patienter med stöd av bakjouren vid behov. Robert Blom, 35 år, kommer på nybesök. Han sitter och tittar tomt framför sig, är klädd i en gräll grön skjorta med olikfärgade fåglar på och har en violett halsduk runt halsen. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Vid några tillfällen har han i samband med spritförtäring blivit, som remissen säger, ”komplett galen”. Efter varje sådant tillfälle har Robert blivit våldsamt skuldtyngd, tyst och ännu mer inbunden. Distriktsläkaren har föreslagit medicinering, men Robert har vägrat. Han bor i sitt föräldrahem, en liten gård nära öppenvårdsmottagningen. Han gick ut skolan efter 9 år med dåliga betyg. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och han blev väldigt bekräftad. En av de tjejer han mötte blev gravid och då gifte de sig. Efter att ha fått två barn skilde de sig. Han har nu vårdnaden över deras barn. Du övervägde under samtalet att göra anmäla till Socialnämnden enligt Socialtjänstlagen eftersom du fick information som gör att du misstänkte att de for illa.\n\nHan köpte flera nya bilar för prispengarna, investerade i andra förare och tänkte bygga upp ett stall som skulle bli världsbäst. Han kände sig framgångsrik och köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han fick jobb som bilmekaniker och återhämtade sig sakta. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri som ledde till en månads fängelse. När han kom ut hade han bestämt sig för att det fick vara nog. Han slutade dricka och började ta större ansvar för sitt jobb. Han lånade pengar och köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en verksamhet som skulle bli störst i norra Sverige. Det blev ingen bra satsning. Han sade att andra företag hade oärlig konkurrens och baktalade honom inför banken. Hans företag gick därför i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Ett år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner. Han passar på att berätta att vid ECT-behandlingen senast, för fyra år sedan, gick en framtand av. Någon i vårdpersonalen hade sagt till honom att detta borde anmälas till IVO.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vad är IVO?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektionen för vård och omsorg"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Varför föreslogs att man skulle anmäla till IVO?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Misstänkt vårdskada skall anmälas"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning. Robert Blom, 35 år, kommer på nybesök. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Han bor i sitt föräldrahem, en liten gård nära öppenvårdsmottagningen. Hans liv har varit ganska varierande. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och blev väldigt bekräftad. Han är nu skild och har två tonårsbarn. Han investerade sina prispengar i andra förare och tänkte bygga upp ett framgångsrikt stall. Han köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri och fick en månads fängelse. När han kom ut från fängelset slutade han dricka och började ta större ansvar för sitt jobb. Han lånade pengar, köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en mycket stor verksamhet. Det blev ingen bra satsning. Hans företag gick i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Han fick dock en mindre vårdskada, och någon hade föreslagit att denna skulle anmälas till Inspektionen för Vård och omsorg, IVO.\n\nEtt år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner. Du frågar lite mer om hans släkt för att försöka förstå om han har någon ärftlig disposition. Han vet väldigt lite om sina föräldrar, utom att de varit friska och arbetat hela livet. Han har två äldre systrar. Den ena systern flyttade hemifrån vid 16 års ålder för sin utbildning och nu, vid 40 års ålder är hon en etablerad konstnär och boende i Stockholm.\n\nDen andra systern, 38 år gammal, bor i föräldrahemmet. Efter studentexamen, med skolans bästa betyg, flyttade hon till universitetsorten Uppebo, men kom hem efter något år utan några godkända kurser. Sedan dess har hon bott hemma och hjälpt till med gården. Han vet att hon hade någon typ av problem när hon studerade vid universitetet. Han har inga detaljer men han vet att hon en natt för 20 år sedan gick runt på sin studentkorridor med en förskärare och försökte skydda sig för attacker från ”hutus” och ”tutsis”. Polisen tog hand om det hela och hon tvångsvårdades på en psykiatrisk klinik ett tag.\n\nUppenbarligen vårdades systern med stöd av LPT.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vad är, dvs. vad betyder förkortningen, LPT?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lag om psykiatrisk tvångsvård (namnet måste vara rätt) (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Ange vilka kriterier som gäller för vård enligt LPT?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lider av en allvarlig psykisk störning (0,5) och på grund av sitt psykiska tillstånd och sina personliga förhållanden i övrigt har ett oundgängligt behov av psykiatrisk vård, som inte kan tillgodoses på annat sätt (0,5p) än genom att patienten är intagen på en sjukvårdsinrättning för kvalificerad psykiatrisk dygnetruntvård (sluten psykiatrisk tvångsvård) Full poäng ges även utan att följande är angivet: ”En förutsättning för vård enligt denna lag är att patienten motsätter sig sådan vård som sägs i första stycket, eller det till följd av patientens psykiska tillstånd finns grundad anledning att anta att vården inte kan ges med hans eller hennes samtycke.” Vid tveksamhet mellan två poängsteg, 0,5 eller 1 poäng, har detta dock ingått i värderingen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning. Robert Blom, 35 år, kommer på nybesök. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Hans liv har varit ganska varierande. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och blev väldigt bekräftad. Han är nu skild och har två tonårsbarn. Han investerade sina prispengar i andra förare och tänkte bygga upp ett framgångsrikt stall. Han köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri som fick en månads fängelse. När han kom ut från fängelset slutade han dricka och började ta större ansvar för sitt jobb. Han lånade pengar, köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en mycket stor verksamhet. Det blev ingen bra satsning. Hans företag gick i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Ett år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner.\n\nDu frågar lite mer om hans släkt för att försöka förstå om han har någon ärftlig disposition. Det framkommer att en av två systrar 38 år gammal, bor i föräldrahemmet. Efter studentexamen, med skolans bästa betyg, flyttade hon till universitetsorten Uppebo, men kom hem efter något år utan några godkända kurser. Sedan dess har hon bott hemma och hjälpt till med gården. Han vet att hon hade någon typ av problem när hon studerade vid universitetet. Han har inga detaljer men han vet att hon en natt för 20 år sedan gick runt på sin studentkorridor med en förskärare och försökte skydda sig för attacker från ”hutus” och ”tutsis”. Polisen tog hand om det hela och hon vårdades på en psykiatrisk klinik enligt Lag om psykiatrisk tvångsvård. Det blev uppenbarligen mycket svårbehandlat och hon drabbades av något som han minns uttrycket för, ”malignt neuroleptikasyndrom”. Innan hon fick behandling sade man att hon kunde dö av det.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Tillståndet karaktäriseras av tre typiska symtom, vilka är de?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förhöjd kroppstemp, uttalad muskelrigiditet, förändrad medvetandegrad; 0,5 p för var."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Vilken är den viktigaste åtgärden att för att förhindra att tillståndet förvärras och för att minska mortaliteten.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ta bort neuroleptika bums. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning. Robert Blom, 35 år, kommer på nybesök. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Hans liv har varit ganska varierande. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och blev väldigt bekräftad. Han är nu skild och har två tonårsbarn. Han investerade sina prispengar i andra förare och tänkte bygga upp ett framgångsrikt stall. Han köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri som fick en månads fängelse. När han kom ut från fängelset slutade han dricka och började ta större ansvar för sitt jobb. Han lånade pengar, köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en mycket stor verksamhet. Det blev ingen bra satsning. Hans företag gick i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Ett år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner.\n\nDu frågar lite mer om hans släkt för att försöka förstå om han har någon ärftlig disposition. Det framkommer att en av två systrar 38 år gammal, bor i föräldrahemmet. Efter studentexamen, med skolans bästa betyg, flyttade hon till universitetsorten Uppebo, men kom hem efter något år utan några godkända kurser. Sedan dess har hon bott hemma och hjälpt till med gården. Han vet att hon hade någon typ av problem när hon studerade vid universitetet. Han har inga detaljer men han vet att hon en natt för 20 år sedan gick runt på sin studentkorridor med en förskärare och försökte skydda sig för attacker från ”hutus” och ”tutsis”. Polisen tog hand om det hela och hon vårdades på en psykiatrisk klinik enligt Lag om psykiatrisk tvångsvård.  Det blev uppenbarligen mycket svårbehandlat och hon drabbades av ett ”malignt neuroleptikasyndrom”. När han berättade detta erinrade du dig dess symtomtriad av förhöjd kroppstemp, uttalad muskelrigiditet och förändrad medvetandegrad, liksom att den allra första åtgärden var att bums sätta ut alla neuroleptika.\n\nMycket talar för att systern hade ett hallucinatoriskt tillstånd med vanföreställningar den natt då polisen tog henne om hand.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Ge en kort heltäckande beskrivning av vad en hallucination är",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En sensorisk upplevelse som uppkommer utan stimuli från den yttre verkligheten (att bara ge exempel är inte heltäckande = 0 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vilken typ av hallucination är vanligast vid schizofreni?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hörsel"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-3",
+              "text": "Symtomen vid schizofreni har sedan långt tillbaka indelats i två grupper, utöver en grupp med kognitiva symtom. Ange de två andra grupperna och ge några exempel från vardera gruppen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Positiva symtom, exv. hallucinationer, tankestörningar, vanföreställningar (0,5 p); Negativa symtom, exv. självförsjunkenhet, känslomässiga störningar (0,5 p). Utan\n\nexempel som visat att man förstått innebörden i orden \"positiv/negativ\" ges inga poäng, likaså om positivt symtom beskrivs som negativt o reciprokt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning. Robert Blom, 35 år, kommer på nybesök. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Hans liv har varit ganska varierande. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och blev väldigt bekräftad. Han är nu skild och har två tonårsbarn. Han investerade sina prispengar i andra förare och tänkte bygga upp ett framgångsrikt stall. Han köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri som fick en månads fängelse. När han kom ut från fängelset slutade han dricka och började ta större ansvar för sitt jobb. Han lånade pengar, köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en mycket stor verksamhet. Det blev ingen bra satsning. Hans företag gick i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Ett år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner.\n\nDu börjar nu fundera på vad Robert Blom egentligen lider av, dvs vad som är hans bakomliggande psykiatriska problematik. Du vill gärna undersöka honom strukturerat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Ange två validerade strukturerade intervjuinstrument som är avsedda att diagnosticera psykisk sjukdom på ett i princip heltäckande sätt",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SCID, MINI (1p för var)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning. Robert Blom, 35 år, kommer på nybesök. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Hans liv har varit ganska varierande. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och blev väldigt bekräftad. Han är nu skild och har två tonårsbarn. Han investerade sina prispengar i andra förare och tänkte bygga upp ett framgångsrikt stall. Han köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri som fick en månads fängelse. När han kom ut från fängelset slutade han dricka och började ta större ansvar för sitt jobb. Han lånade pengar, köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en mycket stor verksamhet. Det blev ingen bra satsning. Hans företag gick i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Ett år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner.\n\nDu undersöker honom strukturellt med hjälp av instrumentet SCID-I (du kunde också ha valt instrumentet MINI) och finner att han uppfyller vissa kriterier på bipolär sjukdom typ 1, med åtminstone två maniska episoder, och däremellan flera depressionsepisoder.\n\nDu överväger om han skall behandlas farmakologiskt för sådan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vilken är det mest beprövade läkemedlet för att förebygga återfall vid bipolär sjukdom typ 1?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Litium"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-2",
+              "text": "Hur skall sådan behandling följas upp, utöver sedvanlig uppföljning av effekt och biverkningar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kan delas upp i fyra principer: Regelbundet (0,5p) minimum 2ggr per år, njurfunktion (0,5p), serumkoncentration av Litium (0,5p).  Metabol/endokrin påverkan: Ngt av TSH, S- Ca, blsr och vikt ger 0,5 p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Du är AT-läkare och jobbar på en psykiatrisk öppenvårdsmottagning. Robert Blom, 35 år, kommer på nybesök. Han har blivit alltmer initiativlös och glädjelös de senaste åren. Hans liv har varit ganska varierande. Sedan tonåren har han intresserat sig för bilar och motorsport och han började tävla när han fick körkort. Det gick mycket bra, och blev väldigt bekräftad. Han är nu skild och har två tonårsbarn. Han investerade sina prispengar i andra förare och tänkte bygga upp ett framgångsrikt stall. Han köpte även ett nytt hus. När han misstänkte att hans hustru varit otrogen rasade allt och han blev helt apatisk. Det blev skilsmässa för 10 år sedan och han tvingades sälja allt med förlust. Detta ledde till en djup depression, som efter ett behandlingsförsök med SSRI, till sist behandlades med ECT. Därefter långsam återhämtning. Han deltog ofta i bilklubbens fester och vid ett tillfälle blev han påkommen med rattfylleri som fick en månads fängelse. När han kom ut från fängelset slutade han dricka och började ta större ansvar för sitt jobb. Han lånade pengar, köpte den bilverkstad han arbetade på, och efter någon månad även verkstaden i huset bredvid för att bygga upp en mycket stor verksamhet. Det blev ingen bra satsning. Hans företag gick i konkurs redan efter ett år, vilket gjorde honom förtvivlad. Han återintogs då på psykiatrisk klinik, fick ånyo ECT och förbättrades. Ett år senare krockade han med bil och vårdades på sjukhus under två månader, den första veckan medvetslös i respirator. Han har inte helt hämtat sig utan känner sig fortfarande ledsen och orkeslös och tror sig inte klara av något alls i livet. Han har inga mediciner.\n\nDu undersöker honom strukturellt med hjälp av instrumentet SCID-I och finner att han uppfyller kriterier på bipolär sjukdom, med åtminstone två maniska episoder och däremellan flera depressionsepisoder. Din första flyktiga tanke är förstås att överväga behandling med litium. Samtidigt förefaller hans initiativlöshet och uttröttbarhet efter exempelvis tidningsläsning vara lika uttalad oavsett om han är inne i en depressiv fas eller inte. Du överväger om dessa symtom är kopplade till bilolyckan – som du ännu inte fångat upp några detaljer om.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Vilken förklaring skulle i så fall ligga nära till hands? Utveckla svaret. (2p)\n\nDu funderar även på om han i grunden har ett personlighetssyndrom/en personlighetsstörning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilken förklaring skulle i så fall ligga nära till hands? Utveckla svaret. (2p) Han drabbades av en skallskada (1p), En undergupp får långvariga besvär efter commotio/contusio/ andra skador på hjärnans parenkym, olika grader av sequelae, från ep, via Parkinson, till tidig demensutveckling (1p)\n\nDu funderar även på om han i grunden har ett personlighetssyndrom/en personlighetsstörning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8-2",
+              "text": "Ange de allmänna diagnostiska kriterierna för en sådan störning",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A. Ett varaktigt mönster av upplevelser och beteenden som påtagligt avviker från vad som allmänt sett förväntas i personens sociokulturella miljö (0,5p). B. Det varaktiga mönstret är oflexibelt och framträder i många olika situationer och sammanhang C. Det varaktiga mönstret leder till signifikant lidande eller försämrad funktion i arbete, socialt eller i andra viktiga avseenden (0,5 p). D. Mönstret är stabilt och varaktigt och kan spåras tillbaka åtminstone till adolescensen eller tidig vuxenålder (0,5p). E. Det varaktiga mönstret kan inte bättre förklaras som ett uttryck för eller en följd av någon annan psykisk störning. F. Det varaktiga mönstret beror inte på direkta fysiologiska effekter av någon substans (t ex missbruksdrog, medicinering) eller någon somatisk sjukdom/skada (t ex skalltrauma) B, E eller F ger dessutom 0,5 p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Ange 5 viktiga frågor som Du bör komplettera anamnesen med för att komma närmare diagnosen",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Var i buken är smärtan lokaliserad? När var senaste menstruation och var den normal? Har liknande smärta förekommit tidigare? Vad gör att smärtan ökar eller minskar? När var senaste avföring och var den normal?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1.\n\nSmärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Beskriv nu hur Du utför bukstatus",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man palperar försiktigt och börjar där maximal smärta inte är lokaliserad och går mot platsen för maximal smärta. Man värderar icke viljemässigt muskeltonus i bukväggen och förekomst av eventuell resistens eller utfyllnad."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon.\n\nDu ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida. Du finner även släppömhet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Beskriv hur man testar släppömhet och indirekt släppömhet (1p).\n\nDu arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon. Du ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida.\n\nTest av släppömhet sker genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet. Indirekt släppömhet testas på samma sätt men man applicerar trycket på kontralaterala sidan.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Beskriv hur man testar släppömhet och indirekt släppömhet (1p). Test av släppömhet sker genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet. Indirekt släppömhet testas på samma sätt men man applicerar trycket på kontralaterala sidan.)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-1",
+              "text": "Du misstänker appendicit men vill bekräfta diagnosen. (totalt 5p) Beskriv a) två bilddiagnostiska metoder med utbredd användning vid misstänkt appendicit, ange även metodernas för- och nackdelar (2p) b) ange två differentialdiagnoser som kan efterfrågas på röntgenremissen förutom appendicit som kan stämma med den kliniska bilden (1p) c) ange även två laboratorieprov som har utbredd användning vid misstänkt appendicit, ange även hur snabbt respektive prov stiger efter symptomdebut",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a) CT BÖS eller b) ultraljud. Fördelar med a) är hög sensitivitet för att påvisa andra inflammatoriska tillstånd och bibehållen diagnostisk förmåga vid obesitas och mycket tarmgas, nackdel är stråldosen. Fördel med b är avsaknad av stråldos och nackdel att metoden ger sämre information vid obesitas och rikliga mängder tarmgas. Rimliga differentialdiagnoser är divertikulit, gynekologisk infektion, eller buktumör. Viktiga LAB prover är CRP och B-leukocyter. CRP stiger cirka 6-12 timmar efter symptomdebut. B- leukocyter stiger inom cirka 1 timme och är ofta förhöjda under första dygnet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon. Du ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida. Vid test av släppömhet genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet.\n\nDu överväger de bilddiagnostiska metoderna  1) CT BÖS eller 2) ultraljud. Fördelar med 1) är hög sensitivitet för att påvisa andra inflammatoriska tillstånd och bibehållen diagnostisk förmåga vid obesitas och mycket tarmgas, nackdel är stråldosen. Fördel med 2 är avsaknad av stråldos och nackdel att metoden ger sämre information vid obesitas och rikliga mängder tarmgas. Eftersom Din patient är överviktig väljer Du CT BÖS. De LAB prover Du studerar är CRP och B-leukocyter. CRP stiger cirka 6-12 timmar efter symptomdebut. B-leukocyter stiger efter cirka 1 timme.\n\nEfter 2 timmar kallas Du till granskningen på röntgen och får se denna bild. Pilen pekar på ett fynd som anses ha patofysiologisk betydelse vid appendicit.",
+          "contextImageUrl": "/images/exams/2017-05/page13_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vad pekar pilen på?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Efter 2 timmar kallas Du till granskningen på röntgen och får se denna bild. Pilen pekar på ett fynd som anses ha patofysiologisk betydelse vid appendicit. Vad pekar pilen på? (1p). Pilen pekar på en fekalsten (även rätt för appendiculit)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon. Du ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida. Vid test av släppömhet genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet. Du överväger de bilddiagnostiska metoderna  1) CT BÖS eller 2) ultraljud. Fördelar med 1) är hög sensitivitet för att påvisa andra inflammatoriska tillstånd och bibehållen diagnostisk förmåga vid obesitas och mycket tarmgas, nackdel är stråldosen. Fördel med 2 är avsaknad av stråldos och nackdel att metoden ger sämre information vid obesitas och rikliga mängder tarmgas. Eftersom Din patient är överviktig väljer Du CT BÖS. De LAB prover Du studerar är CRP och B-leukocyter.\n\nNär CT BÖS undersökningen är klar finner man en förtjockad appendix med omgivande stråkighet i fettet och en appendiculit eller fekalsten i basens lumen. Du bedömer att Din patient har en akut appendicit.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Du kommer ihåg att det finns ett validerat score system som kan vara till hjälp för att bedöma sannolikhet för appendicit och föreslå initial handläggning som heter AIR score (appendicit inflammatory response score). Ange de variabler som ger poäng i scoresystemet (0.5p för varje variabel), (totalt 3.5p).",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "AIR scoren grundas på variablerna kräkning, smärta i höger fossa, muskelförsvar eller defence, feber, neutrofiler, leucocyter, och CRP."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon. Du ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida. Vid test av släppömhet genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet. Du överväger de bilddiagnostiska metoderna  1) CT BÖS eller 2) ultraljud. Fördelar med 1) är hög sensitivitet för att påvisa andra inflammatoriska tillstånd och bibehållen diagnostisk förmåga vid obesitas och mycket tarmgas, nackdel är stråldosen. Fördel med 2 är avsaknad av stråldos och nackdel att metoden ger sämre information vid obesitas och rikliga mängder tarmgas. Eftersom Din patient är överviktig väljer Du CT BÖS. De LAB prover Du studerar är CRP och B-leukocyter När CT BÖS undersökningen är klar finner man en förtjockad appendix med omgivande stråkighet i fettet och en fekalsten i basens lumen.\n\nDu bedömer att Din patient har en akut appendicit, men för att få stöd för Din diagnos beräknar Du AIR scoren som grundas på variablerna kräkning, smärta i höger fossa, muskelförsvar eller defence, feber, neutrofiler, leucocyter, och CRP. Provsvar har nu anlänt och visar B-leukocyter 19 x 109/L (ref 3.5-9.0 109/L), B- Neutrofiler 16 x 109/L (ref 1.3-5.4 109/L), och CRP 89 mg/L (ref <5 mg/L). Du får nu fram en score på 9.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Enligt scorens beslutsstöd rekommenderas operation och Du informerar Din patient. a) Vilka är de två vanligaste operationsteknikerna för att utföra appendektomi? (1p). b) Antibiotika behandling av appendicit anses idag etablerad. Vilka patienter ska inte behandlas med antibiotika? Ange minst 3 kontraindikationer. Vilken är den vanligaste komplikationen vid antibiotikabehandling av appendicit inom ett år och hur ofta ser man den?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "( totalt 3,5p) Laparoskopisk eller öppen appendektomi. Patienter med generell peritonit, barn och gravida ska inte behandlas med antibiotika. Recidiv av appendicit är den vanligaste komplikationen som ses i 10-20%."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon. Du ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida. Vid test av släppömhet genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet. Du överväger de bilddiagnostiska metoderna 1) CT BÖS eller 2) ultraljud. Fördelar med 1) är hög sensitivitet för att påvisa andra inflammatoriska tillstånd och bibehållen diagnostisk förmåga vid obesitas och mycket tarmgas, nackdel är stråldosen. Fördel med 2 är avsaknad av stråldos och nackdel att metoden ger sämre information vid obesitas och rikliga mängder tarmgas. Eftersom Din patient är överviktig väljer Du CT BÖS. De LAB prover Du studerar är CRP och B-leukocyter. CRP stiger cirka 6 timmar efter symptomdebut. B-leukocyter stiger momentant och är ofta förhöjda under första dygnet. När CT BÖS undersökningen är klar finner man en förtjockad appendix med omgivande stråkighet i fettet och en fekalsten i basens lumen. Du bedömer att Din patient har en akut appendicit, men för att få stöd för Din diagnos beräknar Du AIR scoren som grundas på variablerna kräkning, smärta i höger fossa, muskelförsvar eller defence, feber, neutrofiler, leucocyter, och CRP. Provsvar har nu anlänt och visar B-leukocyter 19 x 109/L (ref 3.5-9.0 109/L), B-Neutrofiler 16 x 109/L (ref 1.3-5.4 109/L), och CRP 89 mg/L (ref <5 mg/L). Du får nu fram en score på 9.\n\nEnligt scorens beslutsstöd rekommenderas operation och Du informerar Din patient om metoderna öppen appendektomi via växelsnitt i höger fossa respektive laparoskopisk appendektomi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Du lägger in henne på intagningsavdelningen. Ange minst två viktiga preoperativa ordinationer som syftar till att minska risken för postoperativa komplikationer?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pre- och peroperativ intravenös vätsketillförsel och preoperativ antibiotikaprofylax."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Du arbetar som kirurgjour på lördagen vid ett stort länssjukhus i Mälardalen. Efter en ganska lugn förmiddag söker ett stort antal akuta buk fall vid lunchtid. Bland dem är en 42-årig kvinna som haft ont centralt i buken sedan fredag morgon. Smärtan är ganska konstant och eftersom dessutom känt sig lite febrig har hon tagit 1g paracetamol vid 2 tillfällen. Hon har inte kräkts men känt sig lätt illamående och inte haft aptit. Hon är frisk sedan tidigare. Temp 38.1. Smärtan sitter mer på höger sida nedom naveln. Hon hade normal menstruation för 2 v sedan. På direkt fråga kan hon dra sig till minnes att hon sökte för en liknande smärtepisod för cirka 3 år sedan. Smärtan ökar klart vid alla rörelser och hoststöt. Hon hade avföring av normal konsistens samma morgon. Du ber patienten hosta och hon uppger då distinkt smärta lateralt i höger fossa iliaca. Du palperar försiktigt detta område och noterar att muskulaturen generellt är mer spänd här jämfört med vänster sida. Vid test av släppömhet genom att långsamt trycka ned bukväggen över den maximala platsen för ömhet, behållande av ett konstant tryck under cirka 5 sek, sedan snabbt släppa trycket får Du fram att det föreligger släppömhet. Du överväger de bilddiagnostiska metoderna 1) CT BÖS eller 2) ultraljud. Fördelar med 1) är hög sensitivitet för att påvisa andra inflammatoriska tillstånd och bibehållen diagnostisk förmåga vid obesitas och mycket tarmgas, nackdel är stråldosen. Fördel med 2 är avsaknad av stråldos och nackdel att metoden ger sämre information vid obesitas och rikliga mängder tarmgas. Eftersom Din patient är överviktig väljer Du CT BÖS. De LAB prover Du studerar är CRP och B-leukocyter. CRP stiger cirka 6 timmar efter symptomdebut. B-leukocyter stiger momentant och är ofta förhöjda under första dygnet. När CT BÖS undersökningen är klar finner man en förtjockad appendix med omgivande stråkighet i fettet och en appendiculit eller fekalsten i basens lumen. Du bedömer att Din patient har en akut appendicit, men för att få stöd för Din diagnos beräknar Du AIR scoren som grundas på variablerna kräkning, smärta i höger fossa, muskelförsvar eller defence, feber, neutrofiler, leucocyter, och CRP. Provsvar har nu anlänt och visar B-leukocyter 19 x 109/L (ref 3.5-9.0 109/L), B-Neutrofiler 16 x 109/L (ref 1.3-5.4 109/L), och CRP 89 mg/L (ref <5 mg/L). Du får nu fram en score på 9.\n\nEnligt scorens beslutsstöd rekommenderas operation och Du informerar Din patient om metoderna öppen appendektomi via växelsnitt i höger fossa respektive laparoskopisk appendektomi. Du lägger in henne på intagningsavdelningen och ordinerar pre- och peroperativ intravenös vätsketillförsel och preoperativ antibiotikaprofylax.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Du opererar henne tillsammans med Din bakjour samma eftermiddag med öppen appendektomi. Vilka tre muskler i bukväggen går man igenom när växelsnittet läggs?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "M. Obliquus externus, M. Obliquus internus och M Transversus abdominis (även rätt för engelska namn)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Intermedicin",
+      "points": 20,
+      "intro": "En 76-årig kvinna med tablettbehandlad diabetes och hypertoni söker akutmottagningen kl 08.14 pga andnöd som började någon gång på natten. Hon slutade att röka för 10 år sedan och hade då rökt i 40 år innan dess. I status noteras lätt läppcyanos, andningsfrekvens 17, men inga perifera ödem. Vid lungauskultation hörs några enstaka ronki, diskreta krepitationer basalt bilateralt, och ingen dämpning. Hjärtat auskulteras med regelbunden rytm, frekvens 90 och inga blåsljud. EKG visar sinusrytm och ST-sänkning i V4-V6. Buken palperas mjuk och oöm. Temperatur 37,8. Saturation på pulsoxymetern visar 84% på luftandning. Blodtryck 170/85 mmHg.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Uppge de fyra vanligaste differentialdiagnoserna till patientens andningsbesvär (förutom viros)?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "KOL, hjärtsvikt, lungemboli, pneumoni"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilka venösa laboratorie-prover (4 st) vill du ta avseende differentialdiagnostik av patientens andningsbesvär?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Troponin, D-dimer, LPK, CRP, NT-proBNP"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Det saknas ytterligare ett fynd i en undersökning i status som är viktig i denna differentialdiagnostik, vilken? (1p )",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det saknas ytterligare ett fynd i en undersökning i status som är viktig i denna differentialdiagnostik, vilken? (1p) Tecken på venös trombos i benen"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "En 76-årig kvinna med tablettbehandlad diabetes och hypertoni söker akutmottagningen kl 08.14 pga andnöd som började någon gång på natten. Hon slutade att röka för 10 år sedan och hade då rökt i 40 år innan dess. I status noteras lätt läppcyanos, andningsfrekvens 17, men inga perifera ödem. Vid lungauskultation hörs några enstaka ronki, diskreta krepitationer basalt bilateralt, och ingen dämpning. Hjärtat auskulteras med regelbunden rytm, frekvens 90 och inga blåsljud. EKG visar sinusrytm och ST- sänkning i V4-V6. Buken palperas mjuk och oöm. Temperatur 37,8. Saturation på pulsoxymetern visar 84% på luftandning. Blodtryck 170/85 mmHg. Inga misstankar på djupventrombos i benen vid undersökning.\n\nTrop I <5 ng/l (normalt<35), D-dimer 0.6 mg/l (normalt <0.5), CRP 87 mg/l (normalt<5) och LPK 9,2 x109/l (normalt 3,5-9,0). Artärgas (tagen på luft) visar pO2 8,5 kPa (normalt 9,6-13,9), pCO2 4,1 kPa (normalt 4,6-6,0), pH 7,37 (normalt 7,35- 7,45), Base excess +2  (normalt -3 -3).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilken bilddiagnostisk undersökning vill du göra nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lung-rtg eller spiral-CT thorax"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "En 76-årig kvinna med tablettbehandlad diabetes och hypertoni söker akutmottagningen kl 8.14 pga andnöd som började någon gång på natten. Hon slutade att röka för 10 år sedan och hade då rökt i 40 år innan dess. I status noteras lätt läppcyanos, andningsfrekvens 17, men inga perifera ödem. Vid lungauskultation hörs några enstaka ronki, diskreta krepitationer basalt bilateralt, och ingen dämpning. Hjärtat auskulteras med regelbunden rytm, frekvens 90 och inga blåsljud. EKG visar sinusrytm och ST- sänkning i V4-V6. Buken palperas mjuk och oöm. Temperatur 37,8. Saturation på pulsoxymetern visar 84% på luftandning. Blodtryck 170/85 mmHg.\n\nInga misstankar på djupventrombos i benen vid undersökning. Trop I <5 ng/l (normalt<35), D-dimer 0.6 mg/l (normalt <0.5), CRP 87 mg/l (normalt<5) och LPK 9,2 x109/l (normalt 3,5-9,0). Artärgas (tagen på luft) visar pO2 8,5 kPa (normalt 9,6-13,9), pCO2 4,1 kPa (normalt 4,6-6,0), pH 7,37 (normalt 7,35-7,45), Base excess +2 (normalt -3 -3).\n\nLungröntgen visar en mindre basal atelektas på höger sida. Inga tecken på kronisk eller akut hjärtsvikt eller infiltrat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vilken diagnostisk undersökning (röntgen eller annan) vill du göra nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Spiral-CT thorax, även rätt för ventilation/perfusionsscint."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "En 76-årig kvinna med tablettbehandlad diabetes och hypertoni söker akutmottagningen kl 8.14 pga andnöd som började någon gång på natten. Hon slutade att röka för 10 år sedan och hade då rökt i 40 år innan dess. I status noteras lätt läppcyanos, andningsfrekvens 17, men inga perifera ödem. Vid lungauskultation hörs några enstaka ronki, diskreta krepitationer basalt bilateralt, och ingen dämpning. Hjärtat auskulteras med regelbunden rytm, frekvens 90 och inga blåsljud. EKG visar sinusrytm och ST- sänkning i V4-V6. Buken palperas mjuk och oöm. Temperatur 37,8. Saturation på pulsoxymetern visar 84% på luftandning. Blodtryck 170/85 mmHg.\n\nInga misstankar på djupventrombos i benen vid undersökning. Trop I <5 ng/l (normalt<35), D-dimer 0.6 mg/l (normalt <0.5), CRP 87 mg/l (normalt<5) och LPK 9,2 x109/l (normalt 3,5-9,0). Artärgas (tagen på luft) visar pO2 8,5 kPa (normalt 9,6-13,9), pCO2 4,1 kPa (normalt 4,6-6,0), pH 7,37 (normalt 7,35-7,45), Base excess +2 (normalt -3 -3).\n\nLungröntgen visar en mindre basal atelektas på höger sida. Inga tecken på kronisk eller akut hjärtsvikt eller infiltrat.\n\nSpiral-CT thorax visar utbredda tromber i centrala kärl i båda lungorna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilka auskultationsfynd på lungorna är specifika vid lungembolism?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inga specifika"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Vilka EKG-fynd är specifika vid lungemboli?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inga specifika"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-3",
+              "text": "Hur tokar du patientens EKG-fynd?  Den har funnits på tidigare tagna EKGn.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vänsterkammarhypertrofi pga hypertoni, även rätt för tidigare hjärtinfarkt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-4",
+              "text": "För att ta ställning till trombolys behöver du en ytterligare undersökning, vilken?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tecken på högerkammarbelastning alt. förhöjda pulmonalistryck vid ekocardiografi alt pulmonilisangio"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "En 76-årig kvinna med tablettbehandlad diabetes och hypertoni söker akutmottagningen kl 8.14 pga andnöd som började någon gång på natten. Hon slutade att röka för 10 år sedan och hade då rökt i 40 år innan dess. I status noteras lätt läppcyanos, andningsfrekvens 17, men inga perifera ödem. Vid lungauskultation hörs några enstaka ronki, diskreta krepitationer basalt bilateralt, och ingen dämpning. Hjärtat auskulteras med regelbunden rytm, frekvens 90 och inga blåsljud. EKG visar sinusrytm och ST-sänkning i V4-V6. Buken palperas mjuk och oöm. Temperatur 37,8. Saturation på pulsoxymetern visar 84% på luftandning. Blodtryck 170/85 mmHg. Inga misstankar på djupventrombos i benen vid undersökning. Trop I <5 ng/l (normalt<35), D-dimer 0.6 mg/l (normalt <0.5), CRP 87 mg/l (normalt<5) och LPK 9,2 x109/l (normalt 3,5-9,0). Artärgas (tagen på luft) visar pO2 8,5 kPa (normalt 9,6-13,9), pCO2 4,1 kPa (normalt 4,6-6,0), pH 7,37 (normalt 7,35- 7,45), Base excess +2 (normalt -3 -3).\n\nLungröntgen visar en mindre basal atelektas på höger sida. Inga tecken på kronisk eller akut hjärtsvikt eller infiltrat. Spiral-CT thorax visar utbredda tromber i centrala kärl i båda lungorna.\n\nEkocardiografi visar inga tecken på högerkammarbelastning, eller höga tryck i lungkretsloppet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Inga EKG-fynd är specifika för lungemboli, men några EKG-fynd är ganska vanliga. Ange 2 stycken?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förmaksflimmer, höger skänkelblock, högerkammarbelastning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Vilket laboratorie-prover kontrollerar du innan terapi? Ange 4 stycken.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb, koagulationsprover; PK/INR, trc, APTT, leverprover och njurfunktionsprover"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-3",
+              "text": "Idag finns två olika typer av terapier i standardfallet med lungemboli, när trombolys inte är aktuellt. Vilka?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lågmolekylärt heparin/Waran alt nya generationens orala antikoagulantia, NOAK"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-4",
+              "text": "Vilken terapi bör användas om lungembolipatienten har en känd metastaserande cancer utan direkt blödningsrisk?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lågmolekylärt heparin, EJ Waran eller nya generationens orala antikoagulantia, NOAK"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicin",
+      "points": 20,
+      "intro": "Elsa, som är 7 månader gammal, kommer till vårdcentralen med sin mamma Johanna, 32 år, efter hänvisning från distriktssköterska på BVC. Johanna berättar att Elsa hittills mått bra och helammats och som ett första steg i avvänjningen har Johanna sedan fyra veckor introducerat komjölksbaserat tillägg (barnvälling). Efter intaget av ersättningen har flickan skrikit och kräkts efter måltiderna. Johanna undrar vad som hänt flickan. Vid undersökning noterar du en frisk flicka där buken är oöm, utan patologiska resistenser och som auskulteras utan anmärkning.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Nämn två troliga orsaker till flickans symtom.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Födoämnesöverkänslighet mot mjölk, funktionell förstoppning, pylorusstenos, Mb Hirschprung."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Ange 4 viktiga frågor som du bör komplettera anamnesen med för att komma närmare diagnos.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Avföringskonsistens, avföringsfrekvens, kräkning, ärftlighet för allergi, allergiska symtom från andra organ."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Elsa, som är 7 månader gammal, kommer till vårdcentralen med sin mamma Johanna. Johanna berättar att Elsa hittills mått bra och helammats och som ett första steg i avvänjningen har Johanna sedan två veckor introducerat komjölksbaserat tillägg (barnvälling). Efter intaget av ersättningen har flickan skrikit och kräkts efter måltiderna. Johanna undrar vad som hänt flickan. Vid undersökning noterar du en frisk flicka med normalt bukstatus.\n\nElsa har avföring med lös konsistens flera gånger per dag. Hon har inte reagerat med klåda eller svullnad i hud eller svalg. Johanna har själv allergiska besvär sedan barn. Din preliminära diagnos för Elsas besvär är komjölksintolerans.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilka två behandlingsråd ger du mamma Johanna angående Elsa?   (1p)\n\nEfter ytterligare 6 månader kommer Elsa tillbaka till vårdcentralen med sin mamma. Mamma Johanna berättar att buksymtomen gick tillbaka när Elsa inte längre exponerades för mjölkprodukter och Elsa äter nu fast föda. Sedan två månader har Johanna noterat att Elsa har ett rodnat utslag på kinder och bål. Hudförändringarna har tilltagit med intensiv klåda efter en förkylning med debut för två veckor sedan. Elsa kan inte låta bli att klösa sig. Vid undersökning noterar du generellt torr hud, ett rodnat, småpapulöst erytem på kinder, bål och extremiteter. Utslaget är ställvis vätskande. Du ser inget utslag på huvudet.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka två behandlingsråd ger du mamma Johanna angående Elsa? 1p Eliminera den komjölksbaserade modersmjölksersättningen och rekommendera komjölksfri ersättning. Uppföljning om 4 veckor."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-1",
+              "text": "Vilken är den mest sannolika diagnosen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Atopiskt eksem"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Efter ytterligare 6 månader kommer Elsa tillbaka till vårdcentralen med sin mamma. Mamma Johanna berättar att buksymtomen gick tillbaka när Elsa inte längre exponerades för mjölkprodukter och Elsa äter nu fast föda. Sedan två månader har Johanna noterat att Elsa har ett rodnat utslag på kinder och bål. Hudförändringarna har tilltagit med intensiv klåda efter en förkylning med debut för två veckor sedan. Elsa kan inte låta bli att klösa sig. Vid undersökning noterar du generellt torr hud, ett rodnat, småpapulöst erytem på kinder, bål och extremiteter. Utslaget är ställvis vätskande. Du ser inget utslag på huvudet.\n\nDu bedömer att atopiskt eksem är den troligaste orsaken till Elsas hudbesvär.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Nämn två farmakologiska behandlingsalternativ för lokal hudbehandling som du vill ge Elsa.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alsollösning lokalt över vätskande hudpartier, ev. antibiotika vid tecken till infektion, steroidkräm lokalt och mjukgörande salva."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Förutom farmakologisk behandling vad föreslår du för att reducera Elsas klåda av eksemet?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Reducera mekanisk och kemisk irritation av huden: textilier, tvättmedel, tvål och bad."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Efter din rekommendation är Johanna försiktig med tvål och bad för Elsa, initialt använder hon Alsollösning lokalt över vätskande hudpartier, hon smörjer frikostigt med mjukgörande kräm och använder klass I steroidkräm. Med dessa åtgärder förbättras Elsas eksem betydligt.\n\nJohanna har ytterligare ett barn, Lars, som just börjat skolan. Lars söker dig tillsammans med Johanna. De berättar att Lars under idrottslektionerna får hosta och inte orkar som klasskamraterna. Tidigare har Lars kunnat anstränga sig utan besvär. De nämner också att familjen är glada för att de skaffat en hund. När du träffar Lars i vila i undersökningsrummet mår han bra.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Nämn 2 viktiga kliniska undersökningar som du vill göra nu på mottagningen och 2 laboratorietest till nytta för utredningen av Lars.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lungstatus inklusive peak expiratory flow (PEF) före och efter ansträngning, Phadiatop och test för specifika allergener."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Johanna har ytterligare ett barn, Lars, som just börjat skolan. Lars söker dig tillsammans med Johanna. De berättar att Lars under idrottslektionerna får hosta och inte orkar som klasskamraterna. Tidigare har Lars kunnat anstränga sig utan besvär. De nämner också att familjen är glada för att de skaffat en hund. När du träffar Lars i vila i undersökningsrummet mår han bra.\n\nDu ber Lars springa i korridoren. När du sedan lyssnar på lungorna noterar du förlängd utandning och hör pipande, väsande andningsljud. Peak expiratory flow (PEF) är 100 L/min (normalt >120). Senare svar på Phadiatop är positivt och specifikt test är positivt för pälsdjur och gräs. Din preliminära diagnos är därför ansträngningsutlöst astma med allergiskt inslag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilka 2 farmakologiska behandlingar föreslår du Lars? Motivera. (1p)\n\nLars blir nöjd med den behandling med beta-tvåstimulerare och inhalationssteroid som du rekommenderade.\n\nUnder semesterperioden söker mamma Johanna dig för kraftiga besvär av nästäppa och rinnande irriterande ögon. Exempelvis är Johanna tvungen att stanna inomhus när grannar klipper gräset. Hon har haft dessa besvär i flera år och hittills har hon använt antihistaminpreparat lokalt och generellt samt natriumkromoglikat med tveksam effekt. Eftersom symtomen besvärar från sen vår och hela somrarna önskar Johanna en mer långsiktig behandling. Johanna har inga besvär av astma.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilka 2 farmakologiska behandlingar föreslår du Lars? Motivera. (1p) Luftrörsvidgande inhalation av beta-två stimulerare vid behov och inför ansträngning. Ev. kontinuerlig inflammationshämmande inhalationssteroid."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-1",
+              "text": "Vilken är den troligaste diagnosen och vilken ytterligare behandling vill du föreslå Johanna?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Allergisk rhinoconjunctivit. Lokal steroid i näsan. Depåsteroid i.m."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Under semesterperioden söker mamma Johanna dig för kraftiga besvär av nästäppa och rinnande irriterande ögon. Exempelvis är Johanna tvungen att stanna inomhus när grannar klipper gräset. Hon har haft dessa besvär i flera år och hittills har hon använt antihistaminpreparat lokalt och generellt och natriumkromoglikat med tveksam effekt. Johanna vill ogärna använda steroider. Eftersom symtomen besvärar från sen vår och hela somrarna önskar Johanna en mer långsiktig behandling. Johanna har inga besvär av astma.\n\nNär Johanna använt lokal steroidbehandling i näsan över sommaren är hon fortfarande missnöjd med behandlingseffekten. Er utredning har visat att Johanna är allergisk för gräs som kan vara orsaken till de säsongsbundna besvären från näsan. Johanna undrar om det finns något annat behandlingsalternativ. Du föreslår allergenspecifik immunterapi, som hon tycker verkar intressant varför du skriver en remiss för sådan behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Beskriv mekanismen för allergenspecifik immunterapi.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten exponeras för en ökande mängd allergen under kontrollerade former, det är en lång behandlingstid. Det medför en ändrad immunrespons och ett skifte från Th2- till Th1- medierad respons uppstår som ger försvagad mastcellmedierad snabbreaktion och svagare senreaktion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Under hösten kommer mamma Johanna akut med sonen Lars till mottagningen. Hon beskriver med skräck i ögonen att Lars relativt plötsligt efter frukost blivit allmänt tagen, blivit svullen runt ögon och läppar och fått ett utslag på kroppen. Du tar snabbt hand om Lars och verifierar svullnad i ansiktet och urtikariellt utslag på bålen. Lars är orolig och kräks när du undersöker honom. Du misstänker anafylaktisk reaktion grad 1.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Nämn 3 farmakologiska behandlingar som du vill ge Lars?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Adrenalin i.m. omedelbart. Antihistamin och kortison peroralt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-9-2",
+              "text": "Ange vilka 4 icke-farmakologiska åtgärder som du vidtar?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lägg barnet ned och höj fotändan, kontrollerar andning och cirkulation, larma 112, förbered ambulanstransport, sätt intravenös infart."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

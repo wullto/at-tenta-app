@@ -1,0 +1,865 @@
+{
+  "id": "2016-11",
+  "title": "AT-prov november 2016",
+  "date": "2016-11-25",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Birgit är 78 år. Bor med sin make, har två vuxna barn. Rökte i ungdomen. Birgit har typ 2 diabetes, hypertoni och hade en TIA för två år sedan. Blodtrycket kontrollerades senast på vårdcentralen för 2 veckor sedan, vid en rutinkontroll, och var då 150/90 mmHg.\n\nSöker nu på akuten då maken upplever henne som förvirrad sedan i morse. Hon kände inte igen sina läkemedel och kunde inte sätta på radion. Maken är orolig att Birgit ska få en ny TIA, och skjutsar henne i egen bil till akuten.\n\nPå akutmottagningen kl 11, noteras puls 90 slag/min, blodtryck 105/65 mmHg, andningsfrekvens 24/min, temp 38,2° C. Ekg sinusrytm, frekvens 90 inget patologiskt. Mottagande sjuksköterska har tagit blodprover: Blodsocker, LPK, Hb, CRP, trombocyter, albumin, s-Na, s-K, S-kreatinin, men inga provsvar är klara.\n\nPatienten har triagerats av mottagande sjuksköterska som \"gul\" då Modified early warning signs (MEWS) ger tre poäng, och enligt de lokala riktlinjerna på ditt sjukhus innebär det att hon bör träffa läkare inom en timme.\n\nNär du träffar patienten har hon väntat en dryg timme. Birgit ligger och blundar, tittar upp när du tilltalar henne, är orienterad till person men inte tid eller situation, har lite svårt att följa uppmaningar men grov kraft i armar och ben är utan sidoskillnad. Hon är inte nackstel. Hon får två poäng på NIHSS (National Institute of health stroke scale) ett poäng för desorientering och ett poäng för lindrig dysarti. Lungor auskulteras med lätt nedsatta andningsljud, inga ronchi eller rassel. Buken palperas mjuk och oöm.\n\nMedicinlista: T. Metformin 500mgx2, T. Trombyl 75mgx1, T. Enalapril 20mgx1",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2016-11/page2_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Ange 3 möjliga differentialdiagnoser",
+              "maxPoints": 2,
+              "hint": "Tänk på vad som kan orsaka nytillkommen förvirring hos äldre patient med feber, lågt blodtryck och hög andningsfrekvens.",
+              "imageUrl": null,
+              "facit": [
+                "Sepsis",
+                "Pneumoni",
+                "Hypo-/hyperglykemi",
+                "Njursvikt/hyponatremi",
+                "Calciumrubbning",
+                "Läkemedelsbiverkan"
+              ],
+              "facitExplanation": "2p för sepsis som ett av svaren, 1p för annat relevant alternativ. Nytillkommen förvirring, feber, lågt blodtryck och hög andningsfrekvens talar i första hand för sepsis. Även hypo/hyperglykemi, akut njursvikt, hyponatremi, meningit/encefalit och läkemedelsbiverkan bör övervägas.",
+              "tags": ["sepsis", "differentialdiagnostik", "konfusion", "pneumoni"]
+            },
+            {
+              "id": "1-1-2",
+              "text": "Hur du vill utreda patienten akut, utöver prover som redan är tagna.",
+              "maxPoints": 2,
+              "hint": "Tänk på vad som behövs för att utreda sepsis och infektionsfokus.",
+              "imageUrl": null,
+              "facit": [
+                "Blodgas (arteriell eller venös) med laktat",
+                "Odlingar (blododling, nasofarynxodling, urinodling – rundodling)",
+                "Övervakning (pulsoximetri/saturation)",
+                "Lungröntgen"
+              ],
+              "facitExplanation": "En arteriell eller venös blodgas med laktat bör tas inklusive blododling, nasofarynxodling och urinodling (rundodling). Saturation bör mätas. Lungröntgen för att leta infektionsfokus.",
+              "tags": ["sepsis", "akututredning", "odling", "blodgas"]
+            },
+            {
+              "id": "1-1-3",
+              "text": "Hur behandlar du patienten på akutmottagningen? Motivera.",
+              "maxPoints": 2,
+              "hint": "Tänk ABCDE och sepsissbehandlingens grundpelare.",
+              "imageUrl": null,
+              "facit": [
+                "Syrgas",
+                "Vätska (intravenös)",
+                "Antibiotika (ev)"
+              ],
+              "facitExplanation": "2p för minst 2 av 3: Syrgas, vätska och ev antibiotika. Dessa ordineras utan dröjsmål för att åstadkomma vävnadsperfusion, stabilt blodtryck och syresatt blod.",
+              "tags": ["sepsis", "syrgas", "vätska och elektrolyter", "antibiotikabehandling"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Fortfarande på akutmottagningen, efter ytterligare 30 min, har patienten en PVK (perifer venkateter), prover och odlingar är tagna, 1000 ml Ringeracetat har kopplats och ca 100 ml har runnit in, Syrgas 2 l/min har kopplats på grimma.\n\nVenös blodgas visar pH 7.36 (ref 7,32-7,43), Laktat 3,3 mmol/L (ref 0,5-2,3), pCO2 4,2 kPa (ref 5,3-6,6), pO2 7.2 kPa (ingen ref), saturation 88%.\n\nCRP 28 mg/L (ref <3), B-Leukocyter 13,5 x10⁹/L (ref 3,5-8,8), B-Hemoglobin 119 g/L (ref 120-160), Trombocyter 183 x10⁹/L (ref 165-387), P-glukos 13,5 mmol/L (ref 4-8), P-kreatinin 119 µmol/L (<100), Albumin 37 g/L (ref 34-45), P-Natrium 136 mmol/L (ref 137-145), P-Kalium 4.1 mmol/L (ref 3,5-4,6).\n\nFörnyade kontroller: systoliskt blodtryck 85 mmHg, andningsfrekvens 31/min.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Ytterligare akut behandling",
+              "maxPoints": 2,
+              "hint": "Patienten har sjunkit i blodtryck och har hög andningsfrekvens och låg saturation. Vad behöver göras omedelbart?",
+              "imageUrl": null,
+              "facit": [
+                "Ge 1-2 liter vätskebolus på ca 60 minuter",
+                "Höj syrgastillförseln – byt grimma mot mask, öka tills saturation >90%"
+              ],
+              "facitExplanation": "Att ge 1-2 liter vätskebolus på 60 minuter är livsavgörande för att upprätthålla vävnadsperfusion. Byt ut grimman mot en mask och öka syrgasen tills saturation >90%.",
+              "tags": ["sepsis", "vätska och elektrolyter", "syrgas", "chockbehandling"]
+            },
+            {
+              "id": "1-2-2",
+              "text": "Vilken vårdnivå föreslår du?",
+              "maxPoints": 1,
+              "hint": "Patienten är instabil med sjunkande blodtryck. Var ska hon vårdas?",
+              "imageUrl": null,
+              "facit": [
+                "Kontakta IVA-jour/MIG-team, inläggning på avdelning med ökad övervakningsmöjlighet"
+              ],
+              "facitExplanation": "Patienten bör vårdas på en avdelning med ökad övervakningsmöjlighet. Diskutera med MIG-team (Mobil Intensivvårds Grupp) eller motsvarande.",
+              "tags": ["sepsis", "intensivvård", "vårdnivå"]
+            },
+            {
+              "id": "1-2-3",
+              "text": "Motivera val av antibiotika utifrån vanligaste agens (inga doser)",
+              "maxPoints": 2,
+              "hint": "Vilka bakterier måste täckas vid okänt fokus och samhällsförvärvad infektion? Vad kallas detta typ av antibiotikaregim?",
+              "imageUrl": null,
+              "facit": [
+                "Cefotaxim",
+                "Piperacillin-tazobactam",
+                "Meropenem/imipenem",
+                "+/- aminoglykosid"
+              ],
+              "facitExplanation": "1p för bredspektrumantibiotika. Vid misstänkt sepsis hos patient som kommer hemifrån utan kända riskfaktorer och med oklart infektionsfokus måste initial antibiotikabehandling täcka S. aureus, pneumokocker, betahemolyserande streptokocker, legionella, E. coli, Klebsiella och andra gramnegativa bakterier. Exempel: cefotaxim, piperacillin-tazobaktam, meropenem. En dos aminoglykosid kan också övervägas.",
+              "tags": ["sepsis", "antibiotikabehandling", "bredspektrumantibiotika"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Efter ytterligare någon timme har systoliskt blodtryck stabiliserats på 100 mmHg. Patienten är inlagd på avdelning med ökad övervakningsmöjlighet. Du gör en läkemedelsgenomgång.\n\nPatienten använder vanligtvis: T. Trombyl 75 mg x1, T. Enalapril 20 mg x1, T. Metformin 500 mg x2.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Finns det anledning att ändra något bland de mediciner patienten vanligen använder? T. Trombyl 75 mg x1, T. Enalapril 20 mg x1, T. Metformin 500 mg x2. Motivera.",
+              "maxPoints": 2,
+              "hint": "S-kreatinin är stegrat och blodtrycket är lågt. Vad händer med njurfunktionen och metabolismen vid sepsis?",
+              "imageUrl": null,
+              "facit": [
+                "Sätt ut Enalapril (ACE-hämmare) pga lågt blodtryck och stegrat kreatinin (njurpåverkan)",
+                "Sätt ut Metformin pga njurpåverkan (risk för laktacidos)",
+                "Sätt in kortverkande insulin vid behov (eftersträva blodsocker <10 men >6 mmol/l)"
+              ],
+              "facitExplanation": "2p för 3 av 5 rätta åtgärder. S-kreatinin är stegrat och blodtrycket är lågt – detta bör föranleda att ACE-hämmaren (Enalapril) och Metformin sätts ut. Istället ordineras kortverkande insulin vid behov. Trombyl kan behållas.",
+              "tags": ["läkemedelsjustering", "njursvikt", "sepsis", "ACE-hämmare"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Nu när patienten är stabil (blodtryck stabiliserat med vätska, andningsfrekvens och syrgasmättnad normaliserad med syrgas 4 l/min på mask) vill du fortsätta driva diagnostiken.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Finns indikation för bilddiagnostik? Motivera",
+              "maxPoints": 1,
+              "hint": "Vilket infektionsfokus misstänks? Vilken enkel bilddiagnostik kan bekräfta detta?",
+              "imageUrl": null,
+              "facit": [
+                "Lungröntgen – för att leta efter infiltrat som kan stödja misstanken om pneumoni som infektionsfokus"
+              ],
+              "facitExplanation": "Lungröntgen är indicerat för att se om ett infiltrat kan stödja misstanken om ett infektionsfokus i lungorna. DT thorax är inte indicerat då misstanken i första hand är infektion.",
+              "tags": ["pneumoni", "bilddiagnostik", "sepsis"]
+            },
+            {
+              "id": "1-4-2",
+              "text": "Finns indikation för ytterligare provtagning? Motivera.",
+              "maxPoints": 2,
+              "hint": "Vilket snabbtest kan identifiera ett specifikt infektionsfokus? Vad bör kontrolleras för urinvägar och CNS?",
+              "imageUrl": null,
+              "facit": [
+                "Pneumokockantigen (och legionellaantigen) i urin",
+                "Urinsticka och bladderscan",
+                "Förnyat CRP och LPK",
+                "Lumbalpunktion bör övervägas (för att utesluta meningit)"
+              ],
+              "facitExplanation": "Förnyat CRP och LPK, pneumokockantigen (och legionellaantigen) i urin kan vara till hjälp. Urinsticka och bladderscan bör kontrolleras och lumbalpunktion övervägas.",
+              "tags": ["pneumokockinfektion", "pneumoni", "sepsis", "akututredning"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Nästa dag är patientens tillstånd stabilt. Lungröntgen visade inga säkra infiltrat (bedsideundersökning). Urinstickan var utan patologiska fynd, bladderscan visade ingen residualurin, patienten är fortfarande inte nackstyv och är något mindre konfusorisk. Ännu ingen växt i odlingarna, men pneumokockantigen i urin var positivt. Antibiotika byts till PC-G (Bensylpenicillin). CRP är nu 242 mg/L. Patienten har fått lite hosta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Hur skulle man ha kunnat minska risken för insjuknande hos denna patient?",
+              "maxPoints": 1,
+              "hint": "Patienten är 78 år. Finns det förebyggande åtgärder mot pneumokockinfektion?",
+              "imageUrl": null,
+              "facit": [
+                "Pneumokockvaccin – erbjuds till alla över 65 års ålder, skyddar mot invasiv allvarlig pneumokocksjukdom"
+              ],
+              "facitExplanation": "Äldre patienter har en ökad risk att drabbas av allvarliga sjukdomar när de infekteras. Alla över 65 års ålder erbjuds vaccination mot influensa och pneumokocker. Det 23-valenta pneumokockpolysaccharidvaccinet (23-PPV) ger ca 50-60% skydd mot invasiv pneumokocksjukdom.",
+              "tags": ["pneumokockvaccin", "prevention", "pneumoni"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Efter 3,5 dygn på vårdavdelningen med intravenös antibiotika (Cefotaxim de första 2 dygnen, därefter Bensylpenicillin) mår Birgit bra och ska få komma hem. Lungröntgen var inte konklusiv, blododling var utan växt, men pneumokockantigen var positivt. Birgit bör fortsätta med peroral antibiotika vid hemgång.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilken sort? Motivera",
+              "maxPoints": 1,
+              "hint": "Vilket antibiotikum är förstahandsval vid pneumokockpneumoni och varför?",
+              "imageUrl": null,
+              "facit": [
+                "V-penicillin (Kåvepenin) – förstahandsval vid pneumokockpneumoni",
+                "Amoxicillin – acceptabelt alternativ (ger halvt poäng)"
+              ],
+              "facitExplanation": "1p för Kåvepenin (V-penicillin), ½p för Amoxicillin. Mer än 50% av samhällsförvärvad pneumoni hos vuxna orsakas av Streptococcus pneumoniae. V-penicillin (Kåvepenin) är förstahandsval med hänsyn till ekologiska och biverkningsmässiga aspekter samt ett alltjämt gynnsamt resistensläge hos pneumokocker.",
+              "tags": ["pneumoni", "antibiotikabehandling", "pneumokockinfektion"]
+            },
+            {
+              "id": "1-6-2",
+              "text": "Hur länge? Motivera.",
+              "maxPoints": 2,
+              "hint": "Vad rekommenderar nationella riktlinjer för total behandlingstid vid pneumokockpneumoni?",
+              "imageUrl": null,
+              "facit": [
+                "Sammanlagt 7 dagars total behandling (inräknat den intravenösa behandlingen på sjukhuset)"
+              ],
+              "facitExplanation": "Nationella riktlinjer rekommenderar 7 dagars total behandling med hänsyn tagen till miljön, resistensutveckling och biverkningar. V-penicillin 1g x 3 i sammanlagt 7 dagar (inkl. sjukhusvistelsen).",
+              "tags": ["pneumoni", "antibiotikabehandling", "behandlingstid"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatri",
+      "points": 20,
+      "intro": "Du går nu en av dina sista helgjourer på medicinakuten. Din nästa patient på listan är Åke, en 54 år gammal man som är välkänd på akutmottagningen. Han har kommit in med ambulans. Du får rapport från sjuksköterskan att en granne ringt då Åke betett sig avvikande utanför huset där han bor.\n\nPå akuten är Åke svettig och plockig. Han sitter oroligt på undersökningsbritsen. Hans puls är 123 slag/min och blodtrycket 163/127 mm Hg. SaO2 är 89%. Åke är ovårdad och luktar starkt av urin och öl.\n\nUnder bedömningssamtalet har Åke ett konfusoriskt beteende. Han talar osammanhängande och svarar ej adekvat på dina frågor.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Ge förslag på ytterligare tre viktiga anamnestiska uppgifter som bör redas ut på akutmottagningen.",
+              "maxPoints": 3,
+              "hint": "Tänk på vad som kan förklara konfusion hos en patient som luktar alkohol. Vad är viktigt att veta om bakgrund, missbruk och aktuella symtom?",
+              "imageUrl": null,
+              "facit": [
+                "Somatisk sjukdomshistorik – viktigt med information om tidigare epilepsi/delirium tremens (EP/DT)",
+                "Symtom på aktuell infektion",
+                "Konsumtion av alkohol och/eller narkotika, missbruk av läkemedel",
+                "Möjligt trauma i anamnesen"
+              ],
+              "facitExplanation": "Tre av dessa fyra ger full poäng. Viktigt att kartlägga tidigare delirium tremens och epilepsi, alkohol- och drogkonsumtion, eventuell infektion och trauma.",
+              "tags": ["alkoholmissbruk", "delirium tremens", "anamnes", "konfusion"]
+            },
+            {
+              "id": "2-1-2",
+              "text": "Ange tre olika provtagningar/somatiska undersökningar som du bör komplettera med på akutmottagningen.",
+              "maxPoints": 3,
+              "hint": "Vad behöver uteslutas vid konfusion? Tänk på alkohol, socker, neurologi och temperatur.",
+              "imageUrl": null,
+              "facit": [
+                "S-etanol/alkohol i utandningsluft (promillemätning)",
+                "S-glukos/plasma-glukos",
+                "Neurologstatus inkl. diplopi/ögonmotorikrubbning",
+                "Temperatur"
+              ],
+              "facitExplanation": "Tre av dessa fyra för full poäng. S-etanol (eller utandningsprov), blodsocker, neurologstatus med fokus på ögonmotorik (för Wernicke), och temperatur.",
+              "tags": ["alkoholmissbruk", "Wernicke-Korsakoff", "akututredning", "konfusion"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Åke har tidigare varit inlagd pga. epileptiska kramper relaterade till alkoholabstinens. Långvarigt alkoholmissbruk med periodvis mycket hög konsumtion av öl framkommer i journalen. Somatiskt är han egentligen ganska frisk och har inga läkemedel ordinerade.\n\nÅke blåser 0,5 promille, han är orolig och tremorös men du finner inget tydligt avvikande i din neurologiska undersökning. S-glukos är 6 mmol/L. Kroppstemperaturen är 37,8°C.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vad blir din arbetshypotes diagnostiskt? Motivera ditt svar.",
+              "maxPoints": 1,
+              "hint": "Kombinationen konfusion, tremor, takykardi, hypertoni och känt alkoholmissbruk – vad talar detta för?",
+              "imageUrl": null,
+              "facit": [
+                "Delirium tremens (alkoholdelirium) – motiverat av konfusion, tremor, takykardi, hypertoni och känt alkoholmissbruk"
+              ],
+              "facitExplanation": "Delirium tremens; Konfusion, tremor, takykard, hyperton, känt alkoholmissbruk talar för begynnande alkoholdelirium.",
+              "tags": ["delirium tremens", "alkoholmissbruk", "alkoholabstinens"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du gör bedömningen att Åke har ett begynnande alkoholdelirium. Han är konfusorisk, tremorös, takykard och har högt blodtryck.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vad ordinerar du för läkemedel nu på akutmottagningen? Motivera dina ordinationer.",
+              "maxPoints": 3,
+              "hint": "Tre läkemedelskategorier är aktuella: prevention av Wernicke, behandling av abstinens/agitation och ev. sedation. Vad är förstahandsval vid delirium tremens?",
+              "imageUrl": null,
+              "facit": [
+                "Tiamin (Neurobion/Betabion) 200-500 mg intramuskulärt – för att förebygga Wernicke-Korsakoff",
+                "Diazepam (Stesolid) iv 20-40 mg – förstahandsval vid alkoholabstinens/delirium tremens",
+                "Haloperidol (Haldol) 5 mg iv – tillägg av neuroleptika för sedation/sömn (ej förstahandsval)"
+              ],
+              "facitExplanation": "Neurobion/Betabion för Wernicke-Korsakoff-prevention (200-500 mg tiamin intramuskulärt). Diazepam iv 20-40 mg, ev. tillägg av Haloperidol 5 mg iv för sedation/sömn. Ej antiepileptika. Neuroleptika är inte förstahandsval.",
+              "tags": ["delirium tremens", "tiamin", "Wernicke-Korsakoff", "alkoholabstinens"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Åke erhåller medicinering med 200 mg Neurobion (tiamin) intramuskulärt, 80 mg Stesolid (diazepam) samt 5 mg Haldol (haloperidol) intravenöst. Åke somnar efter ett tag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Ange en relevant biverkning du måste tänka på i samband med din medicinering? Ange även vilka åtgärder du vidtar med anledning av detta.",
+              "maxPoints": 2,
+              "hint": "Stesolid (diazepam) tillhör en läkemedelsgrupp med en välkänd och potentiellt allvarlig biverkan. Vad behöver monitoreras?",
+              "imageUrl": null,
+              "facit": [
+                "Andningsdepression pga. diazepam (Stesolid) – monitorera andning, puls och saturation kontinuerligt"
+              ],
+              "facitExplanation": "Stesolid (diazepam) kan deprimera andningen. Puls och saturationskontroll är nödvändiga. Behandling bör fortgå till patienten somnat och normal eller närmast normal puls inträder. Kramprisk bör beaktas.",
+              "tags": ["delirium tremens", "läkemedelsbiverkan", "andningsdepression"]
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "För att förebygga Wernicke-Korsakoff behöver man upprepa tillförsel med Neurobion (tiamin) – förslagsvis 200 mg tiamin dagligen i 4-7 dygn.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Förklara mekanismen bakom symptombilden vid Wernicke-Korsakoff.",
+              "maxPoints": 2,
+              "hint": "Vilket vitamin saknas och varför? Hur leder detta till hjärnskador?",
+              "imageUrl": null,
+              "facit": [
+                "Beror på tiaminbrist (vitamin B1) pga. malnutrition – vanligt vid alkoholberoende",
+                "Vitamin B1 är ett essentiellt co-enzym nödvändigt i glukosmetabolismen – tiaminbrist ger energibrist i delar av hjärnan med efterföljande hjärnskador",
+                "Diagnos ställs på klinisk bild baserat på triaden: ögonmotorikstörning, cerebellär ataxi samt konfusion"
+              ],
+              "facitExplanation": "Wernicke-Korsakoff beror på tiaminbrist (vitamin B1) pga. malnutrition, vanligen vid alkoholberoende. Vitamin B1 är ett essentiellt co-enzym nödvändigt i glukosmetabolismen. Tiaminbrist ger energibrist i delar av hjärnan med efterföljande hjärnskador. Klinisk triad: ögonmotorikstörning, cerebellär ataxi och konfusion.",
+              "tags": ["Wernicke-Korsakoff", "tiamin", "alkoholmissbruk", "neurologi"]
+            },
+            {
+              "id": "2-5-2",
+              "text": "Vilka strukturer är det som drabbas i hjärnan?",
+              "maxPoints": 2,
+              "hint": "Tänk på limbiska systemet, diencephalon och lillhjärnan.",
+              "imageUrl": null,
+              "facit": [
+                "Mamillära kropparna (limbiska systemet/hypothalamus)",
+                "Thalamus (anteriort/medialt dorsalt)",
+                "Cerebellum"
+              ],
+              "facitExplanation": "De strukturer som drabbas är mamillära kropparna (limbiska systemet/hypothalamus), thalamus (anteriort/medialt dorsalt) och cerebellum.",
+              "tags": ["Wernicke-Korsakoff", "neuroanatomi", "tiamin"]
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Åke återhämtar sig efter tre dagars behandling i slutenvården. Vid utskrivningssamtalet berättar han att han senaste veckorna druckit upp mot 10-15 starköl dagligen och inte fått i sig mycket mat. Åke önskar hjälp med att sluta dricka. Du föreslår två möjliga evidensbaserade läkemedelsbehandlingar: Antabus (disulfiram) eller Campral (akamprosat).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Förklara kortfattat verkningsmekanismen för dessa behandlingar?",
+              "maxPoints": 2,
+              "hint": "Vad gör respektive läkemedel – en minskar suget, en ger obehag vid alkoholintag. Hur?",
+              "imageUrl": null,
+              "facit": [
+                "Akamprosat (Campral) – minskar alkoholsug (modulerar glutamat- och GABA-systemet)",
+                "Disulfiram (Antabus) – hämmar aldehyddehydrogenas, leder till acetaldehyd-ansamling vid alkoholintag och ger illamående/flush-reaktion"
+              ],
+              "facitExplanation": "Akamprosat minskar alkoholsug. Disulfiram ger illamående och kraftigt obehag vid intag av alkohol genom att hämma nedbrytningen av acetaldehyd.",
+              "tags": ["alkoholmissbruk", "disulfiram", "akamprosat", "beroende"]
+            },
+            {
+              "id": "2-6-2",
+              "text": "Beskriv för patienten en relevant fördel respektive nackdel med var och en av dessa läkemedelsbehandlingar?",
+              "maxPoints": 2,
+              "hint": "Tänk på vad som är bra och dåligt med respektive läkemedel ur patientperspektiv – effekt, biverkningar, hantering.",
+              "imageUrl": null,
+              "facit": [
+                "Akamprosat – Fördel: Ger fler nyktra dagar. Nackdel: Diarré vanlig biverkan, bör kompletteras med psykosocialt stöd",
+                "Disulfiram – Fördel: Snabb effekt (stark avskräckande effekt). Nackdel: Ger leverpåverkan, bör ofta ges under övervakning"
+              ],
+              "facitExplanation": "Akamprosat: Ger fler nyktra dagar (fördel). Diarré vanlig biverkan, bör kompletteras med psykosocialt stöd (nackdel). Disulfiram: Snabb/stark avskräckande effekt (fördel). Ger leverpåverkan, bör ofta ges under övervakning (nackdel).",
+              "tags": ["alkoholmissbruk", "disulfiram", "akamprosat", "läkemedelsbiverkan"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "En 68-årig gift kvinna söker dig på vårdcentralen. Hon upplever att konditionen har blivit successivt sämre under det senaste året och att hon är mer andfådd vid ansträngning än tidigare. Hon märker mer andfåddhet när hon går uppför backar och trappor.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Hur vill du komplettera anamnesen? Nämn 4 relevanta frågeställningar och motivera dessa.",
+              "maxPoints": 2,
+              "hint": "Tänk på hereditet, tidigare sjukdomar, rökning, viktnedgång och andra symtom som kan kasta ljus över orsaken till andfåddheten.",
+              "imageUrl": null,
+              "facit": [
+                "Social anamnes och hereditet (ffa diabetes, hjärtkärlsjukdomar, blodsjukdom, thyreoidea, depression)",
+                "Sjukdomsanamnes (tidigare/nuvarande sjukdomar: diabetes, thyreoidea, depression, blodsjukdomar, viktnedgång, avföringsvanor, miktion, törst, bröstsmärtor)",
+                "Aktuella mediciner",
+                "Rökning (rökhistoria)"
+              ],
+              "facitExplanation": "Relevanta frågeställningar inkluderar social anamnes och hereditet (diabetes, hjärtkärlsjukdomar, blodsjukdomar, thyreoidea, depression), sjukdomsanamnes (tidigare sjukdomar, viktnedgång, avföringsvanor), aktuella mediciner och rökhistoria.",
+              "tags": ["KOL", "dyspné", "anamnes", "differentialdiagnostik"]
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vad kan förklara symtomen? Ange 4 sannolika diagnoser.",
+              "maxPoints": 2,
+              "hint": "Successivt försämrad kondition och andfåddhet vid ansträngning – tänk på hjärta, lungor och blod.",
+              "imageUrl": null,
+              "facit": [
+                "KOL (kronisk obstruktiv lungsjukdom)",
+                "Hjärtsvikt",
+                "Anemi",
+                "Hjärtarytmi",
+                "Hjärtvitium",
+                "Astma",
+                "Oträning"
+              ],
+              "facitExplanation": "Försämrad syretransport orsakad av hjärt-lungdysfunktion (exempelvis hjärtarytmi, hjärtvitium, hjärtsvikt, astma, KOL, oträning) eller anemi. Fyra av dessa alternativ ger full poäng.",
+              "tags": ["KOL", "hjärtsvikt", "differentialdiagnostik", "dyspné"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Hon är tidigare väsentligen frisk, tar inga mediciner. Har sedan tonåren rökt 15 cigaretter om dagen men slutade för 20 år sedan. Inga besvär med bröstsmärtor. Miktion och avföring ua.\n\nStatus: AT: Normalviktig. Ingen vilodyspné eller perifera ödem. Hjärta: Regelbunden rytm med frekvens 60, inga biljud. Blodtryck 135/85 mmHg. Lungor: Normala lunggränser, ingen dämpning vid perkussion, generellt något nedsatta andningsljud. Buk: mjuk oöm.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilka laboratorieprov finns anledning att kontrollera. Nämn 4 och motivera varför.",
+              "maxPoints": 2,
+              "hint": "Tänk på de vanligaste orsakerna till andfåddhet: anemi, diabetes, sköldkörtel, hjärtsvikt.",
+              "imageUrl": null,
+              "facit": [
+                "Hb – för att utesluta anemi",
+                "P-glukos – för att utesluta diabetes",
+                "TSH – för att utesluta hypo-/hypertyreos",
+                "Pro-BNP – för att utesluta hjärtsvikt"
+              ],
+              "facitExplanation": "Hb (anemi), P-glukos (diabetes), TSH (tyreoideafunktion) och ev. Pro-BNP (hjärtsvikt) är de mest relevanta proven.",
+              "tags": ["KOL", "utredning", "anemi", "hjärtsvikt"]
+            },
+            {
+              "id": "3-2-2",
+              "text": "Vilka ytterligare undersökningar kan vara aktuella på vårdcentralen och vilka beställer du?",
+              "maxPoints": 2,
+              "hint": "Tänk på hur man kan undersöka hjärta och lungor enkelt på vårdcentralen.",
+              "imageUrl": null,
+              "facit": [
+                "EKG – för att utesluta arytmi och hjärtpåverkan",
+                "PEF eller COPD-6-mätning – screening för obstruktiv lungsjukdom",
+                "Spirometri – för att diagnostisera obstruktiv/restriktiv lungsjukdom",
+                "Lungröntgen – för att se hjärt- och lungstatus"
+              ],
+              "facitExplanation": "EKG, PEF eller COPD-6-mätning, spirometri och lungröntgen är alla relevanta undersökningar på vårdcentralsnivå.",
+              "tags": ["KOL", "spirometri", "EKG", "bilddiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Laboratorieproverna visade Hb 120 g/l, P-glukos 5,8 mmol/l, TSH 1,0 mU/l, Krea 80 µmol/l. Saturation 98%. COPD-6-mätaren visar en kvot FEV1/FEV6 på 0,5. Lungröntgen visar normalstort hjärta, ingen svikt, något avplanade diafragmavalv. Du tar ett EKG.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad visar EKG-undersökningen?",
+              "maxPoints": 1,
+              "hint": "Studera EKG-bilden noggrant. Vad är rytmen och finns det några patologiska fynd?",
+              "imageUrl": "/images/exams/2016-11/page10_img1.jpeg",
+              "facit": [
+                "Regelbunden sinusrytm – normalt EKG"
+              ],
+              "facitExplanation": "EKG visar regelbunden sinusrytm utan patologiska fynd. Normalt EKG.",
+              "tags": ["EKG", "arytmi", "KOL"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "EKG är normalt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilken undersökning kan göras på vårdcentralen för att utreda andningsbesvären mera?",
+              "maxPoints": 1,
+              "hint": "COPD-6 screening visade avvikande kvot. Vad är nästa steg för att fastställa diagnosen?",
+              "imageUrl": null,
+              "facit": [
+                "Spirometri"
+              ],
+              "facitExplanation": "Spirometri kan göras på vårdcentralen för att mer detaljerat utreda andningsbesvären och möjlig obstruktiv lungsjukdom.",
+              "tags": ["spirometri", "KOL", "lungfunktionsundersökning"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Spirometriundersökning visar:\n\n| | VC | FEV1 | FEV1/VC | Rev% |\n|---|---|---|---|---|\n| Förväntat (referens) | 3,5 | 2,6 | 0,74 | |\n| Före beta-2-agonist | 2,4 | 1,0 | 0,42 | |\n| Efter beta-2-agonist | 2,4 | 1,1 | 0,46 | 10% |",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vilken diagnos ställer du utifrån spirometrifynden?",
+              "maxPoints": 1,
+              "hint": "FEV1/VC-kvoten är under 0,7 och det saknas reversibilitet. Vad kallas detta?",
+              "imageUrl": null,
+              "facit": [
+                "KOL (kronisk obstruktiv lungsjukdom) – nedsatt FEV1 och kvot FEV1/VC <0,7 utan reversibilitet"
+              ],
+              "facitExplanation": "Spirometrin visar KOL med nedsatt FEV1 och kvot FEV1/VC <0,7 utan reversibilitet (reversibilitet <12% och <200 ml).",
+              "tags": ["KOL", "spirometri", "lungfunktionsundersökning"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Spirometrin visar KOL med nedsatt FEV1 och kvot FEV1/VC <0,7 utan reversibilitet. Patienten är för svårt sjuk för att bara ge kortverkande beta-2-stimulerare eller antikolinergika.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Vilken farmakologisk behandling vill du rekommendera kvinnan?",
+              "maxPoints": 1,
+              "hint": "Patienten är symtomatisk med nedsatt FEV1. Kortverkande räcker inte. Vad är nästa steg i KOL-trappan?",
+              "imageUrl": null,
+              "facit": [
+                "Inhalation med LAMA (långverkande antikolinergika, t.ex. Spiriva) och/eller LABA (långverkande beta-2-stimulerare), eller kombinationsläkemedel med båda (t.ex. Ultibro Breezehaler)"
+              ],
+              "facitExplanation": "Inhalation med LAMA (t.ex. Spiriva), LABA eller kombinationsläkemedel med båda (t.ex. Ultibro Breezehaler). Förutom farmakologisk behandling kan även fysisk träning vara gynnsamt.",
+              "tags": ["KOL", "LAMA", "LABA", "inhalationsbehandling"]
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "När du träffar patienten nästa gång har hon haft två försämringsepisoder. Vid senaste tillfället för några veckor sedan var hon inlagd ett dygn på medicinavdelning pga. KOL-exacerbation. CAT-enkäten (COPD Assessment Test) ger låga, dvs. dåliga poäng.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vilken typ av behandling är aktuell nu?",
+              "maxPoints": 1,
+              "hint": "Patienten har upprepade exacerbationer och dålig livskvalitet. Vilket steg i KOL-behandlingstrappan är nu aktuellt?",
+              "imageUrl": null,
+              "facit": [
+                "Tillägg av inhalationssteroid (ICS) – trippelbehandling LAMA + LABA + ICS. Ev. även roflumilast (T Daxas, PDE4-hämmare) om exacerbationer kvarstår"
+              ],
+              "facitExplanation": "Patienten har KOL-stadium GOLD D med upprepade exacerbationer och dålig livskvalitet. Tillägg med inhalations-ICS är aktuellt. Om inte heller LAMA+LABA+ICS förhindrar ytterligare exacerbationer kan PDE4-hämmaren roflumilast (Daxas) bli aktuell.",
+              "tags": ["KOL", "inhalationssteroid", "LAMA", "LABA"]
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Som bifynd på lungröntgen ses flera kotkompressioner.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Ange två viktiga uppgifter du vill komplettera anamnesen med utifrån skelettfyndet på lungröntgen.",
+              "maxPoints": 1,
+              "hint": "Kotkompressioner talar för osteoporos. Vilka riskfaktorer är viktiga att kartlägga?",
+              "imageUrl": null,
+              "facit": [
+                "Tidigare fraktur (lågenergifraktur)",
+                "Höftfraktur hos förälder",
+                "BMI <20 eller viktnedgång >10 kg sedan 25 års ålder",
+                "Rökning",
+                "Reumatoid artrit",
+                "Insulinbehandlad diabetes",
+                "Menopaus <45 års ålder",
+                "Fysisk inaktivitet",
+                "Peroral kortisonbehandling",
+                "Fallrisk"
+              ],
+              "facitExplanation": "Två av dessa riskfaktorer för osteoporos ger full poäng. Viktigt att kartlägga tidigare frakturer, hereditet för höftfraktur, BMI, rökning, kortisoanvändning m.m.",
+              "tags": ["osteoporos", "fraktur", "riskfaktorer", "KOL"]
+            },
+            {
+              "id": "3-8-2",
+              "text": "Hur värderar du om patienten behöver utredas vidare?",
+              "maxPoints": 1,
+              "hint": "Vilket verktyg används för att bedöma frakturrisk och vid vilken gräns rekommenderas vidare utredning?",
+              "imageUrl": null,
+              "facit": [
+                "Om FRAX visar 10-årig frakturrisk >15% bör patienten utredas vidare med bentäthetsmätning (DXA)"
+              ],
+              "facitExplanation": "Om FRAX-beräkning visar en 10-årig risk för osteoporosrelaterad fraktur >15% bör patienten utredas vidare med DXA-mätning (bentäthetsmätning).",
+              "tags": ["osteoporos", "FRAX", "DXA", "frakturrisk"]
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Patienten berättar att hennes mamma hade osteoporos och att hon själv haft en handledsfraktur för några år sedan efter att ha snubblat i halkan på vintern. Beräkning med FRAX visar en 10-årig risk på 20% för osteoporosrelaterad fraktur.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Vilka ytterligare laboratorieprov finns anledning att kontrollera. Nämn 4 laboratorieprover och motivera varför",
+              "maxPoints": 1,
+              "hint": "Vilka prover kan avslöja sekundär osteoporos – t.ex. myelom, hyperparatyreoidism?",
+              "imageUrl": null,
+              "facit": [
+                "SR – för att utesluta myelom och inflammatorisk sjukdom",
+                "ALP – markör för benmetabolism/bennedbrytning",
+                "S-Ca – för att utesluta hyperparatyreoidism",
+                "S-Albumin – för korrektion av kalcium"
+              ],
+              "facitExplanation": "SR, ALP, Ca och Alb kompletterar tidigare provtagning för att bedöma om vidare utredning avseende sekundär osteoporos med ökad bennedbrytning (såsom vid myelom, hyperparatyreoidism m.m.) kan vara befogad.",
+              "tags": ["osteoporos", "utredning", "sekundär osteoporos"]
+            },
+            {
+              "id": "3-9-2",
+              "text": "Hur utreder du patienten vidare?",
+              "maxPoints": 1,
+              "hint": "FRAX >15% och misstänkta kotkompressioner – vilket bilddiagnostiskt test mäter bentätheten?",
+              "imageUrl": null,
+              "facit": [
+                "DXA-mätning (bentäthetsmätning i höft och ländrygg)",
+                "Röntgen bröst- och ländrygg med anledning av kotkompressionerna"
+              ],
+              "facitExplanation": "DXA-mätning (bentäthetsmätning i höft och ländrygg) beställs. Röntgen av bröst- och ländrygg är indicerat med anledning av kotkompressionerna.",
+              "tags": ["osteoporos", "DXA", "bilddiagnostik", "kotkompression"]
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "Proverna visar SR 8 mm, ALP 1,0 µkat/l (ref <1,9 µkat/l), S-Ca 2,4 mmol/l (ref 2,2-2,6 mmol/l), S-Albumin 40 g/l (ref 36-45 g/l). DXA-mätning beställs och bentäthetsmätningen visar T-score -3 SD.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Vilken diagnos har patienten?",
+              "maxPoints": 1,
+              "hint": "T-score -3 SD är under den diagnostiska gränsen. Vad kallas tillståndet?",
+              "imageUrl": null,
+              "facit": [
+                "Osteoporos (T-score ≤ -2,5 SD)"
+              ],
+              "facitExplanation": "T-score -3 SD (under -2,5 SD) uppfyller WHO-kriterierna för osteoporos.",
+              "tags": ["osteoporos", "DXA", "bentäthet"]
+            },
+            {
+              "id": "3-10-2",
+              "text": "Hur handlägger du patienten utifrån DXA svaret?",
+              "maxPoints": 1,
+              "hint": "T-score <-2,5 SD + riskfaktorer. Vilken behandling rekommenderas?",
+              "imageUrl": null,
+              "facit": [
+                "Behandling med bisfosfonat, calcium och D-vitamin – motiverat av T-score <-2,5 SD tillsammans med riskfaktorerna"
+              ],
+              "facitExplanation": "T-score <-2,5 SD motiverar tillsammans med riskfaktorerna behandling för osteoporos med bisfosfonat, calcium och D-vitamin.",
+              "tags": ["osteoporos", "bisfosfonat", "D-vitamin"]
+            }
+          ]
+        },
+        {
+          "id": "3-11",
+          "context": "T-score <-2,5 SD motiverar tillsammans med riskfaktorerna behandling för osteoporos med bisfosfonat, calcium och D-vitamin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-11-1",
+              "text": "Hur följer du upp patienten? Hur länge bör behandlingen fortsätta?",
+              "maxPoints": 1,
+              "hint": "Hur länge rekommenderas bisfosfonatbehandling och vad styr beslut om förlängning?",
+              "imageUrl": null,
+              "facit": [
+                "Behandling med bisfosfonater kan pågå 3-5 år",
+                "Om ny DXA visar T-score lägre än -2,5 till -2,0 kan fortsatt behandling övervägas",
+                "Efter utsatt behandling: årlig omprövning utifrån bentäthetsmätning, nya frakturer och riskbedömning"
+              ],
+              "facitExplanation": "Behandling med bisfosfonater kan pågå 3-5 år. Om ny DXA visar T-score lägre än -2,5 till -2,0 kan fortsatt behandling övervägas. Efter utsatt behandling kan årlig omprövning av behandling ske utifrån bentäthetsmätning, nya frakturer och riskbedömning.",
+              "tags": ["osteoporos", "bisfosfonat", "uppföljning", "DXA"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Du är underläkare på lasarettet i A-stad och deltar i en katastrofövning. Ett bombattentat har just ägt rum på en närliggande idrottsarena enligt övningsscenariot.\n\nÖvningsledningen uppdrar åt dig att delta i en sjukvårdsgrupp som skickas till skadeplatsen. Ni tar med en akutväska innehållande bl.a. bandage, handskar, intravenösa nålar, ett par liter Ringer-Acetat, svalgtuber, näskantarell och diverse läkemedel i ampullform.\n\nPå skadeplats anvisas du och medföljande sjuksköterska att bedöma fem (A-E) markörer:\n\nA: Ca 55-årig man. Har en ca 90% brännskada, puls över 120, andningsfrekvens över 40/min med ytliga andetag, okontaktbar.\nB: Ca 40-årig kvinna. Har en tydlig skallskada, är medvetslös med Glasgow Coma Scale 5 (av 15), hjärtfrekvens 50, andningsfrekvens 6/minut.\nC: Ca 30-årig kvinna. Har en öppen bukskada och puls över 120, andningsfrekvens över 30/minut.\nD: Ca 25-årig man. Vaken, konfusorisk med ansiktsskada, har tydlig stridor, puls 100 och andningsfrekvens 25/minut.\nE: Ca 20-årig kvinna. Har omfattande mjukdelsskador på höger lår och underben, sitter upp och ropar på hjälp. Puls 100 och andningsfrekvens 20/minut.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka två markörer bedömer du har vitalparametrar som talar för dålig prognos när du rapporterar till ledningsläkaren?",
+              "maxPoints": 1,
+              "hint": "Vilka patienter har de mest extrema avvikelserna i puls, andning och medvetande?",
+              "imageUrl": null,
+              "facit": [
+                "A och B"
+              ],
+              "facitExplanation": "Patient A har 90% brännskada, puls >120, andningsfrekvens >40 och är okontaktbar. Patient B har svår skallskada, GCS 5, bradykardi (puls 50) och mycket låg andningsfrekvens (6/min) – tecken på terminal hjärnstam-påverkan. Dessa har sämst fysiologiska parametrar och minst chans att överleva.",
+              "tags": ["katastrofmedicin", "triage", "trauma", "prioritering"]
+            },
+            {
+              "id": "4-1-2",
+              "text": "Hur vill du behandla eller hantera de skadade med de begränsade resurser du och sköterskan har till ert förfogande? Gå igenom patient för patient i prioritetsordning. Strukturera ditt svar.",
+              "maxPoints": 4,
+              "hint": "Prioritera de som kan räddas med enkla åtgärder. Tänk D, C, E, A, B i prioritetsordning. Vad kan du göra för varje patient med de resurser du har?",
+              "imageUrl": null,
+              "facit": [
+                "D (prioritet 1): Fri luftväg med hak-drag och svalgtub – förbättrar andning påtagligt. Syrgas. Ev. framstupa sidoläge. Analgetika när luftväg fri.",
+                "C (prioritet 2): Syrgas, grov intravenös infart med Ringer-Acetat, omläggning av sårskada, ev. analgetika.",
+                "E (prioritet 3): Omläggning av sårskada, lugnande omhändertagande (psykiskt chockad).",
+                "A (lägre prioritet): Ges analgetika, syrgas och en filt – ej kurativt syfte.",
+                "B (terminal): En filt läggs över markören – bedöms terminal."
+              ],
+              "facitExplanation": "Prioritetsordning: D har livshotande luftvägsproblem (stridor) som kan åtgärdas enkelt → C är i chock med öppen bukskada → E är relativt stabil → A ges palliation → B bedöms som terminal. De fysiologiska parametrarna för A och B är sämst med minst chans att överleva under rådande omständigheter.",
+              "tags": ["katastrofmedicin", "triage", "trauma", "damage control"]
+            },
+            {
+              "id": "4-1-3",
+              "text": "En ambulans finns i övningen tillgänglig för avtransport med en av dina patienter om ca 15 minuter. Vem får åka? Motivera.",
+              "maxPoints": 2,
+              "hint": "Vem kan räddas med omedelbar kirurgi och är i chock?",
+              "imageUrl": null,
+              "facit": [
+                "Patient C – bedöms vara i chock (öppen bukskada, puls >120, AF >30) och i behov av omedelbar, livräddande kirurgi"
+              ],
+              "facitExplanation": "Patient C bedöms vara i chock och i behov av omedelbar, livräddande kirurgi och får därför åka med ambulansen. Patient D har stabiliserats med luftvägsåtgärder. A och B har dålig prognos. E är relativt stabil.",
+              "tags": ["katastrofmedicin", "triage", "hemorrhagisk chock", "trauma"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Dagen efter övningen inkommer till akuten en 23-årig kvinna efter en motorcykelolycka ett par kilometer bort. Hjälmen är intakt. Enligt ambulanspersonalen har hon kört in i ett staket. Vid ankomsten: puls 110, blodtryck 90 systoliskt, andningsfrekvens 20 (efter 500 ml Ringer-Acetat iv i ambulansen). Hon är blek och konfusorisk. Det rinner blod ur ett sår på bukens vänstra sida. Andningsljuden är normala bilateralt. Hon har skrapsår på höger lår. Vänster ben och skallen är oskadda.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Man finner inga ytterligare blodkärl för infusioner på akutrummet. Nämn två olika möjligheter för att skapa kärlaccess akut på akutrummet för vätskebehandling?",
+              "maxPoints": 2,
+              "hint": "Vilka alternativ finns när perifera vener inte går att punktera?",
+              "imageUrl": null,
+              "facit": [
+                "Intraosseös infusion (IO-nål)",
+                "Friläggning av ven (venesectio, t.ex. vena saphena magna)"
+              ],
+              "facitExplanation": "Intraosseös infusion och friläggning av ven är de två möjligheterna för akut kärlaccess när perifera vener inte går att punktera.",
+              "tags": ["trauma", "hemorrhagisk chock", "vätska och elektrolyter", "kärlaccess"]
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vilken plats väljer du för att skapa kärlaccess i det här fallet? Var exakt i din anatomiska angivelse och vilken sida som avses.",
+              "maxPoints": 1,
+              "hint": "Patienten har skador på höger lår. Var är det säkert att lägga kärlaccess?",
+              "imageUrl": null,
+              "facit": [
+                "Vena saphena magna vänster sida (underben) ELLER tuberositas tibiae vänster sida (intraosseös)"
+              ],
+              "facitExplanation": "Vena saphena magna sin. eller tuberositas tibiae sin. Kärlaccess bör ej skapas på höger ben eftersom patienten har skador där. Ett svar och rätt sida (vänster) ger full poäng.",
+              "tags": ["trauma", "kärlaccess", "anatomi"]
+            },
+            {
+              "id": "4-2-3",
+              "text": "En arteriell blodgas tas på akutrummet. Den visar följande bl.a.: pH 7,22 (7,35-7,45), pCO2 3,7 (4,6-6,0 kPa), pO2 10 (>10 kPa), Base Excess, BE, -6 (-3-3 mmol/l), syremättnad 94%. Vad tyder den på? Motivera!",
+              "maxPoints": 2,
+              "hint": "pH lågt, BE negativt, pCO2 lågt (kompensatorisk hyperventilation). Vad kallas detta och varför uppstår det vid trauma med blödning?",
+              "imageUrl": null,
+              "facit": [
+                "Metabol acidos, troligen laktacidos som uttryck för hemorrhagisk chock"
+              ],
+              "facitExplanation": "Blodgasen tyder på en metabol acidos (lågt pH, negativt BE, lågt pCO2 som kompensatorisk hyperventilation). Mot bakgrund av patientens anamnes tolkas den i första hand som en laktacidos relaterad till hemorrhagisk chock.",
+              "tags": ["hemorrhagisk chock", "metabol acidos", "blodgas", "trauma"]
+            },
+            {
+              "id": "4-2-4",
+              "text": "En kollega föreslår att det är bäst att gå till datortomografen innan ni går vidare till operationsavdelningen. Vad svarar du? Motivera!",
+              "maxPoints": 2,
+              "hint": "Patienten är instabil. Vad händer om man tar tid för DT? Vad är viktigaste prioritet?",
+              "imageUrl": null,
+              "facit": [
+                "Nej – patienten är i chock och behöver laparotomeras snarast. En datortomografi skulle fördröja handläggningen och förvärra tillståndet. Patienten måste opereras oberoende av vad DT visar."
+              ],
+              "facitExplanation": "Patienten är i chock och behöver laparotomeras snarast. En datortomografi är inte lämpligt här pga. risken för att förlora värdefull tid. Patienten måste opereras oberoende av vad datortomografin kommer visa.",
+              "tags": ["hemorrhagisk chock", "laparotomi", "damage control", "trauma"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Man finner vid operationen skadad tarm på flera ställen och tar bort en bit av kolon. En blödning från tarmmesot stillas. Tarmändarna läggs upp som stomier.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "AT-läkaren på salen frågar varför man inte vill anastomosera kolonändarna. Kirurgen förklarar att man vid allvarliga skador skall arbeta efter \"skademinimeringskonceptet\" (Damage Control) och lägger upp tarmändarna som stomier. Vad innebär detta koncept och varför vill man inte anastomosera i det här läget?",
+              "maxPoints": 2,
+              "hint": "Vad innebär Damage Control Surgery? Varför är anastomosläkning riskabel hos en patient i chock?",
+              "imageUrl": null,
+              "facit": [
+                "Damage Control: Fokusera på att rädda livet på patienten – gör bara det som är absolut nödvändigt i det första skedet, definitiva åtgärder vidtas efter stabilisering",
+                "Anastomosering av tarmändar i infekterad miljö hos patient i chock med hypoperfusion är mycket riskabelt – läkningsförmågan är starkt nedsatt"
+              ],
+              "facitExplanation": "Skademinimeringsprincipen (Damage Control) innebär att man i det första skedet bara gör det som måste göras för att hålla patienten vid liv, och först vid senare ingrepp strävar efter definitiva åtgärder. Liv går före lem, fysiologi går före anatomi. Att anastomosera tarmändar i en infekterad miljö hos en patient i chock med hypoperfusion är mycket riskabelt.",
+              "tags": ["damage control", "laparotomi", "stomi", "trauma"]
+            },
+            {
+              "id": "4-3-2",
+              "text": "Narkosläkaren meddelar under operationen att den centrala kroppstemperaturen är 34,5°C. Hur påverkar temperaturen operationslagets fortsatta omhändertagande av patienten? Motivera!",
+              "maxPoints": 2,
+              "hint": "Vad kallas den dödliga triaden inom traumakirurgi? Vad händer när patienten blir hypoterm?",
+              "imageUrl": null,
+              "facit": [
+                "Hypotermin är en del av den dödliga triaden (acidos, koagulationsrubbning och hypotermi)",
+                "Ofrivillig huttring → ytterligare metabol acidos; försämrad koagulation med sjunkande temperatur",
+                "Varningssignal: operationen måste avslutas snarast möjligt – patienten värms upp på IVA och tas eventuellt tillbaka till operation i ett senare skede"
+              ],
+              "facitExplanation": "Hypotermin utgör en del av den dödliga triaden inom traumakirurgi: acidos, koagulationsrubbning och hypotermi. När patienten börjar bli hypoterm sker ofrivillig huttring som leder till ytterligare metabol acidos, och koagulationsförmågan försämras. Detta är en varningssignal till operationslaget om att operationen måste avslutas så snart som möjligt.",
+              "tags": ["hypotermi", "damage control", "trauma", "koagulationsrubbning"]
+            },
+            {
+              "id": "4-3-3",
+              "text": "Vid återbesöket efter operationen berättar du för patienten igen om ingreppet. Hon undrar vilka komplikationer som kan uppträda på lång sikt även efter att stomierna lagts ned. Vad svarar du henne?",
+              "maxPoints": 2,
+              "hint": "Vilka sena komplikationer kan uppstå efter laparotomi med tarmresektion?",
+              "imageUrl": null,
+              "facit": [
+                "Ärrbråck",
+                "Adherensileus (tarmvred pga. sammanväxningar)",
+                "Lösare avföring (diarré) om tarmlängden kortats mycket",
+                "Infertilitet"
+              ],
+              "facitExplanation": "Två svar för full poäng. Tänkbara komplikationer på lång sikt efter urakut laparotomi efter allvarligt trauma är ärrbråck, adherensileus, lösare avföring/diarré och infertilitet.",
+              "tags": ["laparotomi", "stomi", "postoperativa komplikationer", "trauma"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

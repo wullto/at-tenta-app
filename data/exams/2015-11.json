@@ -1,0 +1,956 @@
+{
+  "id": "2015-11",
+  "title": "AT-prov november 2015",
+  "date": "2015-11-20",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Johan, 68 år och tidigare frisk, inkommer på eftermiddagen till medicinakuten i ambulans. Han tar inga mediciner. Rökare. Han har idag spelat golf. Efter 45 minuters golfspel svimmade han. Enligt medföljande vän var han frånvarande ungefär en minut, inga kramper eller urinavgång. Johan berättar att varit tröttare än vanligt de senaste veckorna. I samband med ansträngning har han känt ett lindrigt tryck över bröstet och samtidigt känt sig andningspåverkad. Han har även känt att hjärtat slår extra hårt i samband med detta. Enligt ambulanspersonalen har Johan hela tiden varit klar och vaken. B-Glc i ambulans 6,5 (4,2-6,3 mmol/L). Saturationen har varit 95% och blodtrycket stabilt kring 130/85 mmHg under ambulanstransporten.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Med denna sparsamma anamnes, vilka differentialdiagnoser finner du mest troliga? Ange 3 differentialdiagnoser.",
+              "maxPoints": 1.5,
+              "hint": "Ange 3 differentialdiagnoser",
+              "facit": [
+                "Lungemboli",
+                "Arytmi",
+                "Aortastenos",
+                "Hjärtinfarkt"
+              ],
+              "facitExplanation": "Lungemboli (0,5p), arytmi (0,5p), aortastenos (0,5p), hjärtinfarkt (0,5p). Smärta vid aortadissektion är konstant ihållande och kommer inte och går i samband med ansträngning varför detta svar ger 0 poäng.",
+              "tags": ["synkope", "differentialdiagnostik", "hjärtinfarkt", "arytmi"]
+            },
+            {
+              "id": "1-1-2",
+              "text": "Vilka 4 frågor ter sig mest rimliga att komplettera anamnesen med?",
+              "maxPoints": 1.5,
+              "hint": "Ange 4 relevanta frågor",
+              "facit": [
+                "Är han symtomfri nu?",
+                "Palpitationer?",
+                "Bröst/ryggsmärta strax före och/eller efter han syncoperade?",
+                "Har det förelegat några övriga symtom före syncoperingen såsom yrsel, andfåddhet eller svimmade han utan förvarning?",
+                "Har han varit yr den senaste tiden?"
+              ],
+              "facitExplanation": "Är han symtomfri nu? Palpitationer? Bröst/ryggsmärta strax före och/eller efter han syncoperade? Har det förelegat några övriga symtom före syncoperingen såsom yrsel, andfåddhet eller svimmade han utan förvarning? Har han varit yr den senaste tiden?",
+              "tags": ["synkope", "anamnes", "kardiologi"]
+            },
+            {
+              "id": "1-1-3",
+              "text": "Du tar en arteriell blodgas samt begär blodprover. Vilka 3 blodprover anser du viktigast nu i akutskedet och vilka 3 mätningar/undersökningar begär du för att om möjligt bekräfta eller förkasta dina differentialdiagnoser? Ange dessa 3 blodprover och 3 mätningar/undersökningar.",
+              "maxPoints": 1,
+              "hint": "3 blodprover + 3 mätningar/undersökningar",
+              "facit": [
+                "Troponin",
+                "D-dimer",
+                "Hb",
+                "Saturation",
+                "EKG",
+                "Blodtryck"
+              ],
+              "facitExplanation": "Troponin, D-dimer och Hb (2 av 3 ger 0,5p). Saturation, EKG och blodtryck (2 av 3 ger 0,5p).",
+              "tags": ["EKG", "troponin", "akutmedicin", "hjärtinfarkt"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Johan berättar att minuterna innan han svimmade kände han tryck i bröstet, hjärtklappning och påtaglig andfåddhet. Sedan i morse har han haft intermittent tryck i bröstet med utstrålning mot käkarna, varit mer tungandad, upplevt hjärtklappning samt varit yr. Senaste tiden har han känt av yrsel i samband med att han reser sig från sittande eller liggande. Differentialdiagnoserna lungemboli, arytmi, aortastenos och hjärtinfarkt måste misstänkas. Na 142 (137-145 mmol/L), K 3,3 (3,5-4,4 mmol/L), kreatinin 100 (60-105 µmol/L), Hb 126 (134-170 g/L), P-Glukos 6,6 (4,2-6,3 mmol/L), CRP 26 (<3 mg/L), vita 9,0 (3,5-8,8 x10⁹/L), trombocyter 188 (145-348 x10⁹/L), troponin 38 (<15 ng/L), D-dimer 0,5 (<0,25 mg/L), pH 7,37 (7,35-7,45), pO2 7,9 (8-13 kPa), pCO2 5,9 (4,6-6,0 kPa), laktat 1,2 (0,5-1,6 mmol/L), BE.-1 (-3 – 3 mmol/L). Blodtryck 140/90 mmHg, saturation 95%. Hjärta auskulteras med svagt systoliskt blåsljud I2 dx utan utstrålning över karotiderna. Lungor auskulteras invändningsfritt. Buk palperas utan anmärkning.",
+          "contextImageUrl": "/images/exams/2015-11/page4_img1.png",
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Tolka Johans EKG.",
+              "maxPoints": 0.5,
+              "hint": "Beskriv rytm och patologiska fynd",
+              "facit": [
+                "Sinusrytm",
+                "ST-sänkningar anterolateralt och inferiort"
+              ],
+              "facitExplanation": "Sinusrytm. ST-sänkningar anterolateralt och inferiort.",
+              "tags": ["EKG", "NSTEMI", "ischemisk hjärtsjukdom"]
+            },
+            {
+              "id": "1-2-2",
+              "text": "Anser du att Johans EKG talar för eller emot lungemboli? Motivera.",
+              "maxPoints": 1,
+              "hint": "Motivera ditt svar utifrån EKG-fynden",
+              "facit": [
+                "Talar emot lungemboli",
+                "Högergrenblock saknas",
+                "Inkomplett högergrenblock saknas",
+                "ST-T förändringar i V1-V3 ses ej"
+              ],
+              "facitExplanation": "Talar emot lungemboli då högergrenblock, inkomplett högergrenblock eller ST-T förändringar i V1-V3 ej ses.",
+              "tags": ["EKG", "lungemboli", "differentialdiagnostik"]
+            },
+            {
+              "id": "1-2-3",
+              "text": "Vilken blir nu din arbetsdiagnos och varför? Förklara också varför du anser de andra differentialdiagnoserna mindre sannolika.",
+              "maxPoints": 2,
+              "hint": "Ange arbetsdiagnos med motivering och uteslut övriga",
+              "facit": [
+                "Subendokardiell hjärtinfarkt (NSTEMI)",
+                "ST-sänkning på EKG och troponin 38 talar för NSTEMI",
+                "Inte lungemboli – blodgas är normal, avsaknad av högergrenblock",
+                "Inte signifikant aortastenos – svagt blåsljud utan utstrålning över karotiderna",
+                "Arytmi mindre sannolikt som primär orsak – EKG påvisar ingen arytmi"
+              ],
+              "facitExplanation": "Subendokardiell hjärtinfarkt. ST-sänkning på EKG och troponin 38. Inte lungemboli då blodgas är normal (avsaknad av högergrenblock och att ST-sänkningar inte finns på typisk lokalisation på EKG). Inte signifikant aortastenos då blåsljudet är svagt över I2 dx samt utstrålning över karotiderna saknas. Aortastenos av lindrig grad dock sannolik. Arytmi mindre sannolikt som primär orsak då EKG ej påvisar någon arytmi och den övriga bilden mer pekar på ischemi. Arytmi utlöst av ischemi eller övergående VT med sekundärt tryck över bröstet och sekundärt Trop I läckage kan inte uteslutas.",
+              "tags": ["NSTEMI", "hjärtinfarkt", "differentialdiagnostik", "aortastenos"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "På EKG ses sinusrytm med ST-sänkningar anterolateralt och inferiort förenliga med ischemi. Din arbetsdiagnos blir nu subendokardiell hjärtinfarkt (NSTEMI). Lungemboli är mindre sannolik då blodgasen är normal, avsaknad av högergrenblock och att ST-sänkningar inte finns på typisk lokalisation på EKG samt att d-dimer endast är lätt förhöjt. Aortastenos av lindrig grad sannolik med svagt blåsljud över I2 dx men avsaknad av utstrålning över karotiderna. Arytmi mindre sannolikt som primär orsak då EKG inte påvisar någon arytmi och då ischemiska förändringar ses i vila.",
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Plötsligt tar sig Johan för bröstet och kippar efter andan. Efter 30 sekunder blir han okontaktbar. Du tittar på hjärtmonitoreringen. Vad ser du?",
+              "maxPoints": 0.5,
+              "hint": "Identifiera arytmin på monitorbilden",
+              "imageUrl": "/images/exams/2015-11/page5_img1.png",
+              "facit": [
+                "Ventrikeltakykardi"
+              ],
+              "facitExplanation": "Ventrikeltakykardi.",
+              "tags": ["ventrikeltakykardi", "arytmi", "hjärtinfarkt"]
+            },
+            {
+              "id": "1-3-2",
+              "text": "Vad gör du nu?",
+              "maxPoints": 0.5,
+              "hint": "Akut åtgärd vid okontaktbar patient med VT",
+              "facit": [
+                "Defibrillerar omedelbart"
+              ],
+              "facitExplanation": "Defibrillerar omedelbart.",
+              "tags": ["defibrillering", "ventrikeltakykardi", "akutmedicin"]
+            },
+            {
+              "id": "1-3-3",
+              "text": "Vid hjärtinfarkt förändras balansen av intra- respektive extracellulärt natrium, kalium och kalcium. På vilket sätt och vad blir konsekvensen för hjärtat?",
+              "maxPoints": 1,
+              "hint": "Beskriv jonförskjutningar och deras konsekvenser",
+              "facit": [
+                "Calcium och natrium ökar intracellulärt – försämrad relaxation av vänster kammare (diastolisk dysfunktion)",
+                "Kalium ökar extracellulärt – depolarisationen av ischemiska celler förändras, membranpotentialen minskar, långsammare överledning och ökad arytmirisk"
+              ],
+              "facitExplanation": "Ökad spridning av repolarisationsfasen mellan normalt och ischemiskt epikardium samt mellan endo- och epikardium. Calcium och natrium ökar intracellulärt → försämrad relaxation av vänster kammare (diastolisk dysfunktion) (0,5p). Kalium ökar extracellulärt → depolarisationen av ischemiska celler förändras → membranpotentialen minskar → långsammare överledning och ökad arytmirisk (0,5p).",
+              "tags": ["hjärtinfarkt", "arytmi", "kardiell fysiologi"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "På hjärtmonitoreringen ser du ventrikeltakykardi. Eftersom Johan är okontaktbar defibrillerar du direkt. Du får omslag till sinusrytm efter första defibrilleringen.",
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Du begär omedelbart ett nytt EKG. Vad ser du på detta?",
+              "maxPoints": 1,
+              "hint": "Tolka det nya EKG:t",
+              "imageUrl": "/images/exams/2015-11/page6_img1.jpeg",
+              "facit": [
+                "Anterior transmural hjärtinfarkt (STEMI)",
+                "Sinusrytm"
+              ],
+              "facitExplanation": "Anterior transmural hjärtinfarkt (STEMI), sinusrytm.",
+              "tags": ["STEMI", "EKG", "hjärtinfarkt"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Blodtrycket är nu 100/60 mmHg och saturationen 95%. Johan har ont i bröstet med utstrålning mot ryggen och är illamående. Lätt andningspåverkad med andningsfrekvens 20/min. På EKG ser du nu förändringar förenliga med anterior transmural hjärtinfarkt (STEMI). Du ordinerar perifer nål samt 1000 ml Ringeracetat med infusionstakt på 4-6 timmar.",
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Förklara patofysiologin bakom transmural hjärtinfarkt.",
+              "maxPoints": 1,
+              "hint": "Beskriv den underliggande mekanismen",
+              "facit": [
+                "Akut ocklusion till följd av trombotisering",
+                "Orsakas av plaqueruptur, ulceration eller dissektion"
+              ],
+              "facitExplanation": "Akut ocklusion till följd av trombotisering som orsakas av underliggande plaqueruptur, ulceration eller dissektion.",
+              "tags": ["STEMI", "ateroskleros", "patofysiologi"]
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vilka åtgärder vidtar du under de närmaste 10 minuterna efter fyndet på senaste EKG?",
+              "maxPoints": 2,
+              "hint": "Beskriv akuta åtgärder vid STEMI",
+              "facit": [
+                "Morfin och antiemetika (primperan eller ondansatron) iv mot smärta och illamående",
+                "Omgående PCI (eller trombolys vid lång transport)",
+                "Kontakt med PCI-lab",
+                "500 mg ASA + 180 mg ticagrelor (Brilique) + atorvastatin 80 mg",
+                "Blodtrycksmätning varannan minut / artärnål pga misstänkt kardiogen chock"
+              ],
+              "facitExplanation": "Mot smärta och illamående ordinerar du morfin och antiemetika (primperan eller ondansatron) iv (0,5p). Diagnosen STEMI föranleder snabb revaskularisering, dvs omgående PCI eller vid mycket lång transport till PCI-center trombolys (0,5p). Patienten erhåller 500 mg ASA, 180 mg (2 tabl 90 mg) Brilique och atorvastatin 80 mg (0,5p – alla 3 ska anges). Eftersom blodtrycket sjunkit och STEMI verifierats misstänker du kardiogen chock – ordinera blodtryck varannan minut alternativt ber narkosjouren sätta artärnål (0,5p).",
+              "tags": ["STEMI", "PCI", "trombolys", "kardiogen chock"]
+            },
+            {
+              "id": "1-5-3",
+              "text": "Vilka komplikationer med hög mortalitet efter hjärtinfarkt känner du till?",
+              "maxPoints": 2,
+              "hint": "Nämn allvarliga komplikationer",
+              "facit": [
+                "Tamponad",
+                "VSD (ventrikelseptumdefekt)",
+                "Papillarmuskelruptur",
+                "Arytmier",
+                "Kardiogen chock"
+              ],
+              "facitExplanation": "Tamponad, VSD, papillarmuskelruptur, arytmier, kardiogen chock. 5 rätta ger 2,0p, 4 rätta 1,5p, 3 rätta 1,0p och 2 rätta 0,5p.",
+              "tags": ["hjärtinfarkt", "kardiogen chock", "arytmi", "komplikationer"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "PCI utförs komplikationsfritt inom 40 minuter mot ockluderad LAD. Patienten utvecklade aldrig kardiogen chock tack vare snabb revaskularisering. Dagen efter träffar du patienten som nu är välmående. Han har precis genomgått UKG som visar normalstor vänster kammare med hypokinesi apikalt. EF 40-45%. Lindrig aortastenos med maxgradient på 32 mmHg samt lindrig mitralisinsufficiens. Inga flöden i septum. Normalstora förmak.",
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilka strukturer (pil 1-4) markeras i ultraljudsbilden?",
+              "maxPoints": 2,
+              "hint": "Identifiera de fyra markerade strukturerna",
+              "imageUrl": "/images/exams/2015-11/page9_img1.jpeg",
+              "facit": [
+                "1 – Apex",
+                "2 – Septum interventriculare",
+                "3 – Trikuspidalisklaffven",
+                "4 – Vänster kammare"
+              ],
+              "facitExplanation": "1 apex, 2 septum interventriculare, 3 trikuspidalisklaffen, 4 vänster kammare.",
+              "tags": ["ekokardiografi", "hjärtanatomi", "ultraljud"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "På UKG sågs lindrigt nedsatt EF vilken du tillskriver som sannolikt sekundärt till hibernerande myokard. Du vet att hibernering efter hjärtinfarkt restitueras efter 4-8 veckor varför du beställer ett nytt UKG till det planerade återbesöket om 8 veckor. På avdelningen har man tagit HbA1c som var 41 (31-46 mmol/mol), kolesterol 4,6 (3,9-7,8 mmol/L) samt LDL 2,3 (2,0-5,3 mmol/L). Inneliggande behandling påbörjas med läkemedel som är viktiga i sekundärpreventivt syfte.",
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Vilka sekundärpreventiva läkemedel är viktiga att behandla en patient med ischemisk hjärtsjukdom med redan under vårdtiden. Ange verkningsmekanism och hur den positiva effekten erhålls?",
+              "maxPoints": 2.5,
+              "hint": "Ange läkemedel med verkningsmekanism",
+              "facit": [
+                "ACE-hämmare – sänker blodtrycket samt minskar remodelling och ökar myokardiets förmåga att återhämta kammarfunktionen",
+                "Statin – sänker total kolesterol och LDL, förlångsammar progress av ateroskleros",
+                "ASA – trombocythämning genom att hämma tromboxan A2",
+                "Brilique/Plavix – trombocythämning genom att hämma ADP-receptorn",
+                "Betablockad – sänker puls och blodtryck, båda med prognostisk betydelse"
+              ],
+              "facitExplanation": "ACEi sänker blodtrycket samt minskar remodelling och ökar myokardiets förmåga att återhämta kammarfunktionen och minskar risken för vänsterkammardysfunktion såväl diastolisk som systolisk. Statin sänker total kolesterol och LDL. Förlångsammar därigenom progress av aterosklerosen. ASA – trombocythämning genom att hämma tromboxan A2. Brilique alternativt plavix – trombocythämning genom att hämma ADP-receptorn. B-blockad sänker puls och blodtryck vilka båda har prognostisk betydelse. Sekundärpreventiv effekt visad i stora studier av alla ovanstående indicerade läkemedel.",
+              "tags": ["sekundärprevention", "ischemisk hjärtsjukdom", "antikoagulantia", "statin"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Patient 1: En 42-årig man kommer till akuten med kraftiga buksmärtor en söndagkväll. Han uppger att de började akut under förmiddagen, på eftermiddagen står han inte längre ut. VAS 8 (0-10). Han är frisk sedan tidigare, han har kräkts men inte haft diarré. Känner sig litet febrig.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Ange fem akut livshotande kirurgiska diagnoser av olika genes som kan vara aktuella i detta fall. Beskriv typiska symtom för respektive diagnos.",
+              "maxPoints": 5,
+              "hint": "1p per korrekt diagnos med god beskrivning, max 5p",
+              "facit": [
+                "Rupturerat aortaaneurysm eller dissektion – kraftig smärta med utstrålning mot ryggen, blodtrycksfall, pulserande resistens",
+                "Tarmischemi – trefasigt förlopp: ischemi-smärta, paralys-kräkningar, nekros-smärta och sepsis",
+                "Ileus – intervallsmärtor som övergår i konstanta smärtor, pain-out-of-proportion, tyst buk, metalliska tarmljud",
+                "Perforation i GI-kanalen – snabb insättande buksmärtor, generell peritonit, feber",
+                "Pankreatit – bandformad smärta, lokal peritoneal retning, subfebril"
+              ],
+              "facitExplanation": "Rupturerat aortaaneurysm eller dissektion (kraftig smärta med utstrålning mot ryggen, blodtrycksfall, pulserande resistens). Tarmischemi (trefasigt förlopp 'ischemi-smärta, paralys-kräkningar, nekros-smärta och sepsis'). Ileus (intervallsmärtor, som övergår i konstanta smärtor, pain-out-of-proportion, tyst buk, metalliska tarmljud). Perforation i GI-kanalen (snabb insättande buksmärtor, generell peritonit, feber). Pankreatit (bandformad smärta, lokal peritoneal retning, subfebril). 1p per korrekt diagnos med god beskrivning, max 5p.",
+              "tags": ["akut buk", "differentialdiagnostik", "pankreatit", "ileus"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du vill utesluta rupturerat aortaaneurysm, tarmischemi, ileus, perforerat ulkus och pankreatit. Du börjar med en noggrann anamnes där patienten berättar att han inte tar medicin, har inga allergier, han har druckit 4 starköl och 6 shots igår med några gamla vänner. Brukar inte dricka mycket annars. Han arbetar som byggnadsarbetare och har fru och tre barn. Alla är friska och det finns ingen hereditet för hjärt-kärl-sjukdomar eller inflammatorisk tarmsjukdom. Smärtorna kom snabbt under förmiddagen, strålar ut mot ryggen och ligger som en band strax under epigastriet. Vid palpation finner du en lokal peritoneal retning i epigastriet. Patienten är subfebril och har ett blodtryck på 100/75 mmHg, puls 95 slag/min.",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilken diagnos misstänker du i första hand?",
+              "maxPoints": 1,
+              "hint": "En diagnos",
+              "facit": [
+                "Pankreatit"
+              ],
+              "facitExplanation": "Pankreatit (1p).",
+              "tags": ["pankreatit", "akut buk", "buksmärta"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du misstänker en pankreatit.",
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilka blodprover begär du?",
+              "maxPoints": 1.5,
+              "hint": "Ange relevanta blodprover",
+              "facit": [
+                "CRP (obligat)",
+                "Vita (obligat)",
+                "Pankreasamylas (obligat)",
+                "Urea",
+                "Hb",
+                "Kreatinin",
+                "Na",
+                "K",
+                "Ca",
+                "ASAT",
+                "ALAT",
+                "GT",
+                "ALP",
+                "Bilirubin",
+                "B-glukos"
+              ],
+              "facitExplanation": "CRP, Vita, Pankreasamylas, Urea, Hb, Kreatinin, Na, K, Ca, ASAT, ALAT, GT, ALP, Bilirubin och B-glukos. De feta (CRP, Vita, Pankreasamylas) är obligata för 1p, sen 0,5p var, max 1,5p.",
+              "tags": ["pankreatit", "labprover", "diagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du begär CRP (171, norm: <5 mg/L), Vita (21,3, norm: 3,5-8,8x10⁹/L), Pankreasamylas (6,3, norm: 0,15-1,10 µkat/L), Urea (9,85, norm: 3,2-8,1 mmol/L), Hb (146, norm: 134-170 g/L), Kreatinin (136, norm: 60-100 µmol/L), Na (145, norm: 137-145 mmol/L), K (4,5, norm: 3,6-4,6 mmol/L), Ca (1,9, norm: 2,15-2,50 mmol/L), ASAT (1,67, norm: <0,76 µkat/L), ALAT (1,1, norm: <1,2 µkat/L), GT (2,3, norm: <2,0 µkat/L), ALP (1,3, norm: 0,6-1,8 µkat/L), Bilirubin (0,9, norm: 0,6-1,8 µkat/L) och B-glukos (6,3, norm: 4,2-6,0 mmol/L).",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vad blir dina åtgärder på akutmottagningen?",
+              "maxPoints": 1.5,
+              "hint": "Beskriv akuta åtgärder",
+              "facit": [
+                "Smärtlindring",
+                "Snabb vätskebehandling med timdiures (obligat)",
+                "Inläggning med regelbundna kontroller"
+              ],
+              "facitExplanation": "Smärtlindring, snabb vätskebehandling med timdiures och inläggning med regelbundna kontroller. Snabb vätskebehandling med timdiures är obligat för 1p.",
+              "tags": ["pankreatit", "akutmedicin", "vätskebehandling"]
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du ordnar med smärtlindring, snabb vätskebehandling med timdiures (15ml/h, norm: 70-150ml/h) och inläggning med regelbundna kontroller (Saturation: 90%, Andningsfrekvens 26, Puls: 95, Temp: 38,6).",
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Nämn de två vanligaste och minst två mindre vanliga orsaker till pankreatit, vad kan vara orsaken i detta fall?",
+              "maxPoints": 2,
+              "hint": "2 vanliga + minst 2 ovanliga + orsak i detta fall",
+              "facit": [
+                "Vanliga: gallstenssjukdom (choledochussten)",
+                "Vanliga: högt alkoholintag (orsaken i detta fall)",
+                "Ovanliga: hyperlipidemi",
+                "Ovanliga: läkemedelsbiverkan",
+                "Ovanliga: hyperkalcemi",
+                "Ovanliga: iatrogen trauma (ERCP)",
+                "Ovanliga: tumör",
+                "Ovanliga: ischemi",
+                "Ovanliga: virusinfektion (bl.a. Coxsackie)"
+              ],
+              "facitExplanation": "Vanliga orsaker till pankreatit är gallstenssjukdom (choledochussten bör uteslutas) och högt alkoholintag som i det aktuella fallet (1p). Ovanliga orsaker är hyperlipidemi, läkemedelsbiverkan, hyperkalcemi, iatrogen trauma (ERCP), tumör, ischemi, virusinfektion (bl.a. Coxsackie) (1p).",
+              "tags": ["pankreatit", "gallstenssjukdom", "etiologi"]
+            },
+            {
+              "id": "2-5-2",
+              "text": "I det här läget är det viktigt att bedöma prognosen för den aktuella patienten. Vilka fyra allvarliga tecken i detta fall kan vara tecken på allvarlig pankreatit?",
+              "maxPoints": 2,
+              "hint": "Identifiera 4 allvarliga tecken ur de givna provsvaren",
+              "facit": [
+                "Urea > 8,92 mmol/L (förhöjt Urea 9,85)",
+                "Mer än 2 SIRS-kriterier (Temp >38°C, Puls >90, Andningsfrekvens >20, Leukocyter >12)",
+                "Oliguri (timdiures 15 ml/h, norm 70-150 ml/h)",
+                "Saturation 90% (nedsatt)"
+              ],
+              "facitExplanation": "Urea > 8,92 mmol/L, nedsatt mentalstatus (RLS >1), >2 SIRS-kriterier (Temp >38°C, Puls >90, Andningsfrekvens >20, Leukocyter >12), oliguri, pleuravätska, ödematös och svullen pankreas samt pankreasnekroser vid CT-undersökning talar för allvarlig pankreatit. 0,5p per tecken.",
+              "tags": ["pankreatit", "SIRS", "svår pankreatit"]
+            },
+            {
+              "id": "2-5-3",
+              "text": "Vilken undersökning/vilka prover är viktiga för att följa förloppet av en pankreatit? Vilken ytterligare behandling kan behövas vid svår pankreatit?",
+              "maxPoints": 2,
+              "hint": "Uppföljning + behandling vid svår pankreatit",
+              "facit": [
+                "CT-undersökning med kontrast",
+                "CRP-kontroller",
+                "Blodstatus (vita blodkroppar, trombocyter)",
+                "Temperatur, cirkulationsparametrar, saturation och amylas för att följa förloppet",
+                "Antibiotikabehandling",
+                "Perkutant (ultraljudslett) eller operativt dränage av abscesser",
+                "IVA-vård",
+                "Mätning av buktryck"
+              ],
+              "facitExplanation": "CT-undersökning med kontrast, CRP, blodstatus (vita blodkroppar, trombocyter), temperatur, cirkulationsparametrar, saturation och amylas används för att följa förloppet (max 1p, minst två svar). Antibiotikabehandling, tillsammans med perkutant (ultraljudslett) eller operativt dränage av abscesser, kan behövas. IVA-vård, mätning av buktryck (max 1p, minst två svar).",
+              "tags": ["pankreatit", "uppföljning", "antibiotikabehandling"]
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Patient 2: Du är kirurgjour på ett litet sjukhus utan barnjour på natten. På akuten träffar du en 26-årig mamma med en ca 8 månader gammal pojke i famnen som verkar ha kraftiga buksmärtor. Mamman berättar att smärtorna började plötsligt och pojken skrek otröstligt. Där emellan verkar han inte så påverkad men sedan börjar han gråta igen. Intervallerna har nu blivit tätare. Pojken har nyligen haft en kraftig förkylning. Nu är han ganska trött, litet frånvarande och uppges ha kräkts flera gånger. Han har litet blodtillblandad slem i blöjan, magen känns spänd och verkar ömma vid palpation.",
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vad misstänker du i första hand?",
+              "maxPoints": 1,
+              "hint": "En diagnos",
+              "facit": [
+                "Invaginationsileus"
+              ],
+              "facitExplanation": "Invaginationsileus (obligat för full poäng, annars 0,5p för mekanisk ileus/ileus).",
+              "tags": ["invaginationsileus", "ileus", "pediatrik"]
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Du misstänker en invaginationsileus.",
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Hur handlägger du patienten de närmaste timmarna? Vad ordinerar du?",
+              "maxPoints": 2,
+              "hint": "Beskriv handläggning och ordinationer",
+              "facit": [
+                "Smärtstillning",
+                "Intravenös vätska",
+                "Kolonröntgen (diagnostisk och terapeutisk undersökning)"
+              ],
+              "facitExplanation": "Smärtstillning, intravenös vätska, kolonröntgen (som diagnostisk och terapeutisk undersökning) – obligat svar.",
+              "tags": ["invaginationsileus", "pediatrik", "kolonröntgen"]
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Du ordinerar smärtstillning och dropp innan du skickar barnet till en kolonröntgen (som diagnostisk och terapeutisk undersökning).",
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vad är fysiologin bakom en invagination hos barn och varför blir en kolonröntgen terapeutisk i detta fall?",
+              "maxPoints": 2,
+              "hint": "Förklara fysiologi och terapeutisk mekanism",
+              "facit": [
+                "Vid invagination brukar den sista biten av ileum glida in i kolon pga förstorade lymfkörtlar – leder till ileus och tarmen kan bli ischemisk",
+                "Invaginationen kan hävas genom att kontrastmedlet vid kolonröntgen pressar tillbaka ileum från kolon – barnet kan bli friskt utan operation"
+              ],
+              "facitExplanation": "Vid invagination brukar den sista biten av ileum glida in i kolon pga förstorade lymfkörtlar. Det förekommer också att en del av tunntarmen förs in i efterföljande del av tunntarmen, men det är ovanligt. Det leder till ileus och tarmen kan även bli ischemisk med följande tarmskador (1p). Invaginationen kan hävas genom att kontrastmedlet vid kolonröntgen pressar tillbaka ileum från kolon. Besvären går över och barnet blir friskt utan operation. Barnet mår ofta så pass bra att man kan åka hem efter några timmars observation på sjukhuset. Ju tidigare barnet får behandling desto större är chanserna att barnet inte behöver opereras (1p).",
+              "tags": ["invaginationsileus", "pediatrik", "tarmischemi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "Anders, en 63-årig överviktig rökande man, söker din vård/hälsocentral då han två gånger den sista veckan noterat rödfärgad urin vid miktion där han själv misstänker blod i urinen. Anders berättar att han haft sparsamt med kontakter med sjukvården tidigare och att han anser vara tidigare frisk.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka fem kompletterande anamnestiska frågor ställer du för att kunna gå vidare i dina diagnostiska överväganden kring den rödfärgade urinen? Motivera.",
+              "maxPoints": 2.5,
+              "hint": "Ange 5 relevanta frågor med motivering",
+              "facit": [
+                "Smärta (flanksmärta/uretersmärta som tecken till obstruktion/sten)",
+                "Urinvägssymtom som inger misstanke om prostataförstoring/infektion/urinblåsesten",
+                "Feber/övre luftvägsinfektion (IgA-nefrit/UVI)",
+                "Blodförtunnande läkemedel (ASA, antikoagulantia, NSAID)",
+                "Födointag/läkemedel som rödfärgar urinen (ex rödbetor, blåbär, rifampicin)",
+                "Viktnedgång, B-symtom, malignitet"
+              ],
+              "facitExplanation": "Smärta (flanksmärta/uretersmärta som tecken till obstruktion/sten) (0,5p). Urinvägssymtom som inger misstanke om prostataförstoring/infektion/urinblåsesten (0,5p). Feber/övre luftvägsinfektion (IgA-nefrit/UVI) (0,5p). Blodförtunnande läkemedel (ASA, antikoagulantia, NSAID) (0,5p). Födointag/läkemedel som rödfärgar urinen ex rödbetor, blåbär, rifampicin (0,5p). Viktnedgång, B-symtom, malignitet (0,5p).",
+              "tags": ["hematuri", "anamnes", "urinvägssymtom"]
+            },
+            {
+              "id": "3-1-2",
+              "text": "Specificera vad du önskar undersöka i ditt status. Motivera.",
+              "maxPoints": 2,
+              "hint": "Beskriv statusundersökning med motivering",
+              "facit": [
+                "Allmäntillstånd: blekhet som tecken till anemi, febrilitet, lymfkörtelstationer",
+                "Prostatapalpation",
+                "Palpation av yttre genitalia (varicocele, resistens)",
+                "Bukpalpation inkl. njurloger"
+              ],
+              "facitExplanation": "Allmäntillstånd: blekhet som tecken till anemi, febrilitet, lymfkörtelstationer (0,5p). Prostatapalpation (0,5p). Palpation av yttre genitalia (varicocele, resistens) (0,5p). Bukpalp inkl njurloger (0,5p).",
+              "tags": ["hematuri", "prostatapalpation", "klinisk undersökning"]
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Anders är en normalbyggd man med viss bukfetma som anser sig vara tidigare frisk. Anders tar inga läkemedel eller naturläkemedel. Han förnekar viktnedgång, smärta i buk, rygg eller flank. Anders uppger dock symtom i form av suprapubisk smärta i samband med miktion en av de gånger han haft rödfärgad urin. Det finns inga symtom från urinvägarna i övrigt, möjligen lite trögare stråle vid miktion. Han förnekar intag av rödbetor eller liknande som kan rödfärga urinen. Anamnestiskt framkommer inga aktuella infektionssymtom. Allmäntillståndet är gott, det finns ingen feber eller ikterus. Buken palperas utan anmärkning, ingen dunkömhet över njurloger. Prostata palperas förstorad utan resistenser, normal till konsistens, oömmande och med bevarad mittfåra. Yttre genitalia palperas utan anmärkning.",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilka tre prover tar du som direkt kan anlyseras på ditt lokala laboratorium (ej central laboratorium)? Motivera.",
+              "maxPoints": 1,
+              "hint": "Prover tillgängliga på vårdcentral",
+              "facit": [
+                "CRP (infektion)",
+                "Hb (graden av blodförlust)",
+                "Urinsticka (urinvägsinfektion)"
+              ],
+              "facitExplanation": "CRP (infektion), Hb (graden av blodförlust), Urinsticka (urinvägsinfektion). Urinsediment kan ibland undersökas på vårdcentralen. Alla tre rätt för 1p, 1-2 rätt 0,5p.",
+              "tags": ["hematuri", "labprover", "urinsticka"]
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Kapillärt Hb är 142 g/l, CRP 7 mg/l, Urinsticka visar 3+ för röda blodkroppar, 1+ för vita blodkroppar, 2+ albumin, neg nitrit-test.",
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Nämn två orsaker till falskt positivt utslag för erytrocyter på en urinsticka?",
+              "maxPoints": 1,
+              "hint": "Tänk på vad testet reagerar på förutom erytrocyter",
+              "facit": [
+                "Fri hemoglobinuri (hemolys) – testet är känsligt för hemoglobin",
+                "Myoglobinuri (rhabdomyolys) – testet är känsligt för myoglobin",
+                "Pseudoperoxidas hos vissa bakterier (bl.a. stafylokocker och streptokocker)"
+              ],
+              "facitExplanation": "Testet är mycket känsligt för hemoglobin och myoglobin → falskt positivt utslag vid förekomst av fri hemoglobinuri (hemolys) och myoglobinuri (rhabdomyolys) (0,5p). Pseudoperoxidas hos vissa bakterier (bl.a. stafylokocker och streptokocker) (0,5p).",
+              "tags": ["urinsticka", "hematuri", "diagnostik"]
+            },
+            {
+              "id": "3-3-2",
+              "text": "Nämn fyra ytterligare laboratorieprover som är väsentliga att få analyserade i detta fall? Motivera!",
+              "maxPoints": 2,
+              "hint": "4 prover med motivering",
+              "facit": [
+                "Urinodling",
+                "Urinsediment",
+                "PK/APTT/Trombocyter (blödningsrubbning)",
+                "PSA (prostataförstoring/malignitet)",
+                "Kreatinin (urinvägshinder/malignitet/glomerulonefrit)"
+              ],
+              "facitExplanation": "Urinodling (0,5p), urinsediment (0,5p), PK/APTT/Trombocyter (blödningsrubbning) (0,5p), PSA (prostataförstoring/malignitet) (0,5p), kreatinin (urinvägshinder/malignitet/glomerulonefrit) (0,5p).",
+              "tags": ["hematuri", "PSA", "labprover"]
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Under veckan får du in följande svar på laboratorie-analyser: Hb 140 g/l (130-170), PK(INR) 1,0 (<1,2), APTT 30 s (28-40), Trombocyter 220 x10⁹/L (145-348), Kreatinin 82 µmol/L (<100), PSA 2,1 µg/L (<3,0), PSA-kvot 0,26 (>0,18). Urinsediment visar 10 röda blodkroppar/synfält (normalt 1-3), inga cylindrar. Urinodling visar ingen växt av bakterier.",
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilka tre differentialdiagnoser till Anders hematuri överväger du i detta läge?",
+              "maxPoints": 1.5,
+              "hint": "Malignitetsmisstanke måste föreligga",
+              "facit": [
+                "Urinvägsmalignitet",
+                "Urinvägskonkrement/njursten",
+                "Blödning från prostata",
+                "Infektion"
+              ],
+              "facitExplanation": "Urinvägsmalignitet (0,5p), urinvägskonkrement/njursten (0,5p), blödning från prostata (0,5p). Infektion (0,5p). Malignitetsmisstanke måste föreligga för full poäng.",
+              "tags": ["hematuri", "urinvägsmalignitet", "njursten"]
+            },
+            {
+              "id": "3-4-2",
+              "text": "Du ringer Anders och informerar honom om fynden och ni beslutar tillsammans att remittera Anders till en urolog. Vilka två viktiga diagnostiska undersökningar blir med största sannolikhet aktuella som led i hematuriutredningen? Motivera.",
+              "maxPoints": 1,
+              "hint": "Undersökningar av nedre och övre urinvägar",
+              "facit": [
+                "Uretrocystoskopi – bedömning av blödningskälla i nedre urinvägar (prostataförstoring/malignitet/blåsstenar)",
+                "DT av urinvägar (med och utan kontrast) – bedömning av blödningskälla i övre urinvägar (malignitet/njurbäckenkonkrement)"
+              ],
+              "facitExplanation": "Uretrocystoskopi av nedre urinvägar (bedömning av blödningskälla i nedre urinvägar – prostataförstoring/malignitet/blåsstenar) (0,5p). Röntgenundersökning för att bedöma blödningskälla i övre urinvägar med visualisering av njurar, njurbäcken och uretärer. Exempel på detta är DT av urinvägar (med och utan kontrast) alternativt primär urografi kompletterat med u-ljud/DT utan kontrast (0,5p).",
+              "tags": ["hematuri", "cystoskopi", "urologisk utredning"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Anders ringer till dig efter två veckor. På grund av ett återbud fick Anders ett snabbt besök på urologen. Anders har därför redan hunnit vara på uretrocystoskopi, där man sett en påtagligt förstorad prostata och plockat bort stenar i urinblåsan.",
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Anders undrar varför man får urinvägskonkrement och vad som kan vara bakomliggande orsaker? Vad svarar du?",
+              "maxPoints": 2.5,
+              "hint": "Förklara mekanism och orsaker",
+              "facit": [
+                "Konkrement bildas genom utfällning av saltkristaller i urinen – antingen för hög koncentration av salter eller för låg koncentration av ämnen som hämmar saltbildning",
+                "Hos de flesta patienter finner man ingen orsak – idiopatisk kalciumstenbildning",
+                "Bakomliggande metabol orsak, ex hyperparathyroidism med förhöjda calciumnivåer",
+                "Ökning av saltnivåer via kosten ex urinsyrestenar (purinintag) / oxalatstenar",
+                "Prostataförstoring kan bidra till ökad risk för urinblåsestenar vid residualurin"
+              ],
+              "facitExplanation": "Konkrement bildas genom utfällning av saltkristaller i urinen antingen genom en för hög koncentration av salter eller en för låg koncentration av ämnen som hämmar saltbildning (0,5p). Hos de flesta patienter finner man ingen orsak, sk idiopatisk kalciumstenbildning (0,5p). En bakomliggande metabol orsak, exempelvis hyperparathyroidism som ger förhöjda nivåer av calcium, kan ge ökad risk för stenbildning (0,5p). Ökning av saltnivåer via kosten ex urinsyrestenar (purinintag)/oxalatstenar (0,5p). Prostataförstoring kan bidra till ökad risk för bildning av urinblåsestenar vid residualurin (0,5p).",
+              "tags": ["njursten", "urinvägskonkrement", "prostataförstoring"]
+            },
+            {
+              "id": "3-5-2",
+              "text": "Vad kan Anders själv göra för att minska risken för urinvägskonkrement i framtiden?",
+              "maxPoints": 1,
+              "hint": "Livsstilsråd",
+              "facit": [
+                "Riklig dryck – eftersträva urinproduktion >2L/dygn",
+                "Undvika viss kost som spenat och rabarber (oxalatstenar)"
+              ],
+              "facitExplanation": "Rekommendationen blir riklig dryck så att Anders eftersträvar en urinproduktion på >2L/dygn (0,5p). Anders bör också undvika viss kost som spenat och rabarber (oxalatstenar) (0,5p).",
+              "tags": ["njursten", "prevention", "livsstilsråd"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Efter cirka 6 veckor får du ett remissvar från urologmottagningen. Datortomografiundersökningen visade normala förhållanden i urinvägarna. Urologen bedömer att Anders episoder med hematuri berodde på urinblåsestenarna och prostataförstoringen. Nivåerna av calcium och urat i blodet var normala. I remissvaret anger urologen att Anders har symtom som är relaterade till prostataförstoring och tidsmiktion cirka 15 sekunder.",
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Vad är tidsmiktion och hur värderar du tiden 15 sekunder?",
+              "maxPoints": 1,
+              "hint": "Definition och tolkning",
+              "facit": [
+                "Tidsmiktion – tiden för tömning av den första decilitern urin",
+                "15 sekunder betyder lätt till måttligt förlängd tidsmiktion"
+              ],
+              "facitExplanation": "Tidsmiktion – tiden för tömning av den första decilitern urin (0,5p). 15 sek betyder lätt till måttligt förlängd tidsmiktion (0,5p).",
+              "tags": ["prostataförstoring", "BPH", "miktionsproblem"]
+            },
+            {
+              "id": "3-6-2",
+              "text": "Med anledning av kombinationen av urinblåsestenar och prostataförstoring kom urologen överens med Anders om att inleda behandling med finasterid. Vad tillhör finasterid för preparatgrupp och genom vilken mekanism minskar preparatet patientens symtom?",
+              "maxPoints": 1.5,
+              "hint": "Preparatgrupp och verkningsmekanism",
+              "facit": [
+                "5-alfa-reduktashämmare",
+                "5-alfareduktas omvandlar normalt testosteron till dihydrotestosteron (DHT)",
+                "Prostatavävnad är beroende av omvandlingen av testosteron till DHT för sin normala funktion och tillväxt",
+                "Hämning av enzymet minskar prostataförstoring med minskade symtom och bättre miktion"
+              ],
+              "facitExplanation": "5-alfa-reduktashämmare (0,5p). 5-alfareduktas omvandlar normalt testosteron till dihydrotestosteron (DHT). Prostatavävnad är beroende av omvandlingen av testosteron till DHT för sin normala funktion och tillväxt (0,5p). Hämning av enzymet minskar prostataförstoring med minskade symtom och bättre miktion (0,5p).",
+              "tags": ["prostataförstoring", "BPH", "finasterid"]
+            },
+            {
+              "id": "3-6-3",
+              "text": "Vilka biverkningar är vanliga med finasterid och kan Anders förvänta sig att de blir permanenta?",
+              "maxPoints": 1,
+              "hint": "Vanliga biverkningar och deras varaktighet",
+              "facit": [
+                "Minskad libido och impotens",
+                "Biverkningarna är som regel övergående för majoriteten av användare"
+              ],
+              "facitExplanation": "Minskad libido och impotens (0,5p). Biverkningarna är som regel övergående för majoriteten av användare (0,5p).",
+              "tags": ["finasterid", "läkemedelsbiverkningar", "BPH"]
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Vid ett återbesök, 3 månader efter att Anders varit hos urologen uppger Anders inga ytterligare episoder med hematuri. Han har lite potensproblem men tycker att det redan börjat bli bättre. Han vill inte ha någon medicin för detta. Han har dock två olika hudförändringar som han vill visa som debuterat de senaste dagarna efter att han kommit hem från en bilresa i Europa. Vid undersökningen noterar du två olika rodnader, värmeökade och ömmande. Anders har temp 37,9 grader. Kapillärt CRP är 42 mg/l.",
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vad är den mest sannolika diagnosen vid denna spridda rodnad medialt på låret där du under rodnaden palperar en avlång ömmande resistens? Hur behandlar du Anders?",
+              "maxPoints": 1,
+              "hint": "Diagnos och behandling",
+              "imageUrl": "/images/exams/2015-11/page27_img1.jpeg",
+              "facit": [
+                "Tromboflebit",
+                "Behandling: lågmolekylärt heparin alternativt NSAID peroralt"
+              ],
+              "facitExplanation": "Tromboflebit (0,5p). Behandling med lågmolekylärt heparin alternativt NSAID peroralt (0,5p). Hirudoidsalva lokalt kan ha viss smärtstillande effekt men har inte kunnat visas bromsa förloppet. Kompressionsstrumpa kan också ha viss symtomlindrande effekt.",
+              "tags": ["tromboflebit", "ventrombos", "huddiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Vid ett återbesök, 3 månader efter att Anders varit hos urologen uppger Anders inga ytterligare episoder med hematuri. Han har lite potensproblem men tycker att det redan börjat bli bättre. Anders har temp 37,9 grader. Kapillärt CRP är 42 mg/l.",
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vad är den mest sannolika diagnosen vid detta ilsket rodnade, men välavgränsade tillstånd. Hur behandlar du Anders?",
+              "maxPoints": 1,
+              "hint": "Diagnos och behandling",
+              "imageUrl": "/images/exams/2015-11/page28_img1.jpeg",
+              "facit": [
+                "Erysipelas",
+                "Behandling: Penicillin V 1g x 3, 10 dagar"
+              ],
+              "facitExplanation": "Erysipelas (0,5p). Penicillin V 1gx3, 10 dagar (0,5p).",
+              "tags": ["erysipelas", "hudinfektioner", "antibiotikabehandling"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatri",
+      "points": 20,
+      "intro": "Patient 1: Kristina 35 år gammal söker dig på vårdcentralen p.g.a. nedstämdhet, ångest och sömnproblem. Hon berättar gråtande att hennes mor dog för fyra månader sedan oväntat i hjärtinfarkt och Kristina har mått mycket sämre sedan dess. Kristina är lärare på grundskolenivå och trivs med sitt arbete. Nu är hon dock mycket orolig över hur hon ska klara jobbet och hon känner sig som en dålig mamma till sina två barn 8 och 10 år gamla.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Ange de fyra viktigaste problemområden som du utifrån den här patientens anamnes måste fråga mer kring.",
+              "maxPoints": 1,
+              "hint": "4 problemområden",
+              "facit": [
+                "Depressionssymtom",
+                "Suicidalitet",
+                "Alkohol (och drog) anamnes",
+                "Socialt (med tanke på barnen)"
+              ],
+              "facitExplanation": "Depressionssymtom, suicidalitet, alkohol (och drog) anamnes, socialt (med tanke på barnen). Ovanstående fyra måste vara med för full poäng. 0,5p avdrag per 1-2 problemområden som ej är med.",
+              "tags": ["depression", "suicidalitet", "psykiatri"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Kristina berättar att hon sedan moderns död ofta har känt sig ledsen, trött och haft svårt att koncentrera sig. Aptiten är som vanligt men sömnen är fragmenterad och det tar en stund innan hon somnar. Hon har sedan tidigare haft ångestattacker men dessa har kommit oftare och blivit värre med hastigt insättande hjärtklappning, andnöd och bröstsmärta. Hon känner ständig oro att drabbas av nya attacker och hon är orolig att hon också har hjärtsjukdom. Socialt har hon ett relativt gott nätverk av vänner och har god kontakt med släktingar. Dock har hon ingen som kan avlasta henne med barnpassning. Barnens far bor utomlands och de har ingen kontakt. Kristinas mamma hade alkoholproblem. Kristinas alkoholkonsumtion har ökat sista månaderna från en halv flaska vin 2-3 ggr i veckan till par glas 4-5 ggr/vecka. Det finns ingen hereditet för suicid. Sammantaget bedömer du suicidrisken som låg.",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Nämn fyra rimliga psykiatriska differentialdiagnoser.",
+              "maxPoints": 2,
+              "hint": "4 diagnoser",
+              "facit": [
+                "Depression",
+                "Generaliserat ångestsyndrom",
+                "Paniksyndrom",
+                "Krisreaktion",
+                "Missbruk av alkohol"
+              ],
+              "facitExplanation": "Depression, generaliserad ångest, paniksyndrom, krisreaktion, missbruk av alkohol.",
+              "tags": ["paniksyndrom", "depression", "ångestsyndrom"]
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vad föreslår du för vidare utredning på vårdcentralen? Motivera dina utredningsförslag.",
+              "maxPoints": 2,
+              "hint": "Utredning med motivering",
+              "facit": [
+                "Psykisk status",
+                "Fler frågor angående symtom på depression, ev. MINI-intervju",
+                "MADRS eller annan skattningsskala för depression",
+                "AUDIT",
+                "Somatiskt status",
+                "Prover (lever, PEth, CDT, TSH, T3, T4, Hb, b-glukos, kreatinin, Na, K, Ca), EKG"
+              ],
+              "facitExplanation": "Psykisk status. Fler frågor angående symtom på depression, ev. MINI-intervju. MADRS eller annan skattningsskala för depression för att få en uppfattning av ev. depressionsdjup – skalan ger dock inte diagnos. AUDIT. Somatiskt status. Prover (lever, PEth, CDT, TSH, T3, T4, Hb, b-glukos, kreatinin, Na, K, Ca). EKG. Om somatiskt status ej med -0,5p. Likaså om thyroideastatus ej med -0,5p. Utredningsförslag 1p. Motivation till förslagen 1p.",
+              "tags": ["depression", "MADRS", "psykiatrisk utredning"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du bedömer att Kristina har ett paniksyndrom och du överväger alkoholmissbruk, krisreaktion, depression och bakomliggande generaliserat ångestsyndrom som tänkbara diagnoser. Kristina berättar att problemet inte är att hon ofta är ledsen utan istället alla hennes ångestattacker. Hon kan känna sig ganska glad när hon är på jobbet och när hon är tillsammans med andra människor. Du utreder Kristina med somatiskt status som är utan anmärkning och du tar EKG och prover för att utesluta bakomliggande somatisk sjukdom. Du låter Kristina fylla i en AUDIT där hon får 11 av 40 poäng. MADRS ger 14 p.",
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Hur värderar du Kristinas alkoholanamnes?",
+              "maxPoints": 1,
+              "hint": "Tolka konsumtionsmönster och AUDIT-poäng",
+              "facit": [
+                "Riskbruk – dricker mer än 9 glas i veckan",
+                "AUDIT-poäng 11 indikerar riskbruk"
+              ],
+              "facitExplanation": "Hon har ett riskbruk då hon sedan tidigare verkar dricka mer än 9 glas i veckan. Även hennes AUDIT-poäng indikerar riskbruk. Riskbruk plus motivation ger 1p.",
+              "tags": ["alkoholriskbruk", "AUDIT", "missbruk"]
+            },
+            {
+              "id": "4-3-2",
+              "text": "Ett av proven du kan ta är PEth, vad är det man mäter genom provet?",
+              "maxPoints": 1,
+              "hint": "Vad är PEth och vad mäter det?",
+              "facit": [
+                "PEth (fosfatidyletanol) är en fosfolipid som bara bildas i närvaro av etanol",
+                "Utmärkt markör för att mäta konsumtion av alkohol",
+                "En enstaka berusning ger ingen förhöjning – stiger vid regelbundet intag"
+              ],
+              "facitExplanation": "PEth – fosfatidyletanol är en fosfolipid som inte förekommer i kroppen normalt utan bara bildas i närvaro av etanol. Detta gör den till en utmärkt markör för att mäta konsumtion av alkohol. En enstaka berusning ger ingen förhöjning av PEth, men vid regelbundet intag av alkohol stiger mätvärdet med ökande konsumtion.",
+              "tags": ["alkoholriskbruk", "PEth", "biomarkörer"]
+            },
+            {
+              "id": "4-3-3",
+              "text": "Hur förklarar du kort och lättförståeligt vad panikångest är för Kristina och vad föreslår du för icke farmakologisk behandling?",
+              "maxPoints": 1,
+              "hint": "Patientförklaring + icke-farmakologisk behandling",
+              "facit": [
+                "Förklaring som involverar stressystemet samt att det är ofarligt",
+                "KBT (kognitiv beteendeterapi) – mycket god evidensstyrka för paniksyndrom"
+              ],
+              "facitExplanation": "Förklaring som involverar stressystemet samt att det är ofarligt ger poäng. Rekommendera KBT (mycket god evidensstyrka för paniksyndrom). 0,5p för förklaringen och 0,5p för behandlingsförslag.",
+              "tags": ["paniksyndrom", "KBT", "psykoterapi"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Du bedömer att Kristina har ett paniksyndrom och ett riskbruk av alkohol. Kristina undrar om det finns medicin som kan hjälpa henne.",
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vad skulle du föreslå för farmakologisk behandling i första hand? Beskriv verkningsmekanismen?",
+              "maxPoints": 1,
+              "hint": "Förstahandsval och verkningsmekanism",
+              "facit": [
+                "SSRI – sertralin är förstahandsvalet för panikångestsyndrom",
+                "Verkningsmekanism: serotoninåterupptagshämmare"
+              ],
+              "facitExplanation": "SSRI där sertralin är förstahandsvalet för panikångestsyndrom. Verkningsmekanism: Serotoninåterupptagshämmare. Det är inte fel att ge vid behovs medicinering med icke beroendeframkallande läkemedel såsom prometazin, hydroxizin eller alimemazin och sömnstöd med samma typ av läkemedel inkl. propiomazin. Bensodiazepiner och dess derivat i form av insomningsmedicin ger inte poäng då det är olämpligt utifrån Kristinas alkoholvanor.",
+              "tags": ["paniksyndrom", "SSRI", "psykofarmakologi"]
+            },
+            {
+              "id": "4-4-2",
+              "text": "Ange en icke-farmakologisk intervention som är lämplig att arbeta med vid riskbruk av alkohol.",
+              "maxPoints": 1,
+              "hint": "Icke-farmakologisk metod vid riskbruk",
+              "facit": [
+                "Motiverande samtal (MI)",
+                "Patientcentrerad intervention vid riskbruk",
+                "FRAMES",
+                "KBT"
+              ],
+              "facitExplanation": "Motiverande samtal (MI), patientcentrerad intervention vid riskbruk, FRAMES, KBT. Beskrivning av metod utan att den måste ha ett specifikt namn. Centrala aspekter är empatiskt bemötande, icke konfrontativt förhållningssätt, inventera patientens föreställningar om möjliga orsaker till hälsoproblem, introducera alkohol som en orsak, tillsammans diskutera igenom lämpliga mål. Om bara psykoterapi anges som svar på frågan ges endast 0,5p.",
+              "tags": ["alkoholriskbruk", "motiverande samtal", "KBT"]
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Du bedömer att Kristina kan ha nytta av läkemedel mot sina besvär och ni påbörjar behandling med sertralin i upptrappningsdos och hon får prova hydroxizin mot ångest och för att sova bättre. Vidare erbjuder du internremiss till vårdcentralens psykolog för KBT-behandling för hennes paniksyndrom. Ni kommer överens om halvtidssjukskrivning. Ni bokar in en tid för uppföljning om fyra veckor.",
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vilka är de 4 viktigaste frågorna du måste ställa till patienten i samband med återbesök?",
+              "maxPoints": 1,
+              "hint": "4 viktiga uppföljningsfrågor",
+              "facit": [
+                "Biverkningar?",
+                "Effekt?",
+                "Suicidalitet?",
+                "Alkoholkonsumtion?"
+              ],
+              "facitExplanation": "Biverkningar? Effekt? Suicidalitet? Alkoholkonsumtion? Alla ska vara med för 1 poäng. Om ej alla med ge endast 0,5p.",
+              "tags": ["paniksyndrom", "SSRI", "uppföljning"]
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Patient 2: Du arbetar som legitimerad läkare på en psykiatrisk akutmottagning där du träffar patienten Sven. Han har påträffats då han gått längs med kanten till en större landsväg. Han är för årstiden tunt klädd och kan inte uppge sitt hela namn eller personnummer, eller var han bor. Han ser ut att vara i 70-årsåldern. Man har rapporterat att Sven inte ter sig helt adekvat. Han är tystlåten och verkar trött, men har stilla accepterat att följa med till akuten. Sven har ingen plånbok eller legitimation med sig.",
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Nämn tre viktiga åtgärder som du som legitimerad läkare på en psykiatrisk akutmottagning behöver säkerställa att de utförs för att patienten ska få adekvat vård.",
+              "maxPoints": 3,
+              "hint": "3 viktiga åtgärder",
+              "facit": [
+                "Se till att patienten identifieras – i detta fall lämpligen genom kontakt med polismyndigheten",
+                "Undersökning av patienten med fullständigt somatiskt status och beställning av relevanta labprover (blodstatus, inflammationsmarkörer, blodsocker, leverstatus, u-sticka, u-tox)",
+                "Lägger in patienten för sluten vård (somatisk eller psykiatrisk vård)"
+              ],
+              "facitExplanation": "Se till att patienten identifieras. I detta fall lämpligen genom kontakt med polismyndigheten vars skyldighet det är att bistå i dylika frågor (1p). Undersökning av patienten med fullständigt somatiskt status och beställning av relevanta labprover (blodstatus, inflammationsmarkörer, blodsocker, leverstatus, u-sticka, u-tox) (1p). Lägger in patienten för sluten vård. Både inläggning på somatisk eller psykiatrisk vård ger rätt (1p).",
+              "tags": ["konfusion", "psykiatri", "akutmedicin"]
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Du kontaktar polismyndigheten på orten för att få hjälp med att identifiera Sven. Du gör en fullständig somatisk undersökning och noterar att Svens allmäntillstånd är gott även om han verkar trött och tagen. Hjärt-lungstatus är utan anmärkning. Du noterar att han ter sig desorienterad, att han rör sig långsamt samt uppvisar en uttalad dysmetri vid finger-näs-testet. Du vill lägga in Sven och väljer att inte skriva ett vårdintyg då Sven inte motsätter sig vården. Du kontaktar jouren på medicinakuten och skriver remiss för DT-hjärna. Ni kommer överens om att Sven överflyttas till medicinakuten. Senare under kvällen ringer medicinjouren tillbaks till dig. Sven har blivit mer orolig under natten. Man tror att han hallucinerar då han pratar om 'små elaka gubbar'. Han går gång på gång ut i korridoren. Medicinjouren undrar om man kan 'ge honom något så att han blir lugn'.",
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vad ger du medicinjouren för råd för att behandla hans oro? Nämn tre olika behandlingsalternativ. Beskriv för- och nackdelar med de olika alternativen.",
+              "maxPoints": 3,
+              "hint": "3 behandlingsalternativ med för- och nackdelar",
+              "facit": [
+                "Icke-farmakologiskt: trygg och säker miljö, tända nattlampa, öka tillsynen – kan ofta undvika farmakologisk behandling",
+                "Bensodiazepiner (ex oxazepam): god ångestdämpande effekt, men kan öka konfusionen och oron hos äldre samt öka fallrisken",
+                "Antikolinergika (ex alimemazin/Theralen, prometazin/Lergigan): antikolinerg biverkningsprofil gör dem mindre lämpliga hos äldre med konfusion",
+                "Neuroleptika: kan övervägas men bör ses som sekundärt alternativ – orsaken till konfusionen är okänd och kan förvärras av antipsykotika"
+              ],
+              "facitExplanation": "Det viktigaste är att skapa en trygg och säker miljö för patienten, exempelvis genom att tända en nattlampa och ha ökad tillsyn. Då kan man ofta undvika farmakologisk behandling helt (1p). Farmakologisk behandling: Anxiolytika ur gruppen benzodiazepiner kan användas med god effekt på ångesten men risken är att de ökar konfusionen och oron ökar. Även fallrisken kan öka. Liknande resonemang premieras för anxiolytika med antikolinerg profil. Neuroleptika kan komma ifråga men man behöver beakta att orsaken till Svens konfusion fortfarande är okänd och kan förvärras av vissa antipsykotiska läkemedel. Förslag från två olika preparatgrupper med beskrivna för och nackdelar (2p).",
+              "tags": ["konfusion", "demens", "psykofarmakologi"]
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Påföljande dag arbetar du på en vårdavdelning. Sven har under tiden varit inlagd på MAVA, genomgått EKG och labdiagnostik som varit väsentligen ua. DT-hjärna visade inte några tecken till tumör eller stroke men väl en kortikal atrofi och förstorade ventriklar. Man har fortfarande inte lyckats identifiera honom. Eftersom man inte hittat någon underliggande somatisk orsak som kunnat förklara hans beteende kommer han nu till din avdelning för fortsatt sluten vård. Du pratar med Sven som är lugn och stillsam under samtalet men han är fortfarande desorienterad och perplex. Psykiskt status: Vaken men ej helt klar. Desorienterad till samtliga modaliteter. Avvikande formell kontakt då han är kortfattad och tystlåten. Flack emotionell kontakt. Förlångsammad psykomotorik och stel mimik. Ter sig eutym. Ger inte uttryck för ledsnad eller ångest. Hallucinerar. Berättar om 'små elaka gubbar'. Vare sig bekräftar eller förnekar suicidtankar.",
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Nämn de två viktigaste differentialdiagnoserna med olika genes som kan komma ifråga? Motivera ditt svar.",
+              "maxPoints": 2,
+              "hint": "2 diagnoser med motivering",
+              "facit": [
+                "Demenssjukdom – kortikal atrofi och förstorade ventriklar på DT, desorientering, hallucinationer och psykomotorik",
+                "Organisk konfusion – okänd bakomliggande somatisk orsak, akut debut av förvirring och hallucinationer",
+                "Psykossjukdom"
+              ],
+              "facitExplanation": "Demenssjukdomar med motivation (1p), organisk konfusion med motivation (1p). Psykossjukdomar inklusive motivation (0,5p).",
+              "tags": ["demens", "konfusion", "differentialdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Ni blir avbrutna av en sköterska som kommer in och berättar att polisen har identifierat Sven. Han bor på ett demensboende. Boendepersonal och anhöriga är på väg till avdelningen. Sven har en känd långt gången demens av Lewy-Body-typ.",
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Finns det någon behandling som kan vara mindre lämplig för en patient med Lewy-body-demens och varför?",
+              "maxPoints": 1,
+              "hint": "Specifik behandlingskänslighet vid Lewy-body-demens",
+              "facit": [
+                "Antipsykotiska läkemedel är kontraindicerade/bör undvikas",
+                "Patienter med Lewy-body-demens är speciellt känsliga för antipsykotika – risk för malignt neuroleptikasyndrom med potentiellt dödlig utgång"
+              ],
+              "facitExplanation": "Resonemanget bör innehålla att dessa patienter är speciellt känsliga för antipsykotiska läkemedel. Deras symtom förvärras ofta och risken att man utlöser ett malignt neuroleptikasyndrom med potentiellt dödlig utgång är förhöjd.",
+              "tags": ["Lewy body-demens", "demens", "antipsykotika"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

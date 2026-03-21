@@ -1,0 +1,870 @@
+{
+  "id": "2015-02",
+  "title": "AT-prov februari 2015",
+  "date": "2015-02-27",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Allmänmedicin",
+      "points": 20,
+      "intro": "En 63-årig gift man söker dig för på vårdcentralen för ständig molande värk djupt inne i magen som kommit successivt sista månaderna. Ibland även lite uppspänd mage och gaser. Han kontrolleras regelbundet på neurologmottagningen för epilepsi. Han har varit anfallsfri under många år med behandling med Fenantoin (fenytoin).",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Hur vill du komplettera anamnesen? Nämn fyra relevanta frågeställningar och motivera varför.",
+              "maxPoints": 2,
+              "hint": "Nämn fyra relevanta frågeställningar",
+              "facit": [
+                "Viktnedgång – kan tyda på malignitet",
+                "Hereditet – familjär förekomst av GI-cancer eller annan sjukdom",
+                "Blod i avföring – tecken på GI-blödning eller malignitet",
+                "Korrelation till måltid – kan tyda på ulcus eller gallstensbesvär",
+                "Ändrade avföringsvanor – kan tyda på kolorektal cancer eller IBS",
+                "Miktionsbesvär – kan tyda på prostataproblem hos denna man",
+                "Kostvanor",
+                "Socialt (alkohol, tobak)"
+              ],
+              "facitExplanation": "Viktnedgång, hereditet, blod i avföring, korrelation till måltid, ändrade avföringsvanor, miktionsbesvär, kostvanor, socialt, alkohol, tobak.",
+              "tags": ["anamnes", "buksmärta", "differentialdiagnoser", "epilepsi"]
+            },
+            {
+              "id": "1-1-2",
+              "text": "Vad kan förklara symtomen? Ange fyra möjliga diagnoser.",
+              "maxPoints": 2,
+              "hint": "Ange fyra möjliga diagnoser",
+              "facit": [
+                "IBS (irritabelt tarmsyndrom)",
+                "Ulcus (magsår/duodenalsår)",
+                "Aortaaneurysm",
+                "Cancer i buken (ventrikelcancer, pankreascancer, koloncancer, metastaser)",
+                "Dyspepsi",
+                "Pankreasinsufficiens",
+                "Födoämnesintolerans"
+              ],
+              "facitExplanation": "IBS, ulcus, aortaaneurysm, cancer i buken (ventrikelcancer, pancreascancer, coloncancer, metastaser), dyspepsi, pankreasinsuff, födoämnesintolerans.",
+              "tags": ["differentialdiagnoser", "buksmärta", "kolorektalcancer", "pankreatit"]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Han berättar att han inte varit utomlands och att han inte har märkt viktnedgång illamående eller kräkningar. Inga ändrade avföringsvanor. Ibland lite lösare och ibland lite hårdare mage. I status noterar du: Allmäntillstånd opåverkat, Lungor auskulteras utan anmärkning, Hjärta regelbunden rytm frekvens 80 slag per minut, Blodtryck 135/85 mmHg, Buken palperas mjuk och oöm utan resistenser, Per rektum utan anmärkning.",
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilka laboratorieprov finns det anledning att kontrollera och motivera varför? Nämn fyra.",
+              "maxPoints": 1,
+              "hint": "Nämn fyra",
+              "facit": [
+                "Leverprover (ALAT, ALP, γGT) – för att utesluta leversjukdom/gallvägssjukdom",
+                "Hb (hemoglobin) – för att utesluta anemi/GI-blödning",
+                "F-Hb (fekalt hemoglobin) – för att utesluta dolt blod i avföring",
+                "P-glukos – för att kontrollera diabetesstatus (patienten har epilepsibehandling som kan påverka metabolismen)"
+              ],
+              "facitExplanation": "Leverprover (ALAT, ALP, γGT), Hb, F-Hb, Pglukos.",
+              "tags": ["provtagning", "leversjukdom", "anemi", "buksmärta"]
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Laboratorieproverna visade Hb 140 g/l (ref 134–170 g/L), ALAT 0.7 µkat/L (ref < 1,10 µkat/L), ALP 6.0 µkat/L (ref 0,6–1,8 µkat/L), P glukos 5.8 (ref 4,0–6,0 mmol/L), F-Hb x 3 neg.",
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Nämn tre förklaringar till det förhöjda laboratorievärdet och motivera varför.",
+              "maxPoints": 1.5,
+              "hint": "Nämn tre förklaringar",
+              "facit": [
+                "Levercancer/leversjukdom – ALP är ett leverenzym som stiger vid leverpatologi",
+                "Skelettsjukdom – skelett-ALP kan stiga vid skelettmetastaser, Pagets sjukdom, osteomalaci eller fraktur",
+                "Läkemedelsbiverkan – fenytoin (Fenantoin) kan ge förhöjt ALP"
+              ],
+              "facitExplanation": "Levercancer/leversjukdom, skelettsjukdom, läkemedelsbiverkan. Det förhöjda värdet avser ALP 6.0 µkat/L (referens 0,6–1,8 µkat/L). Vanliga förklaringar till förhöjda levervärden.",
+              "tags": ["leversjukdom", "skelettmetastaser", "läkemedelsbiverkan", "epilepsi"]
+            },
+            {
+              "id": "1-3-2",
+              "text": "Vilken ytterligare undersökning vill du remittera patienten till? Motivera.",
+              "maxPoints": 1,
+              "facit": [
+                "Ultraljud lever och gallvägar (eventuellt DT buk) – ultraljud kan påvisa eventuella förändringar i lever, gallvägar, pankreas, stas i gallvägar med mera"
+              ],
+              "facitExplanation": "Ultraljud lever gallvägar (ev CT buk). Ultraljud kan påvisa ev förändringar i lever gallvägar pankreas, stas i gallvägar mm.",
+              "tags": ["leversjukdom", "bilddiagnostik", "gallstenssjukdom"]
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Ultraljud lever gallvägar visar normala gallgångar utan fokala förändringar i levern, njurar eller pankreas. Omkontroll av levervärdena visar ASAT 0.7 µkat/L (ref 0,20–0,80 µkat/L), ALAT 0.8 µkat/L (ref < 1,10 µkat/L), ALP 6.5 µkat/L (ref 0,6–1,8 µkat/L), γGT 1,2 (ref 0,2–1,9 µkat/L), S-bilirubin 12 µmol/L (ref <26 µmol/L).",
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Ange en rimlig förklaring till det förhöjda blodprovet och motivera varför.",
+              "maxPoints": 1,
+              "facit": [
+                "Skelettsjukdom istället för leversjukdom – att övriga leverprover (ASAT, ALAT, γGT, bilirubin) är normala talar för att ALP-stegringen har annat ursprung än levern, troligtvis skelett"
+              ],
+              "facitExplanation": "Kan vara skelettsjukdom istället för leversjukdom. Att övriga leverprover är normala talar för att ALP-stegringen har annat ursprung än i levern.",
+              "tags": ["skelettmetastaser", "differentialdiagnoser", "provtagning"]
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du misstänker att patienten kanske har skelettmetastaser.",
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Med vilket blodprov kan denna misstanke utredas vidare?",
+              "maxPoints": 1,
+              "facit": [
+                "ALP isoenzymer – kan vid osäkerhet avgöra om förhöjt ALP utgörs av lever-, skelett-, tarm- eller gallvägs-isoenzym"
+              ],
+              "facitExplanation": "ALP isoenzymer. Kan vid osäkerhet avgöra om förhöjt ALP utgörs av lever-, skelett-, tarm- eller gallvägs-isoenzym.",
+              "tags": ["skelettmetastaser", "provtagning", "cancerdiagnostik"]
+            },
+            {
+              "id": "1-5-2",
+              "text": "Vilket organ kan i första hand misstänkas som ursprung till metastaser i skelett?",
+              "maxPoints": 1,
+              "facit": [
+                "Prostata – hos en man är prostatacancer den vanligaste orsaken till skelettmetastaser"
+              ],
+              "facitExplanation": "Prostata. Majoriteten av alla skelettmetastaser hos män utgår från prostatacancer.",
+              "tags": ["prostatacancer", "skelettmetastaser", "cancerdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "ALP isoenzymer visade förhöjt skelett-ALP.",
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilka sjukdomar skulle kunna förklara det patologiska provsvaren?",
+              "maxPoints": 2,
+              "facit": [
+                "Skelettcancer eller metastaser från exempelvis prostatacancer",
+                "Bröstcancer (hos kvinnor) – vanlig källa till skelettmetastaser",
+                "Lungcancer – vanlig källa till skelettmetastaser",
+                "Njurcancer – vanlig källa till skelettmetastaser",
+                "Myelom (multipelt myelom)",
+                "Osteomalaci",
+                "Eventuellt fraktur"
+              ],
+              "facitExplanation": "Skelettcancer/metastaser från exempelvis prostatacancer. Majoriteten av alla skelettmetastaser utgår från bröst- (kvinnor), prostata (män)-, lung- eller njurcancer. Myelom, osteomalaci, ev fraktur.",
+              "tags": ["skelettmetastaser", "prostatacancer", "differentialdiagnoser", "osteomalaci"]
+            },
+            {
+              "id": "1-6-2",
+              "text": "Ge förslag till ytterligare utredning av de patologiska laboratorieanalyserna.",
+              "maxPoints": 2,
+              "facit": [
+                "Skelettscintigrafi – för att kartlägga eventuella skelettmetastaser",
+                "PSA (prostataspecifikt antigen) – för att utreda prostatacancer",
+                "S-Ca (serumkalcium) – kan vara förhöjt vid skelettmetastaser",
+                "Röntgen ländrygg – för att påvisa skelettförändringar",
+                "MR (magnetresonanstomografi) – för att bättre karakterisera skelettförändringar"
+              ],
+              "facitExplanation": "Skelettscintigrafi, PSA, ev även S-Ca, rtg ländrygg, MR.",
+              "tags": ["prostatacancer", "skelettmetastaser", "bilddiagnostik", "cancerdiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Utredning med skelettscintigrafi visade ökat upptag i avgränsade områden i ländryggen och bäcken med utseende som skelettmetastaser. PSA var förhöjt. Fynden tyder på skelettmetastaser som kan härröra från prostatacancer. När patienten är på väg att lämna undersökningsrummet efter läkarbesöket vill han fråga dig en annan sak. Han har sedan lång tid haft flera knappt 1 cm stora mörka hudförändringar på bröstet och ryggen. Dessutom några ljusa skorviga hudförändringar på huvudet och på pannan. De besvärar honom inte, men hans hustru har påpekat för honom att han borde visa dem för en doktor.",
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Ange diagnos och förslag på behandling. (Bild 1: mörk, tjock, vårtig hudförändring)",
+              "maxPoints": 1,
+              "facit": [
+                "Diagnos: Seborroisk keratos",
+                "Behandling: Benignt och kan lämnas obehandlad"
+              ],
+              "facitExplanation": "Seborroisk keratos. Benignt och kan lämnas obehandlad.",
+              "imageUrl": "/images/exams/2015-02/hudlesion-1.jpeg",
+              "tags": ["huddiagnostik", "seborroisk keratos", "dermatologi"]
+            },
+            {
+              "id": "1-7-2",
+              "text": "Ange diagnos och förslag på behandling. (Bild 2: mörk oregelbunden pigmenterad hudförändring)",
+              "maxPoints": 1,
+              "facit": [
+                "Diagnos: Malignt melanom",
+                "Behandling: Måste excideras (skärs bort)"
+              ],
+              "facitExplanation": "Malignt melanom. Måste excideras.",
+              "imageUrl": "/images/exams/2015-02/hudlesion-2.jpeg",
+              "tags": ["malignt melanom", "dermatologi", "hudcancer"]
+            },
+            {
+              "id": "1-7-3",
+              "text": "Ange diagnos och förslag på behandling. (Bild 3: ljusa, rodnade, fjällande hudförändringar på huvud/panna)",
+              "maxPoints": 1,
+              "facit": [
+                "Diagnos: Aktinisk keratos",
+                "Behandling: Kan behandlas med t.ex. Imiquimod/Aldara kräm"
+              ],
+              "facitExplanation": "Aktinisk keratos. Är ytliga solskador i huden som är mycket tidiga förstadier till skivepitelcancer. Kan behandlas med t ex Imiquimod/Aldara kräm.",
+              "imageUrl": "/images/exams/2015-02/hudlesion-3.jpeg",
+              "tags": ["aktinisk keratos", "dermatologi", "hudcancer"]
+            },
+            {
+              "id": "1-7-4",
+              "text": "Vilka kriterier använder du för att avgöra vilken pigmenterad hudförändring som bör tas bort?",
+              "maxPoints": 2.5,
+              "facit": [
+                "A – Asymmetri (asymmetrisk form)",
+                "B – Border (oregelbunden kant)",
+                "C – Colour/Färgvariation (ojämn pigmentering, flera färger)",
+                "D – Diameter (ofta >6 mm)",
+                "E – Evolution (förändring över tid, tillväxt, förändrat utseende)"
+              ],
+              "facitExplanation": "ABCDE-kriterierna: Asymmetri, Border (oregelbunden kant), Färgvariation, Diameter (ofta >6mm), Evolution (förändring över tid).",
+              "tags": ["malignt melanom", "huddiagnostik", "dermatologi"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatri",
+      "points": 20,
+      "intro": "Fall 2 består av två delar (A och B) med olika patienter på en psykiatrisk akutmottagning.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": "A. Du tjänstgör på ett sommarvikariat efter din AT-tjänstgöring som legitimerad läkare på den psykiatriska akutmottagningen en lördag. Din nästa patient är Lasse, en 53-årig man som inte varit på akutmottagningen tidigare. Han saknar aktuell eller tidigare psykiatrisk kontakt. Lasse kom med ambulans och sitter på britsen när du träffar honom. Ambulanssjuksköterskan berättar att frun ringt ambulans då hon upplevde att Lasse varit förvirrad under dagen. Vid undersökning under transporten hade Lasse 123 i puls per minut, blodtryck 175/110 mmHg och SaO₂ på 95%. På akutmottagningen blåser Lasse 0,2 promille i alkometern. Han är tremorös och rödbrusig.",
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Nämn 4 viktiga upplysningar du måste penetrera i anamnesen?",
+              "maxPoints": 2,
+              "hint": "Nämn 4 viktiga upplysningar",
+              "facit": [
+                "Alkoholanamnes/intag – mängd, duration och senaste intag för att bedöma abstinensrisk",
+                "Annat missbruk – blandmissbruk ökar risk för komplicerad abstinens",
+                "Somatiska sjukdomar, speciellt tidigare abstinenskramper och delirium tremens – riskbedömning",
+                "Aktuellt trauma – förvirring kan ha traumatisk orsak",
+                "Aktuella läkemedel – interaktioner och underliggande sjukdomar"
+              ],
+              "facitExplanation": "Alkoholanamnes/intag, annat missbruk, somatiska sjukdomar (speciellt tidigare abstinenskramper och delirium tremens), aktuellt trauma, aktuella läkemedel.",
+              "tags": ["alkoholmissbruk", "abstinens", "anamnes", "delirium"]
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "På akutmottagningen blåser Lasse 0,2 promille. Vid undersökning är neurologstatus normalt och pulsen ligger runt 120 slag per minut, blodtrycket är nu 160/110 mmHg och Lasse är fortfarande tremorös. Lasse ter sig förvirrad och har svårt ge en sammanhängande anamnes, han undrar varför det kryper myror på väggarna. Han berättar att han \"dricker för mycket\" utan att specificera detta närmare. Han förnekar trauma och har inga yttre skador på kroppen. I journalen noterar du att Lasse har enalapril förskrivet.",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vad misstänker du primärt för tillstånd?",
+              "maxPoints": 1,
+              "facit": [
+                "Alkoholabstinens med begynnande delirium tremens – klinisk bild med tremor, takykardi, hypertoni, förvirring och synhallucinationer (myror på väggarna) hos alkoholmissbrukare med lågt promille"
+              ],
+              "facitExplanation": "Med tanke på den kliniska bilden bör du misstänka att Lasse har alkoholabstinens och håller på att utveckla ett delirium tremens tillstånd.",
+              "tags": ["alkoholmissbruk", "delirium", "abstinens"]
+            },
+            {
+              "id": "2-2-2",
+              "text": "Sjuksköterskan frågar vad du nu skall ge Lasse för läkemedelsbehandling. Vad svarar du? Motivera dina ordinationer.",
+              "maxPoints": 3,
+              "facit": [
+                "Bensodiazepiner – t.ex. Stesolid (diazepam) eller Oxascand (oxazepam), alternativt Heminevrin (klometiazol) – för att behandla abstinens och minska kramprisk",
+                "Antipsykotika – t.ex. Haldol (haloperidol) – mot de psykotiska symtomen (synhallucinationer). OBS: neuroleptika kan sänka kramptröskeln",
+                "Betabion (Tiamin/vitamin B1) intramuskulärt alternativt Neurobion (vit B1+B6+B12) – för att förhindra neurologiska komplikationer, framför allt Wernicke-Korsakoffs syndrom"
+              ],
+              "facitExplanation": "Lasse lider av komplicerad abstinens med begynnande delirium tremens. Omedelbart påbörja behandling med benzodiazepiner (Stesolid/diazepam eller Oxascand/oxazepam, alternativt Heminevrin/klometiazol). Eftersom han har psykotiska symptom (synhallucinationer) bör man även lägga till antipsykotisk medicin (Haldol/haloperidol). Tänk på att neuroleptika kan sänka kramptröskeln. Betabion (Tiamin vit B1) intramuskulärt alternativt Neurobion (vit B1+B6+B12) för att förhindra risken för neurologiska komplikationer (Wernicke-Korsakoff).",
+              "tags": ["abstinens", "delirium", "alkoholmissbruk", "läkemedelsbehandling"]
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du bedömer att Lasse lider av avancerad alkoholabstinens och begynnande delirium tremens. Du ordinerar långsamt 20 mg Stesolid (diazepam) och 5 mg Haldol (haloperidol) intravenöst samt 100 mg Betabion (vit B1) intramuskulärt. 10 minuter senare sover Lasse oroligt på undersökningsrummet på akutmottagningen.",
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Nämn 4 viktiga faktorer som ökar risken för utveckling av komplicerad alkoholabstinens/delirium tremens?",
+              "maxPoints": 2,
+              "hint": "Nämn 4 faktorer",
+              "facit": [
+                "Takykardi >120/min",
+                "Tidigare abstinenskramper eller delirium tremens",
+                "Högt och långvarigt alkoholintag (t.ex. 70 cl sprit/dag i 2 veckor)",
+                "Dåligt näringsstatus",
+                "Aktuell infektion",
+                "Aktuellt trauma",
+                "Blandmissbruk"
+              ],
+              "facitExplanation": "Takykardi >120/min, tidigare abstinenskramper/delirium tremens, högt och långvarigt alkoholintag (70cl sprit/dag i 2 veckor), dåligt näringsstatus, aktuell infektion, trauma, blandmissbruk.",
+              "tags": ["alkoholmissbruk", "abstinens", "delirium", "riskfaktorer"]
+            },
+            {
+              "id": "2-3-2",
+              "text": "Redogör kortfattat för din vidare handläggning av Lasse och motivera dina åtgärder.",
+              "maxPoints": 2,
+              "facit": [
+                "Stäm av handläggningen med överläkare om inte redan gjort",
+                "Inläggning på grund av det allvarliga tillståndet",
+                "Regelbunden kontroll av puls, blodtryck, SaO₂ och vakenhetsgrad för att utvärdera given behandling",
+                "Ordinera regelbunden Betabion för att förebygga neurologiska skador",
+                "Ordinera Stesolid (diazepam) och eventuellt Haldol (haloperidol) mot hallucinationerna vid behov",
+                "Hålla Lasse sederad för att förhindra förvärring av tillståndet"
+              ],
+              "facitExplanation": "Om inte redan gjort stäm av handläggningen med överläkare, inläggning p.g.a. det allvarliga tillståndet. Regelbunden kontroll av puls/blodtryck/SaO₂ och Lasses vakenhetsgrad för att utvärdera given behandling. Ordinera regelbunden Betabion samt Stesolid (diazepam) och eventuellt Haldol (haloperidol) mot hallucinationerna eller annat lämpligt preparat vid behov. Håll Lasse sederad för att förhindra förvärring.",
+              "tags": ["alkoholmissbruk", "abstinens", "delirium", "akut handläggning"]
+            },
+            {
+              "id": "2-3-3",
+              "text": "Wernicke-Korsakoffs syndrom är ett tillstånd som drabbar alkoholister. Vad orsakar detta tillstånd?",
+              "maxPoints": 2,
+              "facit": [
+                "Tiaminbrist (vitamin B₁) i kombination med malabsorption och malnutrition eller annan nutritionsstörning",
+                "Tillståndet kännetecknas av desorientering, konfabulering, ataxi, psykotiska symtom och minnesstörningar"
+              ],
+              "facitExplanation": "Tiaminbrist (vitamin B₁) i kombination med malabsorption och malnutrition eller annan nutritionsstörning. Tillståndet kännetecknas av desorientering, konfabulering, psykotiska symtom och minnesstörningar.",
+              "tags": ["alkoholmissbruk", "Wernicke-Korsakoff", "vitaminbrist", "neurologi"]
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Lasse blir inlagd på akutvårdsavdelningen efter avstämning med din överläkare. Han sover fortfarande oroligt. Du ordinerar kontroll av blodtryck, puls samt syremättnad. Pulsen har vid ankomst till avdelningen sjunkit till 100 slag/minut och blodtrycket är 155/100 mmHg. SaO₂ är 94%. Du ordinerar regelbunden kontroll av vitalparametrar samt Betabion (vit B1) och Stesolid (diazepam) för att hålla Lasse sederad.",
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Efter 90 minuter ringer sjuksköterskan på avdelningen. Hon frågar om Lasse skall ha Tegretol (karbamazepin) insatt för att förhindra utveckling av abstinenskramper? Vad svarar du? Motivera ditt svar.",
+              "maxPoints": 2,
+              "facit": [
+                "Nej – tillägg av karbamazepin är inte indicerat",
+                "Bensodiazepiner som Lasse redan har insatt minskar risken för utveckling av abstinenskramper",
+                "Tillägg av antiepileptiskt läkemedel utöver bensodiazepiner ger ingen ytterligare minskning av kramprisk hos Lasse"
+              ],
+              "facitExplanation": "Nej. Bensodiazepiner som Lasse har insatt minskar risken för utveckling av abstinenskramper. Tillägg av antiepileptiskt läkemedel utöver detta ger ingen ytterligare minskning av risken för kramper hos Lasse.",
+              "tags": ["alkoholmissbruk", "abstinens", "antiepileptika", "läkemedelsbehandling"]
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "B. Du arbetar som legitimerad jourläkare på den psykiatriska akutmottagningen en lördag när polisen kommer med en kvinna. Lena är född 1989 och kommer med en polispatrull. Från en av poliserna får du rapport om att kvinnan är omhändertagen enligt §47 LPT (Lagen om psykiatrisk tvångsvård). Allmänheten hade larmat då Lena sågs balansera på ett broräcke och patrullen var snabbt på plats. I journalen noterar du att Lena är välkänd inom psykiatrin och har flera vårdtillfällen på ett grannsjukhus. Under bedömningssamtalet är Lena mycket nedstämd, hon är fåordig men beskriver självmordstankar, planer och försämrat mående senaste tiden. Vitalparametrar är stabila. Lena berättar plötsligt att hon även intagit cirka 30 tabletter med paracetamol 500 mg för någon timme sedan. Hon vill inte stanna kvar på sjukhuset utan insisterar på att åka hem till sin katt.",
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vad behöver du nu göra omgående? Motivera dina åtgärder.",
+              "maxPoints": 4,
+              "facit": [
+                "Utfärda vårdintyg enligt §4 LPT och fatta kvarhållningsbeslut – på grund av patientens allvarliga psykiska störning, suicidrisk och vägran av vård",
+                "Ordinera extravak – då det finns risk för förnyat suicidalt utspel och att patienten avviker från sjukhuset",
+                "Informera din överläkare/bakjour för att stämma av handläggningen, eventuellt för att fatta §6b LPT-beslut om intagning",
+                "Omedelbart överföra till medicinklinik för somatisk behandling av paracetamolintoxikation",
+                "Aktivt kol och/eller ventrikelsköljning",
+                "Ta intoxprover (S-paracetamol)",
+                "Sätta in acetylcysteinbehandling vid höga S-paracetamolprover för att förhindra leverskador (>7,5 g paracetamol innebär risk för leverskada, potentiellt letal dos >15 g)"
+              ],
+              "facitExplanation": "Vårdintyg bör utföras enligt §4 LPT och kvarhållningsbeslut fattas p.g.a. patientens allvarliga psykiska störning, suicidrisk och vägran av vård. Extravak bör övervägas. Informera överläkare. Överföring till medicinklinik. Kol/ventrikelsköljning. Intoxprover. Acetylcysteinbehandling måste sättas in vid höga s-paracetamolprover för att förhindra leverskador.",
+              "tags": ["suicidrisk", "LPT", "förgiftning", "depression"]
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du ringer omgående din kollega på medicinakuten och rapporterar över din patient samt informerar din bakjour. Du utfärdar ett vårdintyg enligt §4 LPT och fattar kvarhållningsbeslut. Lena vårdas nu på medicinkliniken. Lena har ventrikelsköljts och intoxprover tagits. Din bakjour har fattat intagningsbeslut enligt §6b LPT och extravaket fortsätter. Efter 3 timmar ringer medicinjouren till dig. Lena behöver infusion med acetylcystein men vägrar och börjar bli ganska stökig, hon har slitit ut iv-nålen och svordomarna haglar över vårdpersonalen. Medicinjouren undrar vad man kan göra?",
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vad säger du till medicinjouren? Motivera ditt svar.",
+              "maxPoints": 2,
+              "facit": [
+                "Under pågående tvångsvård kan patienten i undantagsfall ges somatisk behandling mot sin vilja om det är allvarlig fara för patientens liv",
+                "Eftersom vården bedrivs enligt LPT kan man bälteslägga patienten om inget annat fungerar (§19 LPT) för att säkerställa somatisk behandling",
+                "Detta är dock ett formellt beslut av specialistläkare i psykiatri med chefsöverläkaruppdrag och måste tas av bakjouren"
+              ],
+              "facitExplanation": "I detta fall måste man säkerställa att patienten får den livsnödvändiga behandlingen. Under pågående tvångsvård kan patienten i undantagsfall ges somatisk behandling mot sin vilja. Eftersom vården bedrivs enligt LPT kan man bälteslägga patienten om inga annat fungerar (§19 LPT). Detta är dock ett beslut av specialistläkare i psykiatri med chefsöverläkaruppdrag och måste formellt tas av bakjouren.",
+              "tags": ["LPT", "tvångsvård", "suicidrisk", "förgiftning"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Internmedicin",
+      "points": 20,
+      "intro": "Du går på ditt eftermiddagspass som primärjour på medicinakuten på ett medelstort sjukhus. Verksamhetschefen har just haft ett möte med läkargruppen, där hon med oro beskrivit de ökande kostnaderna för röntgen och laboratorieundersökningar på akuten, och att patienterna inte färdigbehandlas inom 4 timmar enligt kvalitetsmål. Du tittar i liggaren och ser att det finns 4 patienter som söker för svullet ben.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": "Du börjar med att träffa Astrid, 84 år, som har typ 2 diabetes, hypertoni och hjärtsvikt. Astrid har nu märkt av bensvullnad sedan några veckor. På morgonen ser benen ganska fina ut men framåt kvällen blir de mer svullna och då kan det vara svårt att få på skorna. Astrid bor ensam, hon har ingen hemtjänst, kommer tillsammans med sin dotter som bekräftar att patienten klarar sig bra. I status noterar du: Gott allmäntillstånd, Blodtryck 150/90, puls 90, lungor auskulteras med enstaka basala rassel bilateralt, temp 36,9, andningsfrekvens 18 andetag per minut, saturation 95%. Lokalstatus ben visar kraftiga underbensödem och pittingödem bilateralt.",
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilken diagnos misstänker du?",
+              "maxPoints": 1,
+              "facit": [
+                "Hjärtsvikt – bilaterala pittingödem som förvärras under dagen, rassel på lungorna, känd hjärtsvikt talar starkt för försämrad hjärtsvikt som orsak till bensvullnaden"
+              ],
+              "facitExplanation": "Du misstänker att bensvullnaden beror på hennes hjärtsvikt.",
+              "tags": ["hjärtsvikt", "ödem", "diabetes typ 2"]
+            },
+            {
+              "id": "3-1-2",
+              "text": "Behövs någon utredning akut, och i så fall vilken?",
+              "maxPoints": 1,
+              "facit": [
+                "Ingen akut lungröntgen, hjärtultraljud eller pro-BNP behövs – patienten är opåverkad och försämrad i en känd kronisk sjukdom",
+                "Elektrolyter och blodstatus behövs för att kunna intensifiera sviktbehandlingen",
+                "P-glukos",
+                "Eventuellt EKG"
+              ],
+              "facitExplanation": "Då patienten är opåverkad, försämrad i en kronisk sjukdom, finns ingen anledning till akut lungröntgen, hjärtultraljud eller pro BNP utan du kan direkt intensifiera hennes sviktbehandling. För att kunna göra det behöver du elektrolyter och blodstatus, p-glukos samt eventuellt ett EKG.",
+              "tags": ["hjärtsvikt", "EKG", "provtagning"]
+            }
+          ],
+          "contextImageUrl": "/images/exams/2015-02/astrid-pittingoedem.jpeg"
+        },
+        {
+          "id": "3-2",
+          "context": "Nästa patient som söker för svullet ben är Märta, 82 år, som har typ 2 diabetes, hypertoni och hjärtsvikt. Märta har märkt av svullnad och rodnad ett par dagar på vänster underben. Märta bor ensam, har hemhjälp som tittar till henne 2 gånger dagligen och idag föreslog hemhjälpspersonalen att hon skulle söka akut. Status: Gott allmäntillstånd, Blodtryck 150/90, puls 80, lungor auskulteras ua, temp 37,9, andningsfrekvens 18, saturation 96%. Lokalstatus underben: rodnat, svullet underben med skarp avgränsning mot frisk vävnad. Subfebril.",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilken diagnos misstänker du?",
+              "maxPoints": 1,
+              "facit": [
+                "Erysipelas (rosfeber) – hudinfektion med rodnad, svullnad, subfebrilitet och skarp avgränsning mot frisk vävnad"
+              ],
+              "facitExplanation": "Du misstänker att svullnaden beror på en hudinfektion, rosfeber, Erysipelas.",
+              "tags": ["erysipelas", "hudinfektion", "dermatologi"]
+            },
+            {
+              "id": "3-2-2",
+              "text": "Behövs någon utredning akut, och i så fall vilken?",
+              "maxPoints": 1,
+              "facit": [
+                "Infektionsprover: CRP, LPK, Hb",
+                "Odling från eventuellt litet sår",
+                "Behandling: Penicillin V (t.ex. Kåvepenin) 1–2 g x 3 i 10–14 dagar peroralt räcker då patienten är opåverkad – nästan alltid streptokocker som orsakar dessa hudinfektioner"
+              ],
+              "facitExplanation": "Infektionsprover dvs CRP, LPK, Hb och om det finns något litet sår att odla från. Det är nästan alltid streptococcer som orsakar dessa hudinfektioner. Då patienten är opåverkad räcker peroral medicinering med Penicillin V (tex Kåvepenin) 1-2gx3 i 10-14 dagar.",
+              "tags": ["erysipelas", "antibiotikabehandling", "hudinfektion"]
+            }
+          ],
+          "contextImageUrl": "/images/exams/2015-02/marta-erysipelas.jpeg"
+        },
+        {
+          "id": "3-3",
+          "context": "Nästa patient som söker för ett svullet ben är Eva, 52 år. Eva är tidigare helt frisk, hon går på Friskis och svettis, hon dansar gammeldans och tycker själv att hon är vältränad. Hon har märkt en svullnad och värk i höger ben mest runt knät, sedan några dagar. Hon förnekar trauma. Status: Gott, blodtryck 130/75, puls 55, lungor ua, temp 37,1, andningsfrekvens 16, saturation 98%. Lokalstatus ben: svullet höger knä utan rodnad, utan yttre tecken på trauma.",
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad kallas den här typen av svullnad?",
+              "maxPoints": 1,
+              "facit": [
+                "Hydrops – ökad mängd vätska i leden (ledvätska)"
+              ],
+              "facitExplanation": "Du misstänker att det är hydrops, dvs ökad mängd vätska i leden.",
+              "tags": ["artros", "ledsvullnad", "ortopedi"]
+            },
+            {
+              "id": "3-3-2",
+              "text": "Behövs någon utredning akut, och i så fall vilken?",
+              "maxPoints": 1,
+              "facit": [
+                "Ingen akut röntgen behövs – svullnad i knäleden utan feber, allmänpåverkan eller trauma behöver inte röntgas akut",
+                "Beror mest sannolikt på inflammation vid lindrig artros eller överansträngning",
+                "Börja behandla med antiflogistika, t.ex. Naproxen 500 mg x 2",
+                "Remittera till husläkaren för uppföljning"
+              ],
+              "facitExplanation": "En svullnad i knäleden utan feber allmänpåverkan eller trauma behöver inte röntgas akut, den beror mest sannolikt på en inflammation till följd av lindrig artros/överansträngning. Börja behandla med antiflogistika, tex Naproxen 500mg x 2 och remittera till husläkaren för uppföljning.",
+              "tags": ["artros", "ledsvullnad", "antiinflammatorisk behandling"]
+            }
+          ],
+          "contextImageUrl": "/images/exams/2015-02/eva-knasvullnad.jpeg"
+        },
+        {
+          "id": "3-4",
+          "context": "Nästa patient du träffar är Sven, 78 år, som söker för ett svullet ben sedan några dagar. Han är tidigare frisk, äter inga mediciner, benet gör inte ont i vila men känns tungt. Sven har kört bil hem efter en skidsemester i Dalarna, en bilfärd på 5 timmar en vecka tidigare. Status: At gott, temp 37,6, Blodtryck 140/80, puls 90, lungor ua, andningsfrekvens 18, saturation 97%. Lokalstatus ben: svullet höger underben med pittingödem och lätt erytem, pilen på bilden pekar mot pittingödem.",
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilken diagnos misstänker du?",
+              "maxPoints": 1,
+              "facit": [
+                "Djup ventrombos (DVT) – ensidig svullnad, immobilisering vid lång bilresa, subfebrilitet"
+              ],
+              "facitExplanation": "Du misstänker att Sven har en djup ven trombos (DVT).",
+              "tags": ["DVT", "trombos", "ödem"]
+            },
+            {
+              "id": "3-4-2",
+              "text": "Behövs någon utredning akut, och i så fall vilken?",
+              "maxPoints": 1,
+              "facit": [
+                "Akut ultraljudsundersökning av kärlen i benet (alternativt flebografi) – för att verifiera misstanken om DVT",
+                "D-dimer har ingen indikation i detta fall då den kliniska sannolikheten är hög enligt Wells score och ultraljudsundersökning ändå måste utföras"
+              ],
+              "facitExplanation": "För att verifiera misstanken om DVT måste du beställa en akut ultraljudsundersökning av kärlen i benet (alternativt flebografi). Blodprovet D-dimer har ingen indikation i detta fall då den kliniska sannolikheten är hög enligt Wells score och ultraljudsundersökning ändå måste utföras.",
+              "tags": ["DVT", "bilddiagnostik", "koagulation"]
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Du misstänker att Sven har en djup ventrombos (DVT). Klockan är 21, torsdag kväll, röntgenavdelningen har stängt sin ultraljudsverksamhet. De kan erbjuda en undersökningstid imorgon förmiddag. Patienten bor ganska nära sjukhuset, du bedömer att han kan sova hemma.",
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Beskriv kortfattat för patienten vilka symtom som skulle kunna tillstöta och motivera honom att återkomma akut. Motivera.",
+              "maxPoints": 1,
+              "facit": [
+                "Bröstsmärta – kan vara tecken på lungemboli",
+                "Andnöd/dyspné – kan vara tecken på lungemboli",
+                "Synkope/svimning – kan vara tecken på lungemboli"
+              ],
+              "facitExplanation": "Det finns en risk att trombmassa kan lossna från en DVT och bli en potentiellt livshotande lungemboli (LE). Råd patienten att återkomma akut vid eventuell bröstsmärta, syncope eller andnöd.",
+              "tags": ["DVT", "lungemboli", "patientinformation"]
+            },
+            {
+              "id": "3-5-2",
+              "text": "Finns det anledning att sätta in behandling redan nu? I så fall vad?",
+              "maxPoints": 1,
+              "facit": [
+                "Ja – den kliniska misstanken på DVT är stark",
+                "Behandla med lågmolekylärt heparin, t.ex. Fragmin, med tanke på tidpunkten halva dygnsdosen = 100 E/kg kroppsvikt"
+              ],
+              "facitExplanation": "Den kliniska misstanken på DVT är stark, så du börjar behandla, med lågmolekylärt heparin t.ex Fragmin och med tanke på tidpunkten halva dygnsdosen = 100 E/kg kroppsvikt.",
+              "tags": ["DVT", "antikoagulantia", "läkemedelsbehandling"]
+            },
+            {
+              "id": "3-5-3",
+              "text": "Vilka uppgifter behöver du för att kunna inleda behandling?",
+              "maxPoints": 1,
+              "facit": [
+                "Patientens vikt – för dosberäkning av lågmolekylärt heparin",
+                "Hemoglobin (Hb) – för att utesluta anemi/blödning",
+                "Trombocyter (TPK) – för att utesluta trombocytopeni",
+                "PK/INR – koagulationsstatus",
+                "APTT – koagulationsstatus",
+                "S-kreatinin – för att bedöma njurfunktion (påverkar eliminationen av LMH)"
+              ],
+              "facitExplanation": "Patientens vikt, hemoglobin Hb, trombocyter TPK, PK INR, APTT och s-kreatinin behövs för att kunna sätta in adekvat behandling.",
+              "tags": ["DVT", "antikoagulantia", "provtagning"]
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Sven väger 80 kg. Krea 100, Hb 124, Tpk 230, PK 1,0, APTT 40s. Nästa dag kan ultraljud verifiera utbredningen av en djup ventrombos (DVT) i v. poplitea och v. femoralis med sin övre begränsning vid övergången till v. iliaca på höger ben.",
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Beskriv kortfattat hur venösa blodproppar bildas. (patofysiologiska riskfaktorer)",
+              "maxPoints": 1,
+              "facit": [
+                "Venstas (t.ex. immobilisering, långa resor) – minskad blodflödeshastighet",
+                "Skada på blodkärlets vägg (kärlskada) – aktiverar koagulationskaskaden",
+                "Hyperkoagulation (ökad koagulationsbenägenhet) – t.ex. vid malignitet, graviditet, koagulationsrubbningar",
+                "Virchows triad är samlingsnamnet på dessa tre faktorer som i samverkan bidrar till bildning av trombos"
+              ],
+              "facitExplanation": "Den långa bilresan kan ha påverkat blodflödet i benen. Proppar bildas vid venstas, skador på blodkärlets vägg och hyperkoagulation. Virchows triad är samlingsnamnet på tre faktorer som i samverkan bidrar till bildning av trombos.",
+              "tags": ["DVT", "trombos", "koagulation"]
+            },
+            {
+              "id": "3-6-2",
+              "text": "Vilka allmänna råd ger du Sven för framtida bilresor?",
+              "maxPoints": 1,
+              "facit": [
+                "Använda stödstrumpor",
+                "Dricka mycket vätska",
+                "Pausa och kliva ur bilen regelbundet för att aktivera vadmuskulaturen"
+              ],
+              "facitExplanation": "Använda stödstrumpor, dricka mycket, pausa och kliva ur bilen är goda allmänna råd, även om den vetenskapliga evidensen är svag.",
+              "tags": ["DVT", "prevention", "patientinformation"]
+            },
+            {
+              "id": "3-6-3",
+              "text": "Finns anledning att utreda eventuella bakomliggande sjukdomar på akutmottagningen, i så fall vilka? Motivera.",
+              "maxPoints": 1,
+              "facit": [
+                "Riktad anamnes (viktminskning, avföringsvanor, trötthet) och noggrant status med tanke på malignitet",
+                "Malignitetsscreening bör INTE ske via akuten utan får ske vid behov via vårdcentralen/medicinmottagning dagtid"
+              ],
+              "facitExplanation": "Riktad anamnes (viktminskning, avföringsvanor, trötthet) och noggrant status med tanke på malignitet. Malignitetsscreening bör inte ske via akuten utan får ske vid behov via vårdcentralen/medicinmottagning dagtid.",
+              "tags": ["DVT", "cancerdiagnostik", "differentialdiagnoser"]
+            }
+          ],
+          "contextImageUrl": "/images/exams/2015-02/sven-dvt-ben.jpeg"
+        },
+        {
+          "id": "3-7",
+          "context": "Sven, som du betraktar som vältränad, har en puls på 90 slag per minut och en andningsfrekvens på 18 andetag per minut och en saturation på 97%. Ultraljud har verifierat DVT-diagnosen.",
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vilken är den mest sannolika förklaringen?",
+              "maxPoints": 1,
+              "facit": [
+                "Misstanke om lungemboli (LE) – takykardi, takypné och låg saturation kan vara symtom på lungemboli. En puls på 90 slag per minut är inte takykardi hos en 78-årig man, men hos en vältränad skidåkare kan det vara en relativ takykardi. Andningsfrekvensen anses normal vid 16 andetag per minut men 18 är lätt förhöjd"
+              ],
+              "facitExplanation": "Takykardi, takypné och låg saturation kan vara symtom på lungemboli (LE). En puls på 90 slag per minut är inte tackycardi hos en 78 årig man, men hos en vältränad skidåkare kan det vara en relativ tackycardi. Andningsfrekvensen anses normal vid 16 andetag per minut. En viss misstanke om lungemboli finns.",
+              "tags": ["lungemboli", "DVT", "differentialdiagnoser"]
+            },
+            {
+              "id": "3-7-2",
+              "text": "Finns anledning att utreda detta vidare, och i så fall hur? Motivera.",
+              "maxPoints": 2,
+              "facit": [
+                "EKG – kan visa tecken på högerbelastning vid lungemboli",
+                "Pulspromenad (kort promenad i korridoren med pulsoximeter på fingret) – för att se om saturationen sjunker vid ansträngning",
+                "DT lungartärer eller lungscint – för att verifiera en lungemboli bör övervägas"
+              ],
+              "facitExplanation": "EKG och en pulspromenad (en kort promenad i korridoren med en pulsoximeter på fingret) kan vara motiverat. DT lungartärer eller lungscint för att verifiera en lungemboli bör övervägas.",
+              "tags": ["lungemboli", "EKG", "bilddiagnostik"]
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Ultraljud har bekräftat DVT-diagnosen. Inga avvikande fynd i status utöver det svullna benet, diskreta symtom som kan vara uttryck för en lungemboli. Sven väger 80 kg. Krea 100, Hb 124, Tpk 230, PK 1,0, APTT 40s.",
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vilken behandling initierar du och hur lång behandlingstid? Motivera.",
+              "maxPoints": 1,
+              "facit": [
+                "Behandlingsduration: 3–6 månader – förstagångstrombos ovan knäleden, möjligen liten LE",
+                "Lågmolekylärt heparin t.ex. Fragmin 200 E/kg kroppsvikt = 16 000 E (15 000 finns som förfylld spruta) x 1 dagligen plus Waran 2,5 mg",
+                "Alternativ: Rivaroxaban (Xarelto) 15 mg x 2 i 3 veckor sedan 20 mg x 1",
+                "Alternativ: Apixaban (Eliquis) 5 mg 2x2 i 7 dagar därefter 5 mg 1x2",
+                "Alternativ: Dabigatran (Pradaxa) har också indikationen DVT/LE men då ska man börja med LMH liksom vid Waran"
+              ],
+              "facitExplanation": "Förstagångs trombos ovan knäleden möjligen en liten LE => Behandlingsduration (3)–6 mån. Lågmolekylärt heparin t ex Fragmin 200E/kg kroppsvikt = 16000E (15 000 finns som förfylld spruta) att ta x 1 dagligen samt Waran 2,5 mg. Alternativt DOAK: Rivaroxaban 15 mg x 2 i 3 veckor sedan 20 mg x 1, eller Apixaban 5 mg 2x2 i 7 dagar därefter 5 mg 1x2.",
+              "tags": ["DVT", "lungemboli", "antikoagulantia"]
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Sven väljer själv Rivaroxaban för att slippa PK/INR-kontroller.",
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Beskriv mycket kort hur Waran verkar.",
+              "maxPoints": 1,
+              "facit": [
+                "Warfarin (Waran) verkar genom att blockera vitamin K-cykeln – hämmar därmed syntesen av de vitamin K-beroende koagulationsfaktorerna (II, VII, IX, X) samt protein C och S"
+              ],
+              "facitExplanation": "Warfarin (Waran) verkar genom att blockera vitamin K-cykeln.",
+              "tags": ["antikoagulantia", "farmakologi", "koagulation"]
+            },
+            {
+              "id": "3-9-2",
+              "text": "Beskriv mycket kort verkningsmekanismen för de olika Direktverkande Orala Antikoagulantia (fd NOAK).",
+              "maxPoints": 1,
+              "facit": [
+                "Rivaroxaban (Xarelto) och Apixaban (Eliquis) är selektiva direkta faktor Xa-hämmare",
+                "Dabigatran (Pradaxa) är en direkt trombinhämmare"
+              ],
+              "facitExplanation": "Rivaroxaban (Xarelto) och Apixaban (Eliquis) är selektiva direkta faktor Xa-hämmare. Dabigatran (Pradaxa) är en direkt trombinhämmare.",
+              "tags": ["antikoagulantia", "farmakologi", "DOAK"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Du tjänstgör på akutmottagningen tar emot en 57-årig kvinna, Anneli. Hon inkommer med buksmärtor i ambulans efter att ha kräkts färskt blod i hemmet. Det framkommer att hon varit helt frisk fram till för ett par år sedan, då hon blev insatt på warfarin på grund av förmaksflimmer. Hon avslutade för två dagar sedan en metronidazol-kur mot en dental infektion. Av samma skäl hade hon också fått en veckas behandling med ibuprofen. Vid ankomsten: blodtryck 105/77 mmHg, hjärtfrekvens 105 slag per minut, andningsfrekvens 21 cykler per minut, syremättnad 92%, temperatur 37,2°C. Lab: Hb 96 g/l (ref 120–140 g/l hos kvinnor), PK/INR 6,4 (ref 2,0–3,0 hos behandlad patient).",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka blir dina första behandlingsåtgärder på akutrummet efter undersökning av patienten?",
+              "maxPoints": 2,
+              "facit": [
+                "Elektrokardiogram (EKG)",
+                "Grov infart (venös access)",
+                "Ventrikelsond",
+                "Blodgruppering och bastest",
+                "Ringer-Acetat (vätska intravenöst)",
+                "Erytrocytkoncentrat (blodtransfusion)",
+                "Syrgas",
+                "Bolusdos av protonpumpshämmare"
+              ],
+              "facitExplanation": "Elektrokardiogram, grov infart, ventrikelsond, blodgruppering/bastest, Ringer-Acetat, erytrocytkoncentrat, syrgas, bolusdos av protonpumpshämmare.",
+              "tags": ["GI-blödning", "ulcus", "akut handläggning"]
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vad är en sannolik förklaring till hennes derangerade PK/INR?",
+              "maxPoints": 1,
+              "facit": [
+                "Metronidazols interaktion med warfarin – samtidig behandling med metronidazol kan potentiera den antikoagulerande effekten till följd av minskad hepatisk nedbrytning av warfarin (metronidazol hämmar CYP2C9)"
+              ],
+              "facitExplanation": "Metronidazols interaktion med warfarin. Samtidig behandling med metronidazol kan potentiera den antikoagulerande effekten till följd av minskad hepatisk nedbrytning av warfarin.",
+              "tags": ["antikoagulantia", "läkemedelsinteraktion", "farmakologi"]
+            },
+            {
+              "id": "4-1-3",
+              "text": "Vad gör du nu? Motivera.",
+              "maxPoints": 2,
+              "facit": [
+                "Gastroskopi för diagnos och terapi – för att identifiera och behandla blödningskällan (misstänkt blödande duodenal- eller ventrikelulcus)"
+              ],
+              "facitExplanation": "Gastroskopi för diagnos och terapi.",
+              "tags": ["GI-blödning", "ulcus", "endoskopi"]
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Du misstänker i första hand ett blödande duodenal- eller ventrikelulcus och ber om gastroskopi. Denna visade ett 2 cm stort blödande ulcus i bulbus duodeni. Man utförde injektionsbehandling och blödningen föreföll avstanna. Du misstänker att interaktionen mellan metronidazols effekt på metabolismen av warfarin lett till att PK/INR stigit onormalt mycket. Följande morgon larmas du av personalen. Patienten har plötsligt haft massiv melena med inslag av röda koagler. Hjärtfrekvensen är 123 slag/minut och blodtrycket 85/50 mmHg. Patienten är blek, kallsvettig, tagen och närmast konfusorisk. Det tömmer sig rikligt med färskt blod ur ventrikelsonden.",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilka farmakologiska möjligheter finns att akut respektive subakut korrigera patientens koagulationsstatus? Motivera och förklara farmakodynamiken kortfattat.",
+              "maxPoints": 2,
+              "facit": [
+                "Akut korrektion: Koagulationsfaktorkoncentrat – koncentrat av protrombinkomplexet med faktor II, VII, IX, X, protein C, protein S – ger omedelbar reversering av warfarineffekten",
+                "Subakut korrektion: Vitamin K intravenöst – återställer vitamin K-cykeln och nysyntes av koagulationsfaktorer men med långsammare effekt (timmar)"
+              ],
+              "facitExplanation": "Akut korrektion: Koagulationsfaktorer II, VII, IX, X, protein C, protein S (protrombinkomplexkoncentrat). Subakut korrektion: Vitamin K.",
+              "tags": ["GI-blödning", "antikoagulantia", "koagulation"]
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vilka behandlingsalternativ, förutom ny endoskopisk behandling, kan användas? Nämn två principiellt skilda behandlingar och diskutera för- respektive nackdelar.",
+              "maxPoints": 2,
+              "facit": [
+                "Endovaskulär embolisering (coiling/interventionsradiologi): Fördel: minimalinvasiv. Nackdel: svår att få till, kräver tillgänglig interventionist",
+                "Öppen kirurgi (laparotomi): Fördel: kan göras direkt, direktvisualisering. Nackdel: traumatisk för patienten, kan vara svårt att hitta blödaren, komplikationsrisk"
+              ],
+              "facitExplanation": "Endovaskulär embolisering: svår att få till, minimalinvasiv. Laparotomi: kan göras direkt, traumatisk, kan vara svårt att hitta blödaren.",
+              "tags": ["GI-blödning", "kirurgi", "ulcus"]
+            },
+            {
+              "id": "4-2-3",
+              "text": "Om du vid din undersökning av patienten på akutrummet föregående dag hade funnit buken som på ovanstående bild (ökad kärlteckning på buken), hur hade det förändrat din handläggning? Motivera.",
+              "maxPoints": 1,
+              "facit": [
+                "Misstänk esofagusvaricer vid blödande portavenös hypertension!",
+                "Behandla med glypressin intravenöst på bara misstanken – för att sänka portatrycket",
+                "Ge antibiotika intravenöst för att minska risken för spontan bakteriell peritonit"
+              ],
+              "facitExplanation": "Misstänk esofagusvaricer! Behandla med glypressin intravenöst på bara misstanken och ge antibiotika intravenöst för att minska risken för spontan bakteriell peritonit.",
+              "imageUrl": "/images/exams/2015-02/caput-medusae.jpeg",
+              "tags": ["levercirros", "esofagusvaricer", "GI-blödning"]
+            },
+            {
+              "id": "4-2-4",
+              "text": "Vad är patofysiologin bakom detta kliniska fynd? (ökad kärlteckning på buken – caput medusae)",
+              "maxPoints": 2,
+              "facit": [
+                "Shuntning av venöst blod porto-kavalt på grund av portal hypertension",
+                "Portal hypertension beror ofta på levercirros",
+                "Ökad kärlteckning (caput medusae) beror på kollateralcirkulation via epigastriska vener när portaflödet hindras",
+                "Patienter med denna kliniska bild måste misstänkas ha blödande esofagusvaricer sekundärt till denna shuntning"
+              ],
+              "facitExplanation": "Shuntning av venöst blod porto-kavalt på grund av levercirrhos. Den ökade kärlteckningen tyder på porto-kaval shuntning pga portal hypertension.",
+              "tags": ["levercirros", "portal hypertension", "esofagusvaricer"]
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Warfarinet seponerades och patienten gavs koncentrat av protrombinkomplexet. En första gastroskopi visade ett blödande ulcus i duodenum. Man utförde injektionsbehandling och blödningen föreföll avstanna. Patienten reblödde kraftigt. Endovaskulär embolisering var inte möjlig. Ny gastroskopi bedömdes som utsiktslös. Patienten togs till operation för urakut laparotomi med öppning av bulbus duodeni och omstickning av arteria gastroduodenalis. Patienten ordineras tarmvila i minst 3 dagar och \"noll per os\" av kirurgen.",
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Hur vill du tillgodose patientens nutritionsbehov under kommande dygn? Vad ordinerar du och varför? Förklara din strategi.",
+              "maxPoints": 1,
+              "facit": [
+                "Glukos med elektrolyter är acceptabelt i upp till 3 dagar postoperativt",
+                "Därefter total parenteral nutrition (TPN), t.ex. Kabiven eller dylikt",
+                "Katabolism bör undvikas postoperativt då nutritionsbehovet är förstärkt",
+                "Starta intravenös nutritionsbehandling försiktigt med 50–70% av beräknade behov (15–20 kcal/kg kroppsvikt) och öka successivt under 3–5 dagar för att undvika refeeding-syndrom"
+              ],
+              "facitExplanation": "Glukos med elektrolyter är acceptabelt i 3 dagar, därefter total parenteral nutrition med t.ex. Kabiven eller dylikt. Katabolism bör undvikas postoperativt, då nutritionsbehovet är förstärkt. För att undvika refeeding-syndrom bör man starta intravenös nutritionsbehandling försiktigt med 50–70% av de beräknade behoven (15–20 kcal/kg kroppsvikt) och öka dosen successivt under 3–5 dagar.",
+              "tags": ["postoperativ vård", "nutrition", "kirurgi"]
+            },
+            {
+              "id": "4-3-2",
+              "text": "Vilka typer av postoperativ smärtstillning man kan överväga under de första dygnen för en patient som denna? Ange för- och nackdelar.",
+              "maxPoints": 3,
+              "facit": [
+                "Peroral analgesi: Fördel: billig, enkel. Nackdel: olämplig med tanke på fastan och blödande magsår – osäker absorption; senare under vårdförloppet aktuellt med paracetamol ev i kombination med långverkande opioider",
+                "Epidural anestesi: Fördel: ofta lättstyrd, mycket effektiv. Nackdel: invasiv, vissa komplikationsrisker, patienten måste kateteriseras, absolut krav på normalt koagulationsstatus vid anläggning",
+                "Parenteral analgesi (IV/SC opioider): Fördel: billig, invasiv. Nackdel: ibland svårstyrd, kan ha betydande farmakologiska biverkningar (konfusion, obstipation, andningsdepression)"
+              ],
+              "facitExplanation": "Peroral analgesi: billig, enkel, men olämplig med tanke på fastan och osäker absorption. Epidural anestesi: invasiv, vissa potentiella biverkningar, måste bära kateter à demeure, mycket effektiv, förutsätter normalt koagulationsstatus. Parenteral analgesi: billig, mer svårstyrd, biverkningar, invasiv.",
+              "tags": ["postoperativ vård", "smärtbehandling", "kirurgi"]
+            },
+            {
+              "id": "4-3-3",
+              "text": "Hur bör man hantera patientens förmaksflimmer när Waran nu seponerats? Motivera!",
+              "maxPoints": 1,
+              "facit": [
+                "Att avstå från warfarin under kort vårdtid är acceptabelt vid den här indikationen (okomplicerat förmaksflimmer) – riskökningen för cerebrovaskulära incidenter bedöms som liten under en kort period",
+                "Alternativt: lågmolekylärt heparin (LMWH) som överbryggande behandling under övergångstiden",
+                "Rutinerna varierar runt landet – båda alternativen är acceptabla svar"
+              ],
+              "facitExplanation": "Att avstå från warfarin under kort vårdtid är acceptabelt vid den här indikationen, annars lågmolekylärt heparin under övergångstid. Att överbrygga med lågmolekylärt heparin dock också acceptabelt svar. Rutinerna varierar ännu runt landet.",
+              "tags": ["förmaksflimmer", "antikoagulantia", "kirurgi"]
+            },
+            {
+              "id": "4-3-4",
+              "text": "Fem dagar efter operationen mår patienten bra, har börjat äta, men så börjar det vätska rikligt med serös vätska ur patientens medellinjesår. Det finns ingen rodnad kring sårkanterna och patienten är feberfri. Vad misstänker du i första hand och hur verifierar du din misstanke?",
+              "maxPoints": 2,
+              "facit": [
+                "Misstanke: Sårruptur (bukväggsruptur/fasciedelehisens) – serös vätska utan infektionstecken 5 dagar postoperativt är klassiskt för sårruptur",
+                "Verifiering: I första hand undersök patienten kliniskt och öppna såret – palpera",
+                "I osäkra och komplicerade fall kan man komplettera med ultraljud och datortomografi av bukväggen"
+              ],
+              "facitExplanation": "Sårruptur, öppna såret och palpera, ej primärt ultraljud eller datortomografi.",
+              "tags": ["postoperativ komplikation", "sårruptur", "kirurgi"]
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Det ökande vätskeläckaget 5 dagar efter laparotomin bekräftar misstanken om sårruptur. I första hand undersöks patienten kliniskt och såret öppnas. I vissa osäkra och komplicerade fall kan man komplettera med ultraljud och datortomografi av bukväggen. Patienten tas till operation för noggrann förslutning av bukväggen. Man finner att suturerna satts för glest och att det därför blivit slitning i fasciekanterna.",
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Hur handlägger man sårrupturen?",
+              "maxPoints": 1,
+              "facit": [
+                "Operation – noggrann förslutning av bukväggen"
+              ],
+              "facitExplanation": "Operation.",
+              "tags": ["sårruptur", "postoperativ komplikation", "kirurgi"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

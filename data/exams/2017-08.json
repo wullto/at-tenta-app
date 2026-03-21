@@ -1,0 +1,889 @@
+{
+  "id": "2017-08",
+  "title": "AT-prov augusti 2017",
+  "date": "2017-08-25",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Stina är en 38 årig kvinna med metforminbehandlad diabetes, hypertoni samt ångest och depression. Röker inte. Motionerar regelbundet. Hon är nybliven mamma sedan 5 veckor tillbaka, ammar inte. Under graviditeten har hon besvärats av återkommande övre luftvägsinfektioner, senast för 5 dagar sedan. I förrgår debut av centrala bröstsmärtor när hon promenerade till bussen. Bröstsmärtan släppte efter drygt 30 minuters vila. Idag, i samband med att hon plockade ur disk ur diskmaskinen, återkom bröstsmärtan. Denna gång betydligt kraftigare och med utstrålning ut i armarna. Ingen andfåddhet eller lufthunger. Hon söker därför akutmottagningen och inkommer i ambulans.  Inget illamående. Ingen andningspåverkan. Hjärta auskulteras med regelbunden rytm med frekvens 95 slag/minut, inga blåsljud. Lungor auskulteras med normalt andningsljud. Temperatur 36,9 grader. Saturation 97%. Blodtryck 125/80 mmHg.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Utifrån anamnesen, ange 3 mest tänkbara hjärtkärl relaterade differentialdiagnoser.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ökad ångest, peri-myokardit, kardiell ischemi (infarkt). Pneumoni mindre sannolikt pga avsaknad av andfåddhet och feber. Lungemboli ej sannolikt pga avsaknad av andfåddhet och vegetativa symtom. Aortadissektion mindre troligt då symtomen är intermittenta med relativt långa symtomfria intervall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Du begär inkomstprover. Vilket blodprov och vilken undersökning på akutrummet är det rimligt att du är mest intresserad av?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "hjärtskademarkör (troponin I eller T) och EKG"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Stina är en 38 årig kvinna med metforminbehandlad diabetes, hypertoni samt ångest och depression. Röker inte. Motionerar regelbundet. Hon är nybliven mamma sedan 5 veckor tillbaka, ammar inte. Under graviditeten har hon besvärats av återkommande övre luftvägsinfektioner, senast för 5 dagar sedan. I förrgår debut av centrala bröstsmärtor när hon promenerade till bussen. Bröstsmärtan släppte efter drygt 30 minuters vila. Idag, i samband med att hon plockade ur disk ur diskmaskinen, återkom bröstsmärtan. Denna gång betydligt kraftigare och med utstrålning ut i armarna. Inget illamående. Ingen andningspåverkan. Hjärta auskulteras med regelbunden rytm med frekvens 95 slag/minut, inga blåsljud. Lungor auskulteras med normalt andningsljud. Temperatur 36,9 grader. Saturation 97%. Blodtryck 125/80 mmHg.\n\nUtifrån anamnesen misstänker du i första hand accentuerad ångest, peri-myokardit eller kardiell ischemi. Inkomstprover visar P-Natrium 141 mmol/L (137-145), P-Kalium 4,0 mmol/L (3,5-4,4), P-Kreatinin 130 μmol/L (45-90), eGFR 42 mL/min/1.73m2,  B-Hb 138 g/L (117-153), P-CRP 1,1 mg/L (<3,0), B-Leukocyter 6,2x109/L (3,5-8,8) och P-Glukos 5,2 mmol/L (4,2-6,3). Det prov som du är mest intresserad av är troponin T som är 55 ng/L (<15).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Du har nu fått EKG. Vad visar detta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2017-08/page3_img1.jpeg",
+              "facit": [
+                "Sinusrytm. Dålig R-vågsprogression V3-V4. Utplanad T-våg V3-V4."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Vilken del av hjärtat speglar följande avledningar?(2p) a)V1-V2 b)V3-V4 c)V5-V6 d)aVL,I, –aVR e)II, aVF, III",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a) V1-V2 - septalt\n\nb) V3-V4 - anteriort\n\nc)V5-V6 - lateralt\n\nd) aVL,I, –aVR - lateralt\n\ne) II, aVF, III – inferiort"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Stina är en 38 årig kvinna med metformin behandlad diabetes, hypertoni samt ångest och depression. Nybliven mamma sedan 5 veckor tillbaka, ammar inte. Under graviditeten haft återkommande övre luftvägsinfektioner, senast för 5 dagar sedan. I förrgår debut med centrala bröstsmärtor när hon promenerade till bussen. Bröstsmärtan släppte efter drygt 30 minuter. Idag, i samband med att hon plockade ur disk ur diskmaskinen, återkom bröstsmärtan. Denna gång betydligt kraftigare och med utstrålning ut i armarna. Inget illamående. Ingen andningspåverkan. Hjärta auskulteras med regelbunden rytm med frekvens 95 slag/minut, inga blåsljud. Lungor auskulteras normalt. Temperatur 36,9 grader. Saturation 97%. Blodtryck 125/80 mmHg. Temperatur 36,9 grader. Du misstänker i första hand accentuerande ångest, peri-myokardit eller kardiell ischemi. Inkomstprover: P-Natrium 141 mmol/L (137-145), P-Kalium 4,0 mmol/L (3,5-4,4), P- Kreatinin 130 μmol/L (45-90), eGFR 42 mL/min/1.73m2,  B-Hb 138 g/L (117-153), P-CRP 1,1 mg/L (<3,0), B- Leukocyter 6,2x109/L (3,5-8,8) och P-Glukos 5,2 mmol/L (4,2-6,3). Det prov som du är mest intresserad av är troponin T som är 55 ng/L (<15).\n\nEKG visar regelbunden sinusrytm. Dålig R-vågsprogression och avflackade T-vågor anteriort. Inga förändringar ses septalt (V1-V2), lateralt (V5-V6 samt aVL,I och –aVR) eller inferiort (II, aVF och III). Patienten är symtomfri sedan hon kom in till sjukhuset klockan 19.25.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Vilken blir din arbetsdiagnos?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kardiell ischemi/hjärtinfarkt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Hur planerar du fortsatt handläggning av patienten fram till imorgon? I svaret förväntas ordinationer av läkemedel med prognostisk betydelse (dosering behöver ej anges), vårdnivå samt eventuella kompletteringar med blodprover och undersökningar ingå.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MAVA eller HIA med hjärtövervakning (0,5p). Påbörjar behandling för subendokardiell hjärtinfarkt (NSTEMI) med ASA, Brilique alternativt Clopidogrel, statin och lågmolekylärt heparin (LMWH)/arixtra. Syrgas (1p 3 av 4 för 1p). Troponinprov 2 och 3 ska tas med 3 timmars mellanrum. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Stina är en 38 årig kvinna med metformin behandlad diabetes, hypertoni samt ångest och depression. Nybliven mamma sedan 5 veckor tillbaka, ammar inte. Under graviditeten haft återkommande övre luftvägsinfektioner, senast för 5 dagar sedan. I förrgår debut med centrala bröstsmärtor när hon promenerade till bussen. Bröstsmärtan släppte efter drygt 30 minuter. Idag, i samband med att hon plockade ur disk ur diskmaskinen, återkom bröstsmärtan. Denna gång betydligt kraftigare och med utstrålning ut i armarna. Inget illamående. Ingen andningspåverkan. Hjärta auskulteras med regelbunden rytm med frekvens 95 slag/minut, inga blåsljud. Lungor auskulteras normalt. Temperatur 36,9 grader. Saturation 97%. Blodtryck 125/80 mmHg. Temperatur 36,9 grader.Du misstänker i första hand accentuerande ångest, peri-myokardit eller kardiell ischemi. Inkomstprover: P-Natrium 141 mmol/L (137-145), P-Kalium 4,0 mmol/L (3,5-4,4), P- Kreatinin 130 μmol/L (45-90), eGFR 42 mL/min/1.73m2,  B-Hb 138 g/L (117-153), P-CRP 1,1 mg/L (<3,0), B- Leukocyter 6,2x109/L (3,5-8,8) och P-Glukos 5,2 mmol/L (4,2-6,3). Det prov som du är mest intresserad av är troponin T som är 55 ng/L (<15). EKG visar regelbunden sinusrytm. Dålig R-vågsprogression och avflackade T-vågor anteriort. Inga förändringar ses septalt (V1-V2), lateralt (V5-V6 samt aVL,I och –aVR) eller inferiort (II, aVF och III). Patienten är symtomfri sedan hon kom in till sjukhuset klockan 19.25.\n\nMed bakgrund av troponin på 55 och EKG förändringarna blir din primära arbetsdiagnos subendokardiell hjärtinfarkt (NSTEMI). Du planerar därför inläggning på avdelning med hjärtövervakning, dvs HIA eller MAVA. Infarktbehandling påbörjas med laddningsdos acetylsalicylsyra (ASA) med 1 tablett om 500 mg, 2 tabletter Brilique (tikagrelor) á 90 mg, 1 tablett atorvastatin 80 mg samt arixtra (fondaparinux) subkutan injektion. Du ordinerar också nytt troponin 3 samt 6 timmar efter första provet. Nytt blodtryck tas som är stabilt på 130/80 mmHg.\n\nEfterföljande dag är du med på ronden på HIA. andra troponinet som togs 3 timmar efter inkomsten var 112 och tredje som togs 6 timmar efter inkomsten var 232. Diagnosen NSTEMI betraktas nu som bekräftad. Under natten har den enda arytmin varit en episod med en kortare ventrikeltakykardi om 5 slag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vilka undersökningar ska planeras för patienten?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ekokardiografi samt koronarangiografi med PCI beredskap"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Vilka sekundärpreventiva läkemedel, utöver ASA, brilique och atorvastatin, bör påbörjas under vårdtiden? På vilka sätt verkar dessa läkemedel sekundärpreventivt?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "β-blockad för blodtryck- och hjärtfrekvensreglering. ACE hämmare/AII antagonist för att minska remodelling och afterloadsreducering. Blodtryckssänkning räcker inte som svar på ACE hämmare/AII-antagonist"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Stina är en 38 årig kvinna med metformin behandlad diabetes, hypertoni samt ångest och depression. Nybliven mamma sedan 5 veckor tillbaka, ammar inte. Under graviditeten haft återkommande övre luftvägsinfektioner, senast för 5 dagar sedan. I förrgår debut med centrala bröstsmärtor, som släppte efter 30 minuter, när hon promenerade till bussen.  Idag, återkom bröstsmärtan, betydligt kraftigare och med utstrålning ut i armarna. Inget illamående. Ingen andningspåverkan. Hjärta auskulteras med regelbunden rytm med frekvens 95 slag/minut, inga blåsljud. Lungor auskulteras normalt. Temperatur 36,9 grader. Saturation 97%. Blodtryck 125/80 mmHg. Temperatur 36,9 grader. Inkomstprover: P-Natrium 141 mmol/L (137-145), P-Kalium 4,0 mmol/L (3,5-4,4), P-Kreatinin 130 μmol/L (45-90), eGFR 42 mL/min/1.73m2,  B-Hb 138 g/L (117-153), P-CRP 1,1 mg/L (<3,0), B-Leukocyter 6,2x109/L (3,5-8,8) och P-Glukos 5,2 mmol/L (4,2- 6,3). Det prov som du är mest intresserad av är troponin T som är 55 ng/L (<15). EKG visar regelbunden sinusrytm. Dålig R-vågsprogression och avflackade T-vågor anteriort. Inga förändringar ses septalt (V1-V2), lateralt (V5-V6 samt aVL,I och –aVR) eller inferiort (II, aVF och III). Patienten är symtomfri sedan hon kom in till sjukhuset klockan 19.25. Primär arbetsdiagnos blir NSTEMI. Patienten läggs in på HIA eller MAVA. Infarktbehandling påbörjas med ASA, Brilique, atorvastatin samt arixtra. Troponin 3 samt 6 timmar efter 1:a provet ordineras. Nytt blodtryck är stabilt på 130/80 mmHg. Efterföljande dag är du med på ronden på HIA. 2:a troponinet var 112 och 3:e var 232. Diagnosen NSTEMI betraktas nu som bekräftad. Under natten har den enda arytmin varit en episod med en kort ventrikeltakykardi.\n\nDagen efter inkomsten planeras först ekokardiografi samt en koronarangiografi. Inför koronarangiografin sätts metformin ut och ersätts av SGLT-2 hämmare efter undersökningen. Man påbörjar också redan nu sekundärpreventiv behandling med metoprolol för blodtrycks- och hjärtfrekvensreglering samt ramipril för att minska remodelling och afterloadsreducering. Ekokardiografi visade normal vänster- och höger kammarfunktion. Inga klaffvitier.\n\nKoronarangiografi visade rikligt med tromber i LAD orsakandes ocklusion proximalt i kärlet. Distalt därom sågs en lång spontandissektion. Tromberna aspirerades och dissektionen stentades med 2 stentar. Ingen ateroskleros sågs i kranskärlen i övrigt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Inför koronarangiografin måste man beakta patientens förhöjda kreatinin. Varför?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontrasten kan utlösa akut njursvikt hos patient med förhöjt kreatinin. Risken är ännu högre hos patient med samtidig diabetes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Beskriv vilka delar av kärlväggen som drabbas vid en icke aterosklerotisk spontan dissektion i artär.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skadan uppstår genom primär dissektion i intima med efterföljande dissektion och blödning i media. (1p) Ischemi uppstår när skadan är tillräckligt omfattande så att kärllumen komprimeras och påverkar blodflödet till hjärtmuskeln."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-3",
+              "text": "Stina är en relativt ung patient som drabbats av hjärtinfarkt. Med bakgrund av vad koronarangiografin visade är det viktigt att du påbörjar en utredning där svaret påverkar framtida behandling. Vilken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "arteriell koagulationsutredning. /Koagulationsutredning bör utföras i lugnt skede. I akutskedet kan flertalet analyser ge osäkra resultat p.g.a. konsumtion av koagulationsfaktorer, inflammatorisk reaktion eller interaktioner med läkemedel.)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Stina är en 38 årig kvinna med metformin behandlad diabetes, hypertoni samt ångest och depression. Nybliven mamma sedan 5 veckor tillbaka. Ammar inte. Återkommande övre luftvägsinfektioner, senast för 5 dagar sedan. Inkom pga tilltagande intermittent bröstsmärta med utstrålning ut i armarna. Inkomstprover: P-Natrium 141 mmol/L (137-145), P-Kalium 4,0 mmol/L (3,5-4,4), P-Kreatinin 130 μmol/L (45-90), eGFR 42 mL/min/1.73m2,  B-Hb 138 g/L (117-153), P-CRP 1,1 mg/L (<3,0), B-Leukocyter 6,2x109/L (3,5-8,8) och P-Glukos 5,2 mmol/L (4,2-6,3) och Troponin T 55 ng/L (<15). EKG visar regelbunden sinusrytm. Dålig R-vågsprogression och avflackade T-vågor anteriort. Inga förändringar ses septalt (V1-V2), lateralt (V5- V6 samt aVL,I och –aVR) eller inferiort (II, aVF och III). Patienten är symtomfri sedan hon kom in till sjukhuset klockan 19.25. Primär arbetsdiagnos blir NSTEMI. Patienten läggs in på HIA eller MAVA. Infarktbehandling påbörjas med ASA, Brilique, atorvastatin samt arixtra. Troponin max 232. Nytt blodtryck är stabilt på 130/80 mmHg. Efterföljande dag är du med på ronden på HIA. Diagnosen NSTEMI betraktas nu som bekräftad. Under natten har den enda arytmin varit en episod med en kortare ventrikeltakykardi om 5 slag. Sekundärpreventiv behandling med metoprolol för blodtrycks- och hjärtfrekvensreglering samt ramipril för att minska remodelling och afterloadsreducering påbörjas. Ekokardiografi visade normal vänster- och höger kammarfunktion. Inga klaffvitier. Koronarangiografi visade rikligt med tromber i LAD orsakandes ocklusion proximalt i kärlet. Distalt därom sågs en lång spontandissektion. Tromberna aspirerades och dissektionen stentades med 2 stentar. Ingen ateroskleros sågs i kranskärlen i övrigt.\n\nPatienten har en icke aterosklerotisk spontan dissektion i LAD distalt om tromberna. Dissektionen uppstår genom primär dissektion i intima med efterföljande dissektion och blödning i media. Ischemi kan uppstå när skadan är tillräckligt omfattande så att kärllumen komprimeras och påverkar blodflödet till hjärtmuskeln.\n\nDet är nu viktigt med en arteriell koagulationsutredning som lämpligen görs polikliniskt några veckor efter vårdtiden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Vilka sex analyser/prover ingår i en arteriell koagulationsutredning (minst 6 rätta för full poäng)?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Provtagning där följande analyser bör ingå: Antitrombin III, Fibrinogen, TPK, Lupus antikoagulans, S-Homocystein, S-Kardiolipinantikroppar, S-Beta-2-Glykoprotein I-antikroppar, PAI 1, Faktor VIII samt Lipoprotein."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Vilka läkemedel bör generellt, om möjligt, vara utsatta vid provtagning?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandling med Waran. Lupus antikoagulans kan bli falskt positivt. Waran bör ha varit utsatt minst två veckor före provtagningen. (0,5p) Behandling med LMWH. Behandling med lågmolekylärt heparin kan ge falskt positivt Lupus antikoagulans. Antitrombinnivån kan sjunka vid heparinbehandling. (0,5p) Behandling med direkt FXa-hämmare (rivaroxaban, apixaban) kan ge falskt förhöjd nivå av Antitrombin. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "41-årig kvinna\n\nDu är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41- årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste två dagarna. Hon arbetar som kontorist. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke-rökare. Du undersöker henne och finner allmäntillståndet som gott, hon är opåverkad, afebril med måttlig heshet. MoS: lätt rodnade gombågar. Indirekt laryngoscopi: lätt rodnade stämband. Ytl. lgll: u.a. på halsen. Öron: u.a. bilat. Pulm: rent andningsljud utan biljud. Du bedömer det som en virusbetingad infektion med laryngit/bronchit.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vill du ta några prover och i så fall vilka? Motivera svaren.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Provtagning vid okomplicerad ÖLI utan allmänpåverkan skall inte göras."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vill du behandla infektionen och dess symtom med något? Med vad i så fall? Motivera svaren.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Virusbetingade infektioner skall inte antibiotikabehandlas. Bästa behandlingen i just det här fallet är röstvila, eventuellt kan man tänka sig hostdämpande och/eller paracetamol"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41-årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste två dagarna. Hon arbetar som kontorist. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke- rökare. Du undersöker henne och finner allmäntillståndet som gott, hon är opåverkad, afebril med måttlig heshet. MoS: lätt rodnade gombågar. Indirekt laryngoscopi: lätt rodnade stämband. Ytl. lgll: u.a. på halsen. Öron: u.a. bilat. Pulm: rent andningsljud utan biljud. Du bedömer det som en virusbetingad infektion med laryngit/bronchit.\n\nDu tar inga prover utan ordinerar röstvila och rekommenderar henne att använda Alvedon® för eventuell symtomlindring. Hon berättar nu att hon är så trött. Hon började känna sig trött när båda tonårsdöttrarna hade körtelfeber samtidigt för ett halvår sedan och hon har inte hämtat sig efter det. I stället har hon blivit tröttare och saknar kraft, men har ändå klarat att sköta sitt heltidsarbete på kontor. Hon har inte haft ont någonstans. Hon undrar om hon kan få ta några prover när hon ändå är på vårdcentralen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilka tre viktiga differentialdiagnostiska övervägande gör du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hos en 41-årig kvinna med trötthet kan flera olika saker föreligga: Anemi, hypothyreos, nedstämdhet/oro/depression, sociala problem hemma och/eller på arbetsplatsen, diabetes, malignitet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vill du ta några patientnära analyser (Patientnära analyser=analyser som kan tas och analyseras på vårdcentralen med svar medan patienten väntar) för att försöka differentiera hennes tillstånd och vilka prover och tillstånd i så fall? Motivera svaren",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "På vårdcentralen kan omedelbart kontroll göras av Hb, glukos och CRP för att grovt diskriminera mellan anemi, diabetes, infektion eller inflammation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41-årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste dagarna. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke-rökare. Du undersöker henne och finner allmäntillståndet som gott, hon är opåverkad, afebril med måttlig heshet. MoS: lätt rodnade gombågar. Indirekt laryngoscopi: lätt rodnade stämband. Ytl. lgll: u.a. på halsen. Öron: u.a. bilat. Pulm: rent andningsljud utan biljud. Du bedömer det som en virusbetingad infektion med laryngit/bronchit. Du tar inga prover utan ordinerar röstvila och rekommenderar henne att använda Alvedon® för symtomlindring. Hon berättar nu att hon är så trött. Hon började känna sig trött när båda tonårsdöttrarna hade körtelfeber samtidigt för ett halvår sedan men hon har inte hämtat sig efter det. I stället har hon blivit tröttare och saknar kraft, men har ändå klarat att sköta sitt heltidsarbete som kontorist. Hon har inte haft ont någonstans. Hon undrar om hon kan få ta några prover när hon ändå är på vårdcentralen.\n\nDu funderar på differentialdiagnostiska övervägande hos din patient: Anemi, hypothyreos, nedstämdhet/oro/depression, sociala problem hemma och/eller på arbetsplatsen, diabetes, malignitet. På vårdcentralen kan du omedelbart kontrollera B-Hb, P-glukos och CRP för att grovt diskriminera mellan anemi, diabetes, infektion eller inflammation.\n\nSvaren på laboratorieproverna visar: B-Hb 109 g/L (117-153), CRP 10 mg/L (<8) och P- glukos 5,1 mmol/L. Vid kontroll mot tidigare prover visar det sig att Hb brukar vara högre: 133 för sex år sedan och 136 för fyra år sedan. Du misstänker anemi men behöver klassificera den.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Du vill klassificera anemin med avseende på storlek och funktion av benmärgen. Vilka prov behöver du då ta (ej patientnära)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Provtagningen behöver kompletteras med MCV, retikulocyter"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41-årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste dagarna. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke-rökare. Du undersöker henne och finner allmäntillståndet som gott. Du bedömer det som en virusbetingad infektion med laryngit/bronchit. Hon berättar nu att hon är så trött. Du funderar på differentialdiagnostiska övervägande hos din patient: Anemi, hypothyreos, nedstämdhet/oro/depression, sociala problem hemma och/eller på arbetsplatsen, diabetes, malignitet. På vårdcentralen kan du omedelbart kontrollera B-Hb, P-glukos och CRP för att grovt diskriminera mellan anemi, diabetes och infektion. Svaren på laboratorieproverna visar: B-Hb 119 (117-153), CRP 10 (<8) och P-glukos 5,1. Vid kontroll mot tidigare prover visar det sig att Hb brukar vara högre: 133 för sex år sedan och 136 för fyra år sedan. Du misstänker anemi men behöver klassificera den.\n\nFör att klassificera anemin som mikro- normo- eller makrocytär behöver du kontrollera MCV, vilket visar MCV 80 fL (82-98). Du har även tagit retikulocyter, som är 55 x 109 (28- 115).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Hur klassificerar du nu anemin och vad är den troligaste orsaken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mikrocytär anemi orsakad av järnbrist, absolut eller funktionell. Normala retikulocyter talar emot thalassemi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41-årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste dagarna. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke-rökare. Du undersöker henne och finner allmäntillståndet som gott. Du bedömer det som en virusbetingad infektion med laryngit/bronchit. Hon berättar nu att hon är så trött och på vårdcentralen kan du omedelbart kontrollera B-Hb, P-glukos och CRP för att grovt diskriminera mellan anemi, diabetes och infektion. Svaren på laboratorieproverna visar: B-Hb 119 (117-153), CRP 10 (<8) och P-glukos 5,1. Vid kontroll mot tidigare prover visar det sig att Hb brukar vara högre: 133 för sex år sedan och 136 för fyra år sedan. Du misstänker anemi men behöver klassificera den. För att klassificera anemin som mikro- normo- eller makrocytär behöver du kontrollera MCV, vilket visar MCV 80 (82-98). Du har även tagit retikulocyter, som är 55 (28-115).\n\nEtt lågt MCV visar att det är en mikrocytär anemi, vars orsak är järnbrist (absolut eller funktionell). Normala retikulocyter talar emot thalassemi, som också kan vara anledning till mikrocytär anemi. Du får också svar på fler prover som leder dig vidare i utredningen av anemiorsaken: P-Järn: 4 µmol/L (9-34), P-Ferritin: 8 µg/L (13 – 148), P-TIBC: 86 µmol/L (47-80), B-SR: 22 mm (<20), P-Järnmättnad: 0,05 (0,10-0,50), eGFR: 88 mL/min/1,73 m2 (80-125).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Hur vill du komplettera anamnesen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fe, TIBC, järnmättnad samt ferritin talar för att en absolut järnbrist föreligger. Du måste fråga om tarmblödning och viktnedgång, avföringsvanor. Kompletterande frågor kring kosthåll, läkemedelsanamnes (ffa NSAID) och menstruation bör också göras."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41-årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste dagarna. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke-rökare. Du undersöker henne och finner allmäntillståndet som gott. Du bedömer det som en virusbetingad infektion med laryngit/bronchit. Hon berättar nu att hon är så trött och på vårdcentralen kan du omedelbart kontrollera B-Hb, P-glukos och CRP för att grovt diskriminera mellan anemi, diabetes och infektion. Svaren på laboratorieproverna visar: B-Hb 119 (117-153), CRP 10 (<8) och P-glukos 5,1. Vid kontroll mot tidigare prover visar det sig att Hb brukar vara högre: 133 för sex år sedan och 136 för fyra år sedan. Du misstänker anemi men behöver klassificera den. För att klassificera anemin som mikro- normo- eller makrocytär behöver du kontrollera MCV, vilket visar MCV 80 (82-98). Du har även tagit retikulocyter, som är 55 (28-115). Ett lågt MCV visar att det är en mikrocytär anemi, vars orsak är järnbrist (absolut eller funktionell). Normala retikulocyter talar emot talassemi, som också kan vara anledning till mikrocytär anemi. Du får också svar på fler prover som leder dig vidare i utredningen av anemiorsaken: P-Järn: 4, (9-34), P-Ferritin: 8 (13 – 148), P- TIBC: 86 (47-80), B-SR: 22, (2-24), P-Järnmättnad: 0,05 (0,10-0,50), eGFR: 88 (80-125).\n\nVärdena på Fe, TIBC, järnmättnad samt ferritin visar att en absolut järnbrist föreligger. Du måste fråga om blödning och viktnedgång samt avföringsvanor. Kompletterande frågor kring menstruation bör också göras.\n\nPatienten berättar nu att hon haft en rejäl rektalblödning förra veckan i samband med avföring. Hon har också gått ner 5 kg i vikt utan att hålla diet men har mest sett det som positivt inför bikinisäsongen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Hur vill du nu utreda vidare direkt på vårdcentralen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du gör en palpation per rectum och en rektoskopi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Epilog\n\nDu är AT-läkare på en vårdcentral ett par mil från ett litet sjukhus. En dag söker dig en 41-årig kvinna för besvärande torrhosta och ansträngd röst sedan tio dagar, samt 38° feber de senaste dagarna. Hon har flera gånger tidigare haft liknande infektioner under vintrarna. Hon är icke-rökare. Du undersöker henne och finner allmäntillståndet som gott. Du bedömer det som en virusbetingad infektion med laryngit/bronchit. Hon berättar nu att hon är så trött och på vårdcentralen kan du omedelbart kontrollera B-Hb, P-glukos och CRP för att grovt diskriminera mellan anemi, diabetes och infektion. Svaren på laboratorieproverna visar: B-Hb 119 (117-153), CRP 10 (<8) och P-glukos 5,1. Vid kontroll mot tidigare prover visar det sig att Hb brukar vara högre: 133 för sex år sedan och 136 för fyra år sedan. Du misstänker anemi men behöver klassificera den. För att klassificera anemin som mikro- normo- eller makrocytär behöver du kontrollera MCV, vilket visar MCV 80 (82-98). Du har även tagit retikulocyter, som är 55 (28-115). Ett lågt MCV visar att det är en mikrocytär anemi, vars orsak är järnbrist (absolut eller funktionell). Normala retikulocyter talar emot talassemi, som också kan vara anledning till mikrocytär anemi. Du får också svar på fler prover som leder dig vidare i utredningen av anemiorsaken: P-Järn: 4, (9-34), P-Ferritin: 8 (13 – 148), P-TIBC: 86 (47-80), B-SR: 22, (2- 24), P-Järnmättnad: 0,05 (0,10-0,50), eGFR: 88 (80-125), F-Hb x 1: pos. Värdena på Fe, TIBC, järnmättnad samt ferritin visar att en absolut järnbrist föreligger. Detektering av blod i avföringen gör att du måste fråga om blödning och viktnedgång. Patienten berättar nu att hon haft en rejäl rektalblödning förra veckan i samband med avföring. Hon har också gått ner 5 kg i vikt utan att hålla diet men har mest sett det som positivt inför bikinisäsongen.\n\nDu gör nu en palpation per rectum och förbereder för en prokto-/rektoskopi.\n\nVid palpation per rectum noteras en hård, knölig lättblödande tumör, vars övre begränsning inte säkert kan avgöras. På grund av smärta är rectoskopi omöjligt att genomföra. Då välgrundad misstanke om rektalcancer föreligger, aktiveras standardiserat vårdförlopp (SVF) med remiss till kirurgklinik. Utredningen bekräftade en rectalcancer och operation gjordes med rectumamputation och anläggning av sigmoideostomi.\n\n85-årig man\n\nSchemalagt i din tjänstgöring på vårdcentralen finns två halvdagar då du ska bistå distriktsköterskan men också göra hembesök när det behövs. På ett av de här passen blir du uppringd av hemtjänst som säger att en av deras vårdtagare har hittats kall och livlös hemma i sin säng. Du ser i journalen att det är en 85-årig man som är välkänd på vårdcentralen, där han gått i flera år pga allt svårare hjärtinkompensation. Eftersom det i ditt ansvar ingår att göra hembesök, beger du dig till mannens hem.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Vilka lagenliga skyldigheter har du när du hittar en död person?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du skall konstatera dödsfallet, företa en yttre kroppsbesiktning samt i anslutning till det här utfärda dödsbevis. Du ansvarar också för att dödsorsaksintyg utfärdas ."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Schemalagt i din tjänstgöring på vårdcentralen finns två halvdagar då du ska bistå distriktsköterskan men också göra hembesök när det behövs. På ett av de här passen blir du uppringd av hemtjänst som säger att en av deras vårdtagare har hittats kall och livlös hemma i sin säng. Du ser i journalen att det är en 85-årig man som är välkänd på vårdcentralen, där han gått i flera år pga allt svårare hjärtinkompensation. Undersköterskan visste inte vad hon skulle göra när hon hittade mannen i sängen och i sin oro och mot sina instruktioner ringde hon polisen, som nu säger att du måste komma. Eftersom det i ditt ansvar ingår att göra hembesök, beger du dig till mannens hem.\n\nDina skyldigheter nu är att konstatera dödsfall (skall göras av läkare, Lagen om kriterier för bestämmande av människans död, 1987:269), företa en yttre kroppsbesiktning samt i anslutning till det här utfärda dödsbevis (Begravningsförordningen, 1990:1147). Du ansvarar också för att dödsorsaksintyg utfärdas.\n\nDu konstaterar att mannen är död och skriver dödsbevis.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "På vilka grunder kan ett dödsorsaksintyg skrivas?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du kan med utgångspunkt från journalen skriva dödsorsaksintyg."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Schemalagt i din tjänstgöring på vårdcentralen finns två halvdagar då du ska bistå distriktsköterskan men också göra hembesök när det behövs. På ett av de här passen blir du uppringd av hemtjänst som säger att en av deras vårdtagare har hittats kall och livlös hemma i sin säng. Du ser i journalen att det är en 85-årig man som är välkänd på vårdcentralen, där han gått i flera år pga allt svårare hjärtinkompensation. Dina skyldigheter nu är att konstatera dödsfall (skall göras av läkare, Lagen om kriterier för bestämmande av människans död, 1987:269), företa en yttre kroppsbesiktning samt i anslutning till det här utfärda dödsbevis (Begravningsförordningen, 1990:1147). Du ansvarar också för att dödsorsaksintyg utfärdas. Du konstaterar att mannen är död och skriver dödsbevis. Däremot tvekar du till att skriva dödsorsaksintyg, du känner inte mannen och hans ordinarie läkare är sjukskriven på obestämd tid.\n\nMed utgångspunkt från journalen kan du skriva dödsorsaksintyg då rör det sig om en man som är välkänd på vårdcentralen och där ingen misstanke om brott föreligger.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vart ska dödsorsaksintyget skickas och hur snabbt?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dödsorsaksintyget ska skickas till Socialstyrelsen inom tre veckor. Om inte dödsbeviset är skrivet kan inte individen begravas"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Schemalagt i din tjänstgöring på vårdcentralen finns två halvdagar då du ska bistå distriktsköterskan men också göra hembesök när det behövs. På ett av de här passen blir du uppringd av hemtjänst som säger att en av deras vårdtagare har hittats kall och livlös hemma i sin säng. Du ser i journalen att det är en 85-årig man som är välkänd på vårdcentralen, där han gått i flera år pga allt svårare hjärtinkompensation. Dina skyldigheter nu är att konstatera dödsfall (skall göras av läkare, Lagen om kriterier för bestämmande av människans död, 1987:269), företa en yttre kroppsbesiktning samt i anslutning till det här utfärda dödsbevis (Begravningsförordningen, 1990:1147). Du ansvarar också för att dödsorsaksintyg utfärdas. Du konstaterar att mannen är död och skriver dödsbevis. Däremot tvekar du till att skriva dödsorsaksintyg, du känner inte mannen och hans ordinarie läkare är sjukskriven på obestämd tid men med med utgångspunkt från journalen kan du skriva dödsorsaksintyg då rör det sig om en man som är välkänd på vårdcentralen och där ingen misstanke om brott föreligger.\n\nDu skickar dödsorsaksintyget Socialstyrelsen och det ska göras inom tre veckor, annars kan begravning inte ske. I andra fall och omständigheter kan polisanmälan vara befogat eller tvingande.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Vid vilka grupper/omständigheter av dödsfall skall en polisanmälan göras? Nämn minst fyra sådana grupper/omständigheter.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Misstanke på onaturlig (= icke-sjukdomsbetingad) död ( t.ex. mord, självmord eller olycka). Dödsfall hos kända eller misstänkta missbrukare av alkohol, läkemedel, narkotika m.m., där döden kan ha samband med missbruket. Dödsfall som misstänkes ha samband med \"felbehandling\" eller där anhöriga framfört kritik mot medicinsk handläggning. Plötsliga oväntade spädbarnsdödsfall (SIDS), även sådana som temporärt återupplivats. Dödsfall där den avlidnes identitet är okänd. Dödsfall utan vittnes närvaro och som inte kan förklaras av känd sjukdom. Dödsfall där kroppen visar framskridna förruttnelseförändringar"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Kirurgi",
+      "points": 20,
+      "intro": "65-årig kvinna Du arbetar ett kvällspass på en mellanstor akutmottagning.\n\nEn 65-årig kvinna kommer in med ambulansen efter hon har fallit i hemmet för 30 minuter sedan. Hon har varit initialt medvetslös (cirka 15 sekunder enligt maken), men därefter varit kontaktbar. Du undersöker henne på ambulansbritsen för akutrummet är upptaget med en annan patient. Hon har fri luftväg, normalt andningsljud, blodtryck på 135/85 mm Hg samt en puls på 75. Du bedömer henne som litet slö, pupiller är lika stora och reagerar på ljus. Hon har ett periorbitalt hematom samt en viss enophtalmus på vänster sida men inga sår eller andra uppenbara skador. Hon är illamående och har kräkts. Hon tar Trombyl 75mg 1x1, ingen annan medicinering.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "För vilken undersökning skriver du en akut-remiss?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT hjärna"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Du arbetar ett kvällspass på en mellanstor akutmottagning. En 65-årig kvinna kommer in med ambulansen efter hon har fallit i hemmet. Hon har varit initialt medvetslös (cirka 15 sekunder enligt maken), men därefter varit kontaktbar. Du undersöker henne på ambulansbritsen för akutrummet är upptagen men en annan patient. Hon har fri luftväg, normalt andningsljud, blodtryck på 135/85 mm Hg samt en puls på 75. Du bedömer henne som litet slö, pupiller är lika stora och reagerar på ljus. Hon har ett periorbitalt hematom samt en viss enophtalmus på vänster sida. Hon är illamående och har kräkts. Hon tar Trombyl 75mg 1x1, ingen annan medicinering.\n\nDu skriver en remiss för en CT hjärna.\n\nNär patienten kommer tillbaka från CT undersökningen har hennes neurologiska status försämrats. Hon sjunker från GCS (Glasgow coma scale) 13 till GCS 11.",
+          "contextImageUrl": "/images/exams/2017-08/page22_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilka patologiska fynd ser du på CT?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ser ett vänstersidigt intrakraniellt hematom samt sidoförskjutning av medellinjen (1p per svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du arbetar ett kvällspass på en mellanstor akutmottagning. En 65-årig kvinna kommer in med ambulansen efter hon har fallit i hemmet. Hon har varit initialt medvetslös (cirka 15 sekunder enligt maken), men därefter varit kontaktbar. Du undersöker henne på ambulansbritsen för akutrummet är upptagen men en annan patient. Hon har fri luftväg, normalt andningsljud, blodtryck på 135/85 mm Hg samt en puls på 75. Du bedömer henne som litet slö, pupiller är lika stora och reagerar på ljus. Hon har ett periorbitalt hematom samt en viss enophtalmus på vänster sida. Hon är illamående och har kräkts. Hon tar Trombyl 75mg 1x1, ingen annan medicinering. Du skriver en remiss för en CT hjärna. När patienten kommer tillbaka från CT undersökningen har hennes neurologiska status försämrats. Hon sjunker från GCS 13 till GCS 11.\n\nDu ser ett intrakraniellt hematom med medellinjeförskjutning på CT. Närmaste neurokirurgiska klinik befinner sig 6 mil bort, du tar kontakt med deras jour och avtalar transport dit.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad/vem ska finnas med under transporten?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Intubationsberedskap (personal som kan intubera måste vara med) Mannitol vid tecken på inklämning (1p per rätt svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Epilog\n\nDu arbetar ett kvällspass på en mellanstor akutmottagning. En 65-årig kvinna kommer in med ambulansen efter hon har fallit i hemmet. Hon har varit initialt medvetslös (cirka 15 sekunder enligt maken), men därefter varit kontaktbar. Du undersöker henne på ambulansbritsen för akutrummet är upptagen men en annan patient. Hon har fri luftväg, normalt andningsljud, blodtryck på 135/85 mm Hg samt en puls på 75. Du bedömer henne som litet slö, pupiller är lika stora och reagerar på ljus. Hon har ett periorbitalt hematom samt en viss enophtalmus på vänster sida. Hon är illamående och har kräkts. Hon tar Trombyl 75mg 1x1, ingen annan medicinering. Du skriver en remiss för en CT hjärna. När patienten kommer tillbaka från CT undersökningen har hennes neurologiska status försämrats. Hon sjunker från GCS 13 till GCS 11. Du ser ett intracraniellt hematom med medellinjeförskjutning på CT. Närmaste neurokirurgiska klinik befinner sig 6 mil bort, du tar kontakt med deras jour och avtalar transport dit.\n\nDu ordnar en ambulanstransport med intubationsberedskap samt Mannitol vid tecken på inklämning.\n\nPatienten försämras inte nämnvärt under transporten och läggs in på NIVA (neurointensiven). Dagen därefter görs en ny CT som kontroll vilken visar progress av hematomet. Neurokirurgerna bestämmer sig för att utrymma hematomet och opererar. Kontroll CT visar god regress.\n\n63-årig man\n\nDu arbetar på akuten och träffar en 63-årig man som klagar över en kraftig blodig avföring under förmiddagen. Han är rökare men är i stort sett frisk. Han känner sig mycket trött och orkar inte sina normala dagliga aktiviteter. Din anamnes och allmän undersökning (Pulm, Cor, Buk inklusive PR, Neurologi) förefaller utan särskilda fynd. I venös blodgas påvisas ett hemoglobin på 96 g/L som enda avvikande fynd.",
+          "contextImageUrl": "/images/exams/2017-08/page25_img1.jpeg",
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilken undersökning behöver du göra nu på undersökningsrummet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "prokto-rektoskopi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Du arbetar på akuten och träffar en 63-årig man som klagar över en kraftig blodig avföring under förmiddagen. Han är rökare, tar ibland medicin mot huvudvärk men är i stort sett frisk. Han känner sig mycket trött och orkar inte sina normala dagliga aktiviteter. Din anamnes och allmän undersökning (Pulm, Cor, Buk inkl. PR, Neurologi) förefaller utan särskilda fynd. I venös blodgas syns ett hemoglobin på 96 g/L som enda avvikande fynd.\n\nDu inspekterar och palperar rektum samt genomför en prokto- rektoskopi där du ser några små hemorrojder men ingen pågående blödning. Du skymtar svart avföring.\n\nHur går du vidare med din utredning/behandling?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Nämn två viktiga diagnostiska åtgärder samt två behandlingar/förfaranden.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb-kontroll (Diagnostik) V-sond (Diagnostik) Gastroskopi (Diagnostik) Inläggning med vätska iv och fastande (observation) PPI (Behandling) (0,5 per rätt svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Du arbetar på akuten och träffar en 63-årig man som klagar över en kraftig blodig avföring under förmiddagen. Han är rökare, tar ibland medicin mot huvudvärk men är i stort sett frisk. Han känner sig mycket trött och orkar inte sina normala dagliga aktiviteter. Din anamnes och allmän undersökning (Pulm, Cor, Buk inkl. PR, Neurologi) förefaller utan särskilda fynd. I venös blodgas syns ett hemoglobin på 96 g/L som enda avvikande fynd. Du inspekterar och palperar rektum samt genomför en prokto- rektoskopi där du ser några små hemorrojder men ingen pågående blödning. Du skymtar svart avföring.\n\nDu ordnar med en inläggning för sedvanlig övervakning med 1 liter Ringeracetat samt ordinerar V-sond, Hb-kontroll (blodgruppering och bas test), sätter in Protonpumpshämmare  och beställer en gastroskopi.\n\nGastroskopin görs 8 timmar senare och visar några små fibrinbelagda ulcerationer i ventrikeln men ingen pågående blödning. Enligt din överläkare förklarar detta fyndet inte patientens melena/blödning. Dennes hemoglobin ligger nu på 93 g/L.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Hur handlägger du patienten vidare?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb kontroll. Vid sjunkande Hb akut koloskopi. Om Hb stabilt hem med snar poliklisk koloskopi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Du arbetar på akuten och träffar en 63-årig man som klagar över en kraftig blodig avföring under förmiddagen. Han är rökare, tar ibland medicin mot huvudvärk men är i stort sett frisk. Han känner sig mycket trött och orkar inte sina normala dagliga aktiviteter. Din anamnes och allmän undersökning (Pulm, Cor, Buk, Neurologi) förefaller utan särskilda fynd. I venös blodgas syns ett hemoglobin på 96 g/L som enda avvikande fynd. Du inspekterar och palperar rektum samt genomför en prokto- rektoskopi där du ser några små hemorrojder men ingen pågående blödning. Du skymtar svart avföring med några blodstrimmor som verkar komma från tjocktarmen. Du ordnar med en inläggning för sedvanlig övervakning med 1 liter Ringeracetat samt ordinerar V-sond, Hb- kontroll (blodgruppering och bas test), sätter in Protonpumpshämmare och beställer en gastroskopi. Gastroskopin görs 8 timmar senare och visar några fibrinbelagda ulcerationer men ingen pågående blödning. Enligt din överläkare förklarar detta fyndet inte patientens melena/blödning. Dennes hemoglobin ligger nu på 93 g/L.\n\nPå grund av ett sjunkande hemoglobin beställer du en koloskopi vilket utförs nästa dag. Här hittar man en lättblödande tumörförändring i caecum vilket man tar ett vävnadsprov ifrån. Patientens Hb stiger de närmaste dagarna och när han ska hem anländer PAD-svaret. PAD visar adenocarcinom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vilken behandlingsplan lägger du upp för patienten?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Remiss till colorektal kirurgen för ställningstagande till operation CT-thorax/buk eller PET-CT (1p per svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Epilog\n\nDu arbetar på akuten och träffar en 63-årig man som klagar över en kraftig blodig avföring under förmiddagen. Han är rökare, tar ibland medicin mot huvudvärk men är i stort sett frisk. Han känner sig mycket trött och orkar inte sina normala dagliga aktiviteter. Din anamnes och allmän undersökning (Pulm, Cor, Buk, Neurologi) förefaller utan särskilda fynd. I venös blodgas syns ett hemoglobin på 96 g/L som enda avvikande fynd. Du inspekterar och palperar rektum samt genomför en prokto- rektoskopi där du ser några små hemorrojder men ingen pågående blödning. Du skymtar svart avföring med några blodstrimmor som verkar komma från tjocktarmen. Du ordnar med en inläggning samt ordinerar V-sond, Hb-kontroll, sätter in PPI och Tranexamsyra och beställer en gastroskopi. Gastroskopin görs 8 timmar senare och visar några fibrinbelagda ulcerationer men ingen pågående blödning. Enligt din överläkare förklarar detta fyndet inte patientens melena/blödning. Dennes hemoglobin ligger nu på 93 g/L.\n\nDu beställer en koloskopi vilket utförs på nästa dag. Här hittar man en lätt blödande tumörförändring i caecum vilket man tar ett px ifrån. Patientens Hb stiger de närmaste dagarna och när han ska hem anländer PAD-svaret. PAD visar colorektal cancer.\n\nDu ordnar med CT thorax/buk (att utesluta metastaser), eventuell även PET-CT samt remitterar honom vidare till colorektala kirurger. Via MDT bestämmer man sig för en högersidig hemicolektomi vilken utförs inom två veckor.\n\n43-årig kvinna\n\nEn 43-årig kvinna söker akutmottagningen pga smärtor till höger om naveln, ut mot sidan sedan igår kväll som tilltog under de sista 16 timmarna. Nu har hon även fått feber (37,8˚C) och har ej kräkts. Hon berättar att hon är frisk sedan tidigare, äter ingen medicin och har nyligen börjat att träna för att gå ner i vikt. Hon har haft liknande smärtor några enstaka gånger tidigare, oftast i samband med intag av fet mat, men de gick över spontant utan att hon behövde söka vård. Hon har inga allergier, bor ihop med sin make och har tre barn.  Hon röker inte och dricker ibland ett glas vin till helgen.\n\nStatus:\n\nAndningsfrekvens: 18 / min Saturation: 98 % i rumsluft Puls: 85 slag / min, regelbunden Blodtryck: 142 / 86 mm Hg Temperatur: 37,8˚C Urinsticka är blank samt negativ U-HCG. BMI: 31\n\nVid auskultation av lungorna hör du normala andningsljud bilateralt, inga biljud. Regelbunden hjärtrytm. Inga blåsljud. Buken inspekteras adipös, auskulteras med normala tarmljud och vid palpation klagar hon över smärta till höger om naveln. Hon spänner muskulaturen men har ingen uttalad peritonit. Hon har ingen dunkömhet över njurarna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Nämn två sannolika diagnoser och vilka blodprover du ordinerar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Cholecystit Appendicit (0,5 p per svar) CRP, Hb, Leukocyter, ASAT, ALAT, ALP, Bilirubin, S-Amylas, Elektrolyter, blodgruppering och bastest (Minst 6 svar för 1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "En 43-årig kvinna söker akutmottagningen pga smärtor till höger i buken sedan igår kväll som tilltog under de sista 16 timmarna. Nu har hon även fått feber (37,8˚C). Hon berättar att hon är frisk sedan tidigare, äter ingen medicin och har nyligen börjat att träna för att gå ner i vikt. Hon har haft liknande smärtor några enstaka gånger tidigare, oftast i samband med intag av fet mat, men de gick över spontant utan att hon behövde söka vård. Hon har inga allergier, bor ihop med sin make och har tre barn.  Hon röker inte och dricker ibland ett glas vin till helgen.\n\nStatus:\n\nAndningsfrekvens: 18 / min Saturation: 98 % i rumsluft Puls: 85 slag / min, regelbunden Blodtryck: 142 / 86 mm Hg Temperatur: 37,8˚C BMI: 31\n\nVid auskultation av lungorna hör du normala andningsljud bilateralt, inga biljud. Regelbunden hjärtrytm. Inga blåsljud. Buken inspekteras adipös, auskulteras med normala tarmljud och vid palpation klagar hon över smärta till höger om naveln. Hon spänner muskulaturen men har ingen uttalad peritonit. Hon har ingen dunkömhet över njurarna.\n\nBlodprover: CRP:            83 mg/L                             (<3) Hb:              134 g/L                             (117 - 153) Leukocyter:  12,3 x 10^9/L                    (3,5 - 8,8) Neutrofila:    10,4 x 10^9/L                    (1,7 - 8,0) ASAT:           0,9 µkat/L                         (<0,61) ALAT:           1,2 µkat/L                         (<0,76) ALP:             2,1 µkat/L                         (<1,9) Bilirubin:       32 µmol/L                         (<26) Amylas:        0,8 µkat/L                         (0,15 - 1,1) Elektrolyter:  normala",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Vilken diagnos är mest sannolik? Vilken undersökning vill du göra nu och vad blir din fortsatta handläggning?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Cholecystit Ultraljud lever och gallvägar Inläggning med smärtstillning och ställningstagande för operation (0,5 per svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "En 43-åring lätt adipös kvinna söker akutmottagningen pga smärtor till höger i buken sedan igår kväll som tilltog under de sista 16 timmarna. Nu har hon även fått feber (37,8˚C). Hon berättar att hon är frisk sedan tidigare, äter ingen medicin och har nyligen börjat att träna för att gå ner i vikt. Hon har haft liknande smärtor några enstaka gånger tidigare, oftast i samband med intag av fet mat, men de gick över spontant utan att hon behövde söka vård. Hon har inga allergier, bor ihop med sin make och har tre barn.  Hon röker inte och dricker ibland ett glas vin till helgen. Vitalparametrar: Andningsfrekvens: 18 / min Saturation: 98 % i rumsluft Puls: 85 slag / min, regelbunden Blodtryck: 142 / 86 mm Hg Temperatur: 37,8˚C Vid auskultation av lungorna hör du vesikulärt andningsljud bilateralt, inga biljud. Regelbunden hjärtrytm. Inga blåsljud. Buken inspekteras adipös, auskulteras med normala tarmljud och vid palpation klagar hon över smärta till höger. Hon spänner muskulaturen men har ingen uttalad peritonit. Hon har ingen dunkömhet över njurarna. Du misstänker en inflammatorisk process såsom cholecystit eller appendicit. Hon har lätt förhöjda infektionsparametrar samt lätt till måttlig förhöjda leverprover.\n\nDu misstänker att patienten lider av en cholecystit och skriver en remiss till ultraljudsundersökning av buken vilket visar gallstenar och tecken på cholecystit. I väntan på undersökningen har du redan planerat för inläggning och berättat för patienten att hon kan behöva opereras.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Nämn fyra riskfaktorer för gallstenar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ålder (>40 år), Kvinnligt kön, Fetma, Graviditet, Familiär och genetisk predisposition, Läkemedel (Estrogen, octreotid, clofibrate, ceftriaxone), Snabb viktnedgång, Diabetes, Höga lipider, hög bilirubin, Levercirrhos, Gallstas, Minskad fysisk aktivitet, Morbus Crohn, Hemolys (0,5 per rätt svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-10-2",
+              "text": "Nämn två allvarliga tillstånd som kan utvecklas om hon har en pågående cholecystit och inte skulle bli opererad.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sepsis, abscess, perforation, gangrän, fistel (0,5 per rätt svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-10-3",
+              "text": "Det finns även andra anledningar till cholecystit där man inte har gallstenar. Ge exempel på en sådan diagnos och ge exempel på hur den uppstår.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "akalkulös cholecystit (predisposition nyligen genomgången kirurgi (hjärt, kärl, buk), trauma, brännskador och/eller långvarig parenteral nutrition) akut emfysematös kolecystit (ovanlig, gasbildning i vävnader pga. clostridium welchii eller gasproducerande e.coli. Är överrepresenterad hos äldre diabetiker med perifer kärlsjukdom)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-11",
+          "context": "Patienten har en del riskfaktorer för gallstenar (Ålder (>40 år), Kvinnlig kön, Fetma, Graviditet, Familiär och genetisk predisposition, Läkemedel (Estrogen, octreotid, clofibrate, ceftriaxone), Snabb viktnedgång, Diabetes, Höga lipider, hög bilirubin, Levercirrhos, Gallstas, Minskad fysisk aktivitet, Morbus Crohn, Hemolys). Hon blir opererad nästa dag och har nu betydlig mindre risk att utveckla en sepsis, få en abscess, gangrän, fistel eller en perforation. Hennes cholecystit var gallstensbetingad, men hon hade också kunnat ha haft en akalkulös (predisposition nyligen genomgången kirurgi (hjärt, kärl, buk), trauma, brännskador och/eller långvarig parenteral nutrition) eller en akut emfysematös (ovanlig, gasbildning i vävnader pga. clostridium welchii eller gasproducerande e.coli. Är överrepresenterad hos äldre diabetiker med perifer kärlsjukdom) cholecystit.\n\nHon skrivs hem två dagar efter operationen och mår bra sedan dess.\n\nOm patienten hade haft följande vitalparametrar vid inkomst:\n\nAndningsfrekvens: 25 / min Saturation: 97 % i rumsluft Puls: 100 slag / min, regelbunden Blodtryck: 110 / 70 mm Hg Temperatur: 39,8˚C\n\nDu misstänker en akut cholecystit med en begynnande sepsis och vill sätta in antibiotika.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-11-1",
+              "text": "Vilka bakterier behöver antibiotikum ha effekt mot och vilket/a preparat kan vara lämpligt?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Piperacillin/Tazobaktam 4 g x 3 Preparatet ger också täckning mot enterokocker (1p per svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatri",
+      "points": 20,
+      "intro": "Karin 22 år\n\nDu gör din AT placering i psykiatri i glesbygdsområde och gör en del av din tjänstgöring på allmänpsykiatrisk mottagning i en mindre stad där du har handledning av en specialistläkare i psykiatri.\n\nDin första patient är Karin. I den korta remissen från Vårdcentralen Boklunden står följande:\n\n22-årig kvinna som besväras av ångest och tvångshandlingar. Sökte för fyra månader sedan vårdcentral och sattes in på fluoxetin. Står på 30 mg sedan åtta veckor. Besväras av biverkningar i form av huvudvärk, magbesvär och sömnstörning. Försökt att öka dosen men bara mått sämre och gått tillbaka till 30 mg. Endast marginell förbättring av tvånget, fortsatt plågad av det. Jobbar i hemtjänst som undersköterska, har sambo. Förutom fluoxetin står hon på acetylsalisylsyra p.g.a. muskelvärk samt huvudvärk. Har gått till kurator på vårdcentralen för samtal varannan vecka men vi saknar kompetens för närvarande att ge specifik terapeutisk behandling vid tvångssyndrom.  Tacksam för bedömning och ev. övertag av behandlingen.\n\nInnan du träffar patienten tänker du igenom vad du behöver ta reda på under mötet.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Om du endast fokuserar på patientens angivna läkemedel, vilka två frågor anser du är viktiga att ställa? Motivera varför du anser att det är viktigt.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fråga hur ofta hon tar ASA pga interaktion mellan detta preparat och fluoxetin. Markant ökad risk för gastrointestinal blödning. Compliance - tar hon fluoxetin enligt ordination? Det som anges som biverkningar behöver inte vara det. Magbesvär kan bero på endast ASA, huvudvärk kan vara spänningsrelaterat, sömnstörning kan bero på många olika saker. Frågor om annat än ovan nämnda kan ge 1 poäng om motiveringen är tydlig (t.ex. frågar om suicidtankar eftersom SSRI kan förvärra detta)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Med hänsyn till diagnoskriterierna för tvångssyndrom, vilka två huvudsymtom är viktiga att kartlägga vid intervjun? Hur kartlägger du dem? Ge exempel på relevant skattningsskala att använda ELLER ge exempel på specifika frågor du ställer.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tvångstankar Tvångshandlingar Adekvata frågor är frekvens av tvångshandlingar, tidsåtgång, antal upprepningar av tvångshandlingar, vad som händer om inte tvångshandlingar utförs (ökad ångest?), social eller yrkesmässig funktionsnedsättning. Y-BOCS kan användas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Karin 22 år kommer på remiss från vårdcentral till psykiatrisk mottagning p.g.a. tvångssyndrom. Hon har provat behandling med fluoxetin 30 mg dagligen med endast marginell effekt på tvånget och upplever besvärande biverkningar. Hon tar även Treo så gott som dagligen. Enligt Karin följer hon ordinationen för fluoxetin noga.\n\nKarin berättar att hon har haft visst renlighetstvång sedan hon var 14 år gammal. Till en början var det ganska lindrigt men har sedan blivit allt värre. Nu lägger hon minst 2 timmar av dagen på handtvätt och ritualer kring denna. Hon måste göra på ett visst sätt för att det ska bli rätt, annars måste hon börja om. Ofta får hon börja om flera gånger. Totalt tvättar hon sig säkert bortåt 40 gånger på en dag. Hon har inga andra tvångshandlingar utöver tvättvånget. Tvångstankarna rör rädsla för smitta och smuts. Karin skäms över sina besvär och poängterar att hon ju förstår att det är dumt men hon får så mycket ångest om hon inte följer sina ritualer. Hon verkar generellt ledsen och väldigt plågad. Hon har svårt att känna glädje, sover dåligt och har svårt att klara sitt arbete som undersköterska i hemtjänsten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilken psykiatrisk samsjuklighet är viktigast att utesluta eller bekräfta? Vilka symtom får dig att fundera kring samsjukligheten? (1p) Karin undrar över psykoterapeutisk behandling då de stödsamtal hon har haft inte har gett effekt.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vilken psykiatrisk samsjuklighet är viktigast att utesluta eller bekräfta? Vilka symtom får dig att fundera kring samsjukligheten? (1 p) Depression. Tecken på nedstämdhet, minskad glädje, sömnstörning, koncentrationsproblem. Vanligt med sekundär depressionsutveckling vid tvångssyndrom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vilken psykoterapeutisk behandling är dokumenterat mest effektiv vid tvångssyndrom? Skriv fullständigt namn.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kognitiv beteendeterapi. Enbart KBT ger halvt poäng. Exponering med responsprevention är den mest effektiva varianten av KBT vid tvångssyndrom och detta ger självklart också full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Karin 22 år kommer på remiss från vårdcentral till psykiatrisk mottagning p.g.a. tvångssyndrom. Hon har provat behandling med fluoxetin 30 mg dagligen med endast marginell effekt på tvånget och upplever besvärande biverkningar. Hon tar även Treo så gott som dagligen. Enligt Karin följer hon ordinationen för fluoxetin noga.\n\nKarin har tvättvång sedan lång tid som nu tar mycket tid i anspråk och orsakar stort lidande. Bakom tvångshandlingarna finns tvångstankar som handlar om rädsla för smitta och smuts. Det finns vissa depressiva symtom men du bedömer att de sannolikt är sekundära till tvångssyndrom och Karin uppfyller inte diagnoskriterier för depression. Hon har ibland tänkt att hon inte orkar leva så här men har aldrig haft tankar på att själv avsluta livet. Karin är intresserad av psykoterapeutisk behandling och du förklarar att KBT, exponeringsbehandling med responsprevention är den dokumenterat mest effektiva terapeutiska behandlingen mot tvångssyndrom.\n\nKarin vill bli av med sitt tvång men är rädd för att hon kommer att få så mycket ångest när hon inte ska tvätta sig att hon har svårt att klara av vardagen. Hon undrar om hon kan få någon tablett att ta vid behov när det är jobbigt för att hon ska klara av en terapi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Hur besvarar du Karins önskemål om recept. Motivera ditt svar. (2p)\n\nInnan Karin går hem diskuterar du med din handledare som föreslår en serumkoncentrationsmätning av fluoxetin med anledning av hennes svårighet att tolerera medicinen. En vecka senare har du svaret och Karin ligger långt över referensvärdet.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hur besvarar du Karins önskemål om recept. Motivera ditt svar. (2 p) Karin ska inte ha vid behovsmedicin. Hon har haft sitt tvång länge utan att ta sådan medicin. Dessutom ska hon inte medicinera vid behov när hon ska gå i terapi, det motverkar själva huvudpoängen med exponering. För full poäng ska detta resonemang föras. Förslag som innefattar förskrivning av bensodiazepiner ger 0 poäng. Förslag som handlar om icke beroendeframkallande preparat belönas inte heller med poäng om det inte förs ett resonemang om att Karin kan ta dem på vissa bestämda tider, t.ex. till natten för att få bättre sömn men inte för övrigt vid ångestframkallande situationer eftersom detta motverkar den terapeutiska behandlingen. Max 1 poäng ges för sådant förslag inkl. resonemang."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-2",
+              "text": "Nämn två rimliga förklaringar till det höga värdet förutom att det kan vara ett rent felvärde?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ej dalvärde – pat tagit tablett innan provtagningen Långsam metaboliserare (via CYP2D6). Överdosering Interaktion med annat läkemedel"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Karin 22 år kommer på remiss från vårdcentral till psykiatrisk mottagning p.g.a. tvångssyndrom. Hon har provat behandling med fluoxetin 30 mg dagligen med endast marginell effekt på tvånget och upplever besvärande biverkningar. Hon tar även Treo så gott som dagligen. Enligt Karin följer hon ordinationen för fluoxetin noga.\n\nKarin har tvättvång sedan lång tid som nu tar mycket tid i anspråk och orsakar stort lidande. Bakom tvångshandlingarna finns tvångstankar som handlar om rädsla för smitta och smuts. Du gör MINI för att få bättre grepp om förekomst av andra diagnoser. Det finns vissa depressiva symtom men du bedömer att de sannolikt är sekundära till tvångssyndrom och Karin uppfyller inte diagnoskriterier för depression. Karin är intresserad av psykoterapeutisk behandling i form av exponering med responsprevention.\n\nNi tar serumkoncentration av fluoxetin och hon ligger kraftigt förhöjt mot normalt. Du ringer henne och frågar så att hon verkligen inte tog tablett innan provtagningen men hon bedyrar att hon följde instruktionerna. Du och din handledare misstänker att hon är långsam metaboliserare av CYP2D6. Blodprov tas för genotypning av CYP2D6 och misstanken om långsam metabolisering visar sig stämma. Din handledare föreslår byte från fluoxetin som bryts ner via CYP2D6 till sertralin som bryts ner av flera enzymsystem ff.a. CYP2B6.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Nämn två faktorer avseende dos och behandlingstid som är viktiga att tänka på vid medicinering med SSRI mot tvångssyndrom.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ofta behövs relativt höga doser och det tar förhållandevis lång tid att få effekt av behandling för att få symtomreduktion jämfört med t.ex. behandling vid andra ångesttillstånd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Epilog\n\nDu träffar Karin sista gången precis innan du slutar din psykiatriplacering. Hon har trappat upp sertralin till 150 mg och tolererar det väl. Hon har kommit igång ordentligt med psykoterapi. Hennes tvång besvärar henne mindre och hon har börjat kunna tillämpa vissa strategier för att hantera ångesten. Hon har klarat av terapi utan vid behovs medicin och hon säger att det inte var så farligt som hon trodde. Huvudvärk och muskelspänningar har blivit bättre och hon har kunnat sätta ut Treo. Hon känner sig faktiskt för första gången på länge ganska hoppfull inför framtiden.\n\nSimon 25 år\n\nEfter avslutad psykiatriplacering har du som AT-läkare kommit till en liten vårdcentral. Din första patient är en 25 år gammal man som söker för ”psykiska besvär”. Någon tidigare journal finns inte att tillgå, patienten är nyligen listad på vårdcentralen.\n\nPatienten, Simon, berättar att han vill ha hjälp för sin sociala fobi, som plågat honom under många års tid. Simon uppfattar att detta problem begränsar honom i många avseenden, inte minst i yrket som elektriker. Kundmöten går oftast bra, men i kontakten med kollegorna är det svårare. På lunchrasterna kommer Simon ofta med olika förevändningar för att slippa delta i konversationerna. Han bor själv, men har en flickvän och god kontakt med anhöriga och det fåtal vänner han ibland träffar. Framförallt är det svårt att möta folk i sociala sammanhang. I större folkgrupper är han tillbakadragen och tyst, helst undviker han dem helt. Även att handla i närbutiken är svårt. Han känner sig alltid besvärad av att stå i kö och känner sig uttittad. Han undviker kommunala transporter om han kan och har slutat helt att gå på fest. Dock känner han sig inte särskilt nedstämd egentligen, även om han emellanåt kan få ångestattacker. Det var dock länge sedan sist.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vilka anamnestiska uppgifter vill du inhämta utöver de du redan fått? Nämn två och motivera kort varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alla bra förslag belönas med en halv poäng. Max 2 p. T ex frågor om hereditet, alkohol/droganamnes, symtomdebut och duration, aktuella läkemedel och somatisk sjukdom samt suicidanamnes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-2",
+              "text": "Vilka diagnostiska överväganden, utöver social fobi, har du redan nu i åtanke? Nämn två och motivera varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Här belönas alltså inte social fobi med någon poäng, däremot utmattningssyndrom, paniksyndrom, missbruksdiagnos eller personlighetssyndrom inom kluster C (schizoid personlighetsstörning eller autismdiagnos skulle också kunna ge poäng om välmotiverat). Depression kan rendera poäng om välmotiverat men AT-läkaren bör då resonera kring det faktum att Simon inte uppfattar sig som nedstämd. Bipolär sjukdom kan också accepteras med bra motivering, liksom psykossjukdom i prodromalfas. Bra förslag med motivering belönas med en poäng vardera. Om motiveringar ej givits kan max 1 poäng erhållas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Simon ger ett samlat och adekvat intryck. Han är klädd i arbetskläder och ser ganska välvårdad ut. Han luktar rök och bekräftar att han röker, kanske ett halvt paket om dagen. Han är frisk förutom att han ständigt har ont i ländryggen efter en olycka för ett antal år sedan.  Han tar Tramadol dagligen för att kupera de värsta smärtorna. Dosen varierar beroende på hur ont han har. Ibland tar han fyra tabletter dagligen, á 50 mg st. Någon direkt ärftlighet för psykiska eller fysiska sjukdomar känner han inte till och alkohol dricker han endast i sparsamma mängder. Narkotika har han aldrig använt. När du leder in samtalet på lite mer udda upplevelser han kan ha haft, idéer om att ha varit förföljd eller kanske upplevt sig styrd eller på annat sätt påverkad, tittar han roat på dig och förnekar med emfas. Inte heller har han känt sig särskilt nedstämd och han förnekar helt att han känt sig trött på livet.\n\nDu överväger olika diagnoser som kan stämma in på Simon. Han ger inget utpräglat depressivt intryck tycker du. Panikattacker får han emellanåt, men på hans beskrivning handlar det om enstaka episoder. Du uppmärksammar patientens långvariga behandling med Tramadol och undrar om Simon kan ha utvecklat en tolerans och kanske t o m ett beroende av dessa värktabletter. Du vill gärna fråga mer om detta, men märker att tiden börjar rinna iväg och vill gärna komma med ett förslag till fortsatt behandling för hans sociala fobi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilket behandlingsupplägg föreslår du Simon? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För full poäng skall en terapeutisk behandlingsmetod ingå. Farmakologisk behandling kan bli aktuell. I så fall ges endast poäng för SSRI-behandling. Förslag på vid behovs-läkemedel ger inga poäng, dock för resonemang om varför bensodiazepiner är olämpligt till denna unga patient med ett långvarigt socialfobiskt tillstånd (och som därutöver redan behandlas med ett narkotikaklassat läkemedel). Poäng ges också för resonemang för den potentiellt farliga kombinationen tramadol och SSRI-läkemedel, som kan öka risken för medevetandeförlust och kramper eller till och med serotonergt syndrom. Förslag på korrekt behandling ger 1 p och korrekt motivering ger 1 p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Du bestämmer dig för att föreslå Simon kontakt med en utbildad terapeut som arbetar på vårdcentralen och skriver således en kort internremiss där du sammanfattar Simons problem och föreslår kognitiv beteendeterapi (KBT). Du överväger att förskriva ett SSRI- läkemedel men beslutar dig för att i nuläget avstå från detta, då du känner till att tramadol i kombination med serotonergt verkande läkemedel ökar risken för kramper och serotonergt syndrom. Därför vill du gärna först diskutera med Simon vilka alternativ till denna behandling som kan finnas.\n\nSimon lyssnar intresserat på din beskrivning av behandlingsupplägget och finner det adekvat. Han uttrycker själv att han funderat och läst en del om KBT och vill gärna prova. Tramadoltabletterna vill han gärna också slippa, bara det hade funnits ett annat sätt att lindra värken. Ett stort problem att påbörja KBT ser han dock redan. Behandlingen innebär att han vid ett upprepat antal tillfällen kommer att behöva lämna arbetet tidigare, vilket inte kommer att ses med blida ögon av Simons chef och dessutom ha en negativ inverkan på hans ekonomi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vad kan du göra för att underlätta för Simon att delta i behandlingen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Frågan avser sjukskrivning. Heltidssjukskrivning ter sig olämpligt, mer risk för att försämra Simons socialfobiska besvär genom att bidra till ökad isolation. Detta resonemang belönas med en poäng. Deltidssjukskrivning är ett mindre dåligt alternativ som kan ge ett halvt poäng, liksom ett fritt formulerat intyg till arbetsgivaren. För full poäng krävs beskrivning av möjlighet för patienten att ansöka om förebyggande sjukpenning, för vilket han då behöver ett läkarutlåtande som styrker hans behov. Frågans formulering borde bidra till att svar i stil med ”ingenting”/”aktiv exspektans” eller dylikt inte förekommer (de kommer i så fall inte belönas med poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Du föreslår Simon att söka förebyggande sjukpenning och skriver ett läkarutlåtande på en för ändamålet utformad blankett. Du vill inte sjukskriva Simon då det finns en risk att detta snarare kunnat vidmakthålla hans sociala ångest och undvikande. Simon accepterar tacksamt detta förslag.\n\nSom avslutning på samtalet tar du åter upp frågan om Simons tramadolbehandling och ni kommer överens om att vid nästa besök diskutera möjliga alternativ.\n\nEfter Simons besök återknyter du till ditt tidigare resonemang kring risken att utveckla ett serotonergt syndrom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Beskriv den klassiska symtomtriaden vid serotonergt syndrom.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För full poäng krävs antingen beskrivning av symtomtriadens rubriker, dvs ökad neuromuskulär aktivitet, ökad autonom aktivitet och mental påverkan eller ett symtom inom varje område/rubrik. Två av tre symtomområden ger 1 poäng, alla tre ger 2 poäng ”Livliga reflexer, hypertermi, medvetslöshet” belönas således med sammantaget 2 poäng, medan ”hypertermi, takykardi, ångest” bara får 1 poäng"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
