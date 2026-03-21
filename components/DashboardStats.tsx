@@ -126,11 +126,6 @@ export default function DashboardStats({
         </div>
       )}
 
-      {isEmpty && (
-        <p className="text-sm text-slate-400 pt-1">
-          Välj en tenta nedan för att komma igång — statistiken dyker upp här när du är klar.
-        </p>
-      )}
     </div>
   )
 }
