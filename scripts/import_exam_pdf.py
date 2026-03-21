@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 QUESTION_ID_RE = re.compile(r"^(?:Fråga\s+)?([1-4][:.][0-9]+(?:[:.][0-9]+)?)[:.]?(?=\s|$)", re.MULTILINE)
 POINTS_RE = re.compile(r"\((\d+(?:[.,]\d+)?)\s*p\)?\.?", re.I)
 CASE_TITLE_RE = re.compile(r"Svarsförslag\s+(.+?)\s+20\s+poäng", re.I)
+CASE_TITLE_FALL_RE = re.compile(r"Svarsförslag\s+till\s+fall\s+\d+\s+[–-]\s+(.+?)\s*\(20\s*p\)", re.I)
 IMAGE_HINT_RE = re.compile(r"\b(bild|figur|röntgenbilder|ekg|se bifogade|vad visar)\b", re.I)
 
 
@@ -55,7 +56,10 @@ def extract_case_titles(answer_pdf: Path) -> List[str]:
     finally:
         doc.close()
 
-    titles = [match.group(1).strip() for match in CASE_TITLE_RE.finditer(text)]
+    titles = [match.group(1).strip() for match in CASE_TITLE_FALL_RE.finditer(text)]
+    if not titles:
+        titles = [match.group(1).strip() for match in CASE_TITLE_RE.finditer(text)]
+    titles = [re.sub(r"\s+frågan$", "", t, flags=re.I).strip().capitalize() for t in titles]
     return titles[:4]
 
 

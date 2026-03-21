@@ -7,7 +7,7 @@
     {
       "id": "1",
       "number": 1,
-      "title": "Fall 1 – Internmedicin frågan",
+      "title": "Fall 1 – Internmedicin",
       "points": 20,
       "intro": "Som AT-läkare vid en vårdcentral möter du Stefan som är 44 år och arbetar inom IT-branschen. Stefan är tidigare frisk, icke-rökare och använder ingen medicinering. Stefan önskar hjälp då han under senaste halvåret noterat tilltagande besvär av allmän trötthet, ökad törst och även noterat att han har svårare att läsa text i mobiltelefonen. En av dina misstankar är att Stefans besvär orsakas av diabetes mellitus.",
       "pages": [
@@ -157,7 +157,7 @@
     {
       "id": "2",
       "number": 2,
-      "title": "Fall 2 – Allmänmedicin frågan",
+      "title": "Fall 2 – Allmänmedicin",
       "points": 20,
       "intro": "En medvetslös man i 50-årsåldern inkommer till akutrummet 1 november via ambulans. Han hittades ”sovande” av en kvinna vid en parkbänk och hon ringde polisen. Okänd identitet.",
       "pages": [
@@ -307,7 +307,7 @@
     {
       "id": "3",
       "number": 3,
-      "title": "Fall 3 – Kirurgi frågan",
+      "title": "Fall 3 – Kirurgi",
       "points": 20,
       "intro": "Du arbetar som jour på primärvårdsakuten belägen cirka 3 km från stadens akutsjukhus en söndag eftermiddag. Risto söker med cirka 2 månaders anamnes på tidig mättnadskänsla, illamående och aptitlöshet. Han har minskat ungefär 5 kg i vikt under denna tid och väger nu 69 kg och är 180 cm lång. Han har även känt sig oförklarligt trött senaste månaden. Risto har varit frisk tidigare frånsett ett duodenalulcus som diagnosticerades för 7 år sedan. Fysikalisk undersökning inkluderande bukpalpation och lymfkörtelstatus är utan anmärkning.",
       "pages": [
@@ -502,7 +502,7 @@
     {
       "id": "4",
       "number": 4,
-      "title": "Fall 4 – Psykiatri frågan",
+      "title": "Fall 4 – Psykiatri",
       "points": 20,
       "intro": "Du är nylegitimerad läkare och vikarierar nu som underläkare på en psykiatrisk klinik på ett mindre länssjukhus. Det är lördagsmorgon, du är jourhavande psykiater och din bakjour finns i hemmet. När ditt arbetspass börjar presenteras du för 62-åriga Harriet som suttit i väntrummet någon timme tillsammans med medföljande bekant. Den bekanta personen visar sig vara Harriets vän i jaktlaget. Hon hade på morgonen kommit för att hämta Harriet till den förestående älgjakten. Harriet hade då inte klätt sig. Hon satt i köket och sade sig varken vilja eller orka delta. Vännen berättar att Harriets liv varit problematiskt senaste tiden och att Harriet genomgått en slitsam skilsmässa för åtta månader sedan. Vidare berättar hon att Harriet varit en duktig och entusiastisk jägare sedan ungdomen. När vännen nu såg Harriet på morgonen var Harriet helt mimiklös, talade långsamt och fåordigt. Vännen beslutade att ta med Harriet till den psykiatriska akutmottagningen. Du ser framför dig en åldrad och avmagrad kvinna. Du får inte mycket till kontakt, personen verkar försjunken i sig själv och mumlar om att allt hon gjort blivit galet. Du misstänker även att hon hör röster. Du gör en noggrant kroppsstatus som inte ger någon vägledning.",
       "pages": [

@@ -7,7 +7,7 @@
     {
       "id": "1",
       "number": 1,
-      "title": "Fall 1 – Fall 1",
+      "title": "Fall 1 – Allmänmedicin",
       "points": 20,
       "intro": "Fall 1 har två patientfall: Patientfall Axel och patientfall Tanja Patientfall Axel 82 år Det är maj månad och du träffar Axel, en 82-årig man som bor ensam i radhus med tillhörande trädgård. Han är känd på vårdcentralen sedan flera år och kontrolleras regelbundet för förhöjt blodtryck, paroxysmalt förmaksflimmer och typ 2-diabetes. Vid senaste besöket för tre månader sedan hos diabetessköterskan var s-kreatinin, e- GFR, B-Hb, blodtryck och HbA1c-värden normala.\n\nNu kommer han på ett akutbesök, uppmuntrad av sina barn, eftersom han känner sig tröttare än vanligt och känner sig osäker när han promenerar. De aktuella läkemedlen är; enalapril/hydrochlortiazid 20 mg/12,5 mg en tablett dagligen, apixaban 2,5 mg en tablett var morgon och kväll samt metformin 500 mg en tablett i samband med lunchen. Metformindosen har inte kunnat höjas p.g.a. mag- tarmbiverkningar.",
       "pages": [
@@ -211,7 +211,7 @@
     {
       "id": "2",
       "number": 2,
-      "title": "Fall 2 – Fall 2",
+      "title": "Fall 2 – Kirurgi",
       "points": 20,
       "intro": "På akutmottagningen på ett länssjukhus möter du Linda Svärd, 29 år. Hon söker för buksmärtor och illamående. Linda är tidigare frisk förutom att hon för tre år sedan gick igenom en laparoskopisk gastric by-pass operation med syfte att gå ner i vikt. Före ingreppet vägde hon 98 kg och i dag 62 kg; hon är själv mycket nöjd med utfallet av operationen. De aktuella smärtorna sitter i bukens övre del och startade för ca åtta timmar sedan; de kom i anslutning till måltid.\n\nStatus: AT: Smärtpåverkad, VAS 7. Temp 37,1. Cor: Ua, frekvens 110. Pulm auskulteras ua. Buk: Ömhet ovan naveln utan klar sidoskillnad; ingen peritoneal retning. PR: ua. Ingen ömhet. Lab: Hb 124 (117-153) g/L; CRP 14 (<5) mg/L; S-Na 140 (137-145) mmol/L; S-K 3,9 (3,6-4,6) mmol/L; S-Krea 66 (45-90) µmol/L.",
       "pages": [
@@ -439,7 +439,7 @@
     {
       "id": "3",
       "number": 3,
-      "title": "Fall 3 – Fall 3",
+      "title": "Fall 3 – Psykiatri",
       "points": 20,
       "intro": "Du är legitimerad underläkare på en psykiatrisk klinik. Du tjänstgör denna kväll på psykiatriska akutmottagningen.\n\nFredrik, en 34 årig-man inkommer med polis till psykiatriska akutmottagningen efter att ha tett sig uppvarvad och varit verbalt hotfull mot andra medpassagerare på en buss. Polisen har rapporterat att han uppfattades som misstänksam och lätt förvirrad under transporten. Det framkommer att patienten är bosatt i en annan region och du har därmed inte tillgång till hans journal.\n\nPatienten pratar något osammanhängande, men han nämner att SÄPO har misshandlat honom. Han vill inte prata om eventuella kontakter med psykiatrin på hemorten. Han kan inte sitta stilla och han är mycket psykomotorisk orolig. Han ter sig rädd, men även agiterad.",
       "pages": [
@@ -668,7 +668,7 @@
     {
       "id": "4",
       "number": 4,
-      "title": "Fall 4 – Fall 4",
+      "title": "Fall 4 – Internmedicin",
       "points": 20,
       "intro": "Du arbetar på medicinakuten en fredagskväll. En 70-årig kvinna som känt sig varm, hostat och varit andfådd sista dygnet har inkommit till akutmottagningen. Kontroller i triagen visar puls 100/min, BT 120/90mmHg, Temp 38°C och syremättnad 94% på luft. Man har tagit ett EKG och ber dig bedöma direkt som en del av prioriteringen.",
       "pages": [
