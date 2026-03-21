@@ -25,10 +25,10 @@ function round(value: number) {
 }
 
 const SPECIALTY_COLORS: Record<string, { card: string }> = {
-  internmedicin: { card: "bg-blue-100 border-blue-300" },
-  kirurgi:       { card: "bg-rose-100 border-rose-300" },
-  allmänmedicin: { card: "bg-emerald-100 border-emerald-300" },
-  psykiatri:     { card: "bg-violet-100 border-violet-300" },
+  internmedicin: { card: "bg-green-100 border-green-300" },
+  kirurgi:       { card: "bg-red-100 border-red-300" },
+  allmänmedicin: { card: "bg-amber-100 border-amber-300" },
+  psykiatri:     { card: "bg-purple-100 border-purple-300" },
 }
 
 function specialtyCardColor(name: string) {

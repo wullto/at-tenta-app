@@ -16,10 +16,10 @@ type ExamProgress = {
 type ProgressMap = Record<string, ExamProgress>
 
 const SPECIALTY_COLORS: Record<string, { badge: string }> = {
-  internmedicin: { badge: "bg-blue-200 text-blue-800" },
-  kirurgi:       { badge: "bg-rose-200 text-rose-800" },
-  allmänmedicin: { badge: "bg-emerald-200 text-emerald-800" },
-  psykiatri:     { badge: "bg-violet-200 text-violet-800" },
+  internmedicin: { badge: "bg-green-200 text-green-800" },
+  kirurgi:       { badge: "bg-red-200 text-red-800" },
+  allmänmedicin: { badge: "bg-amber-200 text-amber-800" },
+  psykiatri:     { badge: "bg-purple-200 text-purple-800" },
 }
 
 function specialtyColor(name: string) {

@@ -8,6 +8,22 @@ import { Exam, ExamSession } from "@/types/exam"
 import { getSession, saveScore, setSession } from "@/lib/storage"
 import { getTotalEarnedPoints, getCaseEarnedPoints } from "@/lib/scoring"
 
+const SPECIALTY_BG: Record<string, string> = {
+  internmedicin: "bg-green-50",
+  kirurgi:       "bg-red-50",
+  allmänmedicin: "bg-amber-50",
+  psykiatri:     "bg-purple-50",
+}
+
+function specialtyName(caseTitle: string): string {
+  const parts = caseTitle.split("–")
+  return parts.length > 1 ? parts[parts.length - 1].trim() : caseTitle
+}
+
+function specialtyBg(caseTitle: string): string {
+  return SPECIALTY_BG[specialtyName(caseTitle).toLowerCase()] ?? "bg-gray-50"
+}
+
 async function persistSession(examId: string, session: ExamSession) {
   await fetch(`/api/exam-progress/${examId}`, {
     method: "POST",
@@ -153,7 +169,7 @@ export default function ResultatView({
           </button>
 
           {openCases[c.id] && (
-            <div className="border border-t-0 border-gray-200 rounded-b-xl overflow-hidden">
+            <div className={`border border-t-0 border-gray-200 rounded-b-xl overflow-hidden ${specialtyBg(c.title)}`}>
               {c.pages.map((page) =>
                 page.questions.map((q) => (
                   <div key={q.id} className="border-t border-gray-100 p-5">
