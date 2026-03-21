@@ -55,8 +55,9 @@ Core entities: `Exam`, `Case`, `Page`, `Question`
 
 ### Auth / Authorization
 
-- Magic link OTP via Supabase (email → `/auth/callback`)
-- Users must be in the `allowed_users` table with `is_active=true` to save progress to DB
+- Google OAuth via Supabase (→ `/auth/callback`)
+- Users must be in the `allowed_users` table with `is_active=true` to save progress to DB and access 2016+ exams
+- **Access tiers**: 2015 exams are free for all users; 2016/2017/2018 exams require an approved account — unapproved users see them greyed out and are redirected if they navigate directly
 - Unauthorized users are logged to `access_requests` table
 - Dev login: use code `ADMIN123` (or `DEV_LOGIN_CODE`) — sets a cookie for a virtual dev user, bypasses allowed_users check
 
@@ -73,6 +74,8 @@ Schema in `supabase/user_exam_progress.sql`:
 Controlled by the `showFacitPerQuestion` prop in `ExamFlow.tsx`:
 - `false` → exam simulation (no answers shown)
 - `true` → practice mode (answer key + self-scoring per question)
+
+Self-scoring uses 0.5-point steps when `question.maxPoints` is non-integer (e.g. 2.5 → buttons 0, 0.5, 1 … 2.5), otherwise whole-number steps.
 
 ## Conventions
 
