@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation"
 import { getExamById, getExamIds } from "@/lib/exams"
+import { getProgressForExam } from "@/lib/progress"
 import ExamFlow from "./ExamFlow"
 
 export async function generateStaticParams() {
@@ -18,8 +19,17 @@ export default async function ProvPage({
   const { mode } = await searchParams
   const exam = await getExamById(examId)
   if (!exam) notFound()
+  const session = await getProgressForExam(examId)
 
   const showFacitPerQuestion = mode === "ovning"
 
-  return <ExamFlow key={exam.id} exam={exam} showFacitPerQuestion={showFacitPerQuestion} />
+  return (
+    <ExamFlow
+      key={exam.id}
+      exam={exam}
+      showFacitPerQuestion={showFacitPerQuestion}
+      initialSession={session}
+      persistRemotely={Boolean(session?.userId)}
+    />
+  )
 }

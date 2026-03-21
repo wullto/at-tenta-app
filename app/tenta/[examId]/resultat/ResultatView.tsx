@@ -1,22 +1,82 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
-import { Exam } from "@/types/exam"
-import { getAnswers, getScores, saveScore } from "@/lib/storage"
+import { useRouter } from "next/navigation"
+import { Exam, ExamSession } from "@/types/exam"
+import { getSession, saveScore, setSession } from "@/lib/storage"
 import { getTotalEarnedPoints, getCaseEarnedPoints } from "@/lib/scoring"
 
-export default function ResultatView({ exam }: { exam: Exam }) {
-  const [answers] = useState<Record<string, string>>(() => getAnswers(exam.id))
-  const [scores, setScores] = useState<Record<string, number>>(() => getScores(exam.id))
+async function persistSession(examId: string, session: ExamSession) {
+  await fetch(`/api/exam-progress/${examId}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(session),
+  })
+}
+
+export default function ResultatView({
+  exam,
+  initialSession = null,
+  persistRemotely = false,
+}: {
+  exam: Exam
+  initialSession?: ExamSession | null
+  persistRemotely?: boolean
+}) {
+  const router = useRouter()
+  const seedSession = initialSession ?? getSession(exam.id)
+  const [answers] = useState<Record<string, string>>(() => seedSession?.answers ?? {})
+  const [startedAt] = useState(seedSession?.startedAt ?? new Date().toISOString())
+  const [scores, setScores] = useState<Record<string, number>>(() => seedSession?.scores ?? {})
   const [openCases, setOpenCases] = useState<Record<string, boolean>>(() =>
     exam.cases[0] ? { [exam.cases[0].id]: true } : {}
   )
 
+  useEffect(() => {
+    if (initialSession) {
+      setSession(exam.id, initialSession)
+    }
+  }, [exam.id, initialSession])
+
+  async function syncSession(nextScores: Record<string, number>) {
+    const nextSession: ExamSession = {
+      examId: exam.id,
+      answers,
+      scores: nextScores,
+      startedAt,
+      completedAt: initialSession?.completedAt ?? new Date().toISOString(),
+    }
+    setSession(exam.id, nextSession)
+    if (persistRemotely) {
+      await persistSession(exam.id, nextSession)
+    }
+  }
+
+  async function handleGoHome() {
+    await syncSession(scores)
+    router.push("/")
+    router.refresh()
+  }
+
   function handleScore(questionId: string, score: number) {
     saveScore(exam.id, questionId, score)
-    setScores((prev) => ({ ...prev, [questionId]: score }))
+    setScores((prev) => {
+      const nextScores = { ...prev, [questionId]: score }
+      const nextSession: ExamSession = {
+        examId: exam.id,
+        answers,
+        scores: nextScores,
+        startedAt,
+        completedAt: initialSession?.completedAt ?? new Date().toISOString(),
+      }
+      setSession(exam.id, nextSession)
+      if (persistRemotely) {
+        void persistSession(exam.id, nextSession)
+      }
+      return nextScores
+    })
   }
 
   function toggleCase(caseId: string) {
@@ -161,12 +221,12 @@ export default function ResultatView({ exam }: { exam: Exam }) {
         >
           Gör om tentan
         </Link>
-        <Link
-          href="/"
+        <button
+          onClick={handleGoHome}
           className="bg-gray-100 text-gray-700 px-5 py-3 rounded-lg text-sm font-medium hover:bg-gray-200 transition-colors"
         >
           Tillbaka till startsidan
-        </Link>
+        </button>
       </div>
     </div>
   )

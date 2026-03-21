@@ -1,14 +1,16 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import { useRouter } from "next/navigation"
 import Image from "next/image"
-import { Exam, Case, Page } from "@/types/exam"
-import { saveAnswer, saveScore, getAnswers, getScores, completeExam } from "@/lib/storage"
+import { Exam, Case, ExamSession, Page } from "@/types/exam"
+import { createEmptySession, getSession, saveAnswer, saveScore, setSession } from "@/lib/storage"
 
 interface ExamFlowProps {
   exam: Exam
   showFacitPerQuestion?: boolean
+  initialSession?: ExamSession | null
+  persistRemotely?: boolean
 }
 
 type StepType = { caseIndex: number; pageIndex: number }
@@ -23,13 +25,44 @@ function buildSteps(exam: Exam): StepType[] {
   return steps
 }
 
-export default function ExamFlow({ exam, showFacitPerQuestion = false }: ExamFlowProps) {
+async function persistSession(examId: string, session: ExamSession) {
+  await fetch(`/api/exam-progress/${examId}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(session),
+  })
+}
+
+function buildSession(examId: string, startedAt: string, answers: Record<string, string>, scores: Record<string, number>, completedAt?: string) {
+  return {
+    examId,
+    answers,
+    scores,
+    startedAt,
+    completedAt,
+  }
+}
+
+export default function ExamFlow({
+  exam,
+  showFacitPerQuestion = false,
+  initialSession = null,
+  persistRemotely = false,
+}: ExamFlowProps) {
   const router = useRouter()
   const steps = buildSteps(exam)
+  const seedSession = initialSession ?? getSession(exam.id) ?? createEmptySession(exam.id)
   const [stepIndex, setStepIndex] = useState(0)
-  const [localAnswers, setLocalAnswers] = useState<Record<string, string>>(() => getAnswers(exam.id))
-  const [localScores, setLocalScores] = useState<Record<string, number>>(() => getScores(exam.id))
+  const [startedAt] = useState(seedSession.startedAt)
+  const [localAnswers, setLocalAnswers] = useState<Record<string, string>>(seedSession.answers)
+  const [localScores, setLocalScores] = useState<Record<string, number>>(seedSession.scores)
   const [revealedFacit, setRevealedFacit] = useState<Record<string, boolean>>({})
+
+  useEffect(() => {
+    if (initialSession) {
+      setSession(exam.id, initialSession)
+    }
+  }, [exam.id, initialSession])
 
   const current = steps[stepIndex]
   const currentCase: Case = exam.cases[current.caseIndex]
@@ -48,18 +81,42 @@ export default function ExamFlow({ exam, showFacitPerQuestion = false }: ExamFlo
     setRevealedFacit((prev) => ({ ...prev, [questionId]: !prev[questionId] }))
   }
 
-  function handleScore(questionId: string, score: number) {
-    saveScore(exam.id, questionId, score)
-    setLocalScores((prev) => ({ ...prev, [questionId]: score }))
+  async function syncSession(completedAt?: string) {
+    const nextSession = buildSession(exam.id, startedAt, localAnswers, localScores, completedAt)
+    setSession(exam.id, nextSession)
+    if (persistRemotely) {
+      await persistSession(exam.id, nextSession)
+    }
   }
 
-  function handleNext() {
+  async function handleGoHome() {
+    await syncSession()
+    router.push("/")
+    router.refresh()
+  }
+
+  function handleScore(questionId: string, score: number) {
+    saveScore(exam.id, questionId, score)
+    setLocalScores((prev) => {
+      const nextScores = { ...prev, [questionId]: score }
+      const nextSession: ExamSession = buildSession(exam.id, startedAt, localAnswers, nextScores)
+      setSession(exam.id, nextSession)
+      if (persistRemotely) {
+        void persistSession(exam.id, nextSession)
+      }
+      return nextScores
+    })
+  }
+
+  async function handleNext() {
     currentPage.questions.forEach((q) => {
       saveAnswer(exam.id, q.id, localAnswers[q.id] ?? "")
     })
 
+    const completedAt = isLastStep ? new Date().toISOString() : undefined
+    await syncSession(completedAt)
+
     if (isLastStep) {
-      completeExam(exam.id)
       router.push(`/tenta/${exam.id}/resultat`)
     } else {
       setStepIndex((i) => i + 1)
@@ -69,6 +126,15 @@ export default function ExamFlow({ exam, showFacitPerQuestion = false }: ExamFlo
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
+      <div className="sticky top-4 z-20 mb-5 flex justify-start">
+        <button
+          onClick={handleGoHome}
+          className="rounded-full border border-slate-200 bg-white/95 px-4 py-2 text-sm font-semibold tracking-[0.18em] text-slate-900 shadow-sm backdrop-blur hover:bg-slate-50"
+        >
+          Hem
+        </button>
+      </div>
+
       {/* Header */}
       <div className="flex items-center justify-between mb-2">
         <span className="text-sm font-medium text-gray-600">{currentCase.title}</span>
