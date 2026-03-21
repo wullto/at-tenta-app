@@ -42,7 +42,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                ""
+                "Bedömning av allmäntillstånd (andningsfrekvens, hudfärg, bensvullnad), auskultation hjärta och lungor, blodtryck sittande/stående, ögonbottenundersökning, nervstatus (reflexer, grov kraft, sensibilitet, Romberg, diadochokinesis, finger-näs)."
               ],
               "facitExplanation": null,
               "tags": []
@@ -187,7 +187,7 @@
               "hint": null,
               "imageUrl": "/images/exams/2019-11/page10_img1.jpeg",
               "facit": [
-                ""
+                "EKG visar högerbelastning."
               ],
               "facitExplanation": null,
               "tags": []

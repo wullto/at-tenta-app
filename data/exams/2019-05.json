@@ -1031,7 +1031,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                ""
+                "Kroppsvikt (kg) och procent bränd kroppsyta. Parklands formel: 2-4 ml x kg x % bränd yta."
               ],
               "facitExplanation": null,
               "tags": []
@@ -1043,7 +1043,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                ""
+                "460-920 ml (0,5p per rätt svar enligt Parklands formel: 2-4 ml x kg x % bränd kroppsyta)."
               ],
               "facitExplanation": null,
               "tags": []
@@ -1055,7 +1055,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                ""
+                "Halva mängden ges under de första 8 timmar och andra halvan under de följande 16 timmar."
               ],
               "facitExplanation": null,
               "tags": []
@@ -1086,7 +1086,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                ""
+                "Smärtstillning för barnet och bandagering av brännskadan för att undvika sekundärinfektion."
               ],
               "facitExplanation": null,
               "tags": []
@@ -1098,7 +1098,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                ""
+                "Kontakt med närmaste brännskadecentrum (Uppsala eller Linköping) och efterfråga om de ska ta över patienten."
               ],
               "facitExplanation": null,
               "tags": []
