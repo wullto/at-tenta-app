@@ -3,38 +3,25 @@
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import { Exam } from "@/types/exam"
-import { getSession } from "@/lib/storage"
+import { getClearedAt, getSession, subscribeToSessionChanges } from "@/lib/storage"
 import { getCaseEarnedPoints, getTotalEarnedPoints } from "@/lib/scoring"
+import { getSpecialtyTheme, specialtyName } from "@/lib/specialties"
+import { getSessionTimestamp } from "@/lib/session-utils"
 
 type Status = "completed" | "in-progress"
 
 type ExamProgress = {
   status: Status
   scores: Record<string, number>
+  updatedAt?: string
 }
 
 type ProgressMap = Record<string, ExamProgress>
-
-const SPECIALTY_COLORS: Record<string, { badge: string }> = {
-  internmedicin: { badge: "bg-green-200 text-green-800" },
-  kirurgi:       { badge: "bg-red-200 text-red-800" },
-  allmänmedicin: { badge: "bg-amber-200 text-amber-800" },
-  psykiatri:     { badge: "bg-purple-200 text-purple-800" },
-}
-
-function specialtyColor(name: string) {
-  return SPECIALTY_COLORS[name.toLowerCase()] ?? { badge: "bg-slate-100 text-slate-500" }
-}
 
 function examLabel(date: string): string {
   const d = new Date(date + "T12:00:00")
   const s = d.toLocaleDateString("sv-SE", { month: "long", year: "numeric" })
   return s.charAt(0).toUpperCase() + s.slice(1)
-}
-
-function specialtyName(caseTitle: string): string {
-  const parts = caseTitle.split("–")
-  return parts.length > 1 ? parts[parts.length - 1].trim() : caseTitle
 }
 
 export default function ExamList({
@@ -60,21 +47,53 @@ export default function ExamList({
   }))
 
   useEffect(() => {
-    const map: ProgressMap = {}
-    exams.forEach((exam) => {
-      const session = getSession(exam.id)
-      if (session) {
-        map[exam.id] = {
-          status: session.completedAt ? "completed" : "in-progress",
-          scores: session.scores,
+    function buildLocalProgressMap() {
+      const map: ProgressMap = {}
+      exams.forEach((exam) => {
+        const session = getSession(exam.id)
+        if (session) {
+          map[exam.id] = {
+            status: session.completedAt ? "completed" : "in-progress",
+            scores: session.scores,
+          }
         }
-      }
-    })
-    setLocalProgressMap(map)
+      })
+      return map
+    }
+
+    const refresh = () => {
+      setLocalProgressMap(buildLocalProgressMap())
+    }
+
+    refresh()
+    return subscribeToSessionChanges(refresh)
   }, [exams])
 
-  // Server data takes priority over localStorage
-  const progressMap: ProgressMap = { ...localProgressMap, ...serverProgressMap }
+  const progressMap: ProgressMap = Object.fromEntries(
+    exams.flatMap((exam) => {
+      const local = localProgressMap[exam.id]
+      const server = serverProgressMap[exam.id]
+
+      if (local) {
+        return [[exam.id, local]]
+      }
+
+      if (!server) {
+        return []
+      }
+
+      const clearedAt = getClearedAt(exam.id)
+      if (clearedAt) {
+        const clearedTimestamp = new Date(clearedAt).getTime()
+        const serverTimestamp = getSessionTimestamp(server)
+        if (!Number.isNaN(clearedTimestamp) && clearedTimestamp >= serverTimestamp) {
+          return []
+        }
+      }
+
+      return [[exam.id, server]]
+    })
+  )
 
   function toggleYear(year: string) {
     setOpenYears((prev) => ({ ...prev, [year]: !prev[year] }))
@@ -113,9 +132,10 @@ export default function ExamList({
                   const isLocked = !hasAccess && !exam.id.startsWith("2015")
                   const progress = progressMap[exam.id]
                   const status = progress?.status
+                  const isCompleted = status === "completed"
                   const scores = progress?.scores ?? {}
                   const hasProgress = !!progress
-                  const totalEarned = hasProgress ? getTotalEarnedPoints(scores) : null
+                  const totalEarned = isCompleted ? getTotalEarnedPoints(scores) : null
 
                   if (isLocked) {
                     return (
@@ -136,7 +156,7 @@ export default function ExamList({
                           {exam.cases.map((c) => {
                             const name = specialtyName(c.title)
                             return (
-                              <span key={c.id} className={`rounded px-2 py-1 text-xs ${specialtyColor(name).badge}`}>
+                              <span key={c.id} className={`rounded px-2 py-1 text-xs ${getSpecialtyTheme(name).badge}`}>
                                 {name}
                               </span>
                             )
@@ -159,7 +179,7 @@ export default function ExamList({
                         </div>
                         <div className="flex flex-col items-end gap-2">
                           <span className="rounded-full bg-slate-100 px-3 py-1 text-sm font-medium text-slate-700">
-                            {hasProgress ? (
+                            {isCompleted ? (
                               <>{totalEarned} / {exam.totalPoints} p</>
                             ) : (
                               <>{exam.totalPoints} p</>
@@ -181,8 +201,8 @@ export default function ExamList({
                       <div className="mt-4 flex flex-wrap gap-2">
                         {exam.cases.map((c) => {
                           const name = specialtyName(c.title)
-                          const color = specialtyColor(name).badge
-                          if (!hasProgress) {
+                          const color = getSpecialtyTheme(name).badgeStrong
+                          if (!isCompleted) {
                             return (
                               <span key={c.id} className={`rounded px-2 py-1 text-xs ${color}`}>
                                 {name}

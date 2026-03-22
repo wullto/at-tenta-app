@@ -2,8 +2,13 @@ import Link from "next/link"
 import { notFound, redirect } from "next/navigation"
 import { getExamById, getExamIds } from "@/lib/exams"
 import { getAuthorizedUser } from "@/lib/authz"
+import { getProgressForExam } from "@/lib/progress"
 import ModeSelector from "./ModeSelector"
 import ClearExamButton from "@/components/ClearExamButton"
+import ResumeExamPanel from "@/components/ResumeExamPanel"
+import ExamProgressBar from "@/components/ExamProgressBar"
+import { getSpecialtyTheme, specialtyName } from "@/lib/specialties"
+import { getTotalQuestionCount } from "@/lib/session-utils"
 
 export async function generateStaticParams() {
   const examIds = await getExamIds()
@@ -18,8 +23,8 @@ export default async function TentaIntroPage({ params }: { params: Promise<{ exa
   }
   const exam = await getExamById(examId)
   if (!exam) notFound()
-
-  const totalQuestions = exam.cases.flatMap((c) => c.pages.flatMap((p) => p.questions)).length
+  const progress = await getProgressForExam(examId)
+  const totalQuestions = getTotalQuestionCount(exam)
 
   return (
     <main className="max-w-2xl mx-auto px-4 py-12">
@@ -31,31 +36,29 @@ export default async function TentaIntroPage({ params }: { params: Promise<{ exa
       <p className="text-gray-500 mb-8">{exam.date}</p>
 
       <div className="bg-white border border-gray-200 rounded-xl p-6 mb-6">
-        <h2 className="font-semibold mb-4">Tentainformation</h2>
-        <dl className="grid grid-cols-2 gap-3 text-sm">
-          <div>
-            <dt className="text-gray-500">Totalpoäng</dt>
-            <dd className="font-medium">{exam.totalPoints} p</dd>
-          </div>
-          <div>
-            <dt className="text-gray-500">Antal fall</dt>
-            <dd className="font-medium">{exam.cases.length}</dd>
-          </div>
-          <div>
-            <dt className="text-gray-500">Antal frågor</dt>
-            <dd className="font-medium">{totalQuestions}</dd>
-          </div>
-          <div>
-            <dt className="text-gray-500">Poäng per fall</dt>
-            <dd className="font-medium">{exam.cases[0]?.points} p / fall</dd>
-          </div>
-        </dl>
+        <h2 className="font-semibold mb-4">Tentaöversikt</h2>
+
+        <ExamProgressBar examId={examId} totalQuestions={totalQuestions} serverSession={progress} />
+
+        <div className="flex flex-wrap gap-2">
+          {exam.cases.map((examCase) => {
+            const name = specialtyName(examCase.title)
+            return (
+              <span
+                key={examCase.id}
+                className={`rounded-full px-3 py-1 text-xs font-medium ${getSpecialtyTheme(name).badgeStrong}`}
+              >
+                {name}
+              </span>
+            )
+          })}
+        </div>
       </div>
 
       <div className="mb-8">
-        <h2 className="font-semibold mb-3">Välj läge</h2>
-        <ModeSelector examId={examId} />
-        <ClearExamButton examId={examId} />
+        <ResumeExamPanel examId={examId} totalQuestions={totalQuestions} serverSession={progress} />
+        <ModeSelector examId={examId} serverSession={progress} />
+        <ClearExamButton examId={examId} serverSession={progress} />
       </div>
 
       <div>

@@ -1,36 +1,47 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { useRouter } from "next/navigation"
-import { clearSession, getSession } from "@/lib/storage"
+import { ExamSession } from "@/types/exam"
+import { clearSession, subscribeToSessionChanges } from "@/lib/storage"
+import { getEffectiveSession } from "@/lib/session-utils"
 
-export default function ClearExamButton({ examId }: { examId: string }) {
-  const router = useRouter()
-  const [hasProgress, setHasProgress] = useState(false)
-  const [status, setStatus] = useState<"completed" | "in-progress" | null>(null)
+export default function ClearExamButton({
+  examId,
+  serverSession = null,
+}: {
+  examId: string
+  serverSession?: ExamSession | null
+}) {
+  const [session, setSession] = useState<ExamSession | null>(null)
+  const [clearing, setClearing] = useState(false)
 
   useEffect(() => {
-    const session = getSession(examId)
-    if (session) {
-      setHasProgress(true)
-      setStatus(session.completedAt ? "completed" : "in-progress")
+    const refresh = () => {
+      setSession(getEffectiveSession(examId, serverSession))
     }
-  }, [examId])
 
-  if (!hasProgress) return null
+    refresh()
+    return subscribeToSessionChanges(refresh)
+  }, [examId, serverSession])
+
+  const hasProgress = Boolean(session)
+  const status = session ? (session.completedAt ? "completed" : "in-progress") : null
+
+  if (clearing || !hasProgress) return null
 
   async function handleClear() {
     if (!confirm("Rensa alla svar och poäng för den här tentan? Det går inte att ångra.")) return
 
+    setClearing(true)
     clearSession(examId)
 
     await fetch(`/api/exam-progress/${examId}`, { method: "DELETE" }).catch(() => {
       // Ignore errors — user may not be authenticated
     })
 
-    setHasProgress(false)
-    setStatus(null)
-    router.refresh()
+    setSession(null)
+    setClearing(false)
+    window.location.reload()
   }
 
   return (

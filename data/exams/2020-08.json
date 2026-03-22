@@ -1,0 +1,960 @@
+{
+  "id": "2020-08",
+  "title": "AT-prov augusti 2020",
+  "date": "2020-08-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour. När du hälsar på Gunilla noterar du fynd enligt nedan.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2020-08/page2_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-1",
+              "text": "Ange fyra uppgifter som du vill komplettera anamnesen med utifrån differentialdiagnostiska överväganden. Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med anledning av ikterus är det rimligt att penetrera uppgifter om riskfaktorer för akut och kronisk virushepatit (0,5p) (utlandsresor, ikterus hos personer i omgivningen, intravenöst narkotikamissbruk, tidigare blodtransfusioner och oskyddat tillfälligt sexuellt umgänge). Läkemedelsanamnesen gås igenom (0,5p), det är viktigt att inte bara ta reda på vilka mediciner som patienten dagligen tar. En lång rad läkemedel som brukar intas vid behov eller i kortare perioder kan ge leverskador. Detta gäller även \"naturläkemedel\" och hälsokostprodukter. Nuvarande och tidigare alkoholkonsumtion (0,5p) analyseras.\n\nÖvriga frågor som är motiverade är uppgifter om hereditet (0,5p) och riktade frågor om gallstenssjukdomen (0,5p) (anfall av buksmärtor, lokalisation av buksmärtor, måltidsassocierade buksmärtor). Med hänsyn till patientens anamnes kan det vara rimligt att misstänka malignitet (0,5p). Således är riktade frågor avseende symtom från specifika organsystem (mag-tarmkanalen, andningsorganen, urogenitala organ) också indicerade."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt. Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Ögon: Ikteriska sclerae.\n\nInom kort anländer svar på blodprover: Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15-1,10 µkat/L), CRP 7 (<3 mg/L).\n\nIkterus indelas traditionellt i prehepatisk, hepatisk och posthepatisk.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2",
+              "text": "Mot bakgrund av vad som hittills framkommit, hur bedömer du sannolikheten för respektive typ av ikterus enligt klassifikationen ovan? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hyperbilirubinemin är konjugerad och sannolikheten för prehepatisk ikterus är därmed obefintlig. Vid posthepatisk ikterus brukar de kolestatiska markörerna (ALP/GT) vara mer förhöjda än de hepatocellulära (ASAT/ALAT) varför sannolikheten i detta fall är lägre. Hepatisk ikterus är således mest sannolik."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt.  Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Ögon: Ikteriska sclerae. Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L).\n\nDu bedömer att analysresultaten i första hand talar för hepatisk ikterus.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3",
+              "text": "Vilken undersökning är rimlig att genomföra i akutskedet?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ultraljud buk alt. DT buk"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott.\n\nGunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2– 4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt.  Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Ögon: Ikteriska sclerae. Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L). Du bedömer att analysresultaten i första hand talar för hepatisk ikterus.\n\nUtlåtande - Ultraljud buk: Leverparenkymet har ordinär ekogenicitet utan fokala förändringar. Enstaka förstorade körtlar i leverhilus. Ett konkrement i gallblåsan, som är oretad. Normalvida gallvägar intra- och extrahepatiskt. Normalt flöde i v. porta och vv. hepaticae. Mjälten, pancreas, njurarna utan anmärkning. Ingen ascites.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4",
+              "text": "Förändrar svaret på ultraljudsundersökningen din tidigare slutsats angående mest sannolik genes till ikterus hos Gunilla? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej. Det faktum att leverparenkymet har ordinärt utseende utesluter inte hepatisk ikterus eftersom inflammation och/eller nekroser i leverparenkymet inte kan påvisas med ultraljud eller DT. Det finns förvisso ett konkrement i gallblåsan men sannolikheten att gallstenssjukdom är orsaken till ikterus är låg mot bakgrund av att gallvägarna inte är vidgade. De förstorade lymfkörtlarna i leverhilus kan mycket väl förklaras av uttalad inflammation i levern."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt. Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Ögon: Ikteriska sclerae. Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L). Du bedömer att analysresultaten i första hand talar för hepatisk ikterus.\n\nUltraljud buk: Leverparenkymet har ordinär ekogenicitet utan fokala förändringar. Enstaka förstorade körtlar i leverhilus. Ett konkrement i gallblåsan, som är oretad. Normalvida gallvägar intra- och extrahepatiskt. Normalt flöde i v. porta och vv. hepaticae. Mjälten, pancreas, njurarna utan anmärkning. Ingen ascites.\n\nDin bedömning om sannolik hepatisk genes till ikterus kvarstår. Du ringer därför medicinbakjouren för att diskutera fortsatt handläggning. För att kunna ta ställning till den fortsatta handläggningen efterfrågar bakjouren om Gunilla har akut leversvikt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5",
+              "text": "Vilka två parametrar värderar du för att kunna svara bakjouren? Vad svarar du bakjouren? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "De mest väsentliga parametrarna vid värdering av om akut leversvikt föreligger är patientens mentala status (leverencefalopati?) och PK(INR). I detta fall ter sig patientens mentala status opåverkat (v g se allmäntillstånd) och PK(INR) är enbart marginellt\n\nstegrat. PK(INR) >1,5 brukar anges som arbiträr gräns för akut leversvikt. Bedömningen blir således att patienten i nuläget inte har akut leversvikt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt.  Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning.\n\nHb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L). Du bedömer att analysresultaten i första hand talar för hepatisk ikterus. Ögon: Ikteriska sclerae. Ultraljud buk: Leverparenkymet har ordinär ekogenicitet utan fokala förändringar. Enstaka förstorade körtlar i leverhilus. Ett konkrement i gallblåsan, som är oretad. Normalvida gallvägar intra- och extrahepatiskt. Normalt flöde i v. porta och vv. hepaticae. Mjälten, pancreas, njurarna utan anmärkning. Ingen ascites. Du ringer medicinbakjouren för att diskutera fortsatt handläggning.\n\nBedömningen blir att Gunilla inte har akut leversvikt och hon blir därför inlagd på vårdavdelning utan förhöjd övervakningsnivå. I samband med inläggningen tas kompletterande blodprover.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6",
+              "text": "Vilka specifika blodprover vill du beställa för att påvisa orsaken till Gunillas ikterus?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Anti-HAV (0,5p), HBsAg (IgM Anti-HBc) (0,5p), anti-HCV (0,5p), anti-HEV (0,5p) för att utesluta viral hepatit, leverrelaterade autoantikroppar (ANA eller SMA måste anges) (0,5p), plasmaproteinfraktionering (elfores) (0,5p). Man kan också tänka sig att analysera PEth (alkoholöverkonsumtion?), ceruloplasmin (Wilsons sjukdom?) och järnstatus inkl. ferritin (hemokromatos?)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt.  Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L). Du bedömer att analysresultaten i första hand talar för hepatisk ikterus. Ögon: Ikteriska sclerae.\n\nUltraljud buk: Leverparenkymet har ordinär ekogenicitet utan fokala förändringar. Enstaka förstorade körtlar i leverhilus. Ett konkrement i gallblåsan, som är oretad. Normalvida gallvägar intra- och extrahepatiskt. Normalt flöde i v. porta och vv. hepaticae. Mjälten, pancreas, njurarna utan anmärkning. Ingen ascites. Bedömningen blir att Gunilla inte har akut leversvikt och hon blir därför inlagd på vårdavdelning utan förhöjd övervakningsnivå.\n\nDe första provsvaren som anländer är från mikrobiologiska laboratoriet: anti-HAV IgG PÅVISADE anti-HAV IgM, ej påvisade HBsAg, ej påvisade anti-HCV, ej påvisade anti-HEV, ej påvisade",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7",
+              "text": "Tolka provsvaren. Föranleder provsvaren några specifika åtgärder?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det finns inga hållpunkter för infektion med hepatit B-virus (och därmed inte för infektion med hepatit D-virus), hepatit C-virus eller hepatit E-virus. IgM-antikroppar mot hepatit A-virus saknas vilket innebär att aktuell infektion är osannolik. IgG-antikropparna mot hepatit A-virus talar för tidigare genomgången infektion eller vaccination. Patientens ikterus är således i nuläget oförklarad och utredningen behöver fortsätta."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Gunilla, 59 år, arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt.  Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L). Du bedömer att analysresultaten i första hand talar för hepatisk ikterus. Ögon: Ikteriska sclerae.\n\nUltraljud buk: Leverparenkymet har ordinär ekogenicitet utan fokala förändringar. Enstaka förstorade körtlar i leverhilus. Ett konkrement i gallblåsan, som är oretad. Normalvida gallvägar intra- och extrahepatiskt. Normalt flöde i v. porta och vv. hepaticae. Mjälten, pancreas, njurarna utan anmärkning. Ingen ascites.\n\nBedömningen blir att Gunilla inte har akut leversvikt och hon blir därför inlagd på vårdavdelning utan förhöjd övervakningsnivå.\n\nDet finns inga hållpunkter för infektion med hepatit B-virus, hepatit C-virus eller hepatit E-virus. IgG-antikroppar mot hepatit A-virus, men frånvaro av IgM- antikroppar, talar för tidigare genomgången infektion eller vaccination.\n\nSedermera anländer ytterligare provsvar: PEth <0,05 (<0,05 µmol/L), ceruloplasmin 0,34 (0,16 -0,45 g/L). Positiv kornig ANA. IgG-antikroppar mot glatt muskelantigen påvisade i hög titer (1/1280). Anti- mitokondriella antikroppar (AMA-M2) ej påvisade. Plasmaproteinfraktionering visar lätt förhöjt alfa-1-antitrypsin och hög nivå IgG. Övriga immunglobuliner utan anmärkning. Ingen M-komponent.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8",
+              "text": "Vilken diagnos är nu sannolik? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Autoimmun hepatit är mycket sannolik. Leverprover visar påtagliga stegringar av aminotransferaser utan tecken till kolestas. IgG är förhöjt och man påvisar såväl ANA som antikroppar mot glatt muskelantigen vilket är vanligt vid autoimmun hepatit. Dessutom är patienten av kvinnligt kön, hepatitserologier är negativa, hon överkonsumerar ej alkohol och har ej intagit potentiellt hepatotoxiska läkemedel. Dessa faktorer stöder också diagnosen autoimmun hepatit."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Gunilla, 59 år, barn arbetar som biomedicinsk analytiker vid klinisk mikrobiologi på samma länssjukhus där du för närvarande tjänstgör som AT-läkare. Sedan tre månader tillbaka har Gunilla haft en successivt tilltagande trötthet. Matlusten har försämrats, hon har mått illa och känt ett obehag i övre delen av buken. Sannolikt har hon gått ned ett par kilo i vikt. När hon idag återkom från sommarens semesterledighet uppmärksammade Gunillas kollegor att hon förändrats till utseendet och övertalade henne att uppsöka akutmottagningen där du idag arbetar som dagjour.\n\nGunilla diagnostiserades med hypotyreos i 40-årsåldern och några år senare med hypertoni. För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Gunilla återkom från en semesterresa i Turkiet för en vecka sedan dit hon åkte med en kollega, som vad hon vet inte har utvecklat symtom. Gunilla har aldrig rökt och hon uppger att hon konsumerar 2–4 glas vin per vecka. Hon har tidigare inte haft några lever- eller gallvägssjukdomar eller maligna sjukdomar. Hereditärt framkommer inget av intresse.\n\nAT: Ikterisk, vaken, orienterad, ingen svarslatens. Lgll: Palperas utan anmärkning cervikalt, axillärt, supraklavikulärt och inguinalt.  Mammae: Normalfynd bilateralt. Hjärta: Regelbunden rytm 70/min, inga biljud. Lungor: Normala andningsljud bilateralt, ingen dämpning. BT: 130/86 mmHg. Buk: Normalkonfigurerad, lättare ömhet i epigastriet ut mot höger arcus, inga resistenser, levern och mjälten ej palpabla, ingen flankdämpning, inga vågslag. Per rectum: Normalfynd. Hud: Ikterisk men i övrigt utan anmärkning. Ögon: Ikteriska sclerae. Hb 149 (117-153 g/L), LPK 9,2 (3,5-8,8 x109/L), TPK 290 (165-390 x109/L), Natrium 138 (137-144 mmol/L), Kalium 3,8 (3,5-4,4 mmol/L), Kreatinin 94 (50-90 µmol/L), Bilirubin 129 (<26 µmol/L), Bilirubin (konj) 117 (<4 µmol/L), ALP 3,1 (0,6-1,9 µkat/L), ALAT 25 (<0,76 µkat/L), ASAT 12 (<0,61 µkat/L), GT 2,4 (1,3 µkat/L), Albumin 34 (36-45 g/L), PK(INR) 1,3 (<1,2), Pankreasamylas 0,9 (0,15- 1,10 µkat/L), CRP 7 (<3 mg/L). Du bedömer att analysresultaten i första hand talar för hepatisk ikterus.\n\nUltraljud buk: Leverparenkymet har ordinär ekogenicitet utan fokala förändringar. Enstaka förstorade körtlar i leverhilus. Ett konkrement i gallblåsan, som är oretad. Normalvida gallvägar intra- och extrahepatiskt. Normalt flöde i v. porta och vv. hepaticae. Mjälten, pancreas, njurarna utan anmärkning. Ingen ascites. Bedömningen blir att Gunilla inte har akut leversvikt och hon blir därför inlagd på vårdavdelning utan förhöjd övervakningsnivå.\n\nDet finns inga hållpunkter för aktuell viral hepatit. PEth <0,05 (<0,05 µmol/L), ceruloplasmin 0,34 (0,16 -0,45 g/L). Positiv kornig ANA. IgG-antikroppar mot glatt muskelantigen påvisade i hög titer (1/1280). Anti-mitokondriella antikroppar (AMA-M2) ej påvisade.). Plasmaproteinfraktionering visar lätt förhöjt alfa-1-antitrypsin och hög nivå IgG. Övriga immunglobuliner utan anmärkning. Ingen M-komponent.\n\nDen kliniska och laboratoriemässiga bilden talar starkt för autoimmun hepatit. Man påvisar ANA, antikroppar mot glatt muskelantigen och förhöjt IgG vilka är vanliga fynd vid autoimmun hepatit. Dessutom är patienten av kvinnligt kön, hepatitserologier är negativa, hon överkonsumerar ej alkohol och har ej intagit potentiellt hepatotoxiska läkemedel. Dessa faktorer stöder också diagnosen autoimmun hepatit.\n\nGunilla genomgår leverbiopsi som visar fynd förenliga med autoimmun hepatit. Hon blir insatt på hög dos prednisolon, som successivt trappas ned till underhållsdosen 5 mg/d. I remissionsbevarande syfte blir hon också insatt på det immunsuppressiva läkemedlet azatioprin 75 mg/d. Osteoporosprofylax ges med Calcichew® D3 1+0+1.\n\nÖvrig medicinering kvarstår oförändrad. Leverproverna normaliseras och Gunilla är åter i habitualtillstånd.\n\nI samband med planerat återbesök på mottagningen 18 månader senare berättar Gunilla att hon sedan två månader tillbaka känt sig trött och hon blir lätt andfådd när hon anstränger sig. I övrigt har hon inga symtom. Laboratorieprover visar fortsatt normala leverprover samt normala värden för CRP, elektrolyter och kreatinin. Blodstatus visar: Hb 92 (117-153 g/L), MCV 83 (82-98 fL), MCH 28 (27-33 pg) LPK 3,5 (3,5-8,8 x109/L), TPK 172 (165-390 x109/L).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9",
+              "text": "Vilka kompletterande blodprover vill du beställa mot bakgrund av ovanstående fynd?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                " järn, transferrin, ferritin  kobalamin  folat  haptoglobin eller LD  retikulocyter  blodutstryk"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Gunilla, 59 år, söker på akutmottagningen pga. ikterus. Hon diagnostiserades med hypotyreos i 40- årsåldern och några år senare med hypertoni.  För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Hon blir inlagd för utredning vilken påvisar autoimmun hepatit. Gunilla får initialt behandling med hög dos prednisolon, som successivt trappas ned till underhållsdosen 5 mg/d. I remissionsbevarande syfte blir hon också insatt på det immunsuppressiva läkemedlet azatioprin 75 mg/d. Osteoporosprofylax ges med Calcichew® D3 1+0+1. Övrig medicinering kvarstår oförändrad. Leverproverna normaliseras och Gunilla är åter i habitualtillstånd.\n\nI samband med planerat återbesök på mottagningen 18 månader senare berättar Gunilla att hon sedan två månader tillbaka känt sig trött och hon blir lätt andfådd när hon anstränger sig. I övrigt har hon inga symtom. Laboratorieprover visar fortsatt normala leverprover samt normala värden för CRP, elektrolyter och kreatinin. Blodstatus visar: Hb 92 (117-153 g/L), MCV 83 (82-98 fL), MCH 28 (27-33 pg) LPK 3,5 (3,5-8,8 x109/L), TPK 172 (165-390 x109/L).\n\nProvsvar visar: Järn 5 (9-34 µmol/L), transferrin 3,7 (1,8-3,4 g/L), transferrinmättnad (järnmättnad) 8% (20-55%), ferritin 6 (13-130 µg/L), folat 17 (>7 nmol/L). kobalamin 430 (150- 700 pmol/L), haptoglobin 0,98 (0,24-1,9 g/L), retikulocyter 25 (20-100 x109/L).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10",
+              "text": "Mot bakgrund av vad som framkommit hittills, vad ter sig som den mest rimliga förklaringen till Gunillas anemi?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Järnbristanemi förefaller mest troligt. Det som dock är något atypiskt för järnbristanemi är att MCV och MCH är inom referensintervallet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Gunilla, 59 år, söker på akutmottagningen pga. ikterus. Hon diagnostiserades med hypotyreos i 40- årsåldern och några år senare med hypertoni.  För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Hon blir inlagd för utredning vilken påvisar autoimmun hepatit. Gunilla får initialt behandling med hög dos prednisolon, som successivt trappas ned till underhållsdosen 5 mg/d. I remissionsbevarande syfte blir hon också insatt på det immunsuppressiva läkemedlet azatioprin 75 mg/d. Osteoporosprofylax ges med Calcichew® D3 1+0+1. Övrig medicinering kvarstår oförändrad. Leverproverna normaliseras och Gunilla är åter i habitualtillstånd.\n\nI samband med planerat återbesök på mottagningen 18 månader senare berättar Gunilla att hon sedan två månader tillbaka känt sig trött och hon blir lätt andfådd när hon anstränger sig. I övrigt har hon inga symtom. Laboratorieprover visar fortsatt normala leverprover samt normala värden för CRP, elektrolyter och kreatinin.\n\nBlodstatus visar: Hb 92 (117-153 g/L), MCV 83 (82-98 fL), MCH 28 (27-33 pg) LPK 3,5 (3,5-8,8 x109/L), TPK 172 (165-390 x109/L). Järn 5 (9-34 µmol/L), transferrin 3,7 (1,8-3,4 g/L), transferrinmättnad (järnmättnad) 8% (20-55%), ferritin 6 (13-130 µg/L), folat 17 (>7 nmol/L). kobalamin 430 (150-700 pmol/L), haptoglobin 0,98 (0,24-1,9 g/L), retikulocyter 25 (20-100 x109/L).\n\nJärnbristanemi förefaller mest troligt. Det som dock är något atypiskt för järnbristanemi är att MCV och MCH är inom referensintervallet. Förklaringen till detta ses när svar på Gunillas blodutstryk erhålls.",
+          "contextImageUrl": "/images/exams/2020-08/page13_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-11",
+              "text": "Hur benämns det patologiska fyndet avseende erytrocyterna som illustreras i bilden och hur kan detta förklara att MCV är inom referensområdet.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bilden illustrerar en påtaglig storleksvariation av erytrocyterna s.k. anisocytos (alt. ökad red cell distribution width (RDW)). En del erytrocyter är små, andra är stora vilket medför att ”medelvolymen”, dvs. MCV, är inom referensområdet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-12",
+          "context": "Gunilla, 59 år, söker på akutmottagningen pga. ikterus. Hon diagnostiserades med hypotyreos i 40- årsåldern och några år senare med hypertoni.  För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Hon blir inlagd för utredning vilken påvisar autoimmun hepatit. Gunilla får initialt behandling med hög dos prednisolon, som successivt trappas ned till underhållsdosen 5 mg/d. I remissionsbevarande syfte blir hon också insatt på det immunsuppressiva läkemedlet azatioprin 75 mg/d. Osteoporosprofylax ges med Calcichew® D3 1+0+1. Övrig medicinering kvarstår oförändrad. Leverproverna normaliseras och Gunilla är åter i habitualtillstånd.\n\nI samband med planerat återbesök på mottagningen 18 månader senare berättar Gunilla att hon sedan två månader tillbaka känt sig trött och hon blir lätt andfådd när hon anstränger sig. I övrigt har hon inga symtom. Laboratorieprover visar fortsatt normala leverprover samt normala värden för CRP, elektrolyter och kreatinin. Blodstatus visar: Hb 92 (117-153 g/L), MCV 83 (82-98 fL), MCH 28 (27-33 pg) LPK 3,5 (3,5-8,8 x109/L), TPK 172 (165-390 x109/L).\n\nJärn 5 (9-34 µmol/L), transferrin 3,7 (1,8-3,4 g/L), transferrinmättnad (järnmättnad) 8% (20-55%), ferritin 6 (13-130 µg/L), folat 17 (>7 nmol/L). kobalamin 430 (150-700 pmol/L), haptoglobin 0,98 (0,24-1,9 g/L), retikulocyter 25 (20-100 x109/L).\n\nJärnbristanemi förefaller mest troligt. Det som dock är något atypiskt för järnbristanemi är att MCV och MCH är inom referensintervallet.\n\nDet finns en påtaglig storleksvariation beträffande erytrocyterna s.k. anisocytos (alt. ökad red cell distribution width (RDW)). En del erytrocyter är små, andra är stora vilket medför att till exempel ”medelvolymen”, dvs. MCV, är inom referensområdet.\n\nSamtidig förekomst av mikro- och makrocytos kan alltså ge upphov till MCV inom referensområdet. Mikrocytos hos Gunilla orsakas av järnbrist.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-12",
+              "text": "Vilken är den mest sannolika orsaken till makrocytos hos Gunilla?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gunilla medicinerar med azatioprin som interfererar med DNA- syntesen och hämmar celldelningen av i synnerhet snabbt prolifierande celler, i likhet med vad som exempelvis sker vid brist på kobalamin och folat.  Kobalamin och folat är inom referensområdet varför brist på dessa vitaminer rimligen inte kan vara förklaringen. Alkoholöverkonsumtion är osannolik (tidigare anamnes och normalt PEth talar mot detta)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-13",
+          "context": "Gunilla, 59 år, söker på akutmottagningen pga. ikterus. Hon diagnostiserades med hypotyreos i 40- årsåldern och några år senare med hypertoni.  För tre år sedan hade hon en episod av amaurosis fugax och opererades med endartärektomi i höger carotis. Hon medicinerar med Acetylsalicylsyra 75 mg 1+0+0, Enalapril 20 mg 1+0+0, Atorvastatin 80 mg 1+0+0 och Levaxin® (levotyroxin) 100 µg 1+0+0. Hon har intagit enstaka Novaluzid® den senaste veckan men inga naturläkemedel eller kosttillskott. Hon blir inlagd för utredning vilken påvisar autoimmun hepatit.\n\nGunilla får initialt behandling med hög dos prednisolon, som successivt trappas ned till underhållsdosen 5 mg/d. I remissionsbevarande syfte blir hon också insatt på det immunsuppressiva läkemedlet azatioprin 75 mg/d. Osteoporosprofylax ges med Calcichew® D3 1+0+1. Övrig medicinering kvarstår oförändrad. Leverproverna normaliseras och Gunilla är åter i habitualtillstånd.\n\nI samband med planerat återbesök på mottagningen 18 månader senare berättar Gunilla att hon sedan två månader tillbaka känt sig trött och hon blir lätt andfådd när hon anstränger sig. I övrigt har hon inga symtom. Laboratorieprover visar fortsatt normala leverprover samt normala värden för CRP, elektrolyter och kreatinin.\n\nBlodstatus visar: Hb 92 (117-153 g/L), MCV 83 (82-98 fL), MCH 28 (27-33 pg) LPK 3,5 (3,5-8,8 x109/L), TPK 172 (165-390 x109/L). Järn 5 (9-34 µmol/L), transferrin 3,7 (1,8-3,4 g/L), transferrinmättnad (järnmättnad) 8% (20-55%), ferritin 6 (13-130 µg/L), folat 17 (>7 nmol/L). kobalamin 430 (150-700 pmol/L), haptoglobin 0,98 (0,24-1,9 g/L), retikulocyter 25 (20-100 x109/L).\n\nJärnbristanemi förefaller mest troligt. Det som dock är något atypiskt för järnbristanemi är att MCV och MCH är inom referensintervallet.\n\nDet finns en påtaglig storleksvariation beträffande erytrocyterna s.k. anisocytos (alt. ökad red cell distribution width (RDW)). En del erytrocyter är små, andra är stora vilket medför att till exempel ”medelvolymen”, dvs. MCV, är inom referensområdet.\n\nSamtidig förekomst av mikro- och makrocytos kan alltså ge upphov till MCV inom referensområdet. Mikrocytos hos Gunilla orsakas av järnbrist.\n\nI Gunillas fall är den mest sannolika orsaken till makrocytos medicinering med azatioprin. Fyndet av makrocytos får således anses vara förväntat och behöver inte utredas vidare. Den nytillkomna järnbristen behöver dock utredas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-13",
+              "text": "Vilken undersökning skulle du remittera Gunilla till först för att utreda orsaken till järnbristanemin. Ange bara en undersökning och motivera varför du prioriterar just denna undersökning.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nytillkommen järnbristanemi hos en postmenopausal kvinna innebär att utredning för att påvisa gastrointestinal blödningskälla måste initieras, även i frånvaro av gastrointestinala symtom. De flesta, och mest allvarliga, blödningskällorna finns i kolon/rektum samt inom gastroskopets räckvidd. I Gunillas fall är det rimligt att börja utredningen med gastroskopi eftersom det faktum att hon medicinerar med kombinationen acetylsalicylsyra och prednisolon ger påtagligt ökad risk för ulcerationer i övre gastrointestinalkanalen. Även leversjukdomen i sig ger ökad sannolikhet för övre gastrointestinal blödningskälla (t ex via portal hypertension). Skulle blödningskälla inte återfinnas vid gastroskopi ska man självfallet komplettera utredningen med koloskopi alt DT kolon."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatri",
+      "points": 20,
+      "intro": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer efter att själv ha ringt ambulans. Han har bara en timme tidigare drabbats av hjärtklappning och obehag i bröstet, kvävningskänsla och upplevelse av att han inte kan andas. Det har sedan eskalerat med yrsel och kallsvettning och stickningar i händer och armar. Det kändes som att han höll på att dö. Nu har det lugnat sig men Donald är fortfarande påtagligt besvärad och rädd för att det håller på att hända något allvarligt med honom. Han är samtidigt matt och känner sig ostadig men är fullt vaken och orienterad.\n\nDet visar sig att ambulansen hämtat Donald i liknande tillstånd tre gånger tidigare de senaste veckorna och senast igår. Varje gång har man undersökt honom noggrant på akutmottagningen utan några fynd av somatisk sjukdom och konstaterat att han är frisk och har inga tidigare somatiska sjukdomar. Han har varit nykter och urinprov har inte visat några spår av droger.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1",
+              "text": "Vilket är det psykiatriska tillstånd som upprepat drabbat Donald? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Panikattack. Plötsligt påkommen attack, hjärtklappning, obehag i bröstet, kvävningskänsla, känsla av att han inte kan andas, yrsel, dödsskräck, rädd för att mista kontrollen (något allvarligt håller på att hända)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer efter att själv ha ringt ambulans. Han har bara en timme tidigare drabbats av hjärtklappning och obehag i bröstet, kvävningskänsla och upplevelse av att tappa andan. Det har sedan eskalerat med yrsel och kallsvettning och stickningar i händer och armar. Det kändes som att han höll på att dö. Nu har det lugnat sig men Donald är fortfarande påtagligt besvärad och rädd för att det håller på att hända något allvarligt med honom. Han är samtidigt matt och känner sig ostadig men är fullt vaken och orienterad. Det visar sig att ambulansen hämtat Donald i liknande tillstånd tre gånger tidigare de senaste veckorna och senast igår. Varje gång har man undersökt honom noggrant på akutmottagningen utan några fynd av somatisk sjukdom och konstaterat att han är frisk och har inga tidigare somatiska sjukdomar. Han har varit nykter och urinprov har inte visat några spår av droger.\n\nDu förstår att Donald drabbats av panikattacker och misstänker att han kan ha utvecklat ett paniksyndrom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Minst ett av två möjliga symptom eller företeelser utöver återkommande och oväntade panikattacker föreligger vid diagnosen paniksyndrom. Vilka?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Minst en av attackerna har under minst 1 månad åtföljts av ett eller bägge av följande: 1. Ihållande oro eller ängslan för att få ytterligare attacker eller för följderna av attackerna. 2. En betydande och maladaptiv beteendeförändring med anledning av attackerna (t ex beteenden som syftar till att undvika att få panikattacker såsom undvikande av fysisk ansträngning eller obekanta situationer)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilken är den rekommenderade förstahandsbehandlingen vid paniksyndrom?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kognitiv beteendeterapi (KBT) KBT ges individuellt, i grupp eller förmedlad via internet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Vilken vårdnivå är adekvat vid paniksyndrom? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Primärvård. Ångestsyndrom är mycket vanliga och endast primärvård har kapacitet att erbjuda tillgänglighet.  För majoriteten av fallen är vård via primärvården tillräcklig. Vid otillräcklig effekt av behandling, svårare fall med hög grad av samsjuklighet och låg funktionsnivå bör remittering till psykiatrisk mottagning övervägas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer efter att själv ha ringt ambulans. Han har bara en timme tidigare drabbats av hjärtklappning och obehag i bröstet, kvävningskänsla och upplevelse av att tappa andan. Det har sedan eskalerat med yrsel och kallsvettning och stickningar i händer och armar. Det kändes som att han höll på att dö. Nu har det lugnat sig men Donald är fortfarande påtagligt besvärad och rädd för att det håller på att hända något allvarligt med honom. Han är samtidigt matt och känner sig ostadig men är fullt vaken och orienterad. Det visar sig att ambulansen hämtat Donald i liknande tillstånd tre gånger tidigare de senaste veckorna och senast igår. Varje gång har man undersökt honom noggrant på akutmottagningen utan några fynd av somatisk sjukdom och konstaterat att han är frisk och har inga tidigare somatiska sjukdomar. Han har varit nykter och urinprov har inte visat några spår av droger.\n\nDonald har en ihållande oro för att få nya attacker och har slutat gå hemifrån på egen hand för att inte riskera få nya attacker och inte kunna tillkalla hjälp. Du konstaterar att Donald har ett fullt utvecklat paniksyndrom och planerar skicka remiss till hans vårdcentral för kognitiv beteendeterapi (KBT). Eftersom Donald har påtagliga besvär och påverkan av paniksyndromet tänker du att det nog är bäst att dessutom behandla farmakologiskt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilken är den farmakologiska förstahandsbehandlingen vid paniksyndrom och vilken mekanism verkar den genom?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SSRI, hämmar selektivt återupptaget av signalsubstansen serotonin i synapsen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Redogör för hur du genomför psykoedukation i Donalds fall.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förklara vad diagnosen betyder och att panikattackerna i sig är ofarliga. De är en i grunden frisk stress- eller rädsloreaktion som utlöses felaktigt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer efter att själv ha ringt ambulans. Han har bara en timme tidigare drabbats av hjärtklappning och obehag i bröstet, kvävningskänsla och upplevelse av att tappa andan. Det har sedan eskalerat med yrsel och kallsvettning och stickningar i händer och armar. Det kändes som att han höll på att dö. Nu har det lugnat sig men Donald är fortfarande påtagligt besvärad och rädd för att det håller på att hända något allvarligt med honom. Han är samtidigt matt och känner sig ostadig men är fullt vaken och orienterad. Det visar sig att ambulansen hämtat Donald i liknande tillstånd tre gånger tidigare de senaste veckorna och senast igår. Varje gång har man undersökt honom noggrant på akutmottagningen utan några fynd av somatisk sjukdom och konstaterat att han är frisk och har inga tidigare somatiska sjukdomar. Han har varit nykter och urinprov har inte visat några spår av droger. Donald har en ihållande oro för att få nya attacker och har slutat gå hemifrån på egen hand för att inte riskera få nya attacker och inte kunna tillkalla hjälp. Du konstaterar att Donald har ett fullt utvecklat paniksyndrom och planerar skicka remiss till hans vårdcentral för kognitiv beteendeterapi (KBT). Eftersom Donald har påtagliga besvär och påverkan av paniksyndromet tänker du att det nog är bäst att dessutom behandla farmakologiskt.\n\nDu tycker att din plan avseende fortsatt handläggning är adekvat och tänker bara stämma av med din bakjour innan du effektuerar din plan. Du blir snopen när bakjouren ställer frågor om Donald och hans tillstånd, frågor du inte kan svara på. Diagnosen paniksyndrom kan förvisso stämma men det finns differentialdiagnostiska alternativ eller komorbida tillstånd som behöver uteslutas. Du får i uppgift att inhämta en fullständig anamnes och värdera psykiatriskt status.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4",
+              "text": "Nämn två alternativa ångestsyndrom som Donald kan ha och vad du behöver fråga om för att kunna styrka eller utesluta respektive diagnos.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Agorafobi – ångest inför vissa situationer? Social fobi – ångest i samband med sociala situationer, att bli granskad, iakttagen, behöva framträda? Generaliserat ångestsyndrom (GAD) – överdriven oro (förväntansångest) inför ett antal olika händelser eller aktiviteter flertalet dagar under en längre period?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer med ambulans, i efterförloppet till en panikattack. Det är fjärde gången på några veckor som Donald larmar för liknande besvär. Varje tidigare gång har han friats somatiskt på akutmottagningen. Han är somatiskt tidigare frisk. Han har varit nykter och urinprov har inte visat några spår av droger. Donald har en ihållande oro för att få nya attacker och har slutat gå hemifrån på egen hand för att inte riskera få nya attacker och inte kunna tillkalla hjälp. Det ser ut som ett paniksyndrom och du planerar skicka remiss för kognitiv beteendeterapi (KBT) och funderar på att behandla farmakologiskt.\n\nDu får bakläxa av din bakjour då du missat undersöka differentialdiagnostiska alternativ eller komorbida tillstånd som behöver uteslutas. Du får i uppgift att inhämta en fullständig anamnes och värdera psykiatriskt status.\n\nDonalds mamma har nu anslutit och hjälper till med anamnesen då Donald inte är så talför. Donald har sedan några månader mått dåligt, är ständigt trött och svag och har tappat intresset för det mesta. Han är rädd för att dö när han får panikattackerna men annars känns det som att det skulle vara skönt att få slippa leva. Han ser ner på hur han brukar vara. Det är meningslöst och han tror att andra tycker han är en fjant. Framtiden känns hopplös. Han är nedstämd. Enligt mamman är han i dagsläget långt ifrån sitt vanliga jag vilket märks direkt när man träffar honom då han har svårt att bestämma sig och verkar tankspridd.\n\nDu konstaterar att det misstänkta paniksyndromet snarare är en del av den samlade symptombilden vid den depression du nu starkt misstänker.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Är diagnosen egentlig depression enligt DSM-5 uppfylld? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ja. Minst fem av nio symptom har förelegat under samma 2- veckorsperiod varav nedstämdhet eller minskat intresse måste föreligga. Donald är nedstämd, har minskat intresse, är ständigt trött, ser ner på sig själv, är obeslutsam/verkar tankspridd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Vilka diagnostiska kriterier för egentlig depression enligt DSM-5 saknas det information om?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Betydande viktförändring eller aptitpåverkan och sömnstörning. Tankar på döden och suicidalitet samt psykomotorisk agitation eller hämning finns det information om men otillräckligt för att avgöra om dessa kriterier är uppfyllda."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer med ambulans, i efterförloppet till en panikattack. Det är fjärde gången på några veckor som Donald larmar för liknande besvär. Varje tidigare gång har han friats somatiskt på akutmottagningen. Han är somatiskt tidigare frisk. Han har varit nykter och urinprov har inte visat några spår av droger. Donald har en ihållande oro för att få nya attacker och har slutat gå hemifrån på egen hand för att inte riskera få nya attacker och inte kunna tillkalla hjälp. Det ser ut som ett paniksyndrom och du planerar skicka remiss för kognitiv beteendeterapi (KBT) och funderar på att behandla farmakologiskt. Du får bakläxa av din bakjour då du missat undersöka differentialdiagnostiska alternativ eller komorbida tillstånd som behöver uteslutas. Du får i uppgift att inhämta en fullständig anamnes och värdera psykiatriskt status.\n\nDonalds mamma har nu anslutit och hjälper till med anamnesen då Donald inte är så talför. Donald har sedan några månader mått dåligt, är ständigt trött och svag och har tappat intresset för det mesta. Han är rädd för att dö när han får panikattackerna men annars känns det som att det skulle vara skönt att få slippa leva. Han ser ner på hur han brukar vara. Det är meningslöst och han tror att andra tycker han är en fjant. Framtiden känns hopplös. Han är nedstämd. Enligt mamman är han i dagsläget långt ifrån sitt vanliga jag vilket märks direkt när man träffar honom då han har svårt att bestämma sig och verkar tankspridd.\n\nDonald har en egentlig depression vilket blir ännu klarare när du också får veta att han haft svårt att sova och ofrivilligt gått ner i vikt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Nämn tre hämningssymptom som kan förekomma i psykiskt status i samband med egentlig depression. (1p) Donalds mamma berättar vidare att hon äter själv antidepressiv medicin. Hans moster äter litium. Hans morfar tog livet av sig i samband med en s k cykloid psykos. Donald hade för ett par år sedan en period då han mådde dåligt med upprepade panikattacker. Han fick då antidepressiv medicin som på en vecka gjorde honom bättre men sedan istället konstig med en massa idéer om att bli framgångsrik och han behövde knappt sova. Flickvännen fick honom att sluta med tabletterna eftersom hon blev orolig och trött på hans impulsiva beteende, ständiga prat och ökade intresse för andra tjejer. Det hela klingade sedan av.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Psykomotorisk hämning, långsam i rörelse, tal och tanke, mimik, ambivalens, svarslatens, kognitiv tröghet, känslolöshet"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Vad, i anamnesen talar för att han kan lida av bipolär sjukdom snarare än endast depression? Ange tre faktorer och motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Herediteten, den tidigare snabba antidepressiva effekten och sedan switch till misstänkt maniformt tillstånd"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer med ambulans, i efterförloppet till en panikattack. Det är fjärde gången på några veckor som Donald larmar för liknande besvär. Varje tidigare gång har han friats somatiskt på akutmottagningen. Han är somatiskt tidigare frisk. Han har varit nykter och urinprov har inte visat några spår av droger. Donald har en ihållande oro för att få nya attacker och har slutat gå hemifrån på egen hand för att inte riskera få nya attacker och inte kunna tillkalla hjälp. Det ser ut som ett paniksyndrom. Donalds mamma hjälper till med anamnesen då Donald inte är så talför. Donald har hereditet för affektiv sjukdom och morfar suiciderade. Donald har haft en tidigare episod med misstänkt depression och samtidiga panikattacker och behandlade då med antidepressiv medicin som hade oväntat snabb effekt och gav en switch över till ett misstänkt maniformt tillstånd.\n\nNu har han åter en depression som triggat igång nya panikattacker. Han är rädd för att dö när han får panikattackerna men annars känns det som att det skulle vara skönt att få slippa leva. Han ser ner på hur han brukar vara. Det är meningslöst och han tror att andra tycker han är en fjant. Framtiden känns hopplös. Han är nedstämd.\n\nDu tänker att Donald kommer behöva behandlas med stämningsstabiliserande medicin i förebyggande syfte.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7",
+              "text": "Vilka två läkemedelsgrupper utöver litium används som stämningsstabiliserande?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Neuroleptika/antipsykotika och antiepileptika, endast exempel på mediciner ger inga poäng"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer med ambulans, i efterförloppet till en panikattack. Det är fjärde gången på några veckor som Donald larmar för liknande besvär. Varje tidigare gång har han friats somatiskt på akutmottagningen. Han är somatiskt tidigare frisk. Han har varit nykter och urinprov har inte visat några spår av droger. Donald har en ihållande oro för att få nya attacker och har slutat gå hemifrån på egen hand för att inte riskera få nya attacker och inte kunna tillkalla hjälp. Det ser ut som ett paniksyndrom. Donalds mamma hjälper till med anamnesen då Donald inte är så talför. Donald har hereditet för affektiv sjukdom och morfar suiciderade i samband med misstänkt depression. Donald har haft en tidigare episod med misstänkt depression och samtidiga panikattacker och behandlade då med antidepressiv medicin som hade oväntat snabb effekt och gav en switch över till ett misstänkt maniformt tillstånd. Nu har han åter en depression som triggat igång nya panikattacker. Han är rädd för att dö när han får panikattackerna men annars känns det som att det skulle vara skönt att få slippa leva. Han ser ner på hur han brukar vara. Det är meningslöst och han tror att andra tycker han är en fjant. Framtiden känns hopplös. Han är nedstämd.\n\nDonald blir inlagd då han har en depression och då suicidrisk inte kan uteslutas. Han har ätit och druckit dåligt de senaste dagarna. Han säger inte mycket och tar tid på sig att svara även på enkla frågor. Han vill stanna då han känner sig tryggare på sjukhuset än hemma med tanke på panikattackerna men kan inte riktigt bestämma sig. Då han tidigare haft en atypisk reaktion på antidepressiv medicin, med misstänkt switch till mani/hypomani, tänker du att det är tveksamt att sätta in en liknande behandling, i alla fall utan samtidig stämningsstabiliserande behandling. Du vet att den antiepileptiska medicinen lamotrigin kan användas som stämningsstabiliserande och främst förebygger depressiva episoder vid bipolär sjukdom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vilken biverkan är det viktigt att vara observant på vid insättning av lamotrigin?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Allvarliga hudreaktioner som Stevens-Johnsons syndrom, toxisk epidermal nekrolys"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-8-2",
+              "text": "Vad är viktigt att tänka på vid insättning av lamotrigin för att minimera risken för denna biverkan?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stegvis och långsam dosupptrappning"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Din bakjour påpekar dock att den antipsykotiska medicinen quetiapin är ett bättre val då den har god evidens vid pågående bipolär depression.\n\nDonald lägger sig utan att ta emot någon medicin. De följande dagarna blir han sämre och äter och dricker nästan inte trots att han matas av personal. Han ligger eller sitter på sin säng, lämnar inte rummet, är tyst och reagerar inte på tilltal och ger ingen ögonkontakt.  Han medverkar inte i vården utan verkar göra motstånd vid försök till matning och medicinering och när du undersöker rörligheten i armarna fastnar han i positionen och återtar armen mycket långsamt. Han är kroppsligt rigid. Han har inte fått i sig någon medicin efter att han lades in.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-3",
+              "text": "Vilket tillstånd har Donald utvecklat?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akut katatoni. Stupor eller mutism är endast beskrivning av symptomen och ger inte poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Du är primärjour på psykiatriska akutmottagningen. Donald, 21-årig man, inkommer med ambulans, i efterförloppet till en panikattack. Det är fjärde gången på några veckor som Donald larmar för liknande besvär. Varje tidigare gång har han friats somatiskt på akutmottagningen. Han är somatiskt tidigare frisk. Han har varit nykter och urinprov har inte visat några spår av droger. Det ser ut som ett paniksyndrom men vid utvidgad anamnes visar det sig föreligga en egentlig depression som föregått panikattackerna. Donald har haft en tidigare episod med misstänkt depression och samtidiga panikattacker och behandlade då med antidepressiv medicin som hade oväntat snabb effekt och gav en switch över till ett misstänkt maniformt tillstånd. Nu har han åter en depression som triggat igång nya panikattacker. Suicidalitet kan inte uteslutas.\n\nDonald blir inlagd. Han har ätit och druckit dåligt de senaste dagarna. Han säger inte mycket och tar tid på sig att svara även på enkla frågor. Han vill stanna då han känner sig tryggare på sjukhuset än hemma med tanke på panikattackerna men kan inte riktigt bestämma sig. De följande dagarna blir han sämre och äter och dricker nästan inte trots att han matas av personal. Han ligger eller sitter på sin säng, lämnar inte rummet, är tyst och reagerar inte på tilltal och ger ingen ögonkontakt.  Han medverkar inte i vården utan verkar göra motstånd vid försök till matning och medicinering och när du undersöker rörligheten i armarna fastnar han i positionen och återtar armen mycket långsamt. Han är kroppsligt rigid. Han har inte fått i sig någon medicin efter att han lades in.\n\nDonald är immobil och närmast stuporös. Han är mutistisk och uppvisar katalepsi (armarna fastnar i den nya positionen) och tecken på negativism. Han har med andra ord utvecklat akut katatoni.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Ange två parametrar i status som du behöver värdera för att utesluta att Donald inte har malign katatoni?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övervaka autonoma parametrar (puls, blodtryck, andning, temperatur) för att se att instabilitet inte föreligger."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-2",
+              "text": "Vilka två behandlingsalternativ finns vid akut katatoni och vilken väljer du om Donald har malign katatoni?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bensodiazepiner och ECT. Vid malign katatoni ECT."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "En rökande 57-årig man som tidigare är väsentligen frisk söker vårdcentralen med en veckas anamnes på feber och lättare hosta. Temp 38,6 grader och CRP >160 mg/l. Vid lungauskultation hörs rassel över hela höger lunga samt dämpning vid perkussion över höger lunga. Du har kliniskt en misstanke om pneumoni.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilket är förstahandspreparatet vid poliklinisk behandling av pneumoni? Ange även styrka, dosering och behandlingstid.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "PcV-penicillin 1 g x 3 i 7 dagar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilka är de tre vanligaste bakterierna som orsakar samhällsförvärvad pneumoni? (1,5p) Hos patienter med kroniskt obstruktiv lungsjukdom (KOL) är det ofta speciellt en bakterie som orsakar pneumoni.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "De vanligaste smittämnena är Streptococcus pneumoniae, Mycoplasma pneumoniae och Haemophilus influenzae."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Ange vilken bakterie det handlar om och ange ett exempel på val av lämpligt antibiotika i sådant fall.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Haemophilus influenzae är framför allt vanligt bland patienter med KOL. Amoxicillin eller doxycyklin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "En rökande 57-årig man som är väsentligen frisk söker vårdcentralen med en veckas anamnes på feber och lättare hosta. Temp 38,6 grader och CRP >160 mg/l. Vid lungauskultation hörs rassel över hela höger lunga samt dämpning vid perkussion över höger lunga. Klinisk misstanke om pneumoni.\n\nHan fick behandling med Kåvepenin (fenoximetylpenicillin) 1g x 3 i 7 dagar. Efter sex dagar utan förbättring sökte patienten på nytt och man bytte man då antibiotikum till Doxyferm (doxycyklin) då distriktsläkaren misstänkte atypisk pneumoni, exempelvis orsakad av mykoplasma p g a utebliven effekt av Kåvepenin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2",
+              "text": "Varför fungerar det inte att behandla mykoplasmainfektion med Kåvepenin? Motivera mot bakgrund av verkningsmekanism.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kåvepenin (fenoximetylpenicillin) är penicillin/betalaktamantibiotika vars verkningsmekanism är att hindra bakteriens cellväggssyntes. Betalaktamantibiotika har ingen effekt på Mycoplasma pneumoniae eftersom denna bakterie saknar cellvägg."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Asta är 60 år och har typ 2-diabetes som är relativt nyupptäckt och som behandlas med metformin. Asta har ingen annan behandling för sin diabetes och är väsentligen frisk för övrigt. Hon innehar körkortsbehörighet B och kör sin bil till och från jobbet och undrar nu om hon får fortsätta att göra det eftersom hon har diabetes.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3",
+              "text": "Vilket svar ger du till Asta? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diabetessjukdom som inte är under godtagbar kontroll med avseende på risken för hypoglykemi, utgör hinder för innehav. Asta använder inga glukossänkande läkemedel som medför ökad risk för hypoglykemier. Det finns således inget hinder för fortsatt körkortsinnehav."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Tre år senare träffar du Asta på nytt när du är jour på vårdcentralen. Förutom sin diabetes har Asta nu även genomgått en hjärtinfarkt för 3 veckor sedan. I anslutning till vårdtillfället för hjärtinfarkten utfördes ekokardiografi som visade uttalad hjärtsvikt med dilaterad vänsterkammare.\n\nIdag på morgonen vid frukostbordet kände hon att hjärtat ”rusade” och samtidigt blev hon yr, blek och kallsvettig. Efter någon minut upphörde hjärtklappningen plötsligt, och hon kände sig bättre.\n\nBesvären har återkommit under förmiddagen och därför kommer hon till dig. När sköterskan kopplar EKG-elektroderna på patienten så händer det igen att Asta känner att hennes hjärta ”rusar”. Se EKG.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vad visar Astas EKG?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-08/page31_img1.jpeg",
+              "facit": [
+                "Ventrikeltakykardi (breddökad regelbunden takykardi som kan vara VT)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Vad i anamnesen är den sannolika orsaken till det här tillståndet? Beskriv kort mekanismen.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Postinfarkt VT måste i första hand misstänkas sammanhänga med den ischemiska hjärtsjukdomen samt hjärtsvikt. Ärrvävnaden efter hjärtinfarkt kan fungera som arytmisubstrat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-3",
+              "text": "Ange två relevanta åtgärder som du vidtar med Asta och motivera varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Situationen är allvarlig och kan utvecklas till livshotande. Tar fram och kopplar defibrillatorn och är beredd att defibrillera om Asta blir allvarligt cirkulationspåverkad och medvetslös. Larmar ambulans för transport till sjukhuset."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Asta är 64 år och har typ 2-diabetes och en tidigare genomgången hjärtinfarkt.\n\nDu träffar henne för en diabeteskontroll några månader efter föregående vårdtillfälle då du träffade Asta som visade sig ha en ventrikeltakykardi. För sin diabetes behandlas Asta endast med metformin 1g x 2. Utöver detta medicinerar hon med ACE-hämmare, betablockerare, statiner och trombocythämmare. HbA1c 58 mmol/mol, eGFR 63 ml/min, BT 120/65 mm Hg, BMI 36 kg/m2. Förutom läkemedelsbehandling är förändring av levnadsvanor en av de viktigaste delarna i en multifaktoriell behandling av typ 2-diabetes.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Ge tre relevanta exempel inom olika områden angående förändringar av levnadsvanor som bör uppmuntras i ett regelbundet motivationsarbete av vårdgivaren vid mötet patienter med typ 2-diabetes.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rökstopp! Regelbunden fysisk aktivitet (>150 min/vecka), Minskat kaloriintag vid övervikt. Minskad alkoholkonsumtion vid riskbruk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Vill du göra någon förändring av hennes läkemedelsbehandling av hennes diabetes? Ge i så fall förslag på vad du rekommenderar Asta och motivera varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "HbA1c bör kunna förbättras. Behåll metformin, tillägg av GLP 1 receptoragonist eller SGLT2-hämmare som kan vara lämpliga val eftersom hon har en etablerad ischemisk hjärtsjukdom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Efter avslutat pass på vårdcentralen åker du för att jobba på jourcentralen. Den första patienten som du träffar är Jonny, 22 år, som är berusad och har ett antal blåmärken i ansiktet. Du bedömer att det inte föreligger någon ansiktsfraktur. Jonny uppger att han har ådragit sig skadorna genom att ha blivit misshandlad och kräver att du skriver ett rättsintyg som dokumenterar skadorna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6",
+              "text": "Vad gör du angående Jonnys önskemål om rättsintyg? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du har ingen skyldighet att skriva ett rättsintyg på patientens begäran men gör en vanlig journalanteckning där du dokumenterar de statusmässiga fynden. Du rekommenderar Jonny att polisanmäla den påstådda misshandeln. Det är sedan polisen som avgör om ett rättsintyg ska begäras av en läkare som är speciellt utbildad och kontrakterad av Rättsmedicinalverket."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Hon är orolig över symptomen och uppenbart besvärad av situationen som gjort att hon har svårt att fokusera på studierna.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1",
+              "text": "Ange den mest sannolika diagnosen. Ange också två differentialdiagnoser. Motivera. Hur vill du gå vidare med din utredning på vårdcentralen? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med tanke på patientens anamnes, symtomatologi och ålder kan man överväga flera möjliga diagnoser men i första hand analfissur men inte heller hemorrojder, analabscess eller inflammatorisk tarmsjukdom kan uteslutas. Kolorektal cancer är mycket ovanligt vid denna ålder men förekommer. (1 p för 2 rätta svar). Ett ordentligt status utförs vid besöket med särskilt fokus på bukpalpation och perineal undersökning och ev rekto- och proktoskopi. Kontroll av temperatur och blodstatus och CRP kan vara av värde. (även om detta inte alltid går att genomföra) (1 p för 2 rätta svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Hon är orolig över symptomen och uppenbart besvärad av situationen som gjort att hon har svårt att fokusera på studierna.\n\nMed tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom, perianalabscess och hemorrojder som genes. Fideli är orolig för kolorektal cancer och även om risken för detta måste anses som väldigt liten vid denna ålder måste man förstås ändå ha det i åtanke.\n\nVid den kliniska undersökning som du gör vid besöket noteras AT: Solbränd hud. Hjärta: Regelbunden rytm, 80/min, normala hjärttoner och inga biljud Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 140/70 mmHg Buk: Hela buken palperas mjuk och oöm. Inga patologiska resistenser. Per rektum: Normal hud. Inga hudflikar eller hemorrojder kan ses. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt, och än mindre göra en rekto- och proktoskopi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2",
+              "text": "Hur vill du mot bakgrund av vad du hittills fått fram i anamnes och status behandla Fideli?  Hur vill du följa upp henne framöver? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med tanke på anamnes och status talar det mesta för en analfissur som underliggande genes varför du föreslår behandling med bulkmedel (till exempel ispaghulafröskal eller sterkuliakostfiber), eller möjligen osmotiskt verkande preparat (till exempel laktulos eller makrogol), i kombination med lokalbehandling med xylocainsalva eller, om patienten inte är gravid, möjligen diltiazem- eller nitroclycerinsalva (1 p). Eftersom du inte kunnat göra en fullständig undersökning av Fideli planerar du in ett återbesök om några veckor för att göra en ordentlig rektalundersökning inklusive en rektoskopi (1 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid den kliniska undersökning som du gör vid besöket noteras AT: Solbränd hud. Hjärta: Regelbunden rytm, 80/min, normala hjärttoner och inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 140/70 mmHg. Buk: Hela buken palperas mjuk och oöm. Inga resistenser. Per rektum: Normal hud. Inga hudflikar eller hemorrojder kan ses. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt.\n\nMed tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker.\n\nVid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normal. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån.\n\nDrygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har hon haft besvär i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Hon har fått en akut tid på vårdcentralen eftersom hon upplever att det blivit akut sämre med smärtorna. Det senaste dygnet gör det ont precis hela tiden och hon är öm vid ändtarmsöppningen och kan inte sitta ned. Hon har också känt sig lite febrig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3",
+              "text": "Vad tror du kan ha hänt med Fideli och hur vill du gå vidare på vårdcentralen idag? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En förnyad statusundersökning med temperaturmätning och inriktning på perineum (1p) då du misstänker att hon kan ha fått en perianalabscess (0,5p). Kontroll av blodprover med LPK och CRP (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid den kliniska undersökning som du gör vid besöket noteras AT: Solbränd hud. Hjärta: Regelbunden rytm, 80/min, normala hjärttoner och inga biljud. Lungor: Normala andningsljud och normal perkussionston bilateralt. BT: 140/70 mmHg. Buk: Hela buken palperas mjuk och oöm. Inga resistenser. Per rektum: Normal hud. Inga hudflikar eller hemorrojder kan ses. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker.Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Hon har fått en akuttid på vårdcentralen eftersom hon upplever att det blivit akut sämre med smärtorna. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig.\n\nDu misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen perianalt. Sköterskan på vårdcentralen tog även blodprov och kontrollerade en temperatur som visade på 38,1°C.\n\nLPK: 13.1    (3,5-8,8 x 109/L) CRP: 45      (<10 mg/L)",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4",
+              "text": "Hur vill du som läkare på vårdcentralen hantera hennes besvär?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom du nu har verifierat din misstanke om perianalabscess skickar du patienten direkt till akutmottagningen för bedömning (1p) då antibiotika i det här skedet inte har någon effekt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Hon har fått en akuttid på vårdcentralen eftersom hon upplever att det blivit akut sämre med smärtorna. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L).\n\nEftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen för bedömning.\n\nDet har blivit kväll och du befinner dig nu på akutmottagningen som kirurgjour får du ta hand om Fideli när hon kommer dit från vårdcentralen på remiss.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5",
+              "text": "Vad blir din behandling av Fideli nu när du är kirurgjour och när skall den behandlingen ske? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fidelis abscess behöver dräneras i narkos eftersom det är alltför smärtsamt att göra det i lokalbedövning (1p) och detta bör ske snarast möjligt då hon har feber och CRP-stegring som talar för systemisk inflammation (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L). Eftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen, där du nu befinner dig på akutmottagningen i rollen som kirurgjour och får du ta hand om Fideli när hon kommer dit.\n\nFidelis abscess behöver snarast möjligt dräneras då hon nu uppvisar tecken på systemisk inflammation med feber och stegring av leukocyter och CRP. Då det är alltför smärtsamt att dränera abscessen bara i lokalanestesi anmäler du henne för dränage i narkos.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Du söker nu narkosjouren för att anmäla Fideli för operation. Ange minst tre st uppgifter som narkosjouren behöver veta inför operationen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det är viktigt att berätta om eventuella tidigare sjukdomar, allergier, när hon åt och drack senast samt hur bråttom du anser att det är med operationen, det vill säga vilken prioritet ingreppet har, och i vilket läge patienten skall ligga i under operationen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "När du väl får undersöka Fideli i narkos så tömmer du hennes abscess på en stor mängd var. Hur säkerställer du att abscessen är väl dränerad efter operationen? Vilken undersökning görs lämpligen i samband med narkosen och ange minst två fynd man letar efter vid denna undersökning?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det är viktigt att öppna upp abscessens ”tak” tillräckligt mycket för dränage och spola ur hålan och i vissa fall kan man även lämna kvar ett dränage först postoperativa tiden (1 p). Det kan vara bra att göra en rektoskopi i samband med narkosen, särskilt om detta inte är utfört tidigare, för att se om det finns tecken på underliggande sjukdomar såsom fissur, malignitet eller inflammatorisk tarmsjukdom (0,5p förrektoskopi och 0,5p minst två av dessa svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L). Eftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen, där du nu befinner dig på akutmottagningen i rollen som kirurgjour och får du ta hand om Fideli när hon kommer dit. Fidelis abscess behöver snarast möjligt dräneras då hon nu uppvisar tecken på systemisk inflammation med feber och stegring av leukocyter och CRP. Då det är alltför smärtsamt att dränera abscessen bara i lokalanestesi anmäler du henne för dränage i narkos.\n\nDet har blivit sen kväll när du anmäler Fideli till operation. Vid rapporteringen till narkosläkaren berättar du om hennes tidigare sjukdomar, allergier samt när hon åt och drack senast. Du talar också om att det är relativt bråttom och att du vill göra det nu under natten eftersom hon har systemisk påverkan. Vid rapporten anger du också läget på patienten vid operationen. När du väl tömmer abscessen på operation senare samma natt så spolar du ur abscesshålan och ser till att det är ett ordentligt dränagehål (ev med ett dränage inlagt i abscesshålan). Du passar även på att göra en rektoskopi så att det inte finns tecken på en underliggande inflammatorisk tarmsjukdom eller malignitet.\n\nPå morgonen efter mår Fideli mycket bättre och vill gå hem strax efter frukost.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7",
+              "text": "Vad ger du Fideli för information i samband med hemgången? Motivera!",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det är ibland bra med ett återbesök eller åtminstone en telefonuppföljning för att säkerställa att det hela läkt ut utan problem. I annat fall kan det finna en underliggande fistel som underhåller infektionen och du uppmanar henne att ta ny kontakt om såret inte läker ordentligt efter några veckor eller om hon får nya liknande besvär (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L). Eftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen, där du nu befinner dig på akutmottagningen i rollen som kirurgjour och får du ta hand om Fideli när hon kommer dit. Fidelis abscess behöver snarast möjligt dräneras då hon nu uppvisar tecken på systemisk inflammation med feber och stegring av leukocyter och CRP. Då det är alltför smärtsamt att dränera abscessen bara i lokalanestesi anmäler du henne för dränage i narkos. När du anmäler Fideli till operation berättar du för narkosläkaren om hennes tidigare sjukdomar, allergier samt när hon åt och drack senast. Du talar också om att du vill göra det nu under natten eftersom hon har systemisk påverkan. När du väl tömmer abscessen på operation senare samma natt så spolar du ur abscesshålan och ser till att det är ett ordentligt dränagehål. Du passar även på att göra en rektoskopi så att det inte finns tecken på en underliggande inflammatorisk tarmsjukdom eller malignitet.\n\nDu informerar Fideli om att hon skall höra av sig om såret inte läker som det skall på några veckor eller om hon får liknande besvär igen. Om såret inte läker eller om hon får liknande symptom igen kan det finnas en underliggande fistel som underhåller infektionen.\n\nFideli hör efter en två månader av sig till kirurgmottagningen och berättar att det fortfarande kommer var ur såret som inte riktigt velat läka. Du förklarar för Fideli att hon med stor sannolikhet har en perianal fistel.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8",
+              "text": "Vilken typ av behandling är aktuell för att åtgärda Fidelis fistel och hur är prognosen för att Fideli skall bli av med sin fistel efter denna behandling?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kirurgi krävs för att åtgärda fisteln (1p). Detta kan ske på många olika sätt, till exempel fistelklyvning, fistelplugg, advancement flap/lambå. Tyvärr är resultaten efter fistelkirurgi inte så goda utan ungefär hälften får återfall direkt och många kan behöva upprepade operationer (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L). Eftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen, där du nu befinner dig på akutmottagningen i rollen som kirurgjour och får du ta hand om Fideli när hon kommer dit. Fidelis abscess behöver snarast möjligt dräneras då hon nu uppvisar tecken på systemisk inflammation med feber och stegring av leukocyter och CRP. Då det är alltför smärtsamt att dränera abscessen bara i lokalanestesi anmäler du henne för dränage i narkos. När du anmäler Fideli till operation berättar du för narkosläkaren om hennes tidigare sjukdomar, allergier samt när hon åt och drack senast. Du talar också om att du vill göra det nu under natten eftersom hon har systemisk påverkan. När du väl tömmer abscessen på operation senare samma natt så spolar du ur abscesshålan och ser till att det är ett ordentligt dränagehål. Du passar även på att göra en rektoskopi så att det inte finns tecken på en underliggande inflammatorisk tarmsjukdom eller malignitet. Du informerar Fideli om att hon skall höra av sig om såret inte läker som det skall på några veckor eller om hon får liknande besvär igen. Om såret inte läker eller om hon får liknande symptom igen kan det finnas en underliggande fistel som underhåller infektionen. Fideli hör efter en två månader av sig till kirurgmottagningen och berättar att det fortfarande kommer var ur såret som inte riktigt velat läka. Du förklarar för Fideli att hon med stor sannolikhet har en perianal fistel.\n\nDet krävs kirurgisk behandling för att fisteln skall kunna läka, till exempel fistelklyvning, fistelplugg, advancement flap/lambå. Tyvärr är resultaten efter fistelkirurgi inte så goda utan ungefär hälften får återfall direkt och många kan behöva upprepade operationer\n\nNär Fideli kommer på återbesök så berättar hon att hon inte riktigt mår bra. Fisteln beter sig som förut och det kommer lite var ur den varje dag. Hon har dock fått ont i magen, något hon aldrig haft förut. Hon får knip i magen ibland efter måltid, vilket sitter i en stund och när det sedan släpper av får hon ofta diarré. Hon har provat att\n\nta bort både mjölk och gluten ur kosten men tycker att det inte hjälper. När du nu undersöker henne ser du att det finns två fistelöppningar invid analöppningen. Vid den samtidiga undersökningen av hennes buk märker du också att hon är palpationsöm i höger fossa.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9",
+              "text": "Vilket tillstånd misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Crohns sjukdom (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L). Eftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen, där du nu befinner dig på akutmottagningen i rollen som kirurgjour och får du ta hand om Fideli när hon kommer dit. Fidelis abscess behöver snarast möjligt dräneras då hon nu uppvisar tecken på systemisk inflammation med feber och stegring av leukocyter och CRP. Då det är alltför smärtsamt att dränera abscessen bara i lokalanestesi anmäler du henne för dränage i narkos. När du anmäler Fideli till operation berättar du för narkosläkaren om hennes tidigare sjukdomar, allergier samt när hon åt och drack senast. Du talar också om att du vill göra det nu under natten eftersom hon har systemisk påverkan. När du väl tömmer abscessen på operation senare samma natt så spolar du ur abscesshålan och ser till att det är ett ordentligt dränagehål. Du passar även på att göra en rektoskopi så att det inte finns tecken på en underliggande inflammatorisk tarmsjukdom eller malignitet. Du informerar Fideli om att hon skall höra av sig om såret inte läker som det skall på några veckor eller om hon får liknande besvär igen. Om såret inte läker eller om hon får liknande symptom igen kan det finnas en underliggande fistel som underhåller infektionen. Fideli hör efter en två månader av sig till kirurgmottagningen och berättar att det fortfarande kommer var ur såret som inte riktigt velat läka. Du förklarar för Fideli att hon med stor sannolikhet har en perianal fistel. Det krävs kirurgisk behandling för att fisteln skall kunna läka, till exempel fistelklyvning, fistelplugg, advancement flap/lambå. Tyvärr är resultaten efter fistelkirurgi inte så goda utan ungefär hälften får återfall direkt och många kan behöva upprepade operationer.\n\nKombinationen av symptom med måltidsrelaterad buksmärta som släpper efter en tid, diarré, analfistlar och palpationsömhet i höger fossa gör att du misstänker Crohns sjukdom med en terminal ileit.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10",
+              "text": "Hur vill du utreda Fideli för att säkerställa detta? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Koloskopi, MR tunntarm, ev MR analkanal och blod- och avföringsprover inkl Hb, F-calprotektin (som kanske i just detta fall kan övervägas för\n\natt användas som utvärdering snarare än diagnostiskt) och CRP (Minst två rätta svar för 2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "Fideli, 22 år studerar till lärare på universitetet sedan två år tillbaka. Hon är tidigare frisk förutom att hon vår och sommar medicinerar mot lindrig hösnuva samt att hon i tidiga tonåren opererades för blindtarmsinflammation. Hon söker nu på vårdcentralen på grund av att hon i samband med studier inför tentamen börjat få blödningar och smärtor från ändtarmsöppningen. Smärtorna är som värst när hon måste tömma tarmen men de sitter i länge innan de klingar av och i samband med tarmtömning kommer det också lite klarrött blod berättar hon. Besvären har suttit i mer än två veckor nu och det har inte blivit det minsta bättre på den tiden. Med tanke på ålder och symptom funderar du på om det kan vara en analfissur som besvärar henne men du funderar också på andra orsaker såsom inflammatorisk tarmsjukdom och hemorrojder som genes. Vid försök till palpation får hon så kraftiga smärtor att det inte går att undersöka henne ordentligt. Med tanke på hennes ålder och symptom i kombination med fyndet att det inte går att undersöka henne rektalt tror du i första hand på en underliggande analfissur. Eftersom en störd tarmfunktion med till exempel förstoppning kan vara en underliggande orsak skriver du ut recept på bulkmedel till henne för att reglera tarmfunktionen. För att åtgärda den underliggande analspasmen skriver du också ut ett recept på nitroglycerin- eller dilitiazemsalva för minst sex till åtta veckors kontinuerlig behandling, efter att ha kollat upp att hon inte är gravid. Du planerar också in ett återbesök vid slutet av behandlingen för att komplettera undersökningen med en rektalundersökning och en rektoskopi för att utesluta andra bakomliggande orsaker. Vid återbesöket efter en dryg månad mår Fideli mycket bättre och du kan nu göra en ordentlig rektalundersökning. Du kan nu se en delvis epitelialiserad analfissur rakt bakåt i analkanalen. Sfinktertonus känns normalt. Du kan rektoskopera henne upp till 15 cm och slemhinnan ser normal ut hela vägen upp till den nivån. Drygt två år senare återkommer dock Fideli med samma symptom igen. Den här gången har besvären suttit i snart en vecka och hon har själv försökt behandla med fibertillskott och xylocainsalva men det har inte blivit bättre. Det senaste dygnet gör det ont hela tiden och hon har också känt sig lite febrig. Du misstänker att Fideli fått ett återfall i sin analfissur men eftersom smärtan är kontinuerlig och hon känner sig febrig misstänker du att det hela kan ha komplicerats av en perianalabscess. Du undersöker Fideli igen och kan notera att hon har en rodnad uppdrivning som är kraftigt ömmande och belägen strax till höger om bakre medellinjen. Sköterskan på vårdcentralen tog även ett blodprov och kontrollerade en temperatur som visade på 38,1°C. LPK: 13.1 (3,5-8,8 x 109), CRP: 45 (<10 mg/L). Eftersom det med en fullt utvecklad abscess inte går att behandla med antibiotika skickar du patienten till akutmottagningen, där du nu befinner dig på akutmottagningen i rollen som kirurgjour och får du ta hand om Fideli när hon kommer dit. Fidelis abscess behöver snarast möjligt dräneras då hon nu uppvisar tecken på systemisk inflammation med feber och stegring av leukocyter och CRP. Då det är alltför smärtsamt att dränera abscessen bara i lokalanestesi anmäler du henne för dränage i narkos. När du anmäler Fideli till operation berättar du för narkosläkaren om hennes tidigare sjukdomar, allergier samt när hon åt och drack senast. Du talar också om att du vill göra det nu under natten eftersom hon har systemisk påverkan. När du väl tömmer abscessen på operation senare samma natt så spolar du ur abscesshålan och ser till att det är ett ordentligt dränagehål. Du passar även på att göra en rektoskopi så att det inte finns tecken på en underliggande inflammatorisk tarmsjukdom eller malignitet. Du informerar Fideli om att hon skall höra av sig om såret inte läker som det skall på några veckor eller om hon får liknande besvär igen. Om såret inte läker eller om hon får liknande symptom igen kan det finnas en underliggande fistel som underhåller infektionen. Fideli hör efter en två månader av sig till kirurgmottagningen och berättar att det fortfarande kommer var ur såret som inte riktigt velat läka. Du förklarar för Fideli att hon med stor sannolikhet har en perianal fistel. Det krävs kirurgisk behandling för att fisteln skall kunna läka, till exempel fistelklyvning, fistelplugg, advancement flap/lambå. Tyvärr är resultaten efter fistelkirurgi inte så goda utan ungefär hälften får återfall direkt och många kan behöva upprepade operationer. När Fideli kommer på återbesök så berättar hon att hon inte riktigt mår bra. Fisteln beter sig som förut och det kommer lite var ur den varje dag. Hon har dock fått ont i magen, något hon aldrig haft förut. Hon får knip i magen ibland efter måltid, vilket sitter i en stund och när det sedan släpper av får hon ofta diarré. Hon har provat att ta bort både mjölk och gluten ur kosten men tycker att det inte hjälper. När du nu undersöker henne ser du att det finns två fistelöppningar invid analöppningen. Nu du palperar hennes buk märker du också att hon är lite öm i höger fossa. Kombinationen av symptom med måltidsrelaterad buksmärta som släpper efter en tid, diarré, analfistlar och palpationsömhet i höger fossa gör att du misstänker Crohns sjukdom med en terminal ileit.\n\nFör att säkerställa att Fideli har en underliggande Crohn-sjukdom tar du både blod-\n\noch avföringsprover samt beställer både en MR tunntarm och en koloskopi. Vid koloskopin ser man en normal kolon. Man kan inte komma in i terminala ileum men man ser ett flertal aftösa sår på själva ileocekalvalveln. MR tunntarm visar en terminal ileit som kan stämma överens med en ileocekal Crohns sjukdom. Fekalt calprotektin är 530 (<150µg/g) men hennes blodprover är normala.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11",
+              "text": "Beskriv två principiellt olika sätt med vilka man kan behandla hennes nydiagnosticerade ileocekala Crohnsjukdom och vilket skulle du föreslå i hennes fall? Motivera!",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man kan antingen tänka sig att behandla henne medicinskt med till exempel immunmodulerare och/eller biologisk behandling men man kan tänka sig att operera henne med en ileocekalresektion (1p för ett rätt svar men 1,5p för bägge rätt). I Fidelis fall skulle medicinsk behandling kunna ses som ett första steg eftersom hon har sjukdom både i buken och perianalt (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

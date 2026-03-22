@@ -1,0 +1,928 @@
+{
+  "id": "2020-05",
+  "title": "AT-prov maj 2020",
+  "date": "2020-05-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": ", del 1\n\nDu har nyligen fått din legitimation och påbörjat ett vikariat som underläkare på den psykiatriska kliniken. Du går lördagsjour som legitimerad läkare på klinikens akutmottagning. Din första patient är Anna som söker på eget initiativ. Anna är 52 år gammal och arbetar som controller på ett stort företag. Hon är frisk sedan tidigare men har varit genom en period med mycket arbete och representation, varit mycket stressad och sovit dåligt. Anna har inte haft kontakt med psykiatrin tidigare och har inte någon ärftlig belastning för psykisk ohälsa. Anna berättar att hon har blivit insatt på Citalopram 20 mg av sin husläkare för 8 dagar sedan pga. nedstämdhet och ångest.\n\nVid undersökning noterar du att Anna är lätt överviktig och verkar ångestdriven. Hon har 78 i puls och blodtrycket är 152/105 mmHg. Anna beskriver att hon varit nedstämd sedan en tid tillbaka men mår nu jättedåligt sedan några dagar, hon kan inte sova, har mycket ångest och har fått suicidtankar.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1",
+              "text": "Vad är din primära arbetshypotes gällande Annas aktuella tillstånd? Motivera ditt svar. (2p) Anna är frisk sedan tidigare men har varit genom en period med mycket arbete och representation, varit mycket stressad och sovit dåligt. Anna har inte haft kontakt med psykiatrin tidigare och har inte någon ärftlig belastning för psykisk ohälsa. Anna har blivit insatt på citalopram (Citalopram) 20 mg av sin husläkare för 8 dagar sedan på grund av nedstämdhet och ångest. Vid undersökning noterar du att Anna är lätt överviktig och verkar ångestdriven. Hon har 78 i puls och blodtrycket är 152/105 mmHg. Anna beskriver att hon mår jättedåligt sedan några dagar, hon kan inte sova, har mycket ångest och har fått suicidtankar. Du bedömer att Annas försämring är relaterad till insättning av citalopram (Citalopram). Vanliga biverkningar vid insättning av citalopram (Citalopram) inkluderar illamående, diarré, huvudvärk, sömnstörning och ångest. Anna undrar om hon skall fortsätta aktuell medicinering.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Annas försämring är sannolikt relaterad till insättning av citalopram. Vanliga biverkningar vid insättning av citalopram inkluderar illamående, diarre´, huvudvärk, sömnstörning och ångest."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2",
+              "text": "Vad ger du Anna för information rörande hennes aktuella tillstånd och vad föreslår du när det gäller hennes medicinering? Motivera din handläggning. (2p) Anna har blivit insatt på citalopram (Citalopram) 20 mg av sin husläkare för 8 dagar sedan pga nedstämdhet och ångest. Anna beskriver att hon mår jättedåligt sedan några dagar, hon kan inte sova, har mycket ångest och har fått suicidtankar. Du bedömer att Annas försämring är relaterad till insättning av Citalopram och dess biverkningsprofil. Anna undrar om hon skall fortsätta aktuell medicinering och ni kommer överens om att hon skall fortsätta med Citalopram. Du informerar att biverkningarna vid insättning av SSRI är oftast övergående inom 1 till 2 veckor och du erbjuder henne ångestdämpande läkemedel för att kupera ångesten och sömnmedicin till natten.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Biverkningar vid insättning av SSRI är oftast av övergående natur inom 1-2 veckor. Patienter med ångest och/eller sömnstörningar kan under den första tiden hjälpas med tillägg av anxiolytika och hypnotika. Vid användning av benzodiazepiner inom ramen för depressionsbehandling under en begränsad tid är risken för vanebildning liten. I detta fall kan man välja att seponera citalopram och påbörja behandling med annat lämpligt preparat inom SSRI gruppen, eller överväga tillägg av anxiolytika, ex. oxazepam (Oxascand) mot ångest och hypnotika mot sömnstörningen. Annan ångestdämpande behandling utan risk för vanebildning kan också användas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3",
+              "text": "Förslå lämplig behandling (preparat och dosering) för den närmaste veckan för Annas ångest och sömnstörning. Motivera ditt val av läkemedelsbehandling (2p) Anna har blivit insatt på citalopram (Citalopram) 20 mg av sin husläkare för 8 dagar sedan pga nedstämdhet och ångest. Hon mår jättedåligt sedan några dagar, hon kan inte sova, har mycket ångest och har fått suicidtankar. Du bedömer att Annas försämring är relaterad till insättning av Citalopram och dess biverkningsprofil. Anna fortsätter med Citalopram då biverkningarna vid insättning av SSRI är oftast övergående inom 1-2 veckor. Du påbörjar behandling med oxazepam (Oxascand) 10 mg 3 gånger dagligen för att kupera ångesten och Zolpidem 10 mg som sömnmedicin till natten. Risken för vanebildning vid kortvarig behandling under depressiv episod är liten. Ett alternativ är att behandla med icke vanebildande läkemedel som exempelvis alimemazin (Theralen) 25 mg mot ångest 3 gånger dagligen och propiomazin (Propavan) 25 mg till natten för sömnen.\n\nAnna får sina läkemedel delade för 5 dagar och du bestämmer dig för att boka ett uppföljande läkarbesök inom 5 dagar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "lämpligt läkemedel och dosering. Benzodiazepiner och hypnotika är inte kontraindicerat men för full poäng behöver beroendeproblematiken belysas vid förskrivning av dessa preparat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4",
+              "text": "Suicidrisken måste alltid beaktas och värderas vid bedömning av psykiatriska patienter. Hur skulle du gå till väga vid din bedömning av suicidrisken i detta fall? Motivera även din riskbedömning utifrån sjukdomstillstånd, riskfaktorer och ge förslag på lämplig uppföljning. (4p)",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För full poäng krävs ett resonemang runt aktuella riskfaktorer utifrån det aktuella sjukdomstillståndet depression (ex. suicidtankar, ångest, sömnstörningen) samt skyddande faktorer (ex. frånvaro av tidigare psykisk ohälsa, kvinnligt kön, inga tidigare suicidalitet). En sammantagen suicidriskbedömning ska göras, förslagsvis baserad på suicidstegen. En rimlig uppföljning utifrån gjord bedömning med motivation krävs."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "FALL 1, del 2\n\nDet har varit en lugn lördag med få patienter på akuten och bakjouren har åkt hem när en polispatrull inkommer med en medelålders kvinna.\n\nAv poliserna får du ett handskrivet vårdintyg enligt §5 Lagen om rättspsykiatrisk vård (LRV) utfärdat av konsultläkaren på häktet. Ur det närmast oläsliga intyget kan du få fram att kvinnan har en känd psykossjukdom och att hon betett sig desorganiserad och utåtagerande i häktet samt även försökt strypa sig själv. Tyvärr kan poliserna inte bidra med så mycket mer information än att kvinnan sitter häktad pga misshandel sedan gårdagskvällen. Du måste nu bedöma patienten och fundera på en lämplig handläggning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5",
+              "text": "Vilka kriterier gäller för att vård enligt §5 LRV skall vara uppfyllda? (3P) Du är legitimerad lördagsjour på den psykiatrisk akutmottagningen. En polispatrull inkommer med en medelålders kvinna med namnet Lena på ett handskrivet vårdintyg av häktets konsultläkare, ger dig en kort rapport, och försvinner snabbt. Av intyget kan du få fram att Lena har en känd psykossjukdom och att hon betett sig desorganiserad i häktet och försökt strypa sig själv.\n\nDu måste nu bedöma Lena och fundera på en lämplig handläggning. §5 LRV används, till skillnad från §4 LPT (Lagen om psykiatrisk tvångsvård), när vårdintyg utfärdas på patienter som är frihetsberövade, exempelvis häktade, anhållna eller på kriminalvårdsanstalt. Patienten skall lida av allvarlig psykisk störning, vara i behov av psykiatrisk vård och inte gå att behandla där hen är frihetsberövad samt motsäga sig vård.\n\nI journalen noterar du att Lena är känd inom psykiatrin, har en psykossjukdom och sporadisk kontakt med öppenvården där hon tidigare erhållit depåinjektioner med antipsykotisk medicinering. Hon har en historik på våldsamt beteende. När du försöker prata med Lena ter hon sig agiterad. Hon vankar av och an i rummet och ger ingen blickkontakt. Hon mumlar något du inte förstår och ber dig plötsligt ”dra åt helvete” och går snabbt emot dig. Du går snabbt ut ur rummet och stänger dörren med Lena kvar i rummet skrikandes okvädesord och bankande på dörren.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "§5 LRV används, till skillnad från §4 LPT, när vårdintyg utfärdas på patienter som är frihetsberövade, exempelvis häktade, anhållna eller på kriminalvårdsanstalt. Patienten skall lida av allvarlig psykisk störning, vara i behov av psykiatrisk vård och inte gå att behandla där hen är frihetsberövad samt motsäga sig vård."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-1",
+              "text": "Hur hanterar du situationen just nu? Ge förslag på handläggning i det akuta skedet punktvis.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                " Du bör ringa bakjouren och ber hen komma in för bedömning av vårdintyget.  -Du bör även överväga, i samråd med din bakjour, lämplig akutbehandling av patienten.  -Du kan låsa dörren som åtgärd enligt §5LRV vilket är lämpligt i detta fall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Får du låsa dörren till rummet så att patienten inte kommer ut i korridoren? Motivera ditt svar (1p) Lena har inkommit på vårdintyg enligt §5LRV till den psykiatriska akutmottagningen där du är legitimerad jour. I journalen noterar du att Lena är känd inom psykiatrin, har en psykossjukdom och sporadisk kontakt med öppenvården där hon tidigare erhållit depåinjektioner. Lena har inte varit i kontakt med sin öppenvård sedan 7 månader. Hon har en historik på våldsamt beteende.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svar ja. Du får låsa dörren som åtgärd enligt §5LRV vilket är lämpligt i detta fall."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Lena är mycket agiterad, fysiskt utåtagerande, hotfull och psykotisk. Du får ingen bra kontakt med Lena och hon medverkar inte i din bedömning. Du har lämnat undersökningsrummet och stänger dörren med Lena kvar i rummet skrikandes okvädesord och bankande på dörren. Du ringer bakjouren och ber hen komma in för bedömning av vårdintyget. Du kan låsa dörren som åtgärd enligt §5LRV vilket är lämpligt i detta fall. Du bör även överväga, i samråd med din bakjour, lämplig akutbehandling av patienten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Ge förslag på lämplig behandling i det akuta skedet av patienten. Ange läkemedel och administrationssätt. Motivera ditt val",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Två behandlingsstrategier i akutskedet har fördelar gällande behandlingseffekt; lorazepam (Ativan) alternativt kombinationen av haloperidol (Haldol) och prometazin (Phnergan) som ges im. För full poäng krävs lämpligt läkemedel med administrationssätt och motivering. https://www.sbu.se/sv/publikationer/sbu-kommentar/hantering-av-hot-och-vald-inom- psykiatri--val-av-lakemedel-for-sedering-i-akuta-situationer/"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-2",
+              "text": "Inom vilken tidsrymd skall chefsöverläkaren fatta intagningsbeslut efter en patients ankomst till vårdinrättning när ett vårdintyg är utfärdat enligt Lagen om rättspsykiatrisk vård (LRV), i detta fall den psykiatriska akutmottagningen? (1p) Lena har inkommit på vårdintyg enligt §5LRV till den psykiatriska akutmottagningen från häktet där du är legitimerad jour. Lena är känd inom psykiatrin, har en psykossjukdom men har inte varit i kontakt med sin öppenvård sedan 7 månader. Hon har en historik på våldsamt beteende.\n\nLena är mycket agiterad, fysiskt utåtagerande, hotfull och psykotisk. Du får ingen bra kontakt med Lena och hon medverkar inte i din bedömning. Du har lämnat undersökningsrummet och låst dörren med Lena kvar i rummet skrikandes okvädesord och bankande spå dörren.\n\nBakjouren är snabbt på plats och efter en kort bedömning fattas intagningsbeslut enligt §5LRV. Intagningsbeslut skall fattas skyndsamt men senast 24 timmar efter ankomst till vårdinrättning. Du föreslår att ge patienten intramuskulär injektion med haloperidol (Haldol) samt prometiazin (Phenergan) i akut sederande syfte. Medicineringen ges av sjuksköterskan på akutmottagningen under fasthållning på ordination av bakjouren då Lena inta alls medverkar.\n\nEfter 30 minuter sover Lena djupt på sitt rum. Du ordnar en plats åt Lena i heldygnsvården då den rättspsykiatriska kliniken inte har några lediga vårdplatser.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Intagningsbeslut skall fattas skyndsamt men senast 24 timmar efter patientens ankomst till vårdinrättning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8",
+              "text": "Vad bör du primärt beakta för biverkningar vid injektionsbehandling av haloperidol (Haldol) i akutskedet? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du bör beakta extrapyramidala biverkningar med behandling av haloperidol (Haldol). Exempelvis stelhet, kramper, parkisonism och tardiva dyskinesier."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "En 75-årig kvinna kommer till akutmottagningen stödd på sin dotter. Hon klagar över smärtor i vänster höftregion. Patienten berättat att hon halkat av en stol och satt sig på golvet. Förutom att hon har hypertoni är hon väsentligen frisk. Sista tiden har hon dock känt sig tröttare och mer andfådd när hon gått i trappor. I status finner du en blek och något magerlagd kvinna. Hjärta och lungor auskulteras utan anmärkning. Blodtryck är 130/85 mmHg. Buken är mjuk och oöm vid palpation. Du undersöker nu patientens vänstra höft.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1",
+              "text": "Med tanke på ovanstående anamnes. Ge förslag på 2 undersökningsfynd som kan förklara patientens smärta i vänster höftregion (2p) En 75-årig kvinna kommer till akutmottagningen och söker för smärta i vänster höftregion efter att hon halkat av en stol. Hon har smärta då hon stödjer på vänster ben. Du har undersökt patienten och hittar ett mindre hematom glutealt vänster sida. Hon har inte någon benförkortning eller felställning. Distalstatus är normalt. Däremot smärtar det i höften vid rotation.\n\nDu beställer en slätröntgen av vänster höftled som inte visar någon skelettskada. Du rådfrågar därför en ortopedkollega.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektion om benet är förkortat eller felställt, palpationsömhet samt förekomst av lokalt hematom. (2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2",
+              "text": "Vilket råd ger din ortopedkollega sannolikt dig om fortsatt undersökning av den smärtsamma höften? (1p) Du har nu lagt in denna 75-åriga kvinna på ortopedavdelning då hon inte kan stödja på benet. Du har beställt en datortomografi eller en MRI av höften trots att den initiala röntgenundersökningen var normal.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "MRI alternativt datortomografi höftled (1p). Ett annat alternativ är inläggning och upprepad röntgen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3",
+              "text": "Vilken specifik skelettskada frågar du efter i remissen? (1p) Röntgensvaret visar en vänstersidig inkilad vänstersidig medial collum femorisfraktur. Du berättar nu för patienten att hon behöver opereras med skruvfixation dvs att man lagar benbrottet med en skruv eller spik. Som förberedelse inför operationen ordinerar anestesiologen blodprover och EKG.\n\nEKG är normalt, laboratorielistan visar följande:\n\nLABLISTA B-Hemoglobin: 92 g/L (ref 117-153) B-EVF: 0,23 (0,35-0,46) Erc(B)-MCV: 60 fL (82-98) Erc(B)-MCH: 25 pg (27-33)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inkilad medial collumfraktur. Odislocerad pertrochantär femurfraktur anses också som korrekt. Odislocerad ramusfraktur. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Retikulocyter: 2x109 (26-124x109) S-Ferritin: 9 mikrog/L (10-150) P-Kreatinin: 70 (mikromol/L) (<90) P-CRP: 1 mg/L (<3)",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4",
+              "text": "Vilken sorts anemi har patienten? Resonera kring uppkomst av denna form av anemi och nämn 2 orsaker. (2p) Trots det låga blodvärdet väljer du att operera patienten så snabbt som möjligt.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mikrocytär eller järnbristanemi. Kan vara järnbrist ev till följd av lågt järnintag/blödning. Nedsatt järnabsorption. Thalassemi. (2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5",
+              "text": "Nämn 3 medicinska risker med att fördröja den här patientens operation av höften. (1,5p) Operationen går bra och frakturen fixeras med 2 stycken spikar (skruvar) i höften. Kontrollröntgen visar bra läge av frakturen utan artros. Patienten har redan stått upp vid sängkanten och är motiverad till fortsatt träning på en rehabiliteringsavdelning.\n\nVid utskrivning svarar du på följande frågor från patienten:",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pneumoni, Smärta, Trombo-embolisk komplikation. Trycksår. (1.5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-1",
+              "text": "Hur mycket får hon belasta höften de första 2 veckorna?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "omedelbar belastning tillåten (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Vilka receptbelagda läkemedel (förutom Paracetamol) har du förskrivit? Nämn två läkemedel med generiskt namn och beskriv deras effekt!",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "2; trombosprofylax i form av blodförtunnande (lågmolekylärt heparin) och smärtstillande läkemedel ex morfinpreparat som Oxikodon, Oxikodon med Naloxon, NSAID mm. Eventuellt järnsubstitution. Eventuellt laxerande läkemedel vid morfinpreparat och/eller järnsubstitution (2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-3",
+              "text": "När behöver hon kontrollröntga höften och skall spikarna (skruvarna) opereras bort? Motivera svaren. (1p) Samma patient kommer till dig på din vårdcentralsplacering 3 månader senare. Hon berättar att hon sedan 1 månad tillbaka fått ökade smärtor i höften vid belastning och har därför bland annat svårt att gå ut med sin hund. Den omedelbara postoperativ röntgenundersökning visade bra läge utan några artrostecken. I anamnesen framkommer även en fortsatt trötthet och andfåddhet vid korta promenader. Hon uppger också förstoppningstendens men tror själv att detta beror på de järntabletter hon erhållit. Hon har inget synligt blod i toaletten eller på pappret. Vid rektalstatus finner du inget blod på handsken eller förändrad färg av avföring. Undersökning med proktoskop är normal.\n\nVid blodprovstagning finner du ett Hemoglobinvärde på 96 g/L och relativt oförändrade anemivärden jämfört med de prover som togs före operationen. F-Hb (feces hemoglobin) är positivt.\n\nDu väljer nu att fortsätta anemiutredningen och beställer två undersökningar av mag-tarmkanalen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "kontrollröntgen endast vid symtom, spikar (skruvar) bort endast vid symtom. (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7",
+              "text": "Vilka två undersökningar beställer du för att leta blödningskälla i mag- tarmkanalen? (1p) Du beställer en gastroskopi och koloskopi för att utreda eventuell blödningskälla. Du har även utfört en rektoskopi.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rektoskopi, gastroskopi, koloskopi (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-8",
+              "text": "Nämn de 2 vanligaste orsakerna till blödning i nedre GI-kanalen (colon) förutom hemorrojder och fissur? (1p) Anemi och trötthet kan förklaras av en misstänkt cancertumör som man funnit vid den endoskopiska undersökningen av tarmen. Patienten har egentligen inga symptom från mag-tarmkanalen förutom lindrig förstoppning till följd av järnmedicinering.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tumör/polyper, angiodysplasi, divertikelblödning (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9",
+              "text": "Vilken av följande alternativ återspeglar den mest sannolika tumörlokalisationen i mag-tarmkanalen? Motivera ditt svar. (1p) a) Cekalcancer, eller b) Rektalcancer? Direkt efter koloskopin träffade patienten en kirurg som gav besked om tumörfyndet samt remitterade patienten för en metastasutredning.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "a dvs cekalcancer då occult blödning med få eller inga symtom. Ju mer distalt belägen cancer ju fler symptom i form av blod och slem (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10",
+              "text": "Hur gör man en metastasutredning av en misstänkt cekalcancer och vilka 2 bildgivande undersökningar beställer man?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Datortomografi thorax och buk. Ett alternativ till DT buk kan vara kontrastförstärkt ultraljud av levern. Om misstänkta levermetastaser kan även en MRI lever utföras (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-11",
+              "text": "Vilket klassificeringssystem används för att beskriva ett tumörstadium och eventuell spridning (förkortning)? Beskriv vad bokstäver i förkortningen står för (1p) Metastasutredning med datortomografi av thorax och buk diagnosticerar en tumör som klassas som T2N0M0 dvs att hon har en relativt ytlig tumör och inga tecken på spridning av sin cancertumör till regionala lymfkörtlar eller till lever och lungor. Denna 75-åriga kvinna genomgår snart därefter en laparoskopisk högersidig resektion av en cekaltumör och efterförloppet blir helt okomplicerat och hon skrivs hem efter 4 dagar. Hon får vid återbesöket besked om att den patologiska undersökningen av tarmresektatet inte visar någon spridning till lymfkörtlar och att hon är färdigbehandlat.\n\nHon återremitteras till dig på vårdcentralen för uppföljning och kontroll av blodvärden som fortfarande är något låga.\n\nPå vägen till vårdcentralen halkar denna otursförföljda 75-åriga kvinna och uppsöker nu dig med smärtor i höger handled. I status finner du en palpationsömhet över distala radius och en svullnad i samma område.\n\nRöntgenundersökning visar följande två bilder:",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "TNM system (T=tumören, N=Noduli och M=metastas) (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du har tillgång till gipsmaterial på vårdcentralen och bestämmer dig för att anlägga en gipsskena för att stabilisera frakturen och minska smärtan i handleden.",
+          "contextImageUrl": "/images/exams/2020-05/page9_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-12-1",
+              "text": "Vilken bild (A-D) motsvarar en korrekt anlagd gipsskena?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-05/page10_img1.jpeg",
+              "facit": [
+                "D lätt dorsalbockad skena från armbåge till proximalt om MCP-lederna som skall kunna röras, tumbasen fri. (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-12-2",
+              "text": "Hur skall handen och armen tränas de närmaste 4 veckorna?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "b: Hålla armen högt så ofta det går. Axel och armbåge skall röras, handen skall knytas. Ingen mitella eller dylikt, svullnaden motverkas av muskelarbete (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-12-3",
+              "text": "Hur länge skall gipsen sitta på armen? (0,5p) Denna 75-åriga kvinna med odislocerad radiusfraktur som avgipsats för en månad sedan återkommer nu till på vårdcentralen. Hon känner sig allt piggare och starkare men är bekymrad då hon känner sig svag i höger handen och har svårt att hålla i kopplet vid hundpromenader. Vid statustagande undersöker du handen noggrant och upptäcker att patienten inte kan lyfta tummen från underlaget.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I standardfallet 4 veckor, detta gäller lågenergiskador (0.5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": null,
+          "contextImageUrl": "/images/exams/2020-05/page11_img1.jpeg",
+          "questions": [
+            {
+              "id": "2-13",
+              "text": "Vilken sena har skadats (namnge den sena som pilen pekar på) och vad bör du göra nu? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Extensor pollicis longus-senan dvs tummens långa sträcksena. Remittera till handkirurg för operation (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Internmedicin",
+      "points": 20,
+      "intro": "Du står på akutrummet, ambulansen har förvarnat, Birgitta, 85 år gammal, har ramlat under natten och blivit liggande. På morgonen ringer maken efter ambulans då han inte lyckas hjälpa henne upp. Vid ambulansens ankomst klockan 09:00 var Birgitta allmänpåverkad, hade en andningsfrekvens på 42 andetag per minut, syrgassaturation på 88 % och ett systoliskt blodtryck på 105 mm Hg. Ambulanspersonalen har stabiliserat tillståndet genom att sätta en perifer venkateter med infusion av 1000 ml Ringer-Acetat, har satt på ett flöde av 15 liter syrgas/minut på en reservoarmask, har erbjudit patienten Alvedon vilket hon tackat nej till och har hjälpt henne till toaletten. Där noterades att hon hade blod från urinen eller underlivet. Tidigare sjukdomar: Birgitta har år 2002 opererats och strålats för en koloncancer, har hypertoni, njursvikt, CKD (chronic kidney disease) grad 4, baserad på nefroskleros med ett habituellt S-kreatinin runt 200 mikromol/L. För 6 månader sedan ådrog hon sig en höftfraktur och erhöll då en höftplastik. Har ej återhämtat sig fullt ut efter detta.\n\nAktuellt: Dagen innan ankomsten besvärades Birgitta av frossa på eftermiddagen, men hon förnekar snuva, huvudvärk, hosta, dyspné eller miktionsbesvär. Hon har noterat blod på inkontinensskyddet. Hon uppger sig inte ha haft buksmärtor, diarré eller kräkning.\n\nNågon gång i natt har hon varit uppe och ramlat. Det är oklart om hon snubblat. Hon tror sig inte ha varit avsvimmad, säger sig inte ha slagit sig någonstans, men kunde inte ta sig upp utan blev liggande på golvet tills maken fann henne där på morgonen.\n\nStatus Allmäntillstånd: Trött och tagen. Temp 39 grader. Munhåla och svalg inspekteras u.a. Hjärtfrekvens 80 slag/minut, hjärtat auskulteras med regelbunden rytm, inga bi- eller blåsljud. Blodtryck 115/70 mm Hg. Lungorna auskulteras med vesikulära andningsljud utan rassel eller ronki. Andningsfrekvens 30 andetag per minut, saturation 95%, nu med 5 liter syrgas per minut på mask. Buken är mjuk, ömmar över urinblåsan, ingen dunkömhet över njurlogerna. Neurologstatus Glasgow Coma Scale (GCS) 13, 1 poäng avdrag då hon ligger och blundar, 1 poäng avdrag då hon ej är orienterad. Isokori, pupiller reagerar lika på båda sidorna för direkt och indirekt ljus. Grov kraft är utan anmärkning i samtliga extremiteter. Känsel för beröring liksidig. Lokalstatus ben, ingen svullnad bilateralt, inget sår på kroppen. Vikt ca 50 kg.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilken diagnos/arbetshypotes misstänker du i första hand? (1p) Patienten har pågående Ringer Acetat 1000 ml och syrgas på mask.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du misstänker sepsis/svår infektion"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilka prover önskar du beställa akut? Minst 3 för full poäng",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "blodgas med laktat (arteriell eller venös). infektionsprover (CRP + LPK), blododling urinsticka och urinodling, myoglobin/CK (minst 3=2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-3",
+              "text": "Vilka ytterligare åtgärder (utredning/ingrepp/behandling) önskar du genomföra akut? Minst 3 för full poäng (2p) Du står på akutrummet, Birgitta, 85 år gammal, har ramlat under natten och blivit liggande. Vid ambulansens ankomst klockan 09:00 var Birgitta allmänpåverkad, hade en andningsfrekvens på 42 andetag per minut, syrgassaturation på 88 % och ett systoliskt blodtryck på 105 mm Hg. Ambulanspersonalen har stabiliserat tillståndet genom att sätta en perifer venkateter med infusion av 1000 ml Ringer-Acetat, har satt på ett flöde av 15 liter syrgas/minut på en reservoarmask.\n\nTidigare sjukdomar: 2002 opererats och strålats för en koloncancer, har hypertoni, njursvikt, CKD (chronic kidney disease) grad 4, baserad på nefroskleros med ett habituellt S-kreatinin runt 200 mikromol/L. För 6 månader sedan ådrog hon sig en höftfraktur och erhöll då en höftplastik. Har ej återhämtat sig fullt ut efter detta.\n\nAktuellt: Frossa på dagen innan, men ingen snuva, huvudvärk, hosta, dyspné eller miktionsbesvär. Hon hade noterat blod på inkontinensskyddet. Hon uppger sig inte ha haft buksmärtor, diarré eller kräkning.\n\nStatus Allmäntillstånd: Trött och tagen. Temp 39 grader. Munhåla och svalg inspekteras u.a. Hjärtfrekvens 80 slag/minut, hjärtat auskulteras med regelbunden rytm, inga bi- eller blåsljud. Blodtryck 115/70 mm Hg. Lungorna auskulteras med vesikulära andningsljud utan rassel eller ronki. Andningsfrekvens 30 andetag per minut, saturation 95%, nu med 5 liter syrgas per minut på mask. Buken är mjuk, ömmar över urinblåsan, ingen dunkömhet över njurlogerna. Neurologstatus Glasgow Coma Scale (GCS) 13, 1 poäng avdrag då hon ligger och blundar, 1 poäng avdrag då hon ej är orienterad. Isokori, pupiller reagerar lika på båda sidorna för direkt och indirekt ljus. Grov kraft är utan anmärkning i samtliga extremiteter. Känsel för beröring liksidig. Lokalstatus ben, ingen svullnad bilateralt, inget sår på kroppen. Vikt ca 50 kg. Patienten har pågående Ringer Acetat 1000ml och syrgas på mask. Du misstänker sepsis/svår infektion. Akut beställer du en blodgas med laktat som visar pH 7,25 (7,32–7,45), pCO2 4,6 kPa (5,3-6,6) base excess 11 mmol/L (-3 till +3), Natrium 142 mmol/L (137-145), Kalium 4,1 mmol/L (3,5-4,6), Kreatinin 334 mikromol/L (<90), standardbikarbonat 14 mmol/L (22-27), laktat 6,8 mmol/L (0,2- 2,3). Infektionsprover: CRP 39 mg/L (<3), LPK 13x10^9/L (3,5–8,8), myoglobin 1360 mikrog/L (<59), CK 2,9 mikrokat/L (0,6-3,5). Blododling, urinodling och en urinsticka visar 2+ för erytrocyter och 4+ för leukocyter. När odlingar är säkrade ordinerar du bredspektrumantibiotika (Cefotaxim), Bladderscan/KAD/DT-urinvägar, fortsatt monitorering av saturation, puls och blodtryck. EKG och ytterligare 500-1000 ml kristalloid vätska intravenöst. (30 ml/kg kroppsvikt)\n\nDet är inte fel att beställa en lungröntgen, men den ger sannolikt ingen ytterligare information. DT hjärna däremot finns ingen indikation att utföra i nuläget, men ger inga minuspoäng.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "När odlingar är säkrade ordinerar du bredspektrumantibiotika (Cefotaxim), Bladderscan/KAD/DT-urinvägar, fortsatt monitorering av saturation, puls och blodtryck. EKG och ytterligare 500-1000 ml kristalloid vätska intravenöst.  (30 ml/kg kroppsvikt) (minst 3=2p)\n\nDet är inte fel att beställa en lungröntgen, men den ger sannolikt ingen ytterligare information och därför inga poäng. EKG ingår förstås. DT hjärna däremot finns ingen indikation att utföra i nuläget, men ger inga minuspoäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-1",
+              "text": "Hur tolkar du patientens blodgas/syra-basstatus och dess genes? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blodgasen visar metabol acidos, laktatstegring och en akut försämring av kronisk njursvikt då kreatinin är 1,5 x habituellt krea. (akut njursvikt stadium 1 enl RIFLE) (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Hur tolkar du infektionsproverna? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kort infektionsanamnes där CRP ännu inte stigit till förväntade nivåer. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-3",
+              "text": "Hur tolkar du EKG? Motivera. (1p) Du står på akutrummet, Birgitta, 85 år gammal, har ramlat under natten och blivit liggande. Vid ambulansens ankomst klockan 09:00 var Birgitta allmänpåverkad, hade en andningsfrekvens på 42 andetag per minut, syrgassaturation på 88 % och ett systoliskt blodtryck på 105 mm Hg. Ambulanspersonalen har stabiliserat tillståndet genom att sätta en perifer venkateter med infusion av 1000 ml Ringer-Acetat, har satt på ett flöde av 15 liter syrgas/minut på en reservoarmask. Tidigare sjukdomar: 2002 opererats och strålats för en koloncancer, har hypertoni, njursvikt, CKD (chronic kidney disease) grad 4, baserad på nefroskleros med ett habituellt S-kreatinin runt 200 mikromol/L. För 6 månader sedan ådrog hon sig en höftfraktur och erhöll då en höftplastik. Har ej återhämtat sig fullt ut efter detta.\n\nAktuellt: Frossa på dagen innan, men ingen snuva, huvudvärk, hosta, dyspné eller miktionsbesvär. Hon hade noterat blod på inkontinensskyddet. Hon uppger sig inte ha haft buksmärtor, diarré eller kräkning.\n\nStatus Allmäntillstånd: Trött och tagen. Temp 39 grader. Munhåla och svalg inspekteras u.a. Hjärtfrekvens 80 slag/minut, hjärtat auskulteras med regelbunden rytm, inga bi- eller blåsljud. Blodtryck 115/70 mm Hg. Lungorna auskulteras med vesikulära andningsljud utan rassel eller ronki. Andningsfrekvens 30 andetag per minut, saturation 95%, nu med 5 liter syrgas per minut på mask. Buken är mjuk, ömmar över urinblåsan, ingen dunkömhet över njurlogerna. Neurologstatus Glasgow Coma Scale (GCS) 13, 1 poäng avdrag då hon ligger och blundar, 1 poäng avdrag då hon ej är orienterad. Isokori, pupiller reagerar lika på båda sidorna för direkt och indirekt ljus. Grov kraft är utan anmärkning i samtliga extremiteter. Känsel för beröring liksidig. Lokalstatus ben, ingen svullnad bilateralt, inget sår på kroppen. Vikt ca 50 kg. Patienten har pågående Ringer Acetat 1000ml och syrgas på mask.\n\nBlodgasen visar metabol acidos, laktatstegring och en akut försämring av kronisk",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-05/page14_img1.jpeg",
+              "facit": [
+                "Normalt EKG\n\n(1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "njursvikt då kreatinin är 1,5 x habituellt krea. Kort infektionsanamnes där CRP ännu inte stigit till förväntade nivåer. Normalt EKG.\n\nLungröntgen visar inga konfluerande infiltrat. Det syns vidgade centrala kärl och ökad interstitiell teckning jämfört med undersökning år 2010. DT urinvägsöversikt visar bilateral lätt hydronefros utan säkra avflödeshinder. Höftprotesen är på plats.\n\nPå grund av platsbrist ligger patienten kvar på akutmottagningen efter två timmar. Vid förnyad kontroll är blodtrycket 90/40 mm Hg med hjärtfrekvens 115 slag/min. I kateterpåsen har det kommit sammanlagt 50 ml mörk urin sedan den sattes. Hon blundar men öppnar ögonen vid tilltal, lyder uppmaning men är inte orienterad till situation. Orolig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Finns det ett A-, B-, C-, D- eller E-problem som motiverar en högre vårdnivå än vanlig vårdavdelning? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A - 0 B - takypné, hyperventilering. Hon orkar andas med AF 30 st/min och partiellt kompensera sin metabola acidos, men om hon ej längre orkar detta kommer hennes acidos att förvärras. Alltså ännu inget behov. Följ med ny blodgas.\n\nC - cirkulationssvikt/hypotoni i form av misstänkt nedsatt diures, försämrad kognition. D - GCS 13, blundar och ej orienterad, men inte så påverkad att det motiverar högre vårdnivå E - 0"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "Vad skulle den högre vårdnivån i så fall kunna erbjuda i detta fall?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Non Invasiv Ventilation (NIV) kan komma att bli aktuellt, vilket kan motivera plats på IMA. C - Vasopressorstöd och timdiuresmätning behövs, vilket är det avgörande skälet till högre vårdnivå.\n\n(1p om vasopressor-)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-3",
+              "text": "Bedömer du att patienten har septisk chock? Motivera. (1p) Birgitta 85 med hypertoni och kronisk njursvikt CKD 4 på nefrosklerosbas. Tidigare koloncancer opererad och -strålad. Urininkontinens. Allmänt försämrad efter en höftfraktur för 6 månader sedan. Inkommer med frossa, legat på golvet under natten efter fall. Vid inkomst stegrat laktat, metabol acidos och akut försämring av en kronisk njursvikt. Patienten erhåller KAD och planeras för inläggning på vanlig vårdavdelning. Under tiden på akuten successivt sämre, håller blodtrycket sämre och har blivit orolig.\n\nA (Airway)- 0 B (Breathing)- takypné, hyperventilering. Hon orkar andas med AF 30 st/min och partiellt kompensera sin metabola acidos, men om hon ej längre orkar detta kommer hennes acidos att förvärras. Non Invasiv Ventilation (NIV) kan komma att bli aktuellt. C (Circulation)- cirkulationssvikt/hypotoni i form av misstänkt nedsatt diures, försämrad kognition. - Vasopressorstöd och timdiuresmätning behövs, vilket är det avgörande skälet till högre vårdnivå. D (Disability)- GCS 13, blundar och ej orienterad, men inte så påverkad att det motiverar högre vårdnivå E (Exposure)- 0\n\nHon har utvecklat septisk chock (sannolikt urosepsis). Septisk chock är en infektion som ger livshotande organpåverkan, MAP under 65 mm Hg samt laktat > 2 trots adekvat vätsketillförsel.\n\nPatienten tas till en intermediärvårdsavdelning med möjlighet till högre övervakning, NIV och vasopressorstöd. På avdelningen får hon intravenöst behandling med Cefotaxim och noradrenalininfusion med ökande timdiureser som resultat. Troponinserie (tre prover) som högst 154 ng/L, stegrat NT-proBNP till 20 900 ng/L.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hon har utvecklat septisk chock (sannolikt urosepsis). Septisk chock är en infektion som ger livshotande organpåverkan, MAP under 65 mmHg samt laktat > 2 trots adekvat vätsketillförsel (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Nämn trolig orsak till troponin- och proBNP-stegringen? Behövs ytterligare utredning?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "hjärtproverna tyder på hjärtsvikt, möjligen ischemi på basen av hypoperfusion, ett EKO kan vara av värde. Njursvikt kan också bidra till förhöjt troponin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Vilka prover vill du följa, bevaka och hur ofta under de första dagarna på IMA?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blodgas/syra-bas var 3-6 timme,för att se hur laktat utvecklas och att du får effekt av behandlingen. Infektionsprover och elektrolyter inkl standardbikarbonat dagligen samt bevaka odlingssvar för att kunna smalna av antibiotikabehandlingen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-3",
+              "text": "Behöver antibiotikadosen anpassas? Hur och varför? (Man behöver inte kunna exakta doser) (1p) Birgitta 85 med kronisk njursvikt CKD 4 på nefrosklerosbas. Tidigare koloncancer opererad och - strålad. Urininkontinens. Försämrad efter en höftfraktur för 6 månader sedan. Inkommer med frossa, legat på golvet under natten efter fall. Vid inkomst stegrat laktat, metabol acidos och akut försämring av kronisk njursvikt, Patienten erhåller KAD och planeras för inläggning på vanlig vårdavdelning. Under tiden på akuten successivt sämre, håller blodtrycket sämre och får ett MAP <65 dvs utvecklar septisk chock. Flyttas till IVA/IMA får noradrenalin stöd, repar sig och har nu fått flytta till vanlig vårdavdelning. På provtagning har man sett proBNP 20 900. och troponin som max 157. Hjärtproverna tyder på hjärtsvikt, möjligen ischemi på basen av hypoperfusion, njursvikt kan också bidra till förhöjt troponin. Ett transtorakalt Ekokardiografi (TTE) visade förstorad vänsterkammare EF 35%. Aorta ascendens med vidd invid övre norm. Lätt förhöjt systoliskt tryck i lungkretsloppet. Blodgas/syra-bas var 3-6 timme, för att se hur laktat utvecklas och att du får effekt av behandlingen. Infektionsprover och elektrolyter inkl standardbikarbonat dagligen: CRP 347 mg/L, LPK 31,7x10^9/L, kreatinin 318 mikromol/L, e-GFR 11 mL/min/1,73 m2 samt bevaka odlingssvar för att kunna smalna av antibiotikabehandlingen. Urinodling: E. coli, riklig växt, fullt känslig. Nasofarynxodling: Moraxella catarrhalis. Blododling: E. coli i 4/4 flaskor, fullt känslig och Aerococcus urinae som även den är fullt känslig i 2/4 flaskor. Ja, dosen kan behöva minskas med hänsyn till patientens njursvikt.\n\nPatienten fick under sina första 3 dygn som inneliggande totalt 5000 ml Ringeracetat. Nu, under dag 5, har patienten börjat försörja sig per os. Hon är fortsatt mycket trött, och mestadels sängliggande. Personalen har noterat att det är sparsamt med urin i påsen samt att patienten har blivit något tungandad, varför du vill vara restriktiv med ytterligare vätska. Birgitta har ramlat under natten då hon försökt stiga upp själv. Hon förefaller inte ha brutit något. Undersköterskan rapporterar på morgonronden att Birgitta har svårt att svälja och hostar när hon försöker äta frukost.\n\nMaken kommer på besök och berättar att Birgitta inte riktigt varit sig själv sedan höftoperationen för 6 månader sedan. Hon är mer glömsk, äter sämre, har gått ned i vikt och är allt tröttare. Maken frågar dig om du tror att Birgitta kommer att klara upp detta.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ja, dosen kan behöva minskas med hänsyn till pats njursvikt. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vilka alternativ för att tillföra näring till en patient finns det vid sväljningssvårigheter?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "TPN/nasogastrisk sond/PEG är alternativ vid sväljningssvårigheter. Under ett dygn fick Birgitta en Nasogastrisk sond/Clinifeedingsond, i vilken hon fick sondmat, men efter ett dygn drog hon ut sonden, och vägrade sedan att få en ny. Att anlägga perkutan endoskopisk gastrostomi PEG, kräver patientens godkännande, vilket har varit svårt att få, och risken för aspirationspneumoni kvarstår. Beslutet blev att Birgitta får så kallad önskekost, då får hon äta det hon kan och vill trots aspirationsrisk även om maten är konsistensanpassad (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Det kan finnas anledning till att fatta beslut avseende behandlingsbegränsningar/livsuppehållande åtgärder. Vem får göra det och hur går det till?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man bör alltid ta ställning till behandlingsbegränsningar vid svår sjukdom och inhämta patientens inställning, även när det innebär att man fortsätter med fulla åtgärder. Behandlingsbegränsningarna och patientens inställning skall dokumenteras i patientens journal. Det är bara en legitimerad läkare som får fatta beslut om behandlingsbegränsningar och denne bör ha rådgjort med en annan legitimerad yrkesutövare."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-3",
+              "text": "Vad innehåller ett så kallat brytpunktssamtal? Vem kan hålla det och varför har man ett brytpunktsamtal? (1)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ett brytpunktssamtal är ett samtal mellan behandlande läkare, patient och/eller närstående där patienten ges individuellt anpassad information om sitt hälsotillstånd och om de metoder för undersökning, vård och behandling som finns när målet med vården övergår från att vara utredande/botande/livsförlängande till symtomlindrande med fokus på livskvalitet. Samtalets innehåll och konsekvenser dokumenteras i journaltext och kommuniceras i vårdkedjan. För att skapa möjlighet för patienten och de närstående att förbereda sig är det av central betydelse att alla berörda får insikt i att livet lider mot sitt slut. Patienter och närstående som har insikt om sin situation har mycket större möjligheter att planera för- och ta vara på den sista tiden i livet. (1p om två av tre)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicin",
+      "points": 20,
+      "intro": "Som AT-läkare på en vårdcentral träffar du en 56-årig gift kvinna, som har två barn och arbetar som busschaufför. Hon kommer idag för en planerad årskontroll för diabetes typ 2 där diagnosen ställdes för 5 år sedan.  För 8 år sedan vårdades hon för en hjärtinfarkt. Hennes medicinering är: Metformin 850 mg 1x2, Metoprolol 50 mg 1x1, Trombyl 75 mg 1x1 och Atorvastatin 20 mg 1x1.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Hur vill du komplettera anamnesen avseende diabetessjukdomen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diabetessymtom (trötthet, törst, ofrivillig viktnedgång, ökade urinmängder, synbesvär), Kardiovaskulära symtom, neuropati symtom, alkoholanamnes"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Ange 4 relevanta riskfaktorer, förutom diabetes och tidigare hjärtinfarkt, som behöver förbättras för att minska patientens risk för ny kardiovaskulär sjukdom.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övervikt, rökning, hypertoni, hyperlipidemi. hereditet, övriga sjukdomar tecken på diabeteskomplikationer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Ange 4 relevanta kliniska undersökningar som skall ingå vid en diabetesårskontroll?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bltr, BMI, perifera pulsar, ev tecken på diabetesneuropati ex vibrationssinne, Monofilament. Genomförd ögonbottenscreening"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-4",
+              "text": "Vilka 3 laboratorieprover skall tas vid en diabetesårskontroll? (1p) Som AT-läkare på en vårdcentral träffar du en 56-årig gift kvinna, som har två barn och arbetar som busschaufför. Hon kommer idag för en planerad årskontroll för diabetes typ 2 där diagnosen ställdes för 5 år sedan.  För 8 år sedan vårdades hon för en hjärtinfarkt. Hennes medicinering är: Metformin 850 mg 1x2, Metoprolol 50 mg 1x1, Trombyl 75 mg 1x1 och Atorvastatin 20 mg 1x1.\n\nNär patienten skall lämna mottagningen berättar hon att hon de sista 2 månaderna märkt stelhet i armarna och ömhet i överarmsmuskulaturen och upp mot nacken. Dessutom har hon känt sig mer stel i låren när hon ska resa sig upp.\n\nDu gör en undersökning och noterar följande i status: AT: opåverkat. BMI 28 MoS: retningsfritt Thyreoidea, lymfkörtlar: palp ua Lungor: vesikulärt andningsljud utan rassel eller ronchi Hjärta: RR frekv 65 Bltr: 130/80 mm Hg Buk: mjuk oöm LS Perifera pulsar: Pulsationer palp i a tibialis post och dorsalis pedis bilat u.a. Anger vibrationssinne u.a. vid malleoler och stortåns MP leder. LS armar: Stelt i armarna när hon försöker lyfta dem över huvudet. Upplever stelhet vid uppåtresning från sittande",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "P-glukos, HbA1c, mikroalbuminuri, blodfetter, Krea, Kobalamin, Folat (pat står på metformin)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-1",
+              "text": "Ange 2 förklaringar som kan förklara muskelbesvären?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Polymyalgia reumatica, biverkan av statiner, cervikobrahchialgi hypothyreos"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Ange ytterligare 2 blodprover som nu är indicerade att kontrollera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SR, TSH ev CK CRP"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Som AT-läkare på en vårdcentral träffar du en 56-årig gift kvinna, som har två barn och arbetar som busschaufför. Hon kommer idag för en planerad årskontroll för diabetes typ 2 där diagnosen ställdes för 5 år sedan.  För 8 år sedan vårdades hon för en hjärtinfarkt. Hennes medicinering är: Metformin 850 mg 1x2, Metoprolol 50 mg 1x1, Trombyl 75 mg 1x1 och Atorvastatin 20 mg 1x1.\n\nNär patienten skall lämna mottagningen berättar hon att hon de sista 2 månaderna märkt stelhet i armarna och ömhet i överarmsmuskulaturen och upp mot nacken. Dessutom har hon känt sig mer stel i låren när hon ska resa sig upp.\n\nDu gör en undersökning och noterar följande i status: AT: opåverkat. BMI 28 MoS: retningsfritt Thyreoidea, lymfkörtlar: palp ua Lungor: vesikulärt andningsljud utan rassel eller ronchi Hjärta: RR frekv 65 Bltr: 130/80 mm Hg Buk: mjuk oöm LS Perifera pulsar: Pulsationer palp i a tibialis post och dorsalis pedis bilat u.a. Anger vibrationssinne u.a. vid malleoler och stortåns MP leder. LS armar: Stelt i armarna när hon försöker lyfta dem över huvudet. Upplever stelhet vid uppåtresning från sittande\n\nProverna visar SR 80 mm, fP-glukos 7,5 mmol/l, HbA1c 65 mmol/mol, Hb 120 g/l, Krea 80 µmol/l, TSH 1,0 mE/L, CK 2.5 μkat/l (ref 0,6-3,5 µkat/l), Kolesterol 5,5 mmol/l, LDL 4 mmol/l HDL 1,0 mmol/l, Triglycerider 3,0 mmol/l",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Ange 4 ytterligare prover och/eller undersökningar som du gör med ledning av hög SR hos denna patient. Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elfores (Myelom), lungröntgen, palp temporalartärer (temporalisarterit)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-2",
+              "text": "Vilken är den mest sannolika diagnosen som förklarar muskelsymtomen? (1p) Som AT-läkare på en vårdcentral träffar du en 56-årig gift kvinna, som har två barn och arbetar som busschaufför. Hon kommer idag för en planerad årskontroll för diabetes typ 2 där diagnosen ställdes för 5 år sedan.  För 8 år sedan vårdades hon för en hjärtinfarkt. Hennes medicinering är: Metformin 850 mg 1x2, Metoprolol 50 mg 1x1, Trombyl 75 mg 1x1 och Atorvastatin 20 mg 1x1.\n\nNär patienten skall lämna mottagningen berättar hon att hon de sista 2 månaderna märkt stelhet i armarna och ömhet i överarmsmuskulaturen och upp mot nacken. Dessutom har hon känt sig mer stel i låren när hon ska resa sig upp.\n\nDu gör en undersökning och noterar följande i status: AT: opåverkat. BMI 28, MoS: retningsfritt, Thyreoidea, lymfkörtlar: palp ua Lungor: vesikulärt andningsljud utan rassel eller ronchi, Hjärta: RR frekv 65, Bltr: 130/80 mm Hg, Buk: mjuk oöm LS Perifera pulsar: Pulsationer palp i a tibialis post och dorsalis pedis bilat u.a. Anger vibrationssinne u.a. vid malleoler och stortåns MP leder. LS armar: Stelt i armarna när hon försöker lyfta dem över huvudet. Upplever stelhet vid uppåtresning från sittande\n\nProverna visar SR 80 mm, fP-glukos 7,5 mmol/l, HbA1c 65 mmol/mol, Hb 120 g/l, Krea 80 µmol/l, TSH 1,0 mE/L, CK 2.5 μkat/l (ref 0,6-3,5 µkat/l), Kolesterol 5,5 mmol/l, LDL 4 mmol/l HDL 1,0 mmol/l, Triglycerider 3,0 mmol/l\n\nDu misstänker Polymyalgia reumatica (PMR). Elfores visar ingen M-komponent och lungröntgen visar normala förhållanden.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Polymyalgia reumatica"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilken behandling förskriver du för muskelbesvären? Ange även dosering och administrationsform.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Prednisolon 15-25 mg dagl initialt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Hur utvärderar du att PMR-diagnosen är sannolik?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SR normaliseras och symtomen försvinner inom några dagar efter insatt Prednisolon."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-3",
+              "text": "Hur följer du upp denna behandling? Hur lång är behandlingstiden? (1p) Som AT-läkare på en vårdcentral träffar du en 56-årig gift kvinna, som har två barn och arbetar som busschaufför. Hon kommer idag för en planerad årskontroll för diabetes typ 2 där diagnosen ställdes för 5 år sedan.  För 8 år sedan vårdades hon för en hjärtinfarkt. Hennes medicinering är: Metformin 850 mg 1x2, Metoprolol 50 mg 1x1, Trombyl 75 mg 1x1 och Atorvastatin 20 mg 1x1.\n\nNär patienten skall lämna mottagningen berättar hon att hon de sista 2 månaderna märkt stelhet i armarna och ömhet i överarmsmuskulaturen och upp mot nacken. Dessutom har hon känt sig mer stel i låren när hon ska resa sig upp.\n\nDu gör en undersökning och noterar följande i status: AT: opåverkat. BMI 28, MoS: retningsfritt, Thyreoidea, lymfkörtlar: palp ua Lungor: vesikulärt andningsljud utan rassel eller ronchi, Hjärta: RR frekv 65, Bltr: 130/80 mm Hg, Buk: mjuk oöm LS Perifera pulsar: Pulsationer palp i a tibialis post och dorsalis pedis bilat u.a. Anger vibrationssinne u.a. vid malleoler och stortåns MP leder. LS armar: Stelt i armarna när hon försöker lyfta dem över huvudet. Upplever stelhet vid uppåtresning från sittande\n\nProverna visar SR 80 mm, fP-glukos 7,5 mmol/l, HbA1c 65 mmol/mol, Hb 120 g/l, Krea 80 µmol/l, TSH 1,0 mE/L, CK 2.5 μkat/l (ref 0,6-3,5 µkat/l), Kolesterol 5,5 mmol/l, LDL 4 mmol/l HDL 1,0 mmol/l, Triglycerider 3,0 mmol/l.\n\nDu misstänker Polymyalgia reumatica (PMR). Elfores visar ingen M-komponent och lungröntgen visar normala förhållanden.\n\nDu inleder behandling med Prednisolon 20mg dagligen och kontrollerar med en ny SR inom en vecka. Denna har då sjunkit till 20mm samtidigt som symtomen har försvunnit helt.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Regelbunden kontroll av SR och av symtomen med långsam nedtrappning av Prednisolondosen. Behandlingen pågår ofta 2-3 år."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-1",
+              "text": "Vilka ytterligare läkemedel förskriver du förutom Prednisolon?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Osteoporosprofylax med bisfosfonat och kalcium D-vitamin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-2",
+              "text": "Hur behandlar du patientens diabetes? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "GLP1-analog (ex Victoza/Ozempic/Trulicity) eller en SGLT-2 hämmare (Forxiga/Invokana/Jardiance) förbättrar HbA1c, BMI och ger kardiovaskulär riskreduktion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-3",
+              "text": "Vad skall patient med tidigare hjärtsjukdom ha för målvärden för kolesterol? Vilken ytterligare behandling kan vara aktuell för denna patient? Motivera. (1p) Som AT-läkare på en vårdcentral träffar du en 56-årig gift kvinna, som har två barn och arbetar som busschaufför. Hon kommer idag för en planerad årskontroll för diabetes typ 2 där diagnosen ställdes för 5 år sedan.  För 8 år sedan vårdades hon för en hjärtinfarkt. Hennes medicinering är: Metformin 850 mg 1x2, Metoprolol 50 mg 1x1, Trombyl 75 mg 1x1 och Atorvastatin 20 mg 1x1.\n\nNär patienten skall lämna mottagningen berättar hon att hon de sista 2 månaderna märkt stelhet i armarna och ömhet i överarmsmuskulaturen och upp mot nacken. Dessutom har hon känt sig mer stel i låren när hon ska resa sig upp.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dosökning av Atorvastatin (ev senare tillägg ezetimib (Ezetrol)) för att nå lipidmålen totalkolesterol< 4,5 mmol/l, LDL<1,8 mmol/l vid hög kardiovaskulär risk eller <1,4 mmol/l vid mycket hög risk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Du gör en undersökning och noterar följande i status: AT: opåverkat. BMI 28, MoS: retningsfritt, Thyreoidea, lymfkörtlar: palp ua Lungor: vesikulärt andningsljud utan rassel eller ronchi, Hjärta: RR frekv 65, Bltr: 130/80 mm Hg, Buk: mjuk oöm LS Perifera pulsar: Pulsationer palp i a tibialis post och dorsalis pedis bilat u.a. Anger vibrationssinne u.a. vid malleoler och stortåns MP leder. LS armar: Stelt i armarna när hon försöker lyfta dem över huvudet. Upplever stelhet vid uppåtresning från sittande\n\nProverna visar SR 80 mm, fP-glukos 7,5 mmol/l, HbA1c 65 mmol/mol, Hb 120 g/l, Krea 80 µmol/l, TSH 1,0 mE/L, CK 2.5 μkat/l (ref 0,6-3,5 µkat/l), Kolesterol 5,5 mmol/l, LDL 4 mmol/l HDL 1,0 mmol/l, Triglycerider 3,0 mmol/l.\n\nDu misstänker Polymyalgia reumatica (PMR). Elfores visar ingen M-komponent och lungröntgen visar normala förhållanden.\n\nDu inleder behandling med Prednisolon 20mg dagligen och kontrollerar med en ny SR inom en vecka. Denna har då sjunkit till 20mm samtidigt som symtomen har försvunnit helt.\n\nDu förskriver osteoporosprofylax med bisfosfonat (Alendronat veckotablett) och kalcium D-vitamin, en GLP1-analog (ex Victoza/Ozempic/Trulicity) eller en SGLT-2 hämmare (Forxiga/Invokana/Jardiance) som kan ge kardiovaskulär riskreduktion efter den tidigare hjärtinfarkten samt förbättra HbA1c. Samtidigt ökar du doseringen av Atorvastatin till 40 mg dagligen för att nå lipidmålen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilka risker löper en patient som står på behandling med bisfosfonater? Hur vill du göra för att utvärdera patientens behandling?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Viss ökad risk för käkbensnekros och atypisk höftfraktur. Med FRAX och eventuell mätning av bentäthet med DXA kan osteoporosbehandlingen utvärderas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Vilka generella instruktioner ger du till patienten när hon behandlas med metformin?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tillfälligt seponera Metformin vid risk för dehydrering såsom vid hög feber, kraftiga diarreer, kräkningar mm. Seponering kan även vara aktuellt vid kontraströntgen"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-3",
+              "text": "Vad skulle behandling med insulin medföra för patientens möjlighet att fortsätta i sitt yrke? (1p) Nästa patient på vårdcentralen är en 40 årig man som söker för hypopigmenterade ljusa fläckar på övre delen av ryggen. Dessa började komma för 4 månader sedan och han har inte känt några besvär av dem. När du skrapar med baksidan av skaftet till en topspinne på de vita förändringarna bildas små minimala flagnande fjäll.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Får inte arbeta som yrkeschaufför (så länge det anses finnas hypoglykemirisk)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilken är den sannolika diagnosen?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-05/page22_img1.jpeg",
+              "facit": [
+                "Pityriasis versicolor."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-2",
+              "text": "Vad orsakar utslagen?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Saprofytär svamp, Pityrosporum ovale,"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-3",
+              "text": "Vilken behandling förskriver du? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ketokonazol schampo 5 min. 5 dagar i sträck. (Alternativt Selsun schampo eller 50% propylenglykol. Behandla hela överkroppen)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

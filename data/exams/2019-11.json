@@ -199,7 +199,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "EKG visar en högerbelastning(1p) och förändringen stämmer väl med att Tanja hade en lungemboli (1p).\n\nSvarsförslag till fall 2 – Kirurgi (20 p)"
+                "EKG visar en högerbelastning (1 p) och förändringen stämmer väl med att Tanja hade en lungemboli (1 p)."
               ],
               "facitExplanation": null,
               "tags": []
@@ -284,7 +284,7 @@
             },
             {
               "id": "2-3-2",
-              "text": "Fråga 2:3:2 Vilket alternativ beskriver bäst en konventionell gastric by- passoperation? (1p)\n\nA. Ventrikeln delas proximalt.  Duodenum delas. Distala duodenumändan anastomoseras till den delade ventrikelns övre del. Proximala duodenum anastomoseras till ventrikelns distala del.\n\nB. Ventrikeln delas proximalt och mellersta jejunum delas. Distala jejunumändan anastomoseras till proximala delen av ventrikeln. Proximala jejunumändan anastomoseras till jejunum distalt om anastomosen till ventrikeln.\n\nC. Ventrikeln delas just nedom cardia.  Duodenum delas. Distala duodenumändan anastomoseras till den delade ventrikelns övre del. Proximala duodenum anastomoseras till jejunum.\n\nD. Eosohagus delas just ovan cardia.  Duodenum delas distalt. Distala duodenumändan anastomoseras till den delade eosophagus. Du planerar inläggning av Linda och ordinerar fasta, Ringeracetat och 5 mg oxynorm sc.",
+              "text": "Fråga 2:3:2 Vilket alternativ beskriver bäst en konventionell gastric bypass-operation? (1 p)\n\nA. Ventrikeln delas proximalt. Duodenum delas. Distala duodenumändan anastomoseras till den delade ventrikelns övre del. Proximala duodenum anastomoseras till ventrikelns distala del.\n\nB. Ventrikeln delas proximalt och mellersta jejunum delas. Distala jejunumändan anastomoseras till proximala delen av ventrikeln. Proximala jejunumändan anastomoseras till jejunum distalt om anastomosen till ventrikeln.\n\nC. Ventrikeln delas just nedom cardia. Duodenum delas. Distala duodenumändan anastomoseras till den delade ventrikelns övre del. Proximala duodenum anastomoseras till jejunum.\n\nD. Eosohagus delas just ovan cardia. Duodenum delas distalt. Distala duodenumändan anastomoseras till den delade eosophagus.",
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
@@ -427,7 +427,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "Snar operation med målsättning att dränera gallvägarna.\n\nSvarsförslag till fall 3 – Psykiatri (20 p)"
+                "Snar operation med målsättning att dränera gallvägarna."
               ],
               "facitExplanation": null,
               "tags": []
@@ -560,7 +560,7 @@
           "questions": [
             {
               "id": "3-3-1",
-              "text": "En anhörig ringer till avdelningen och berättar att det finns journaluppgifter angående Fredriks psykiska ohälsa på annat sjukhus. Fredrik begär sekretess mot alla och vägrar att ge sitt medgivande till inhämtning av journal från annan vårdgivare. Får du beställa journalkopior utan hans medgivande? Motivera ditt svar (1 p) Drogscreeningen som togs på psykiatriakuten, visade positivt resultat för amfetamin. Fredrik uppger nu att han känner sig ett intensivt drogsug och efterfrågar medicininsättning. Du misstänker att Fredrik börjar visa abstinenssymtom mot amfetamin.",
+              "text": "En anhörig ringer till avdelningen och berättar att det finns journaluppgifter angående Fredriks psykiska ohälsa på annat sjukhus. Fredrik begär sekretess mot alla och vägrar att ge sitt medgivande till inhämtning av journal från annan vårdgivare. Får du beställa journalkopior utan hans medgivande? Motivera ditt svar. (1 p)",
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
@@ -656,7 +656,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "Kan ge allvarlig blodbiverkan i form av granulocytopeni/agranulocytos hos ca 0,5–1 % av patienterna.\n\nSvarsförslag till fall 4 – Internmedicin (20p)"
+                "Kan ge allvarlig blodbiverkan i form av granulocytopeni eller agranulocytos hos cirka 0,5-1 % av patienterna."
               ],
               "facitExplanation": null,
               "tags": []

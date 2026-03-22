@@ -3,6 +3,7 @@ import { getCaseEarnedPoints, getTotalEarnedPoints } from "@/lib/scoring"
 import { createSupabaseServerClient } from "@/lib/supabase/server"
 import { getAuthorizedUser } from "@/lib/authz"
 import { createSupabaseAdminClient } from "@/lib/supabase/admin"
+import { specialtyKey, specialtyLabel } from "@/lib/specialties"
 
 export interface StoredExamProgress extends ExamSession {
   userId: string
@@ -98,18 +99,24 @@ export function buildDashboardStats(exams: Exam[], progressRows: StoredExamProgr
     return sum + (exam?.totalPoints ?? 0)
   }, 0)
 
-  const areaTotals = new Map<string, { earned: number; possible: number; count: number }>()
+  const areaTotals = new Map<string, { label: string; earned: number; possible: number; count: number }>()
   for (const row of completedRows) {
     const exam = examMap.get(row.examId)
     if (!exam) continue
 
     for (const examCase of exam.cases) {
       const earned = getCaseEarnedPoints(exam, examCase.id, row.scores)
-      const current = areaTotals.get(examCase.title) ?? { earned: 0, possible: 0, count: 0 }
+      const key = specialtyKey(examCase.title)
+      const current = areaTotals.get(key) ?? {
+        label: specialtyLabel(examCase.title),
+        earned: 0,
+        possible: 0,
+        count: 0,
+      }
       current.earned += earned
       current.possible += examCase.points
       current.count += 1
-      areaTotals.set(examCase.title, current)
+      areaTotals.set(key, current)
     }
   }
 
@@ -118,9 +125,9 @@ export function buildDashboardStats(exams: Exam[], progressRows: StoredExamProgr
     inProgressCount,
     averageEarnedPoints: completedRows.length ? round(totalEarned / completedRows.length) : 0,
     averagePercentage: totalPossible ? round((totalEarned / totalPossible) * 100) : 0,
-    areaAverages: [...areaTotals.entries()]
-      .map(([label, totals]) => ({
-        label,
+    areaAverages: [...areaTotals.values()]
+      .map((totals) => ({
+        label: totals.label,
         percentage: totals.possible ? round((totals.earned / totals.possible) * 100) : 0,
         completedExams: totals.count,
       }))

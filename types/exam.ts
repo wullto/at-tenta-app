@@ -46,5 +46,8 @@ export interface ExamSession {
   answers: ExamAnswers
   scores: ExamScores
   startedAt: string
+  updatedAt?: string
   completedAt?: string
+  currentStepIndex?: number
+  mode?: "tenta" | "ovning"
 }

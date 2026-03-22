@@ -1,0 +1,706 @@
+{
+  "id": "2020-11",
+  "title": "AT-prov november 2020",
+  "date": "2020-11-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": "Du har för någon vecka sedan hämtat ut din läkarlegitimation och ska nu vikariera vid en psykiatrisk klinik på sjukhuset i Annanköping. Det är lördag och du är primärjour på en sjukhusgemensam akutmottagning. En polisbil rullar in på uppfarten och en kvinna i 25-årsåldern leds in på mottagningen. Hon är upprörd och talar högt. Kläderna är trasiga, hon luktar illa och är påtagligt magerlagd. Polisen har hämtat henne i bostaden efter samtal från grannar då hon kastat saker genom fönstret och uppträtt aggressivt. Kvinnan som heter Eva är inte känd på kliniken. Enligt granne ska hon ha flyttat in ett halvår tidigare för att studera teosofi vid ett seminarium. Grannen har lämnat ett telefonnummer till anhöriga som hört av sig på grund av oro för Eva. Du närmar dig Eva med ganska allmänna frågor om hur hon mår och vad som hänt. Det enda svar du får är att hon vill hem och att ”dom är efter henne” och att hon måste gå. Du ser att hon är uttalat ångestfylld, upprörd och mycket rädd Eva pratar för sig själv. Ibland kommer det en lång svada ur hennes mun.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilken preliminär diagnos har du underlag för?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akut psykos"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Ska du låta Eva lämna mottagningen? Motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej. Patienten måste enligt lag ställa sig till förfogande för undersökning för vårdintyg (LPT 4§)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Hur hanterar du den akuta situationen nu - ska patienten få gå hem efter din vårdintygsprövning eller bedömer du att hon ska stanna? Vad gör du – och på vilka grunder fattar du beslut?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hon får ej gå hem (1-p). Du skriver ett vårdintyg (LPT 4§; 0,5 p) och fattar ett kvarhållningsbeslut (LPT 6§; 0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Beskriv med korrekt terminologi vad som karaktäriserar Evas språk (1 p).\n\nDu är nylegitimerad primärjour på en psykiatrisk klinik. Polisen har hämtat en kvinna i 25-årsåldern, Eva, i sin lägenhet och leder in henne på akutmottagningen. Den kliniska bilden ger misstanke om en akut psykos.  Du bedömer att LPT är tillämplig och skriver ett vårdintyg samt beslutar att patienten skall kvarhållas. Du ringer patientens föräldrar som bor tjugo mil bort från Annanköping. Föräldrarna berättar om en stor oro för dottern sedan något halvår. Studierna har inte utvecklats så som Eva och föräldrarna hoppats. Ganska snart efter starten på utbildningen drog sig Eva tillbaka, släppte sina vänner och började tala om olika krafter från rymden som gör att tankar kan tas ut och stoppas in i människors hjärnor. När föräldrarna ifrågasatt dessa uppfattningar har dottern reagerat med avvisande och under de senaste veckorna har hon inte svarat på vare sig telefon, e-post eller sms. Föräldrarna berättar vidare att Eva varit en högpresterande flicka, men blyg och haft en del svårigheter i sociala kontakter. Dessa egenskaper förstärktes under tiden på gymnasiet. Rent fysiskt har Eva varit frisk men som litet barn hade hon epilepsi. Eva har alltid varit vegetarian och periodvis haft svårt att hålla vikten. Vad föräldrarna känt till har hon aldrig använt droger. På fråga om det finns ärftlighet för psykisk ohälsa i släkten säger Evas mor att hennes farmor hade en form av psykisk sjukdom och tillbringade en stor del av sitt liv på sjukhus. Hon känner inte till några detaljer. När du kommer ut från det telefonsamtalet har bakjouren redan hunnit göra intagningsprövning och beslutat att patienten ska vårdas i slutenvård med stöd av LPT.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "inkoherent språk/desorganiserat tal/ordsallad (0,5p) och neologismer (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-1",
+              "text": "Vilka är de tre centrala förutsättningarna för att ge sluten tvångsvård enligt LPT?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "… lider av en allvarlig psykisk störning (0,5 p), … har ett oundgängligt behov … av psykiatrisk vård, som kräver kvalificerad dygnetruntvård. (0,5 p)\n\n… motsätter sig - eller … till följd av patientens psykiska tillstånd finns grundad anledning att anta att vården inte kan ges med hans eller hennes samtycke (0,5 p) (totalt 1,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Sluten tvångsvård kan ges även med stöd av annan lag. Vilken?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "LRV (Lag om rättspsykiatrisk vård) (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-3",
+              "text": "Vilken diagnos anser du mest trolig och motivera svaret.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "nyinsjuknande i schizofreni (0,5 p), förekomst av både positiva (misstänkta hallucinationer, tankestörningar med desorganisering av talet och\n\n2\n\nbeteendet, och vanföreställningar) (0,5 p) och negativa symtom (socialt tillbakadragen) (0,5 p). I nuläget ingen misstanke om affektiv psykos eller pågående missbruk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Du är nylegitimerad primärjour på en psykiatrisk klinik och har bedömt en ung kvinna med en klinisk bild av en akut psykos på akutmottagningen. Föräldrarnas anamnes speglar en längre period av förändrad verklighetsuppfattning och funktionsförlust. Vid undersökningen uppvisar hon okoordinerat tal, neologismer och misstänkt hallucinos. Du misstänker att den sannolikaste diagnosen är nyinsjuknande i schizofreni, med mindre sannolika alternativ affektiv eller drogutlöst psykos.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4",
+              "text": "Ge förslag på den utredning som bör genomföras närmaste veckorna. Dela upp svaret i anamnes, strukturerad psykiatrisk utredning, medicinsk utredning samt social och psykologisk utredning. (2p)\n\nNär du lämnat patienten Eva ges du i uppgift att genomföra en konsultation på annan klinik. Du ombeds gå till en patient som vårdas på urologkliniken. Här träffar du Alfonzo, 83 år, som blivit inlagd under natten på grund av urinstämma. Från att vara klar och redig vid inkomsten berättar den tjänstgörande sjuksköterskan att Alfonzo ”legat på klockan”. Han klagar över att rummet översvämmats av små insekter som försöker bita honom i ansiktet och på händerna. Du sätter dig ner för att samtala med Alfonzo men märker snart att han är dåligt orienterad och mycket rädd. Han drar förtvivlat i sin kateterslang. När du gör ett försök att utföra ett enkelt neurologstatus skriker han, försöker slå dig och du märker att Alfonzo är mycket varm.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Anamnes (0,5p): risk/uppväxt/högsta nivå/våld/extern stress\n\nStrukt psyk utredn. (0,5p): strukt status OCH strukt symptomskattning (exv. PANS BPRS)\n\nMedicinsk utredn. (0,5p) somatiskt status, inkl neurol/lab inkl thyr/lues/HIV/drugs/ev MR, LP\n\nSoc/psykol utredn. (0,5p) kognitiv test/strukt pers i stabil fas /soc miljö/ADL"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5",
+              "text": "Vilket mentalt tillstånd har Alfonzo troligen drabbats av? (1 p)\n\nDu är således konsult på urologkliniken där du möter Alfonzo, 83 år, som blivit inlagd under natten på grund av urinstämma. Han verkar febrig och har rimligen en UVI. Han visar sig ha en akut konfusion.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Konfusion, delirium eller akut förvirringstillstånd"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-1",
+              "text": "Nämn fyra principiellt olika faktorer av etiologisk betydelse som kan leda till/utlösa konfusion?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärnskada eller akut hjärnpåverkan, läkemedel, kroppslig sjukdom, psykiska och miljömässiga faktorer; 0,5 p x 4"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-6-2",
+              "text": "Vilka är de generella (icke-farmakologiska) omvårdnadsprinciperna vid konfusion? (1 p)\n\nNär du återkommit till den psykiatriska akutmottagningen ombeds du att träffa Bettan Johansson som själv kommit till mottagningen. Bettan har diagnosen emotionellt instabilt personlighetssyndrom. Hon har nyligen kommit tillbaka hem till sin egen bostad från en tremånadersvistelse på ett behandlingshem. Bettan gjorde framsteg under vistelsen på behandlingshemmet men i samband med utskrivningen kom ångesten tillbaka. Idag på förmiddagen stod hon inte ut längre och har fått uttalade självskadeimpulser. Bettan vill bli inlagd.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "De båda delarna ”skapa en lugn och trygg miljö och upprätthålla dygns- och måltidsrytm” och ”verklighetsstödjande inslag i form av ex klocka, kalender, anhörignärvaro, personliga ägodelar” skall kunna urskiljas i svaret (0,5 p x2)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Hur ställer du dig till detta? Vilket övervägande är mest avgörande för din bedömning om inläggning?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Suicidbedömningen"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-2",
+              "text": "Vilka är de centrala karaktäristika vid emotionellt instabilt personlighetssyndrom?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Impulsiviteten (0,5p) och tomheten/ångesten/självdestruktiviteten (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-3",
+              "text": "Vilken psykologisk behandling har bäst evidens vid emotionellt instabilt personlighetssyndrom? (1 p)\n\nDu har just träffat Bettan Johansson som har diagnosen emotionellt instabilt personlighetssyndrom och som nyligen kommit hem efter en tremånadersvistelse på ett behandlingshem. Hon har nu, åter i hemmet, tilltagande ångest med självskadeimpulser. Du har undersökt henne noga och du bedömer inte suicidrisk föreligga. Du bedömer därför att det inte finns indikation för sluten vård. Du stödjer henne att fortsätta sina kontakter inom ramen för klinikens öppenvård. Hon har sedan länge dialektisk beteendeterapi (DBT) och en egen kontaktperson. Du stannar nu upp en stund, samtalar med den sjuksköterskestuderande som deltar i arbetet på mottagningen och som har svårt att ta till sig hur ett isolerat självskadebeteende, liksom självskadebeteende som förekommer tillsammans med personlighetssyndrom eller annan psykiatrisk problematik fungerar. Du berättar att detta reaktionsmönster kan ha olika funktion.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dialektisk beteendeterapi (DBT) är det enda svar som ger poäng\n\n3"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8",
+              "text": "Ge exempel på tre olika sådana funktioner. (1,5 p)\n\nNär du avslutat din bedömning och handläggning av Bettan blir du ombedd att gå till klinikens beroendeavdelning. Där vårdas Petter som just har återkommit från permission enligt LPT. Han har tagit heroin och kokain men är lugn och tillmötesgående. Problemet är att han känner sig snuvig och förkyld och är rädd för att han drabbats av covid-19. Den vikarierande sjuksköterskan är orolig för hur det ska gå att vårda patienten under dessa omständigheter. Hen vill att du beslutar om isolering av Petter.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "reglerar negativa känslor, gör att en person som känner sig tom eller avdomnad ändock \"känner något\", straff, kommunicerar ångest/hjälpsökande (0,5p per var; max 1,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-9",
+              "text": "Vad gör du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pratar med Petter och kommer överens om att han ska testas för covid-19 och att han stannar på rummet tills svar anlänt. Isolering inom ramen för LPT har ingen plats här såvida inte patienten genom aggressivt eller störande beteende allvarligt försvårar vården av de andra patienterna; LPT 20§."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "Vanja är 86 år och bor med sjuklig make. Vanja har inga kroniska sjukdomar och har hittills känt sig frisk. Hon kommer idag till hälsocentralen/vårdcentralen för att hon sedan cirka en månad besväras av tilltagande stelhet och ömhet i skuldror och överarmar, utan att ha ansträngt sig på något onormalt sätt. Dessutom känner hon sig onormalt trött.\n\nVid din kliniska undersökning av Vanja kan du provocera smärta i överarmsmuskulaturen och du ser att Vanja har svårt att lyfta armarna. I övrigt noterar du inget onormalt i leder, muskulatur, hjärta, lungor, buk eller blodtryck.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1",
+              "text": "Nämn två troliga differentialdiagnoser. (2 p)\n\nFör att ge Vanja ökad klarhet till orsaken till hennes symtom föreslår du komplettering med laboratorieprover och ett ytterligare viktigt statusmoment.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Polymyalgia reumatica, degenerativ skulderledssjukdom, rotatorkuffsjukdom, paramalign myalgi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-1",
+              "text": "Föreslå och motivera valet av två viktiga laboratorieprover i Vanjas situation. 2 p",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SR och CRP för att utesluta eller bekräfta inflammatorisk process."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilket ytterligare viktigt statusmoment ska utföras här för att utesluta en inte sällan samvarierande sjukdom? Motivera. (2 p)\n\nEfter någon timme finns svar på sänkningsreaktion (SR) som är 64 mm/timme (ref: 5-30 mm/h). Vid din kompletterande undersökning känner Vanja ingen ömhet vid palpation över Aa temporales eller Aa radiales.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Palpation av A temporalis och A radialis bilateralt, för differentialdiagnostik gentemot den inte sällan samvarierande jättecellsarteriten (GCA)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3",
+              "text": "Vilken är den mest troliga preliminära diagnosen? (1 p)\n\nDu förklarar för Vanja att hennes besvär kan vara orsakat av ett inflammatoriskt tillstånd som kallas Polymyalgia reumatika (PMR). Du förklarar att PMR oftast drabbar kvinnor över 60 års ålder och att orsaken till sjukdomen är okänd.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Polymyalgia reumatica (PMR)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4",
+              "text": "Vad behövs nu för att göra diagnosen sannolik eller osannolik? (2 p)\n\nOm ett behandlingsförsök med glukokortikoid i adekvat dos under tre dagar resulterar i påtaglig symtomlindring och klar minskning av SR-stegringen talar det starkt för diagnosen PMR. Vanja önskar göra ett behandlingsförsök med kortison.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tre dagars behandling med glukokortikoid. Om det ger tydlig symtomlindring och klar minskning av SR-stegringen är diagnosen PMR mycket trolig."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5",
+              "text": "Vilken är lämplig glucokortikoid och lämplig startdos för Vanja? Ange generisk beteckning för glucokortikoiden.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Prednisolon peroralt i en dosering mellan 15 till 25 mg per dag i 3 dagar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "När du träffar Vanja igen efter en vecka har SR normaliserats till 15 mm/h, ömheten och stelheten i armarna är helt borta och hon känner sig mindre trött. Du känner dig därför relativt säker på att anledningen till Vanjas problem är PMR och att fortsatt behandling med glukokortikoid är indicerad.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6",
+              "text": "Beskriv upplägget för fortsatt glukokortikoidbehandling för PMR vad gäller dosering, uppföljning och förväntad behandlingstid. (3 p)\n\nBehandlingen vid PMR är långvarig glukokortikoidbehandling med successivt försiktig dosminskning med täta kontroller. Startdosen är c:a 15 till 25 mg per dag. Behandlingstiden är kring 2 år. Vid retur av symtom eller SR-stegring återgång till närmast tidigare dosering utan symtom. Vanja har hört att det finns nackdelar med kortisonbehandling över lång tid.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Successiv försiktig nedtrappning av kortisonet över flera månader upp till ett till två år med återkommande kontroll av mående och SR."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-7",
+              "text": "Nämn två påtagliga risker och förklara mekanismerna. (4 p)\n\nDu håller med Vanja om att det är nackdelar med kortisonbehandling över längre tid. Det är också anledningen till att kortisondosen ska hållas så låg som möjligt utan att symtomen kommer i retur. Kända risker är att urkalkning av skelettet påskyndas, binjurarnas kortisonproduktion undertrycks, diabetes mellitus kan utlösas och hypertoni utlösas eller försämras.",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Osteoporos. Inhibition av bennybildning och ökning av benresorption. Steroidinducerad diabetes mellitus. Insulinresistens och ökad gluconeogenes. Undertryckt egen kortisolproduktion med nedsatt förmåga till hormonutsöndring vid svår stress. Negativ feed-back mekanism. Hypertoni. Saltretention. Ulcusrisk i kombination med NSAID-behandling. Hämning av prostataglandiner i ventrikelns mucosa.\n\n5"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-8",
+              "text": "Vad gäller skelettet, vilka 3 tablettbehandlingar och vilken adekvat rekommendation avseende levnadsvanor föreslår du Vanja?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Osteoporosprofylax med bisfosfonat, Calcium och D-vitamin. Regelbunden adekvat fysisk aktivitet med belastning av skelettet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Kirurgi",
+      "points": 20,
+      "intro": "En 46 årig man söker Dig som vik ul på vårdcentralen då han sedan cirka 1 månad noterat blod på pappret men även synligt i avföringen. Han har inga smärtor och känner sig frisk annars. Han behandlades för haemorrhoider under militärtjänstgöring för 25 år sedan med salva. Du undersöker honom med rektalpalpation proktoskopi och ser stora inre haemorrhoider utan pågående blödning men de ser lättblödande ut och de syns också när han krystar hårt i vänster sidoläge (bild). Du beslutar Dig för att ordinera bulkmedel och en lokalt verkande salva.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1",
+              "text": "Hur bör denna man följas upp (1p)? Vilken utredning behöver göras? (2p). Samma man söker Dig igen 7 år senare på vårdcentralen där Du nu arbetar som ST läkare.  Utredningen för 7 år sedan med koloskopi visade endast haemorroider och han blev bra avseende detta. Han har sedan cirka 1 månad åter noterat blod i avföringen och på pappret. Han har inga smärtor och känner sig frisk annars.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page8_img1.jpeg",
+              "facit": [
+                "Han behöver utredas med rektoskopi och radiologisk utredning av kolon, CT kolon eller kolonröntgen. Även rätt för koloskopi (2p). Man behöver också följa upp resultat av insatt behandling på symptomen (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2",
+              "text": "Redogör för den fysikaliska undersökning (status) som du planerar. Beskriv minst 2 delar av fysikalisk undersökning som ska utföras i diagnostiskt syfte på grund av symptomen. (2p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rektalpalpation, bukpalpation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3",
+              "text": "Vad blir ditt nästa steg?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Remiss till kirurgmottagning. Även rätt för rektoskopi på vårdcentralen, sedan remiss."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Patienten kommer till kirurgmottagningen en vecka senare för fortsatt utredning först med en rektoskopi. Du ikläder dig nu rollen som vik ul på kirurgkliniken. Du har arbetat där 4 månader och börjar äntligen känna dig lite varm i kläderna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4",
+              "text": "Ange hur långt upp från analöppningen du bör föra upp rektoskopet för att ha bedömt hela rektum. (1p)\n\nDu gör nu rektoskopin upp till 15 cm och ser bilden nedan.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page9_img1.jpeg",
+              "facit": [
+                "Rätt för intervallet 12-17 cm (1p). Längden på rektum varierar på grund av kroppens storlek och kroppslängd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5",
+              "text": "Vad blir din nästa diagnostiska åtgärd vid rektoskopitillfället (1p) och vilken information bör vara med i din rektoskopiberättelse (1p)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Biopsier (1p), angivelse om tumörens nedre kants nivå mätt i cm fr analöppningen (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6",
+              "text": "Vilka undersökningar är aktuella för att utreda patientens sjukdomstillstånd? Ange minst 3 undersökningar.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT buk, CT thorax, MR rektum eller bäcken, kolonutredning (3p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Efter 2 veckor skyltas MR rektum och Du ser denna bild:",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7",
+              "text": "Namnge de anatomiska strukturer som markeras med följande symboler på bilden (2,5p). OBS! Se svarsordning för symbolerna ovan!\n\nVid efterföljande multidisciplinära tumörkonferens anges tumörstadiet till T3N1M0.",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page10_img1.jpeg",
+              "facit": [
+                "0.5 p för varje rätt svar\n\nProstata\n\nSymfys (os pubis)\n\nRektum\n\nSakrum\n\nUrinblåsa\n\n7"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-8",
+              "text": "Vad säger detta om tumörutbredningen? (3p)\n\nPatienten får strålbehandling med 25 Gray och opereras veckan efter med främre resektion och avlastande loop ileostomi. Han söker akut en kväll 4 veckor efter operationen med buksmärtor som kommer stötvis och kräkningar. Under hela dagen har det inte kommit något i stomipåsen. Han berättar att urinen varit lite mörk och urinmängden sparsam.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page10_img2.jpeg",
+              "facit": [
+                "Tumören växer igenom tarmväggen (T3), har lymfkörtelmetastaser (N1) och avsaknad av fjärrmetastering (M0) (3p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-9",
+              "text": "Vilken är den sannolika diagnosen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tunntarmsileus"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "CT Buköversikt visar en mekanisk tunntarmsileus. Du ringer och rådgör med din bakjour och kommer överens om konservativ behandling till nästa morgon. Patienten lägg in på kirurgisk vårdavdelning för observation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10",
+              "text": "Vilka ordinationer lämnar Du till avdelningen? (1,5p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fasta. Ventrikelsond. 3-5 l intravenös vätska. Analgetika."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Internmedicin",
+      "points": 20,
+      "intro": "Du blir kallad till akutrummet som jour på medicin för att det har kommit in en man med snabbt påkommen svår andnöd. Du finner på akutrummet en man i 70- årsåldern med en snabb andning (frekvens 25/min), läppcyanos, blodtryck 130/80 mmHg, hjärtfrekvens 120. Fria andningsvägar. Temperatur 37,5 C. Snabbtest för covid19 negativ. Han har tidigare varit rökare i 15 år.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vad är din första diagnostiska och första terapeutiska åtgärd?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "kontrollera O2-saturationen perifert och ge syrgas på mask/grimma"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilket blodprov vill du ta först? (1p) I journalen ser du att han har en reumatoid artrit (RA) som cortisonbehandlats, men cortisonet utsattes för 1 månad sedan och nu har muskelbesvären återkommit. En kontroll igår hos husläkaren visade en sänka (SR) på 60 och CRP på 35 (normalt SR är <15 och normal CRP är <5).",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Artärblodgas"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2",
+              "text": "Vilka 4 venösa blodprov är i första hand motiverat att ta för differentialdiagnostik av andnöd, och varför är D-dimer inte motiverat i detta fall? (2p)\n\nDu blir kallad till akutrummet som jour på medicin för att det har kommit in en man med snabbt påkommen svår andnöd. Du finner på akutrummet en man i 70- årsåldern med en snabb andning (frekvens 25/min), läppcyanos, blodtryck 130/80 mmHg, hjärtfrekvens 120. Fria andningsvägar. Temperatur 37,5 C. Snabbtest för covid19 negativ. Han har tidigare varit rökare i 15 år.\n\nDu kontrollerar O2-saturationen på fingret och ger 1liter/minut O2 på grimma. Du lyssnar på lungorna och hör basala rassel bilateralt och några enstaka spridda ronki.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CRP, LPK, NT-proBNP, troponin motiverade, D-dimer är alltid högt vid inflammatorisk sjukdom; 0,25 vardera+ 1p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3",
+              "text": "Nämn två andra möjliga statusfynd som skulle kunna styrka diagnosen hjärtsvikt. (1p)\n\nDu gör en slätröntgen av lungorna på akutrummet. Nedan visas tre lungröntgenbilder på tre vanliga diagnoser som kan vara aktuella i detta fall.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "halsvenstas, perifera ödem, ev blåsljud på hjärtat, ev leverförstoring, 0,5p var upp till 1p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": null,
+          "contextImageUrl": "/images/exams/2020-11/page13_img1.jpeg",
+          "questions": [
+            {
+              "id": "4-4",
+              "text": "Ange vilka tre diagnoser bilderna visar och minst ett fynd som du ser på bilden som är typisk för den diagnosen. Benämn den översta bilden A, den mellersta B och den under C i ditt svar. (1,5p)\n\nInnan syrgastillförsel visar en arteriell blodgas pO2 6,2 kPa, pCO2 8,2 kPa, pH 7,26, Base Excess +3. Referensområden: pH 7,35-7,45, pO2 > 10 kPa, pCO2 4,6-6,0 kPa, Base Excess +-3 mmol/l.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page13_img2.jpeg",
+              "facit": [
+                "A: Hjärtsvikt:vida kärl, pluravätska bilat, hjärtförstoring. B: Pneumoni: infiltrat, C: KOL: hyperinflation, utplanande diaframavalv 0,5p var upp till 1,5p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5",
+              "text": "Vad är din tolkning av blodgasen (i termer acidos/alkalos, respiratoriskt/metabolt, kompenserad/icke-kompenserad)? (1,5p)\n\nDu blir kallad till akutrummet som jour på medicin för att det har kommit in en man med snabbt påkommen svår andnöd. Du finner på akutrummet en man i 70- årsåldern med en snabb andning (frekvens 25/min), läppcyanos, blodtryck 130/80 mmHg, hjärtfrekvens 120. Fria andningsvägar. Snabbtest för covid19 negativ. Han har tidigare varit rökare i 15 år.\n\nDu kontrollerar O2-saturationen på fingret och ger 1l O2 på grimma. Du lyssnar på lungorna och hör basala rassel bilateralt och några enstaka spridda ronki.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page14_img1.jpeg",
+              "facit": [
+                "icke-kompenserad respiratorisk acidos, 0,5p för var och en av dessa ord"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Patienten har också halsvenstas och måttliga ödem i båda benen.\n\nLungröntgen visar vida kärl och lite pleuravätska bilateralt. Blodgasen visar hypoxi och en icke-kompenserad respiratorisk acidos.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilket läkemedel ger du först intravenöst för att avlasta hjärtat?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Furosemid"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Vilket annat läkemedel kan du överväga i detta akutskede och på vilket sätt verkar det positivt vid hjärtsvikt?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nitroglycerin 1p, vasodilator som minskar preload 0,5p\n\n9"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-3",
+              "text": "Vid förnyad artärblodgas har PO2 stigit till 6,9 kPa och pCO2 stigit till 9,2 kPa, Vilken ytterligare terapi bör du tänka på att pröva nu? Motivera ditt svar. (2p)\n\nDu blir kallad till akutrummet som jour på medicin för att det har kommit in en man med snabbt påkommen svår andnöd. Du finner på akutrummet en man i 70- årsåldern med en snabb andning (frekvens 25/min), läppcyanos, blodtryck 130/80 mmHg, hjärtfrekvens 120. Fria andningsvägar. Snabbtest för covid19 negativ. Han har tidigare varit rökare i 15 år.\n\nDu kontrollerar O2-saturationen på fingret och ger 1l O2 på grimma.\n\nDu lyssnar på lungorna och hör basala rassel bilateralt och några enstaka spridda ronki.\n\nLungröntgen visar vida kärl bilateralt. Blodgasen visar hypoxi och en icke- kompenserad respiratorisk acidos.\n\nDu har gett furosemid 40 mg intravenöst och sedan även nitroglycerinspray. Innan du sätter igång med Bi-PAP tittar du med ultraljud på hans hjärta.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "bi-PAP 2p, CPAP 0,5p, ej rätt för respirator"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Du ser med ultraljud bilden nedan (RV =höger kammare, LV=vänster kammare). Vilken vanlig orsak till andnöd bör du tänka på då, och vad ser du som inte är normalt?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "lungemboli, en förstorad högerkammare"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-2",
+              "text": "Om du i stället för ovanstående bild skulle se en vänsterkammare med lätt förtjockade väggar och en väsentligen normal kontraktilitet, kan det fortfarande vara hjärtsvikt? Motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-11/page16_img1.jpeg",
+              "facit": [
+                "Ja, HFpEF"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-3",
+              "text": "När du får se hans lab-prover ser du att estimerad glomerulär filtration i njurarna (eGFR) ligger på 25 ml/min (gränsen för njursvikt är 60 ml/min). Hur påverkar det din tolkning av hans NT-proBNP-värde?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "kan bli falskt för högt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

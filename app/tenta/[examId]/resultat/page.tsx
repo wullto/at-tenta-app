@@ -11,12 +11,13 @@ export async function generateStaticParams() {
 
 export default async function ResultatPage({ params }: { params: Promise<{ examId: string }> }) {
   const { examId } = await params
+  const authorizedUser = await getAuthorizedUser()
+
   if (!examId.startsWith("2015")) {
-    const authorizedUser = await getAuthorizedUser()
     if (!authorizedUser) redirect("/")
   }
   const exam = await getExamById(examId)
   if (!exam) notFound()
   const session = await getProgressForExam(examId)
-  return <ResultatView key={exam.id} exam={exam} initialSession={session} persistRemotely={Boolean(session?.userId)} />
+  return <ResultatView key={exam.id} exam={exam} initialSession={session} persistRemotely={Boolean(authorizedUser)} />
 }

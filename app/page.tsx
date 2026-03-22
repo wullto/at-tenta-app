@@ -1,10 +1,12 @@
 import { getAllExams } from "@/lib/exams"
 import AuthPanel from "@/components/AuthPanel"
 import ExamList from "@/components/ExamList"
-import DashboardStats from "@/components/DashboardStats"
+import ContinueExamCard from "@/components/ContinueExamCard"
+import MyStatisticsCard from "@/components/MyStatisticsCard"
 import { buildDashboardStats, getAllProgress } from "@/lib/progress"
 import { getAuthorizedUser, getCurrentUser } from "@/lib/authz"
 import { hasSupabaseEnv } from "@/lib/supabase/config"
+import { countAnsweredAnswers, getTotalQuestionCount } from "@/lib/session-utils"
 
 export default async function Home() {
   const allExams = await getAllExams()
@@ -16,17 +18,28 @@ export default async function Home() {
     progressRows.map((row) => [row.examId, {
       status: (row.completedAt ? "completed" : "in-progress") as "completed" | "in-progress",
       scores: row.scores,
+      updatedAt: row.updatedAt,
     }])
   )
   const examSummaries = allExams.map((e) => ({
     id: e.id,
+    title: e.title,
+    date: e.date,
     totalPoints: e.totalPoints,
+    totalQuestions: getTotalQuestionCount(e),
     cases: e.cases.map((c) => ({
       title: c.title,
       points: c.points,
       questionIds: c.pages.flatMap((p) => p.questions.map((q) => q.id)),
     })),
   }))
+  const serverInProgress = progressRows
+    .filter((row) => !row.completedAt)
+    .map((row) => ({
+      examId: row.examId,
+      answeredQuestions: countAnsweredAnswers(row.answers),
+      updatedAt: row.updatedAt,
+    }))
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
@@ -41,7 +54,7 @@ export default async function Home() {
             </p>
           </div>
 
-          <DashboardStats
+          <MyStatisticsCard
             serverStats={{
               completedCount: dashboard.completedCount,
               inProgressCount: dashboard.inProgressCount,
@@ -51,28 +64,19 @@ export default async function Home() {
             }}
             examSummaries={examSummaries}
             areaAverages={dashboard.areaAverages}
+            serverProgressRows={progressRows.map((row) => ({
+              examId: row.examId,
+              scores: row.scores,
+              completedAt: row.completedAt,
+              updatedAt: row.updatedAt,
+            }))}
+            recentResults={dashboard.recentExams}
           />
         </section>
 
         <section className="space-y-5">
           <AuthPanel userEmail={user?.email} enabled={isSupabaseEnabled} hasAccess={Boolean(authorizedUser)} />
-
-          {dashboard.recentExams.length > 0 && (
-            <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <h2 className="text-base font-semibold text-slate-900">Senaste resultat</h2>
-              <div className="mt-4 space-y-3">
-                {dashboard.recentExams.map((item) => (
-                  <div key={item.examId} className="flex items-center justify-between rounded-xl bg-slate-50 px-4 py-3">
-                    <div>
-                      <p className="text-sm font-medium text-slate-900">{item.title}</p>
-                      <p className="text-xs text-slate-500">{item.completedAt?.slice(0, 10)}</p>
-                    </div>
-                    <p className="text-sm font-semibold text-slate-900">{item.percentage}%</p>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
+          <ContinueExamCard exams={examSummaries} serverInProgress={serverInProgress} hasAccess={Boolean(authorizedUser)} />
         </section>
       </div>
 

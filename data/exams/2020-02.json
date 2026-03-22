@@ -1,0 +1,1064 @@
+{
+  "id": "2020-02",
+  "title": "AT-prov februari 2020",
+  "date": "2020-02-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Allmänmedicin",
+      "points": 20,
+      "intro": "(FALL 1 har tre patientfall: Patient Pernilla, Patient Erik och Patient Kurt)\n\nPatient Pernilla Dagens första patient på vårdcentralen är Pernilla, 28 år, lärare. Bor tillsammans med sambo. Inga barn. Ingen ärftlighet för buk- eller gynekologiska sjukdomar. Använder inte tobak. Sparsamt med alkohol. Tränar regelbundet. Sedan tidigare frisk men \"alltid haft orolig mage\", omväxlande hård och lös avföring, ibland kramper i magen. Aldrig noterat blod i avföringen. Ingen känd födoämnesöverkänslighet. Inga underlivsbesvär. Vanligtvis regelbundna menstruationer som brukar komma var fjärde vecka. Tar inga läkemedel, ej heller p-piller. Pernilla kommer nu till dig på vårdcentralen på en akuttid på grund av tilltagande låga buksmärtor sedan 4 dagar.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Du önskar få en mera detaljerad bild av patientens buksmärtor (vid sidan av tidigare sjukdomar etc.). Ange 4 relevanta frågor fokuserade kring hennes smärtor (fördjupad smärtanamnes)?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Debut, förlopp, intensitet (VAS), attackvis eller molande värk, lindrande/förvärrande faktorer, ev. smärtvandring, provat läkemedel mot smärtorna. Max 2 p (0,5 p för varje adekvat svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Förutom smärtanamnesen hur vill du komplettera anamnesen för att komma närmare orsaken till de låga buksmärtorna? Ange 4 relevanta frågor!",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Associerade symtom (feber, illamående/kräkningar), avföringsanamnes (senaste avföring eller gasavgång, avvikande tarmfunktion, exponering infektiösa tarmagens), miktionsanamnes (sveda, trängningar, hematuri), gynekologisk anamnes (blödningar, senaste mens, nytillkomna flytningar). 0,5 p för varje relevant svar upp till max 2 p. För full poäng krävs att fråga om senaste mens finns med bland svaren."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Pernillas buksmärtor kom smygande med diffus lokalisation nertill i buken för 4 dagar sedan. För 2 dagar sedan tillkomst av lätt illamående och svullen buk. Smärtan blivit allt mer kontinuerligt sprängande, distinkt över en punkt i höger fossa. Pernilla har nu ordentligt ont, skattar VAS (Visuell Analog Skala) 8. Senaste avföring var igår och den var då något lös i konsistensen men inget inslag av blod. Inga besvär med vattenkastningen. I morse vid uppvaknande känt sig varm, kontrollerat temperaturen som uppmättes till 38,0 grader. Senaste menstruation för ca 2 månader sedan. Ingen gynekologisk blödning.\n\nStatus: AT: Lätt smärtpåverkad och blek. Lymfkörtlar: Inga palpabla förstoringar. Hjärta och lungor: Auskulteras u.a. Buk: Ömmar vid djuppalpation i höger fossa, spänner emot lite men ingen påtaglig defence. Inga säkra patologiska resistenser. PR: U.a.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2",
+              "text": "Nämn 4 tänkbara diagnoser som skulle kunna orsaka den akuta buksmärtan. (Endast de 4 första svaren kommer att beaktas)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Extrauterin graviditet, appendicit, annan akut gynekologisk åkomma (exempelvis salpingit, rupturerad ovarialcysta), körtelbuk (lymfadenitis mesenterica), ileit (shigella,salmonella,  yersinia, campylobacter), kolit. 0,5 p för varje adekvat rätt upp till max 2 p. För full poäng krävs att extrauterin graviditet finns med bland svaren."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Dagens första patient på vårdcentralen är Pernilla, 28 år, lärare. Bor tillsammans med sambo. Inga barn. Ingen ärftlighet för buk- eller gynekologiska sjukdomar. Använder inte tobak. Sparsamt med alkohol. Tränar regelbundet. Sedan tidigare frisk men \"alltid haft orolig mage\", omväxlande hård och lös avföring, ibland kramper i magen. Aldrig noterat blod i avföringen. Ingen känd födoämnesöverkänslighet. Inga underlivsbesvär. Vanligtvis regelbundna menstruationer som brukar komma var fjärde vecka. Tar inga läkemedel.\n\nPernilla kommer nu till dig på vårdcentralen på en akuttid på grund av tilltagande låga buksmärtor sedan 4 dagar. Pernillas buksmärtor kom smygande med diffus lokalisation nertill i buken för 4 dagar sedan. För 2 dagar sedan tillkomst av lätt illamående och svullen buk. Smärtan blivit allt mer kontinuerligt sprängande, distinkt över en punkt i höger fossa. Det gör nu ordentligt ont, skattar VAS 8. Senaste avföring var igår och den var då något lös i konsistensen men inget inslag av blod. Inga besvär med vattenkastningen. I morse vid uppvaknande känt sig varm, kontrollerat temperaturen som uppmättes 38,0 grader. Senaste menstruation för ca 2 månader sedan. Ingen gynekologisk blödning.\n\nStatus: AT: Lätt smärtpåverkad och blek. Lymfkörtlar: Inga palpabla förstoringar. Hjärta och lungor: Auskulteras u.a. Buk: Ömmar vid djuppalpation i höger fossa, spänner emot lite men ingen påtaglig defence. Inga säkra patologiska resistenser. PR: U.a.\n\nDu överväger extrauterin graviditet med tanke på att patientens menstruation är försenad. Appendicit och annan akut gynekologisk åkomma såsom salpingit är tänkbara alternativ. Ytterligare möjliga diagnostiska alternativ är infektiös ileit och lymfadenitis mesenterica. Patientens sjukhistoria talar även för att hon har IBS men akutisering brukar inte åtföljas av feber.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3",
+              "text": "Ange 4 laboratorieanalyser du vill få utförda som du på vårdcentralen kan få snabbsvar på?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Graviditetstest (U-HCG) (0,5 p), CRP (0,5 p), urinsticka (0,5 p), Hb (0,5 p). 0,5 p för varje adekvat rätt upp till max 2 p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Dagens första patient på vårdcentralen är Pernilla, 28 år, lärare. Bor med sambo. Inga barn. Ingen ärftlighet för buk- eller gynekologiska sjukdomar. Använder inte tobak. Sparsamt med alkohol. Tränar regelbundet. Sedan tidigare frisk men \"alltid haft orolig mage\", omväxlande hård och lös avföring, ibland kramper i magen. Aldrig noterat blod i avföringen. Ingen känd födoämnesöverkänslighet. Inga underlivsbesvär. Vanligtvis regelbundna menstruationer som brukar komma var fjärde vecka. Tar inga läkemedel.\n\nPernillas buksmärtor kom smygande med diffus lokalisation nertill i buken för 4 dagar sedan. För 2 dagar sedan tillkomst av lätt illamående och svullen buk. Smärtan blivit allt mer kontinuerligt sprängande, distinkt över en punkt i höger fossa. Det gör nu ordentligt ont, skattar VAS 8. Senaste avföring var igår och den var då något lös i konsistensen men inget inslag av blod. Inga besvär med vattenkastningen. I morse vid uppvaknande känt sig varm, kollat temp som uppmättes 38,0 grader. Senaste menstruation för ca 2 månader sedan. Ingen gynekologisk blödning.\n\nStatus: AT: Lätt smärtpåverkad och blek. Lymfkörtlar: Inga palpabla förstoringar. Hjärta och lungor: Auskulteras u.a. Buk: Ömmar vid djuppalpation i höger fossa, spänner emot lite men ingen påtaglig defence. Inga säkra patologiska resistenser. PR: U.a.\n\nLab: CRP 48, urinsticka blank, graviditetstest (U-HCG) positivt, Hb 105 g/L. Pernilla har därtill tempstegring (på mottagningen uppmätts temp 38,2 grader).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4",
+              "text": "Hur handlägger du fallet vidare?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom du i första hand misstänker extrauterin graviditet alternativt appendicit remitterar (0,5 p) du skyndsamt (0,5 p) Pernilla till närmaste akutmottagning för vidare utredning. För full poäng måste framgå att remitteringen är akut."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "EPILOG, Patient Pernilla Det är viktigt att på en fertil kvinna med låga buksmärtor och utebliven mens utesluta differentialdiagnosen extrauterin graviditet. Detta motiverar skyndsam remittering till sjukhus för vidare bedömning av denna diagnos liksom av andra potentiellt allvarliga åkommor, t.ex. appendicit.\n\nPatient Erik Erik, 3 månader, kommer akut med sina föräldrar som oroar sig över hans tillstånd. Familjen har nyss kommit hem efter 4 veckors vistelse på en thailändsk ö där Erik för 10 dagar sedan började få kräkningar samt efter ett dygn diarréer som ej velat ge med sig. Det har varit svårt att få i honom vätska.",
+          "contextImageUrl": "/images/exams/2020-02/page7_img1.jpeg",
+          "questions": [
+            {
+              "id": "1-5",
+              "text": "Beskriv två avvikande potentiellt allvarliga kliniska tecken du kan se på fotot.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Insjunkna ögon (0,5 p), somnolens (nedsatt vakenhet) (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "På fotot ses de potentiellt allvarliga tecknen insjunkna ögon och somnolens.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6",
+              "text": "Utöver insjunkna ögon, somnolens (nedsatt vakenhet) och hög feber ge 4 exempel på anamnestiska, potentiellt allvarliga symtom som föräldrarna till barnet skulle kunna uppge. (Endast de fyra första svarsförslagen kommer att beaktas)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Uppfattas annorlunda, interagerar inte som vanligt (0,5 p) Äter eller dricker mycket dåligt eller inte alls\n\n(0,5 p) Utebliven urinavgång\n\n(0,5 p) Andningspåverkan\n\n(0,5 p) Nedsatt muskeltonus\n\n(0,5 p) Missfärgad, cyanotisk hud\n\n(0,5 p) 0,5 p för varje adekvat rätt upp till 2 p på frågan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Exempel på anamnestiska potentiellt allvarliga uppgifter från föräldrar är att barnet uppfattas annorlunda (interagerar inte som vanligt), att barnet uppfattas slappare än vanligt (nedsatt muskeltonus), att barnet äter eller dricker mycket dåligt eller inte alls, att urinavgång uteblivit eller blivit påtagligt minskad, att andningen är påverkad eller att huden uppfattats gråblek eller mörkare än vanligt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7",
+              "text": "Beskriv 4 kliniska parametrar du tar hänsyn till när du bedömer perifer cirkulation och eventuell dehydrering (utöver insjunkna ögon, missfärgad/cyanotisk hud, nedsatt muskeltonus, nedsatt/utebliven urinavgång och hög andningsfrekvens) hos ett misstänkt allmänpåverkat barn.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För att bedöma perifer cirkulation och eventuell dehydrering måste flera olika parametrar värderas: Hög hjärtfrekvens (gränsvärde avhängigt ålder)   (0,5 p) Kapillär återfyllnad (capillary refill time, CRT)       (0,5 p) Hudturgor\n\n(0,5 p) Perifer kyla\n\n(0,5 p) Torra slemhinnor\n\n(0,5 p)\n\nInsjunken fontanell\n\n(0,5 p)\n\n0,5 p för varje relevant svar upp till max 2 p på frågan.\n\nPatient Kurt\n\n6 p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "EPILOG, Patient Erik För att bedöma perifer cirkulation och eventuell dehydrering måste (utöver insjunkna ögon, missfärgad/cyanotisk hud, nedsatt muskeltonus, utebliven urinavgång och hög andningsfrekvens) flera olika parametrar värderas hos det lilla barnet: hjärtfrekvens, kapillär återfyllnad (capillary refill time, CRT), hudfärg, hudturgor, ev. perifer kyla, ev. uttorkade slemhinnor, ev. insjunken fontanell. Ju fler av dessa symtom som avviker, desto högre sannolikhet för en klinisk betydelsefull dehydrering.\n\nBarnet på fotot var en 3-månaders baby som fått en rotavirusinfektion med långdragna lösa diarréer. Förutom att vikten gått ned 50 gram kunde noteras insjunken fontanell och insjukna ögon. Efter något dygns intravenös vätska vände tillståndet och barnet återgick till sitt habitualtillstånd.\n\nPatient Kurt Nästa patient är Kurt, 82 år, som har högt blodtryck och lindrig claudicatio intermittens. Hans medicinlista ser ut enligt följande:\n\nT. Salures 2,5 mg 1x1 T. Amlodipin 5 mg 1x1 T. Alfuzosin 10 mg 1x1\n\nSenaste halvåret har det varit besvärligt att kissa och för 2 veckor sedan ordinerades Kurt behandling för prostatan med alfuzosin av urolog. För blodtrycket behandlas han sedan 3 år med amlodipin 5 mg 1x1 och bendroflumetiazid (Salures®) 2,5 mg 1x1, sistnämnda lades till för 3 månader sedan då blodtrycket låg väl högt, värdet var då 170/95 mmHg. Kurt söker nu dig på vårdcentralen på grund av ostadighet sedan ett par veckor, han blir yr när han reser sig upp, inte minst då han varit på toaletten. Han har också känt sig trött de senaste månaderna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Utifrån denna anamnes nämn en viktig klinisk fysikalisk undersökning som bör utföras förutom EKG, puls, blodtryck och auskultation av hjärta och lungor?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ortostatisk blodtrycksmätning (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-8-2",
+              "text": "Ange 2 sannolika delförklaringar till Kurts aktuella yrsel.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Besvärande yrsel är vanlig biverkan efter insatt alfuzosin     (0,5 p) Hypertonin har blivit över- i stället för underbehandlad        (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Nästa patient är Kurt, 82 år, som har högt blodtryck och lätt claudicatio intermittens. Hans medicinlista ser ut enligt följande:\n\nT. Salures 2,5 mg 1x1 T. Amlodipin 5 mg 1x1 T. Alfuzosin 10 mg 1x1\n\nSenaste halvåret har det varit besvärligt att kissa och för två veckor sedan ordinerades Kurt behandling för prostatan med alfuzosin av urolog. För blodtrycket behandlas han sedan 3 år med amlodipin 5 mg 1x1 och bendroflumetiazid (Salures®) 2,5 mg 1x1, sistnämnda lades till för 3 månader sedan då blodtrycket låg väl högt, värdet var då 170/95 mmHg. Kurt söker nu dig på vårdcentralen på grund av ostadighet sedan ett par veckor, han blir yr när han reser sig upp, inte minst då han varit på toaletten. Han har också känt sig trött de senaste månaderna.\n\nVid klinisk fysikalisk undersökning noteras opåverkat allmäntillstånd. Inga perifera inkompensationstecken. Hjärta och lungor auskulteras utan anmärkning. Blodtryck 125/80 mmHg. Puls 64. EKG: Sinusrytm, frekvens 62. Lätt sänkta ST-sträckor. Något breddökade och låga T-vågor samt tydliga U-vågor i V2-V3. EKG i övrigt u.a.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9",
+              "text": "Du önskar med avseende på Kurts aktuella besvär (yrsel, trötthet) ta laboratorieprover. Nämn de 5 enskilda laboratorieprover som du upplever mest adekvata att ta utifrån sjukdomsbilden. Motivera varför varje enskilt prov är adekvat att ta i denna situation. (Endast de 5 första svarsförslagen kommer att beaktas)",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "P-Kalium – tiazidbehandling kan ge lågt kalium, som kan ge trötthet          (0,5 p) P-Natrium – lågt natrium kan ge trötthet                                                 (0,5 p) Hb – anemi kan ge trötthet                                      (0,5 p) TSH – hypotyreos kan ge trötthet (0,5 p) eGFR/kreatinin – rutinprov vid trötthet och hypertoni                  (0,5 p) SR/CRP – rutinprov vid trötthet\n\n(0,5 p)\n\n0,5 p för varje relevant svar med adekvat motivation upp till max 2,5 p på frågan. Endast de första 5 angivna proverna värderas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "Du får följande resultat vid ortostatisk blodtrycksmätning samt lab svar:\n\nOrtostatisk blodtrycksmätning: Blodtryck i liggande (efter 10 min vila): 120/80 mmHg Blodtryck direkt i stående: 115/85 mmHg Blodtryck efter 3 minuter i stående: 90/65 mmHg. Lab:  Hb 141 (ref 134-170) g/L P- Kalium 3,1 (ref 3,5-4,4) mmol/L P-Natrium 130 (ref 137-145) mmol/L eGFR 65 (ref >60) ml/min TSH 3,8 (ref 0,27-4,2) mIE/L SR 16 mm CRP 14.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "I ovanstående resultat kan du finna en tänkbar förklaring till Kurts yrsel, ange vilken. (0,5 p) Du noterar följande lab svar:\n\nHb 141 (ref 134-170) g/L P- Kalium 3,1 (ref 3,5-4,4) mmol/L P-Natrium 130 (ref 137-145) mmol/L eGFR 65 (ref >60) ml/min TSH 3,8 (ref 0,27-4,2) mIE/L SR 16 mm CRP 14.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ortostatisk blodtryckssänkning åtföljs ofta av yrsel.      (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-10-2",
+              "text": "I ovanstående laboratorieresultat kan du finna 2 tänkbara förklaringar till Kurts trötthet, ange vilka.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypokalemi och hyponatremi kan båda ge trötthet.      (0,5 p) Båda svaren krävs för poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Nästa patient är Kurt, 82 år, som har högt blodtryck och lätt claudicatio intermittens. Hans medicinlista ser ut enligt följande:\n\nT. Salures 2,5 mg 1x1 T. Amlodipin 5 mg 1x1 T. Alfuzosin 10 mg 1x1\n\nSenaste halvåret har det varit besvärligt att kissa och för 2 veckor sedan ordinerades Kurt behandling för prostatan med alfuzosin av urolog. För blodtrycket behandlas han sedan 3 år med amlodipin 5 mg 1x1 och bendroflumetiazid (Salures®) 2,5 mg 1x1, sistnämnda lades till för 3 månader sedan då blodtrycket låg väl högt, värdet var då 170/95 mmHg. Kurt söker nu dig på vårdcentralen på grund av ostadighet sedan ett par veckor, han blir yr när han reser sig upp, inte minst då han varit på toaletten. Han har också känt sig trött de senaste månaderna. Vid klinisk fysikalisk undersökning noteras opåverkat allmäntillstånd. Inga perifera inkompensationstecken. Hjärta och lungor auskulteras utan anmärkning. Blodtryck 125/80 mmHg. Puls 64. EKG: Sinusrytm, frekvens 62. Lätt sänkta ST-sträckor. Något breddökade och låga T- vågor samt tydliga U-vågor i V2-V3. EKG i övrigt u.a.\n\nResultat vid ortostatisk blodtrycksmätning: Blodtryck i liggande (efter 10 min vila): 120/80 mmHg. Blodtryck direkt i stående: 115/85 mmHg. Blodtryck efter 3 minuter i stående: 90/65 mmHg.\n\nLab:  Hb 141 (ref 134-170) g/L P- Kalium 3,1 (ref 3,5-4,4) mmol/L P-Natrium 130 (ref 137-145) mmol/L eGFR 65 (ref >60) ml/min TSH 3,8 (ref 0,27-4,2) mIE/L SR 16 mm CRP 14.\n\nI ovanstående resultat noterar du ortostatisk blodtryckssänkning som ger yrsel när han reser sig upp, samt hypokalemi och hyponatremi som var för sig kan tänkas bidra till Kurts trötthet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-11",
+              "text": "Hur ser din planering (inklusive läkemedelsordination) för Kurts del ut i denna situation? Motivera!",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom Kurt besväras av ortostatisk hypotoni samt både hyponatremi och hypokalemi bör som första åtgärd bendroflumetiazid (Salures) sättas ut, eftersom detta preparat kan orsaka alla dessa tre avvikelser. Följ upp blodtryck och symtombild. Vid kvarstående yrsel och ortostatisk blodtryckssänkning överväg även att minska dos eller sätta ut amlodipin eller alfuzosin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Internmedicin",
+      "points": 20,
+      "intro": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte.\n\nVid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar. Temp 37,8°C och saturation 98% på rumsluft. Din första åtgärd blir att ordinera ett EKG.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1",
+              "text": "Vad visar EKG? Se bifogat",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-02/page16_img1.jpeg",
+              "facit": [
+                "EKG visar ett snabbt förmaksflimmer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar.\n\nDin första åtgärd blir att ordinera ett EKG.\n\nEKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex.",
+          "contextImageUrl": "/images/exams/2020-02/page17_img1.png",
+          "questions": [
+            {
+              "id": "2-2",
+              "text": "Vilka relevanta blodprover beställer du nu? - De första 6 förslagen beaktas",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb, LPK, TPK, CRP, Na, K, s-Kreatinin, pro-BNP, PK-INR, D-dimer, TSH."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar.\n\nDin första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex.\n\nSvar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L)",
+          "contextImageUrl": "/images/exams/2020-02/page18_img1.png",
+          "questions": [
+            {
+              "id": "2-3",
+              "text": "Vad drar du för slutsats av anamnes, status, EKG och labsvar?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-02/page18_img2.png",
+              "facit": [
+                "Subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Proverna visar inga tecken på infektion, anemi, lungemboli eller elektrolytrubbning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar.\n\nDin första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex. Svar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L)\n\nDin slutsats blir att ett subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Provsvaren talar mot infektion, anemi, lungemboli och elektrolytrubbning. Patienten behöver fortsatt utredning och behandling och läggs därför in på medicinkliniken.",
+          "contextImageUrl": "/images/exams/2020-02/page19_img1.png",
+          "questions": [
+            {
+              "id": "2-4",
+              "text": "Hur går du nu vidare med din utredning av patientens andfåddhet, rethosta och dåliga ork? Motivera valet av undersökning.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-02/page19_img2.png",
+              "facit": [
+                "Du beställer en lungrtg och frågar efter stas, pleuravätska eller parenkymförändringar. Ekokardiografi kan också beställas i denna situation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar.\n\nDin första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex. Svar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L) Din slutsats blir att ett subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Provsvaren talar mot infektion, anemi, lungemboli och elektrolytrubbning. Patienten behöver fortsatt utredning och behandling och läggs därför in på medicinkliniken.\n\nDu beställer en lungrtg och frågar efter stas, pleuravätska eller parenkymförändringar. Svaret blir att lungrtg visar normala förhållanden.",
+          "contextImageUrl": "/images/exams/2020-02/page20_img1.png",
+          "questions": [
+            {
+              "id": "2-5",
+              "text": "Hur skulle du nu vilja handlägga patientens förmaksflimmer?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-02/page20_img2.png",
+              "facit": [
+                "Betablockad och antikoagulantia. Då durationen av förmaksflimret inte är känd bör DC-konvertering inte göras förrän antikoagulantia givits i minst 1 månad. Patienten har behandlad hypertoni, förmaksflimmer och misstänkt hypertyreos och bästa behandlingen blir då betablockad och antikoagulantia."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar. Temp 37,8 C och saturation 98% på rumsluft. Din första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex. Svar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L) Din slutsats blir att ett subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Provsvaren talar mot infektion, anemi, lungemboli och elektrolytrubbning. Patienten behöver fortsatt utredning och behandling och läggs därför in på medicinkliniken. Du beställer en lungrtg och frågar efter stas, pleuravätska eller parenkymförändringar. Svaret blir att lungrtg visar normala förhållanden.\n\nDå durationen av förmaksflimret inte är känd bör DC-konvertering inte göras förrän antikoagulantia givits i minst en månad. Patienten har behandlad hypertoni och misstänkt hypertyreos och i ett fall som detta ordineras beta-blockad i form av\n\nmetoprolol 100 mgx1 och antikoagulantia, t. ex apixaban 10 mgx2 som startdos i 7 dagar och sedan 5 mgx2.",
+          "contextImageUrl": "/images/exams/2020-02/page21_img1.png",
+          "questions": [
+            {
+              "id": "2-6",
+              "text": "Vilken ytterligare hjärtundersökning är indicerad inom den närmaste tiden och varför?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ekokardiografi bör göras för att påvisa eller utesluta eventuellt bakomliggande klaffvitium, s.k. valvulärt förmaksflimmer, men även för bedömning av hjärtstorleken och kvantifiering av hjärtsvikten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar.\n\nDin första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex. Svar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L) Din slutsats blir att ett subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Provsvaren talar mot infektion, anemi, lungemboli och elektrolytrubbning. Patienten behöver fortsatt utredning och behandling och läggs därför in på medicinkliniken. Du beställer en lungrtg och frågar efter stas, pleuravätska eller parenkymförändringar. Svaret blir att lungrtg visar normala förhållanden. Då durationen av förmaksflimret inte är känd bör DC-konvertering inte göras förrän antikoagulantia givits i minst en månad. Patienten har behandlad hypertoni och misstänkt hypertyreos och i ett fall som detta ordineras beta-blockad i form av metoprolol 100 mgx1 och antikoagulantia, t. ex apixaban 10 mgx2 som startdos i 7 dagar och sedan 5 mgx2.\n\nOm en ekokardiografi inte redan har gjorts måste den göras nu, framför allt för att påvisa eller utesluta eventuellt bakomliggande klaffvitium, s.k. valvulärt förmaksflimmer, men även för bedömning av hjärtstorleken och kvantifiering av hjärtsvikten.",
+          "contextImageUrl": "/images/exams/2020-02/page23_img1.png",
+          "questions": [
+            {
+              "id": "2-7",
+              "text": "Vilka ytterligare två prover har högsta diagnostiska värde med tanke på det låga TSH-värdet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-02/page23_img2.png",
+              "facit": [
+                "Analys av fritt T4 och påvisbara antikroppar mot TSH-receptorn (TRAK)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar. Temp 37,8C och saturation 98% på rumsluft. Din första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex. Svar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L) Din slutsats blir att ett subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Provsvaren talar mot infektion, anemi, lungemboli och elektrolytrubbning. Patienten behöver fortsatt utredning och behandling och läggs därför in på medicinkliniken. Du beställer en lungrtg och frågar efter stas, pleuravätska eller parenkymförändringar. Svaret blir att lungrtg visar normala förhållanden. Då durationen av förmaksflimret inte är känd bör DC-konvertering inte göras förrän antikoagulantia givits i minst en månad. Patienten har behandlad hypertoni och misstänkt hypertyreos och i ett fall som detta ordineras beta-blockad i form av metoprolol 100 mgx1 och antikoagulantia, t. ex apixaban 10 mgx2 som startdos i 7 dagar och sedan 5 mgx2.\n\nOm en ekokardiografi inte redan har gjorts måste den göras nu, framför allt för att påvisa eller utesluta eventuellt bakomliggande klaffvitium, s.k. valvulärt förmaksflimmer, men även för bedömning av hjärtstorleken och kvantifiering av hjärtsvikten.\n\nPatientens låga TSH-värde inger misstanke om primär hypertyreos, men denna måste bekräftas med analys av fritt T4 och påvisbara antikroppar mot TSH-receptorn (TRAK).",
+          "contextImageUrl": "/images/exams/2020-02/page25_img1.png",
+          "questions": [
+            {
+              "id": "2-8",
+              "text": "Den kompletterande provtagningen visar fritt T4 som är 45 pmol/L (ref. 12-22) och autoantikroppar mot TSH-receptorn (TRAK) som är 12 IU/L (ref. <2,7). Vilken tyroideasjukdom har patienten mest sannolikt och vad gör du nu?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten har Graves sjukdom (Basedows sjukdom) och du remitterar till endokrinolog."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Du är medicinjour och får på akuten ta emot 71-åriga Ingrid som söker på grund av tilltagande andfåddhet och rethosta sedan en längre tid och att hon inte längre orkar gå i trapporna hemma. Hon beskriver också dålig sömn, en ökad trötthet och att hon känner sig muskelsvag. Hon berättar att hon har högt blodtryck som hon tar medicin för. Det framkommer att det är en ACE-hämmare (Ramipril i dosen 10mg x 1). Hon förnekar bröstsmärtor, bukbesvär och svimningskänsla. Hon röker inte. Vid undersökningen finner du följande: AT: Lätt överviktig kvinna vid gott AT. Ingen vilodyspné, inga dekliva ödem eller någon halsvenstas. Du noterar lätt handtremor. Tyroidea och ytliga lymfkörtlar: Inget anmärkningsvärt palperas. Cor: Snabb oregelbunden rytm, cirka 100/min. Inga blåsljud auskulteras. Pulm: Vesikulära andningsljud bilat. Inga rassel eller ronchi. BT: 150/85 mmHg. Buk: Ingen ömhet, inga palpabla resistenser eller organförstoringar.\n\nDin första åtgärd blir att ordinera ett EKG. EKG visar förmaksflimmer med snabb kammarfrekvens (92/min) och smala, normala komplex. Svar på dina ordinerade prover visar följande: Hb 136 g/L (ref. 117-153 g/L) LPK 3,8 109/L (ref. 3,5-8,8) TPK 200 109/L (ref. 165-387) CRP 0,5 mg/L (ref. <3 mg/L) Na 140 mmol/L (ref. 137-145 mmol/L) K 4,0 mmol/L (ref. 3,5-4,4 mmol/L S-kreatinin 72 mol/L (ref. 45-90 mol/L) Pro-BNP 500 ng/L (ref. <450 ng/L) PK-INR 1,1 (ref. < 1,2) D-dimer <0,25 mg/L (ref. <0,75 mg/L) TSH 0,011 mlU/L (ref. 0,27-4,2 mlU/L) Din slutsats blir att ett subnormalt TSH talar för hypertyreos. Lätt förhöjt pro-BNP talar för viss hjärtbelastning, i detta fall framför allt beroende på det snabba förmaksflimret. Provsvaren talar mot infektion, anemi, lungemboli och elektrolytrubbning. Patienten behöver fortsatt utredning och behandling och läggs därför in på medicinkliniken. Du beställer en lungrtg och frågar efter stas, pleuravätska eller parenkymförändringar. Svaret blir att lungrtg visar normala förhållanden. Då durationen av förmaksflimret inte är känd bör DC-konvertering inte göras förrän antikoagulantia givits i minst en månad. Patienten har behandlad hypertoni och misstänkt hypertyreos och i ett fall som detta ordineras beta-blockad i form av metoprolol 100 mgx1 och antikoagulantia, t. ex apixaban 10 mgx2 som startdos i 7\n\ndagar och sedan 5 mgx2. Om en ekokardiografi inte redan har gjorts måste den göras nu, framför allt för att påvisa eller utesluta eventuellt bakomliggande klaffvitium, s.k. valvulärt förmaksflimmer, men även för bedömning av hjärtstorleken och kvantifiering av hjärtsvikten.Patientens låga TSH-värde inger misstanke om primär hypertyreos, men denna måste bekräftas med analys av fritt T4 och påvisbara antikroppar mot TSH- receptorn (TRAK).\n\nDu ställer diagnosen Graves sjukdom (Basedows sjukdom) och skriver remiss till endokrinologen för behandling.",
+          "contextImageUrl": "/images/exams/2020-02/page27_img1.png",
+          "questions": [
+            {
+              "id": "2-9",
+              "text": "Hur ser du på den fortsatta behandlingen av patientens förmaksflimmer, nu när du vet att diagnosen är Graves sjukdom och vad tror du att endokrinologen föreslår?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2020-02/page27_img2.png",
+              "facit": [
+                "En adekvat behandling av patientens hypertyreos kan leda till en spontan konvertering av hjärtrytmen till sinusrytm. Om detta inte sker skall en DC-konvertering göras först när hon är eutyroid, eftersom chansen att erhålla en bestående sinusrytm efter DC-konvertering ökar när hon blivit eutyroid. Endokrinologen ordinerar i ett fall som detta radiojodbehandling på grund av patientens ålder, måttliga T4-stegring och relativt låga TRAK-värde. Ett alternativ är farmakologisk behandling med tyreostatika, till exempel Thacapzol eller Tiotil."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Psykiatri",
+      "points": 20,
+      "intro": "(FALL 3 har två delar; Patient Stina och Stina på återbesök)\n\nPatient Stina\n\nDu är nylegitimerad läkare och vikarierar på en Hälsocentral i en medelstor svensk stad. Stina, 18 år, söker tillsammans med sin mor. De söker då Stina fått allt svårare att klara av sin skolgång. Större delen av informationen/svaren erhålles via modern.\n\nModern berättar att Stinas betyg under högstadiet och början på gymnasiet var mycket goda, men har nu sjunkit under hösten. Frånvaron har ökat och Stina har enligt modern tett sig alltmer nedstämd.\n\nStina har dragit sig undan från sina vänner, slutat med fotboll som hon tidigare tyckt varit väldigt roligt och isolerat sig på rummet. Hon sover och äter dåligt och har gått ned i vikt. Modern upplever att Stina jämt verkar vara trött och att ingenting verkar vara roligt längre.\n\nVid ett besök till en kollega för en vecka sedan utfördes ett somatiskt status (Hjärta, lungor, blodtryck, basalt nervstatus) som var u.a., hennes vikt var normal (BMI 21). Din lite orolige kollega ordinerade en rad labprover, bland annat glukos, blodstatus, TSH, elektrolytstatus, u-sticka, inga avvikande svar noterades. Han har till och med lyckats få Stina att lämna en drogscreening, som var negativ.\n\nModern är väldigt oroad över Stinas viktnedgång och dåliga aptit. Hon undrar om Stina kan ha utvecklat en ätstörning och om detta kan vara orsaken till Stinas dåliga mående och ork?\n\nFör att kunna besvara moderns fråga angående eventuell ätstörning behöver du komplettera anamnesen med riktade frågor.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Ge exempel på fyra viktiga frågor som kan hjälpa dig att bedöma om Stina har en ätstörning? (2 p) Olyckligtvis är Stina generellt mycket fåordig och lämnar väldigt lite information. Modern svarar som sagt på de flesta av frågorna.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Avsiktlig viktnedgång? Kräkningar Viktfobi Kroppsuppfattning Aptitförlust Amenorré Smakar maten som den ska. Förekomst av B-symtom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vad bör du göra för att kunna få ut mer information från Stina? Motivera din åtgärd.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Be modern lämna rummet, Stina är myndig. (0.5 p). För full poäng krävs att man motiverar med att man kan få fram mer information genom att kontakten kan förbättras, samt att vissa frågor kan vara svåra att få svar på (suicidalitet, droger, sexualvanor, psykotiska symtom) med moder närvarande. (0.5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Du är nylegitimerad läkare och vikarierar på en Hälsocentral i en medelstor svensk stad. En 18-årig kvinna, Stina, söker tillsammans med sin mor. De söker då Stina fått allt svårare att klara av sin skolgång. Större delen av informationen/svaren erhålles via modern.\n\nModern berättar att Stinas betyg under högstadiet och början på gymnasiet var mycket goda, men har sjunkit under hösten. Frånvaron har ökat och Stina har enligt modern tett sig alltmer nedstämd. Stina har dragit sig undan från sina vänner, slutat med fotboll som hon tidigare tyckt varit väldigt roligt och isolerat sig på rummet. Hon sover och äter dåligt och har gått ned i vikt. Modern upplever att Stina jämt verkar vara trött och att ingenting verkar vara roligt längre. Vid ett besök till en kollega för en vecka sedan utfördes ett somatiskt status (Hjärta, lungor, blodtryck, basalt neuro-status) som var u.a., hennes vikt var normal (BMI 21). Labprover inklusive drogscreening ordinerades, inga avvikande svar noterades.\n\nDu ber att modern lämnar rummet för att se om det förbättrar kontakten. Detta då känsliga frågor kan vara svåra att få svar på med moder närvarande. När modern lämnat rummet blir det något lättare att kommunicera med Stina.\n\nStina ser sig som ”ful”, men anser sig vara normalviktig. Hon uppger att viktnedgången är oavsiktlig och att hon vare sig hetsäter eller kräks. Hon bejakar dålig aptit och tycker att maten inte smakar som den ska.\n\nStina förnekar åter intag av droger/alkohol, det framkommer inga psykotiska symtom.\n\nDu ställer även en del frågor rörande sociala faktorer såsom relationer, sexualvanor och förekomst av mobbing. Stina uppger att hon inte är mobbad, att hon har en del vänner. Hon är singel och det framkommer inget som tyder på relationsrelaterad problematik.\n\nUnder samtalet observerar du Stina noggrant och sammanställer ett ”psykstatus”.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2",
+              "text": "Vad ingår i ett psykiatriskt status? Ange 6 relevanta parametrar",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "O.5 p per svar Allmäntillstånd Orientering Grundstämning Kontakt (emotionell och formell) Mimik/psykomotorik Kognitiva störningar Psykotiska symtom Suicidtankar/planer Sjukdomsinsikt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du är nylegitimerad läkare och vikarierar på en Hälsocentral i en medelstor svensk stad. Stina, 18 år, söker tillsammans med sin mor. Stinas betyg som under högstadiet och början på gymnasiet var mycket goda har sjunkit under hösten, frånvaron har ökat och Stina har enligt modern tett sig alltmer nedstämd. Stina har dragit sig undan från sina vänner, slutat med fotboll som hon tidigare tyckt varit väldigt roligt och isolerat sig på rummet. Hon sover och äter dåligt och har gått ned en aning i vikt. Stina förnekar drogintag och uppger att hon ej dricker ej alkohol. Modern upplever att Stina jämt verkar vara trött. Ur psykstatus noterar du följande: Stina är vårdat klädd, grundstämningen är sänkt. Ingen påtaglig oro eller ångest. Har en ganska sparsam mimik, lite blek. Antydd svarslatens. Ger ganska dålig formell och emotionell kontakt. Ger inte utryck för särskilt mycket affekter. Inga uppenbara kognitiva deficit, men ger ett något ”ofokuserat” intryck. Hon förefaller inte hallucinera, inga vanföreställningar har framkommit och hon förnekar psykotiska symtom.\n\nDu tar nu ånyo in modern i rummet och passar på att fråga om hereditet för psykisk sjukdom. Tydligen var mormor argsint och lite ”knäpp”, men oklart på vilket sätt. Ingen stark hereditet framkommer i övrigt.\n\nModern berättar vidare att Stina är en mycket ordentlig flicka, och att hon brukar vara familjens ”ordningsman”. Stina är, enligt modern, i vanliga fall glad, social och har många nära vänner. Stina har spelat fotboll på hög nivå fram till för ca 6 månader sedan. Hon har nu slutat med fotboll och umgås mest med några ”stökiga flickor” när hon inte är för sig själv på rummet.\n\nModern undrar om Stina kan ha ADHD, detta då hon hört att det kan vara ”under- diagnosticerat bland flickor.”",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3",
+              "text": "Är det rimligt att misstänka ADHD i det här läget? Motivera din bedömning och formulera ett rimligt svar till modern.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du förklarar för modern att ADHD inte förefaller sannolikt i dagsläget (0.5p) Hon har inte några tydliga symtom i form av hyperaktivitet eller beteendestörningar och det har tidigare fungerat bra i skolan. (0.5p) För full poäng krävs motivering och formulering av ett rimligt svar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du är nylegitimerad läkare som vikarierar på en Hälsocentral i en medelstor svensk stad. Stina, 18 år, söker tillsammans med sin mor. De söker då Stina fått allt svårare att klara av sin skolgång. Större delen av informationen erhålles via modern. Stinas betyg som under högstadiet och början på gymnasiet var mycket goda har sjunkit under hösten, frånvaron har ökat och Stina har enligt modern tett sig alltmer nedstämd. Stina har dragit sig undan från sina vänner, slutat med fotboll som hon tidigare tyckt varit väldigt roligt och isolerat sig på rummet. Hon sover och äter dåligt och har gått ned en aning i vikt. Modern upplever att Stina jämt verkar vara trött. Vid ett besök till en kollega för en vecka sedan utfördes ett somatiskt status (Hjärta, lungor, blodtryck, basalt neuro-status) som var u.a., hennes vikt är normal (BMI 21), och labprover är tagna som samtliga var inom referensvärden, drogscreening negativ. Ur status noterar du följande: Stina är vårdat klädd, grundstämningen är sänkt. Ingen påtaglig oro eller ångest. Har en ganska sparsam mimik, lite blek. Antydd svarslatens. Ger ganska dålig formell och emotionell kontakt. Ger inte utryck för särskilt mycket affekter. Inga uppenbara kognitiva deficit, men ger ett något ”ofokuserat” intryck. Hon förefaller inte hallucinera och förnekar psykotiska symtom. Stina har förnekat intag av droger/alkohol. Hon ser sig som ful, men normalviktig. Viktnedgången är oavsiktlig och hon vare sig hetsäter eller kräks. Hon bejakar dålig aptit och att maten inte smakar som den ska. Stina uppger att hon inte är mobbad, att hon har en del vänner. Hon är singel och det har inte framkommit något som tyder på relationsrelaterad problematik. Modern har berättat att Stina är en mycket ordentlig flicka, och att hon brukar vara familjens ”ordningsman”. Stina är, enligt modern, i vanliga fall glad, social och har många nära vänner. Stina har spelat fotboll på hög nivå fram till för ca 6 månader sedan. Hon har nu slutat med fotboll och umgås mest med några ”stökiga flickor” när hon inte är för sig själv på rummet. Modern undrar över ADHD.\n\nDu förklarar för Stinas moder att ADHD inte förefaller sannolikt i dagsläget, detta då hon inte har några tydliga symtom i form av hyperaktivitet eller beteendestörningar och det tidigare har fungerat bra i skolan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4",
+              "text": "Vilken diagnos är det rimligast att misstänka i det här läget? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Depression 0.5p För full poäng måste sänkt grundstämning vara med. Nedsatt lust/ Minskad ork Fåordig Viktnedgång/dålig aptit Dragit sig tillbaka Svårigheter att fungera i skolan I dagsläget ingen misstanke om somatisk genes till besvären. Ingen/låg misstanke om missbruk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Du är nylegitimerad läkare och vikarierar på en Hälsocentral i en medelstor svensk stad. Stina, 18 år, söker tillsammans med sin mor.\n\nDu misstänker i det här läget att Stina kan ha drabbats av en depression. Det hela har pågått mer än två veckor. Hon förefaller nedstämd, har dragit sig undan, sovit dåligt och gått ned i vikt. Hon har slutat spela fotboll och umgås med sina vänner, vilket tyder på att hon tappat intresse för sådant hon tidigare tyckt varit roligt. Hon har tappat funktion i vardagen, vilket demonstreras av hennes stigande frånvaro och sjunkande betyg i skolan.\n\nSom ett stöd för din diagnostik och som hjälp att bedöma svårighetsgrad gör du en MADRS-självskattning tillsammans med Stina. Hon får 35 poäng, av möjliga 54. Baserat på din allmänna bedömning, kombinerat med hennes höga poäng vid din skattning av depressionsdjup, bedömer du att Stina har en medelsvår depression.\n\nUtifrån aktuella funktionsnedsättningen tycker du att det kan finnas skäl att behandla hennes depression.\n\nEftersom du bedömer att Stina har drabbats av en depression blir din nästa åtgärd att göra en suicidriskbedömning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5",
+              "text": "Vad ingår att fråga efter vid en strukturerad suicidriskbedömning?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "”Frågor om:” Riskfaktorer Aktuell suicidanamnes Livsleda Dödstankar Suicidtankar Suicidplaner Självskada Suicidförsök\n\nSkyddande faktorer Framtidsplaner"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Du är nylegitimerad läkare som vikarierar på en Hälsocentral och träffar Stina, 18 år tillsammans med hennes mor. Du har fastslagit att Stina sannolikt har en medelsvår depression.\n\nDu har nu även gjort en suicidriskbedömning. I en sådan ingår att ta ställning till riskfaktorer, fastställa vilka skyddande faktorer som föreligger, samt ställa frågor till Stina rörandes aktuella dödstankar/suicidtankar/suicidplaner/-försök. Det är även värdefullt att efterfråga framtidsplaner.\n\nStina svarar på direkt fråga att hon ej har några suicidplaner, men en del dödstankar. Stina har aldrig avsiktligt skadat sig själv och aldrig gjort något suicidförsök. Hon har en önskan om att återgå till skolan på sikt och hon anger sin mor som en starkt skyddande faktor gentemot suicid.\n\nDu bedömer den aktuella suicidrisken som låg och rådfrågar även en äldre kollega som instämmer i din bedömning.\n\nDu har bedömt Stinas depression som medelsvår och vill gärna inleda behandling så snart som möjligt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Enligt gällande riktlinjer från socialstyrelsen, vilka två olika behandlingsalternativ bör du i första hand överväga i det här fallet?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En medelsvår depression behandlas i första hand med a) terapi (KBT) eller b) farmaka."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "Om du istället bedömt Stinas depression som lindrig, hade det påverkat dina rekommendationer? Motivera.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid en lätt depression bör farmaka undvikas. Farmaka har dålig evidens vid lindriga depressioner. Terapi eller kan vara aktuellt, men i första hand rekommenderas livstilsåtgärder."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Du är nylegitimerad läkare som vikarierar på en Hälsocentral och träffar Stina, 18 år tillsammans med hennes mor. Du har fastslagit att Stina sannolikt har en medelsvår depression med låg suicidrisk.\n\nDu förmedlar till Stina att du misstänker att hon drabbats av en depression som kan behöva behandling. Du ber henne fundera över om hon i första hand önskar terapi eller farmakabehandling. Hon har svårt att ta ställning och vill fundera på saken.\n\nBesökstiden är snart slut och ni är alla ganska trötta. Du har dessutom en patient bokad som väntar… Du behöver således ta ställning till vidare åtgärder och uppföljning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7",
+              "text": "Bör du inleda behandling med antidepressiva i samband med dagens besök och inom vilken tidsrymd bör du boka ett återbesök? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sätt ej in antidepressivum, detta då du ej har hunnit informera om biverkningar eller sondera motivationsgrad till behandling. Boka ett återbesök inom 1 (max 2) veckor."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Du är nylegitimerad läkare som vikarierar på en Hälsocentral och träffar Stina, 18 år tillsammans med hennes mor. Du har fastslagit att Stina sannolikt har en medelsvår depression med låg suicidrisk.\n\nDu bad Stina att fundera över vilken behandling hon är intresserad av och bokar därför in ett återbesök om en vecka.\n\nDu träffar Stina på nytt en vecka senare. Hennes mående är oförändrat. Då Stina helst inte vill behöva gå från skolan för terapi vill hon gärna prova medicin. Hon ber dig föreslå en lämplig medicinering.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8",
+              "text": "Vad rekommenderar du för läkemedel för hennes depression? Ge ett rimligt förslag på specifikt preparat och dosering.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SSRI + korrekt namngett preparat och dosering 0.5p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Du är nylegitimerad läkare som vikarierar på en Hälsocentral och träffar Stina, 18 år tillsammans med hennes mor. Du har fastslagit att Stina sannolikt har en medelsvår depression med låg suicidrisk. Hon har valt farmakologisk behandling.\n\nVid en medelsvår depression är SSRI-preparat rekommenderade som första preparat i de fall där man bedömer att farmaka-behandling är indicerat.\n\nDet har än så länge inte framkommit någon specifik sömnstörning, så du avstår från att sätta in sömnmedel.\n\nDå det är många som behandlas med SSRI är det viktigt att man känner till vilken typ av biverkningar de kan ge. Stina är orolig för biverkningar av medicinering och frågar dig om vilka biverkningarna du tycker hon behöver känna till?",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9",
+              "text": "Nämn tre allvarliga psykiska biverkningar av SSRI som du behöver informera patienten om vid insättning. Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid insättning av SSRI finns risk för försämring av grundtillståndet, ökad ångest, ökade suicidtankar och risk för uppvarvning/hypomani. Ökad nedstämdhet Ökad ångest Suicidtankar/suicidalitet/suicid Uppvarvning/hypomani/mani (En del kommer sannolikt att anse att ökad ångest/ ökan nedstämdhet är samma biverkan, därav tre biverkningar). Mardrömmar är ej ”allvarlig biverkan”, amotivation/affektiv avflackning är en ”på sikt”- biverkan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "Du är nylegitimerad läkare som vikarierar på en Hälsocentral och träffar Stina, 18 år tillsammans med hennes mor. Du har bedömt att Stina har en depression som är medelsvår (baserat på symtom, duration, funktion och skattning med MADRS-s) och ni har kommit överens om att inleda behandling med SSRI. Du behöver ge ett förslag på hur behandling skall gå till och informera om biverkningar vid insättning.\n\nDu informerar Stina om att det är vanligt med tillfälligt försämrat mående och ökad ångest vid insättning, att suicidtankar kan öka samt att det finns en risk att utlösa hypomanier/manier i en del fall.\n\nVanliga kroppsliga biverkningar är sexuella biverkningar, yrsel, illamående och diarré, men dessa innebär inget akut hot för Stinas hälsa på kort sikt.\n\nStina bestämmer sig trots allt för att prova behandling med SSRI. Ni enas om att Stina får inleda behandling med Sertralin i startdos 50 mg. Effekten utvärderas löpande och höjes med någon veckas mellanrum. Maxdos vid behandling med Sertralin är 200mg, men vid behandling av medelsvår depression ligger doseringen vanligtvis mellan 50-100 mg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10",
+              "text": "Hur följer du upp Stina efter insättningen av SSRI?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Uppföljning telefonledes eller via återbsök om 1-2 veckor. Fysiskt återbesök inom en månad. Vid uppföljning får Stina fylla i samma skattningsskala som hon fyllt i vid insättning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-11",
+          "context": "EPILOG, del 1\n\nDu bokar in en telefontid efter 1-2 veckor och en återbesökstid till dig om ca 4 veckor. Vid återbesöket till dig efter fyra veckor har Stina ånyo börjat gå i skolan, hon upplevs då mindre nedstämd.\n\nHon uppger inga besvär med biverkningar och vid en förnyad skattning med samma skattningsskala som vid insättning, i det här fallet MADRS-s, så får hon 16 poäng.\n\nFortsatt uppföljning görs av en av dina kollegor då ditt vikariat på Hälsocentralen lider mot sitt slut.\n\nStina på återbesök\n\nDu är legitimerad läkare och har ett år senare återvänt till din hemstad där du nu inlett ett vikariat på den psykiatriska kliniken. Det är en måndagskväll kl 21, och du är nattjour på psykiatriska akutmottagningen.\n\nStina, 19 år, som du tidigare behandlat för depression, kommer nu till akuten tillsammans med hennes mor. Modern är glad över att träffa dig, då hon kommer ihåg dig väl från Hälsocentralen. Vad Stina tycker är lite mer oklart.\n\nNär du nu träffar dem är det ånyo modern som för talan. Hon berättar att Stina återgick till skolan efter att hon började med SSRI, men hennes betyg var fortsatt dåliga. Stina bor fortsatt hemma hos modern. Stina har fortsatt isolerat sig allt mera och umgås inte med vänner. Hon duschar sällan och ”sköter inte om sig själv”. Modern tror att Stina fortfarande tar sin medicin.\n\nModern berättar att Stina nog vid närmare eftertanke gradvis försämrats sedan ca 1,5 år tillbaka och att den förbättring som inträdde efter behandling med SSRI nog var rätt övergående. Hon beskriver att Stina blivit kall, frånvarande och misstänksam. Modern tycker att ”Stina är som en annan person”. Modern berättar att Stina har börjat ”mumla för sig själv” de senaste månaderna.\n\nDu observerar Stina under samtalet och noterar att hon är mager och blek, med långt ovårdat hår och långa naglar. Grundstämningen är väsentligen neutral. Hon är svår att få kontakt med, har sparsam mimik och mycket flacka affekter. Stina själv är oförstående till att hon egentligen skulle behöva träffa dig. På direkt fråga bejakar hon att hon hör röster och förefaller då och då distraherad av dem. Hon rycker då och då till och stirrar ofta mot ena hörnet i rummet. Hon förnekar att hon skulle ha några tankar på självskada eller suicid.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-11",
+              "text": "Vilken diagnos bör du i första hand misstänka i det här läget? Motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Schizofreni alternativt schizoaffektiv sjukdom 0.5p 1 p för motivering. Motiverar det med hennes långa sjukdomsduration samt anger korrekta symtom"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-12",
+          "context": "Du är legitimerad läkare och träffar Stina 19 år, (som du tidigare behandlat för depression via HC). Stina återgick till skolan efter att hon började med SSRI, men hennes betyg var fortsatt dåliga. Modern berättar att Stina nog gradvis försämrats sedan något år tillbaka. Hon beskriver Stina som kall, frånvarande och misstänksam, ”Stina är som en annan person”. Modern berättar vidare att Stina har börjat ”mumla för sig själv” de senaste månaderna. Stina bor fortsatt hemma hos modern och har isolerat sig ännu mera, umgås inte med vänner. Hon duschar nu sällan och ”sköter inte om sig själv”. Modern tror att Stina fortfarande tar sin medicin. Du observerar Stina under samtalet och noterar att hon är mager och blek, med långt ovårdat hår och långa naglar. Grundstämningen är väsentligen neutral. Hon är svår att få kontakt med, har sparsam mimik och mycket flacka affekter. Stina själv är oförstående till att hon egentligen skulle behöva träffa dig. På direkt fråga bejakar hon att hon hör röster och förefaller då och då distraherad av dem. Hon rycker då och då till och stirrar ofta mot ena hörnet i rummet. Hon förnekar att hon skulle ha några tankar på självskada eller suicid.\n\nDu misstänker starkt att Stina är psykotisk och att det kan röra sig om en schizofreni.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-12",
+              "text": "Vilket är det diagnostiskt viktigaste prov/test som du ordinerar akut för att underlätta differentialdiagnostik? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det saknas en aktuell droganamnes.\n\nEn drogscreening vore av stort värde, då THC och amfetamin kan utlösa psykoser och drogutlöst psykos är en viktig differentialdiagnos.\n\nFör poäng krävs korrekt test (drogscreening) och motivering. Det räcker ej med droganamnes, men med korrekt motivering ges en halv poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-13",
+          "context": "Du är legitimerad läkare och träffar Stina 19 år, (som du tidigare behandlat för depression via HC). Du misstänker starkt att Stina är psykotisk och att det kan röra sig om en schizofreni.\n\nI det här läget är drogutlöst psykos en viktig differentialdiagnos. I första hand kan THC utlösa schizofreni-liknande svårbehandlade psykoser, men även amfetamin är en vanlig orsak till psykos. Det finns ingen aktuell droganamnes och du är inte säker på att det finns någon drogscreening. Du är således angelägen att få till stånd en drogscreening.\n\nDu har dock inte fått någon tydlig indikation på att Stina skulle ta droger, vilket innebär att din primära misstanke är att det rör sig om en psykossjukdom.\n\nNär du nu ser tillbaka på Stinas tidigare ”depression” så misstänker du att det kan ha varit en del i ett prodromalsyndrom, som nu utvecklats till en möjlig schizofreni.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-13",
+              "text": "Vad kännetecknar ett ”prodromalsyndrom” för schizofreni?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En period på ett antal månader som ofta föregår ett insjuknande i schizofreni. Symtombild domineras av negativa symtom, exempelvis allmän avtackling/funktionsförlust, kognitiv nedsättning, personlighetsförändring, amotivation, avflackning. Det är även vanligt förekommande med ångest och nedstämdhet.\n\nFör poäng krävs att man beskriver att det föregår själva insjuknandet, att den ofta är långdragen, samt att symtombild domineras av negativa symtom"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-14",
+          "context": "Du träffar Stina och hennes mor på psykiatriska akutmottagningen. Du har tidigare behandlat Stina för depression. Stina återgick till skolan efter att hon började med SSRI, men hennes betyg var fortsatt dåliga. Modern berättar att Stina nog gradvis försämrats sedan något år tillbaka. Stina har, enligt modern, blivit kall, frånvarande och misstänksam, med en gradvis försämring sedan 1,5 år tillbaka. Modern tycker att ”Stina är som en annan person”. Modern berättar även att Stina har börjat ”mumla för sig själv” de senaste månaderna. Du observerar Stina under samtalet och noterar att hon är mager och blek, med långt ovårdat hår och långa naglar. Grundstämningen är väsentligen neutral. Hon är svår att få kontakt med, har sparsam mimik och mycket flacka affekter. Stina själv är oförstående till att hon egentligen skulle behöva träffa dig. På direkt fråga bejakar hon att hon hör röster och förefaller då och då distraherad av dem. Hon rycker då och då till och stirrar ofta mot ena hörnet i rummet. Hon förnekar att hon skulle ha några tankar på självskada eller suicid. Du misstänker starkt att Stina är psykotisk och att det kan röra sig om en schizofreni.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-14",
+              "text": "Vad är ”negativa symtom” och vilka sådana uppvisar Stina?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Negativa symtom innebär en funktionsförlust. Symtom som Stina visar upp är (minst 2. Positiva symtom ger ej poäng): Emotionell avflackning Sparsam mimik Ovårdat yttre Kognitiva störningar Tillbakadragenhet Amotivation"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-15",
+          "context": "Du träffar Stina och hennes mor på psykakuten. Du har tidigare behandlat Stina för depression.\n\nStina återgick till skolan efter att hon började med SSRI, men hennes betyg var fortsatt dåliga. Modern berättar att Stina nog gradvis försämrats sedan något år tillbaka. Stina har, enligt modern, blivit kall, frånvarande och misstänksam, med en gradvis försämring sedan 1,5 år tillbaka. Modern tycker att ”Stina är som en annan person”. Modern berättar även att Stina har börjat ”mumla för sig själv” de senaste månaderna. Du observerar Stina under samtalet och noterar att hon är mager och blek, med långt ovårdat hår och långa naglar. Grundstämningen är väsentligen neutral. Hon är svår att få kontakt med, har sparsam mimik och mycket flacka affekter. Stina själv är oförstående till att hon egentligen skulle behöva träffa dig. På direkt fråga bejakar hon att hon hör röster och förefaller då och då distraherad av dem. Hon rycker då och då till och stirrar ofta mot ena hörnet i rummet. Hon förnekar att hon skulle ha några tankar på självskada eller suicid.\n\nStina uppvisar både positiva (Hallucinationer, misstänksamhet, kognitiva störningar.) och negativa (tillbakadragenhet, emotionell avflackning, amotivation, funktionsförlust, kognitiva symtom, bristande skötsel av sig själv) symtom.\n\nI det här läget skulle du skulle helst vilja lägga in Stina för observation och utredning. Du förmedlar detta till Stina och hennes mor.\n\nStina går med på att du får ta ett somatiskt status och kan tänka sig att lämna en drogscreening och blodprover imorgon. Stina förklarar dock med emfas att hon absolut inte tänker låta sig läggas in.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-15",
+              "text": "Vilken handläggning/åtgärder är lämpligast i det här läget? Motivera tydligt ditt förslag.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Åtgärd: Uppföljning via öppenvård) 0.5p Motivering 1p: Genomgång av nedanstående som visar att man förstått varför man inte kan skriva vårdintyg (VI) ger en poäng. - Vårdintyg bör ej utfärdas. - Situationen har endast långsamt blivit värre - Det upplevs inte föreligga någon akut risk för att hon skadar sig själv eller andra. - Stina medverkar till uppföljning via öppenvård. - Stina uppfyller ej kriterier för tvångsvård i dagsläget, detta då - Slutenvårdsbehovet ej är oundgängligt och hon medverkar till uppföljning via öppenvård. - Hon har gott stöd av sin mor. För full poäng krävs en god motivering varför man kan följa upp i öppenvård och varför VI ej är lämpligt samt att man kontaktar bakjour."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-16",
+          "context": "Stina söker på psykiatriska akutmottagningen tillsammans med sin mor. Du misstänker att hon har utvecklat en schizofreni. Du vill lägga in Stina för observation och utredning, vilket du förmedlat till Stina och hennes mor. Stina går visserligen med på att du får ta ett somatiskt status och kan tänka sig att lämna en drogscreening och blodprover imorgon. Stina förklarar dock med emfas att hon absolut inte tänker låta sig läggas in.\n\nDu ringer upp och diskuterar ärendet med din bakjour. Du förmedlar att du bedömer att Stina uppfyller kriterier för allvarlig psykisk störning, men att Stinas mående endast långsamt försämrats och du upplever inte att det föreligger någon akut risk för att hon skadar sig själv eller andra. Således bedömer du att slutenvårdsbehovet ej är oundgängligt. Stina medverkar dessutom till uppföljning i öppenvård. Din sammantagna bedömning blir därmed att alla möjligheter till vård och uppföljning på frivillig basis i öppenvård ej är uttömda och att du ej bör utfärda ett vårdintyg. Du är nöjd över att Stina vill lämna en drogscreening i morgon, även om det ideala hade varit att hon lämnat den redan under kvällen. Du föreslår således att du bokar in ett mycket snart återbesök och så att en poliklinisk utredning kan inledas. Din bakjour instämmer i din bedömning.\n\nI standardutredningen vid psykosinsjuknande ingår bland annat ett somatiskt status, drogscreening, blodprover (Lipider, blodstatus, glukos, thyroidea-status, elektrolyter, leverstatus, B-Peth), CT/MR, EEG, kognitiv testning.\n\nDu förmedlar ditt förslag till Stina och hennes mor. De är nöjda med planeringen och ni tar i hand på detta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-16",
+              "text": "Vilken är egentligen den högst prioriterade behandlingen vid schizofreni? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Farmakologisk behandling med neuroleptika har starkast evidens och högst rekommendationsgrad. Risk för inläggning, återinsjuknande och suicid minskar med behandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Du arbetar på ett mindre länsdelssjukhus och går slutet på din kirurgiska placering som AT-läkare. Det är måndagsmorgon och ni har en gemensam jourrapport från avgående jourläkare som minst sagt har haft en hektisk natt. Sammanlagt har det lagts in 4 patienter på din avdelning. Några med symptom från buken och en som har kört omkull med motorcykel. Efter rapporten är det dags att ronda avdelningen och den här dagen är det bara du och en överläkare i tjänst. Överläkaren skall strax ha mottagning och undrar därför om du kan börja ronda själv och därefter konsultera henne när du är färdig. Du bör vara beredd att motivera diagnos-, utrednings- och behandlingsförslag. Patient 1 en 76-årig man\n\nÄr en 76-årig väsentligen frisk man som inkommit strax innan jourrapporten pga. tilltagande smärta i hela buken och illamående. Akutläkaren kände en kraftigt ömmande resistens i höger ljumske. Du bekräftar fyndet och finner en knappt knytnävsstor rundad resistens i höger ljumske ovan ljumskligamentet. Den känns hård och det smärtar distinkt vid palpation. Buken i övrigt är något uppdriven men mjuk och väsentligen oöm.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1",
+              "text": "Vilken diagnos misstänker du i första hand och behövs ytterligare undersökningar? Motivera",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inklämt ljumskbråck, Kliniken är tydlig, behövs ingen ytterligare undersökning (2,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Patient 1 är en 76-årig väsentligen frisk man som inkommit strax innan jourrapporten pga. tilltagande smärta i hela buken och illamående. Akutläkaren kände en kraftigt ömmande resistens i höger ljumske. Du bekräftar fyndet och finner en knappt knytnävsstor rundad resistens i höger ljumske ovan ljumskligamentet. Den känns hård och det smärtar distinkt vid palpation. Buken i övrigt är något uppdriven men mjuk och väsentligen oöm.\n\nDu misstänker att det kan vara ett inklämt ljumskbråck och anser att det inte är nödvändigt med ett ultraljud eller skiktröntgen i nuläget då kliniken är tydlig men däremot vill du försöka reponera bråcket.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Ungefär hur länge klarar sig en inklämd tarm utan cirkulation?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inklämd tarm som är helt utan cirkulation klarar sig i max 4-6 timmar (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vad kan man göra som underlättar en reponering av bråcket?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Morfininjektion i.v. underlättar(1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3",
+              "text": "Vad är det anatomiskt som är skiljelinjen mellan mediala och laterala ljumskbråck?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Epigastricakärlen (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Epigastricakärlen är det som anatomiskt skiljer mellan laterala och mediala ljumskbråck\n\nPatient 2 en 66-årig man\n\nDen andra patienten på salen är en 66-årig överviktig man som tidigare varit rökare. Han har genomgått en koronar bypassoperation (CABG), är höftopererad, har en tablettbehandlad hypertoni och har en besvärlig gikt samt nu senast även en KAD efter en episod av urinstämma pga. prostataförstoring. Han har sent på kvällen före inkomst insjuknat med plötslig skärande smärta i framför allt vänster flank men även till vänster i magen och känt sig yr. Smärtan har inte blivit bättre när han varit uppe och rört på sig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4",
+              "text": "Beskriv hur du undersöker patienten och vilka differentialdiagnoser du tänker du på? Redogör även för vilka kliniska fynd som stöder dessa?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Utförligt bukstatus inklusive bedömning av njurloger (dunkömhet). Per rectum. Blodtryck och puls.  Njursten/Pyelonefrit (flanksmärta), AAA (smärta, pulserande resistens) (3,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Den andra patienten på salen är en 66-årig överviktig man som tidigare varit rökare. Han har genomgått en koronar bypassoperation (CABG), är höftopererad, har en tablettbehandlad hypertoni och har en besvärlig gikt samt nu senast även en KAD efter en episod av urinstämma pga. prostataförstoring. Han har sent på kvällen före inkomst insjuknat med plötslig skärande smärta i framför allt vänster flank men även till vänster i magen och känt sig yr. Smärtan har inte blivit bättre när han varit uppe och rört på sig.\n\nDu dunkar över njurlogerna men får inte fram någon dunkömhet där. Du finner snarare en molande smärta strax till vänster om medellinjen i buken och tycker att du kan palpera en pulserande resistens på samma plats. I påsen från KAD ses lätt blodtillblandad urin. Vid Per Rectum finner du enbart normalfärgad avföring. Blodtrycket är 110/60 och puls 85.\n\nDu misstänkte först att det kunde röra sig om en njursten alternativt en komplikation med t.ex. pyelonefrit då patienten har en KAD men först vill du absolut utesluta ett rupturerat abdominellt aortaaneurysm.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Man brukar prata om en klassisk triad vid rupturerat AAA (abdominellt aortaaneurysm), vilka symptom är de? Alla tre krävs för poäng.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I. Kraftig buksmärta med utstrålning mot ryggen med akut insjuknande II. Blodtrycksfall, takykardi eller anamnes på svimning III. Pulserande resistens i buken (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-2",
+              "text": "Vilka ordinationer till sköterskan är viktiga i nuläget?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ber om minst två grova infarter. Blodprover inklusive blödningsstatus, bastest och korstest. Beställa helblod. Kontroll av puls och BT. (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-3",
+              "text": "Vilken undersökning bör du beställa?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Urakut CT-buk eventuellt Thx/buk. Ultraljud inte fel men ett något sämre alternativ (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Den andra patienten på salen är en 66-årig överviktig man som tidigare varit rökare. Han har genomgått en koronar bypassoperation (CABG), är höftopererad, har en tablettbehandlad hypertoni och har en besvärlig gikt samt nu senast även en KAD efter en episod av urinstämma pga. prostataförstoring. Han har sent på kvällen före inkomst insjuknat med plötslig skärande smärta i framför allt vänster flank men även till vänster i magen och känt sig yr. Smärtan har inte blivit bättre när han varit uppe och rört på sig.\n\nDen klassiska triaden vid rupurerat AAA är: I. Kraftig buksmärta med utstrålning mot ryggen med akut insjuknande II. Blodtrycksfall, takykardi eller anamnes på svimning III. Pulserande resistens i buken (ofta svårpalpabel pga. bukfetma).\n\nDu ber om minst två grova infarter. Blodprover inklusive blödningsstatus, bastest och korstest. Ber någon undersöka om det finns tillgängligt helblod. Kontrollera aktuellt blodtryck och puls. Eftersom patienten är cirkulatoriskt stabil vill du ha en urakut skiktröntgen av thorax och buk eller ett akut ultraljud som dock kan vara svårare att genomföra då patienten är överviktig.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6",
+              "text": "Nämn två olika kirurgiska metoder att behandla aortaaneurysm?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Aortaaneurysm kan behandlas med öppen operation och kärlgraft med klassisk laparatomi och numera även i utvalda fall endovaskulärt med endoprotes. (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Aortaaneurysm kan behandlas med öppen operation och kärlgraft via klassisk laparatomi och numera även i utvalda fall endovaskulärt med endoprotes.\n\nPatient 3 en 56-årig kvinna (Smärta i epigastriet) 56-årig kvinna med tidigare alkoholmissbruk i anamnesen. Rökare. Har en järnsubstituerad anemi sedan ett år tillbaka. Senaste veckorna har hon haft ett konstant illamående, ätit dåligt och gått ner ett par kilo i vikt. Hon har även fått lös avföring efter ankomst till avdelningen. När du undersöker patienten har hon en mjuk buk men ömmar distinkt i epigastriet.  Hjärt- och lungstatus, puls och blodtryck är samtliga normala.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilka differentialdiagnoser bör du överväga i första hand? Ange minst tre och motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du misstänker ventrikel/duodenalulcus men utesluter inte en akut pankreatit eller malignitet (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-2",
+              "text": "Vad mer bör du undersöka bedside? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Undersökning per rectum (PR). (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "56-årig kvinna med tidigare alkoholmissbruk i anamnesen. Rökare. Har en järnsubstituerad anemi sedan ett år tillbaka. Senaste veckorna har hon haft ett konstant illamående, ätit dåligt och gått ner ett par kilo i vikt. Hon har även fått lös avföring efter ankomst till avdelningen. När du undersöker patienten har hon en mjuk buk men ömmar distinkt i epigastriet. Hjärt- och lungstatus, puls och blodtryck är samtliga normala.\n\nDu misstänker att patienten kan ha ett ventrikel/duodenalulcus eller en akut pankreatit. Med tanke på viktnedgången kan du ej heller utesluta en bakomliggande malignitet. När du undersöker per rectum får du nästan svart avföring på handsken som vid melena.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8",
+              "text": "Du kontrollerar Hb vid ankomst som låg på 89. Sköterskan frågar om patienten skall ha blod, vad svarar du? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Avvakta blodtransfusion då patienten är cirkulatoriskt stabil (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "56-årig kvinna med tidigare alkoholmissbruk i anamnesen. Rökare. Har en järnsubstituerad anemi sedan ett år tillbaka. Senaste veckorna har hon haft ett konstant illamående, ätit dåligt och gått ner ett par kilo i vikt. Hon har även fått lös avföring efter ankomst till avdelningen. När du undersöker patienten har hon en mjuk buk men ömmar distinkt i epigastriet. Hjärt- och lungstatus, puls och blodtryck är samtliga normala.\n\nDu bedömer att patienten är cirkulatoriskt stabil, utan tecken på aktiv blödning trots ett Hb som ligger på 89. Det finns ingen anledning att ge blod just nu.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9",
+              "text": "Hur handlägger du patienten i nästa steg vad gäller läkemedel och eventuella åtgärder?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Protonpumpshämmare i.v.. Gastroskopi med terapiberedskap, coiling alt. laparatomi. (2,0 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Som läkemedel i första hand Protonpumpshämmare, t.ex. Nexium i.v. Man skall koppla underhållsdropp men vara försiktig med större volym i.v vätska hos patienter med blödning då en volymökning kan provocera fram en större plötslig blödning. Gastroskopi med tillgång till terapeutisk förmåga. Angiografi med coiling är också ett alternativ vid pågående blödning. Om patienten blir cirkulatoriskt instabil bör man ha en operativ beredskap.\n\nPatient 4 en 49-årig kvinna Du fortsätter ronden och den fjärde patienten är en 49-årig tidigare frisk kvinna som nyligen har skaffat MC. Hon körde under natten omkull på en oljefläck och slog i huvudet. Hjälmen är hel men har skrapmärken. Eventuellt varit avsvimmad en kort stund och kan inte riktigt redogöra för händelseförloppet. En bilist som bevittnade händelsen trodde inte att hon var avsvimmad särskilt länge. Hon har väldigt ont i huvudet och det svider över skrapmärken på höger knä, höger hand samt höft. Även lite ont i magen men skall ha mens snart. Hon är ledsen och gråter men i övrigt opåverkad. Akutjouren har skrivit i journalen att det eventuellt är lite nedsatta andningsljud på höger sida men ingen ömhet vid palpation av revbenen. Vid din undersökning finner du en ömhet under hö revbensbåge.\n\nPatienten har vid inkomst gjort en Trauma-CT. Undersökningen visar inga tecken på intrakraniella blödningar, halsrygg u.a. En liten leverskada med en kapselrift och en laceration som mäter mindre än 1cm, grad I. Skelett u.a. Inga övriga röntgenologiska fynd. Hb är normalt och lab-prover i övrigt visar heller inget avvikande.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10",
+              "text": "Sköterskan vill veta om det skall tas några kontroller, vad svarar du? Motivera",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inga kontroller nödvändiga med avseende på skall- och leverskador men kontroll Hb är helt på sin plats. (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "En 49-årig tidigare frisk kvinna som nyligen har skaffat MC. Körde omkull på en oljefläck och slagit i huvudet. Hjälmen är hel men har skrapmärken. Eventuellt varit avsvimmad en kort stund och kan inte riktigt redogöra för händelseförloppet. En bilist som bevittnade händelsen trodde inte att hon var avsvimmad särskilt länge. Hon har väldigt ont i huvudet och det svider över skrapmärken på höger knä, höger hand samt höft. Även lite ont i magen men skall ha mens snart. Hon är ledsen och gråter men i övrigt opåverkad. Akutjouren har skrivit i journalen att det eventuellt är lite nedsatta andningsljud på höger sida men ingen ömhet vid palpation av revbenen. Vid din undersökning finner du en ömhet under hö revbensbåge.\n\nPatienten har gjort en trauma-CT utan påvisad intrakraniell blödning och skall ej behöva commotiokontroller. Leverskadan är minimal och därför behövs inga särskilda kontroller avseende denna. Du väljer för säkerhetsskull att kontrollera ett nytt Hb då det har hunnit gå flera timmar sedan inläggningen\n\nPatienten har vid inkomst gjort en Trauma-CT. Undersökningen visar inga tecken på intrakraniella blödningar, halsrygg u.a. En liten leverskada med en kapselrift och en laceration som mäter mindre än 1cm, grad I. Skelett u.a. Inga övriga röntgenologiska fynd. Hb är normalt och lab-prover i övrigt visar heller inget avvikande.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11",
+              "text": "Patienten har rejält ont i sin högra handled och du beställer en slätröntgen handled. Vad gör du om röntgen handled är utan anmärkning?  Motivera!",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stadig gipsskena och ny rtg handled + scaphoideum efter 2 veckor Motivering: En ev scaphoideumfraktur syns inte alltid förrän efter 2v. (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-12",
+          "context": "En 49-årig tidigare frisk kvinna som nyligen har skaffat MC. Körde omkull på en oljefläck och slagit i huvudet. Hjälmen är hel men har skrapmärken. Eventuellt varit avsvimmad en kort stund och kan inte riktigt redogöra för händelseförloppet. En bilist som bevittnade händelsen trodde inte att hon var avsvimmad särskilt länge. Hon har väldigt ont i huvudet och det svider över skrapmärken på höger knä, höger hand samt höft. Även lite ont i magen men skall ha mens snart. Hon är ledsen och gråter men i övrigt opåverkad. Akutjouren har skrivit i journalen att det eventuellt är lite nedsatta andningsljud på höger sida men ingen ömhet vid palpation av revbenen. Vid din undersökning finner du en ömhet under hö revbensbåge.\n\nDu undersöker handleden och beställer en slätröntgen handled med frågeställning om förekomst av fraktur om sådan misstänks (extremiteterna undersöks rutinmässigt ej i trauma-CT). Om röntgen handled är utan anmärkning får patienten en stadig gipsskena och en ny röntgen av handled + scaphoideum görs om ca två veckor. Patient 1) 76-årig man med inklämt ljumskbråck Patient 2) 66-årig man med misstänkt rupturerat aortaaneurysm Patient 3) 56-årig kvinna med misstänkt blödande ulcus Patient 4) 49-årig kvinna som traumafall efter MC-olycka",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-12",
+              "text": "Överläkaren frågar dig hur du skulle vilja prioritera dessa patienter till eventuell röntgen och operation -om alla dina diagnosmisstankar besannas. Lista patienterna efter hur snabbt de bör prioriteras med de två viktigaste högst upp. Resonera och motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "1. Aortaruptur och 2. inklämt ljumskbråck (1,0p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,22 +11,20 @@ export async function generateStaticParams() {
 
 export default async function ProvPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ examId: string }>
-  searchParams: Promise<{ mode?: string }>
 }) {
   const { examId } = await params
-  const { mode } = await searchParams
+  const authorizedUser = await getAuthorizedUser()
+
   if (!examId.startsWith("2015")) {
-    const authorizedUser = await getAuthorizedUser()
     if (!authorizedUser) redirect("/")
   }
   const exam = await getExamById(examId)
   if (!exam) notFound()
   const session = await getProgressForExam(examId)
 
-  const showFacitPerQuestion = mode === "ovning"
+  const showFacitPerQuestion = true
 
   return (
     <ExamFlow
@@ -34,7 +32,7 @@ export default async function ProvPage({
       exam={exam}
       showFacitPerQuestion={showFacitPerQuestion}
       initialSession={session}
-      persistRemotely={Boolean(session?.userId)}
+      persistRemotely={Boolean(authorizedUser)}
     />
   )
 }

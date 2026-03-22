@@ -213,12 +213,12 @@
           "questions": [
             {
               "id": "1-10-1",
-              "text": "Vilken behandling har bäst evidens och bör i första hand erbjudas patienter med posttraumatiskt stressyndrom? (1 p)\n\nUnder samtalet fördjupades även missbruksanamnes och det framkommer att Angelica förutom ett omfattande alkoholberoende har provat olika droger, bland annat amfetamin. Dock blev hon mycket paranoid efter amfetaminintag och upplevde detta som extremt obehagligt.",
+              "text": "Vilken behandling har bäst evidens och bör i första hand erbjudas patienter med posttraumatiskt stressyndrom? (1 p)",
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "Traumafokuserad KBT (TF-KBT), eller Prolonged Exposure (PE) ger full poäng. Eye movement Desensitization and Reprocessing (EMDR) har sämre evidensstöd och ger därför halv poäng, liksom KBT utan närmre specifikation och farmakologiska interventioner som SSRI. KBT med förklaring kring hur man arbetar enligt tramafokuserat protokoll (utan att man kan ange det exakta namnet) kan generera full poäng.\n\nUnder samtalet fördjupades även missbruksanamnes och det framkommer att Angelica förutom ett omfattande alkoholberoende har provat olika droger, bland annat amfetamin. Dock blev hon mycket paranoid efter amfetaminintag och upplevde detta som extremt obehagligt."
+                "Traumafokuserad KBT (TF-KBT), eller Prolonged Exposure (PE) ger full poäng. Eye movement Desensitization and Reprocessing (EMDR) har sämre evidensstöd och ger därför halv poäng, liksom KBT utan närmre specifikation och farmakologiska interventioner som SSRI. KBT med förklaring kring hur man arbetar enligt tramafokuserat protokoll (utan att man kan ange det exakta namnet) kan generera full poäng."
               ],
               "facitExplanation": null,
               "tags": []
@@ -261,7 +261,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "Du måste helt avstå från att dricka alkohol. Stort alkoholintag under behandling med disulfiram kan ge upphov till blodtrycksfall, svimning och i värsta fall cirkulationskollaps. Även mindre alkoholintag ger upphov till mycket obehagliga symtom som ansiktsrodnad, huvudvärk, hjärtklappning och känsla av andnöd. För full poäng måste tydlig redogörelse göras beträffande riskerna. Förslag i stil med ”att det är farligt” ger endast halv poäng, liksom beskrivning av den sällsynta risken för allvarlig leverskada, som visserligen är viktig att känna till, men sekundär till de allvarliga följder som alkoholintag kan föra med sig.  Dessutom är kontroll av leverprover huvudsakligen sjukvårdens uppgift att ombesörja.\n\n5 Svarsförslag till fall 2 – internmedicin (20 p)"
+                "Du måste helt avstå från att dricka alkohol. Stort alkoholintag under behandling med disulfiram kan ge upphov till blodtrycksfall, svimning och i värsta fall cirkulationskollaps. Även mindre alkoholintag ger upphov till mycket obehagliga symtom som ansiktsrodnad, huvudvärk, hjärtklappning och känsla av andnöd. För full poäng måste tydlig redogörelse göras beträffande riskerna. Förslag i stil med ”att det är farligt” ger endast halv poäng, liksom beskrivning av den sällsynta risken för allvarlig leverskada, som visserligen är viktig att känna till, men sekundär till de allvarliga följder som alkoholintag kan föra med sig. Dessutom är kontroll av leverprover huvudsakligen sjukvårdens uppgift att ombesörja."
               ],
               "facitExplanation": null,
               "tags": []
@@ -544,7 +544,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "Biventrikulär pacemaker med implanterbar defibrillator ICD\n\n8 Svarsförslag till fall 3 – allmänmedicin (20 p)"
+                "Biventrikulär pacemaker med implanterbar defibrillator ICD"
               ],
               "facitExplanation": null,
               "tags": []
@@ -796,7 +796,7 @@
               "hint": null,
               "imageUrl": null,
               "facit": [
-                "Allopurinol används som förebyggande behandling då det sänker uratproduktionen (hämning av enzymet xantinoxidas som katalyserar oxidationen av hypoxantin till xantin och xantin till urinsyra). Allopurinol är kontraindicerat i akutskedet pga risk för utlösning av giktattacker.\n\n11 Svarsförslag till fall 4 – kirurgi (20 p)"
+                "Allopurinol används som förebyggande behandling då det sänker uratproduktionen (hämning av enzymet xantinoxidas som katalyserar oxidationen av hypoxantin till xantin och xantin till urinsyra). Allopurinol är kontraindicerat i akutskedet på grund av risk för utlösning av giktattacker."
               ],
               "facitExplanation": null,
               "tags": []

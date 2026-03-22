@@ -7,43 +7,8 @@ import { useRouter } from "next/navigation"
 import { Exam, ExamSession } from "@/types/exam"
 import { getSession, saveScore, setSession } from "@/lib/storage"
 import { getTotalEarnedPoints, getCaseEarnedPoints } from "@/lib/scoring"
-
-const SPECIALTY_STYLE: Record<string, { header: string; content: string; miniCard: string }> = {
-  internmedicin: {
-    header:   "bg-green-100 hover:bg-green-200 border-green-200",
-    content:  "bg-green-50 border-green-200",
-    miniCard: "bg-green-100",
-  },
-  kirurgi: {
-    header:   "bg-red-100 hover:bg-red-200 border-red-200",
-    content:  "bg-red-50 border-red-200",
-    miniCard: "bg-red-100",
-  },
-  allmänmedicin: {
-    header:   "bg-amber-100 hover:bg-amber-200 border-amber-200",
-    content:  "bg-amber-50 border-amber-200",
-    miniCard: "bg-amber-100",
-  },
-  psykiatri: {
-    header:   "bg-purple-100 hover:bg-purple-200 border-purple-200",
-    content:  "bg-purple-50 border-purple-200",
-    miniCard: "bg-purple-100",
-  },
-}
-
-function specialtyName(caseTitle: string): string {
-  const parts = caseTitle.split("–")
-  return parts.length > 1 ? parts[parts.length - 1].trim() : caseTitle
-}
-
-function specialtyStyle(caseTitle: string) {
-  const name = specialtyName(caseTitle).toLowerCase()
-  return SPECIALTY_STYLE[name] ?? {
-    header:   "bg-white hover:bg-gray-50 border-gray-200",
-    content:  "bg-gray-50 border-gray-200",
-    miniCard: "bg-gray-50",
-  }
-}
+import { getSpecialtyTheme, specialtyName } from "@/lib/specialties"
+import { getEffectiveSession } from "@/lib/session-utils"
 
 async function persistSession(examId: string, session: ExamSession) {
   await fetch(`/api/exam-progress/${examId}`, {
@@ -63,27 +28,29 @@ export default function ResultatView({
   persistRemotely?: boolean
 }) {
   const router = useRouter()
-  const seedSession = initialSession ?? getSession(exam.id)
+  const effectiveSession = getEffectiveSession(exam.id, initialSession)
+  const seedSession = effectiveSession
   const [answers] = useState<Record<string, string>>(() => seedSession?.answers ?? {})
   const [startedAt] = useState(seedSession?.startedAt ?? new Date().toISOString())
   const [scores, setScores] = useState<Record<string, number>>(() => seedSession?.scores ?? {})
+  const [completedAt, setCompletedAt] = useState<string | undefined>(seedSession?.completedAt)
   const [openCases, setOpenCases] = useState<Record<string, boolean>>(() =>
     Object.fromEntries(exam.cases.map((c) => [c.id, true]))
   )
 
   useEffect(() => {
-    if (initialSession) {
+    if (initialSession && !getSession(exam.id) && effectiveSession) {
       setSession(exam.id, initialSession)
     }
-  }, [exam.id, initialSession])
+  }, [effectiveSession, exam.id, initialSession])
 
-  async function syncSession(nextScores: Record<string, number>) {
+  async function syncSession(nextScores: Record<string, number>, nextCompletedAt = completedAt) {
     const nextSession: ExamSession = {
       examId: exam.id,
       answers,
       scores: nextScores,
       startedAt,
-      completedAt: initialSession?.completedAt ?? new Date().toISOString(),
+      completedAt: nextCompletedAt,
     }
     setSession(exam.id, nextSession)
     if (persistRemotely) {
@@ -97,6 +64,14 @@ export default function ResultatView({
     router.refresh()
   }
 
+  async function handleFinish() {
+    const finishedAt = new Date().toISOString()
+    setCompletedAt(finishedAt)
+    await syncSession(scores, finishedAt)
+    router.push("/")
+    router.refresh()
+  }
+
   function handleScore(questionId: string, score: number) {
     saveScore(exam.id, questionId, score)
     setScores((prev) => {
@@ -106,7 +81,7 @@ export default function ResultatView({
         answers,
         scores: nextScores,
         startedAt,
-        completedAt: initialSession?.completedAt ?? new Date().toISOString(),
+        completedAt,
       }
       setSession(exam.id, nextSession)
       if (persistRemotely) {
@@ -122,7 +97,6 @@ export default function ResultatView({
 
   const totalEarned = getTotalEarnedPoints(scores)
 
-  const completedAt = initialSession?.completedAt
   const durationMinutes =
     completedAt && startedAt
       ? Math.round((new Date(completedAt).getTime() - new Date(startedAt).getTime()) / 60000)
@@ -136,6 +110,27 @@ export default function ResultatView({
 
       <h1 className="text-2xl font-bold mb-1">Resultat</h1>
       <p className="text-gray-500 mb-6">{exam.title}</p>
+
+      <div className="mb-6 flex flex-wrap gap-3">
+        <Link
+          href={`/tenta/${exam.id}/prov`}
+          className="bg-blue-600 text-white px-5 py-3 rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors"
+        >
+          Gör om tentan
+        </Link>
+        <button
+          onClick={handleFinish}
+          className="bg-slate-900 text-white px-5 py-3 rounded-lg text-sm font-medium hover:bg-slate-800 transition-colors"
+        >
+          Avsluta och spara
+        </button>
+        <button
+          onClick={handleGoHome}
+          className="bg-gray-100 text-gray-700 px-5 py-3 rounded-lg text-sm font-medium hover:bg-gray-200 transition-colors"
+        >
+          Tillbaka till startsidan
+        </button>
+      </div>
 
       {/* Score summary */}
       <div className="bg-white border border-gray-200 rounded-xl p-6 mb-8">
@@ -157,8 +152,9 @@ export default function ResultatView({
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
           {exam.cases.map((c) => {
             const earned = getCaseEarnedPoints(exam, c.id, scores)
+            const theme = getSpecialtyTheme(c.title)
             return (
-              <div key={c.id} className={`${specialtyStyle(c.title).miniCard} rounded-lg p-3 text-center`}>
+              <div key={c.id} className={`${theme.card} rounded-lg border p-3 text-center`}>
                 <div className="text-xs text-gray-500 mb-1 truncate">{c.title}</div>
                 <div className="font-semibold text-sm">
                   {earned} / {c.points}
@@ -170,17 +166,25 @@ export default function ResultatView({
       </div>
 
       <p className="text-sm text-gray-500 mb-4">
-        Läs igenom facit och sätt dina egna poäng per fråga.
+        Läs igenom facit och sätt dina egna poäng per fråga. Tentan förblir pågående tills du väljer att avsluta och spara.
       </p>
 
       {/* Case-by-case review */}
-      {exam.cases.map((c) => (
+      {exam.cases.map((c) => {
+        const theme = getSpecialtyTheme(c.title)
+        const specialty = specialtyName(c.title)
+        return (
         <div key={c.id} className="mb-4">
           <button
             onClick={() => toggleCase(c.id)}
-            className={`w-full flex justify-between items-center border rounded-xl px-5 py-4 transition-colors ${specialtyStyle(c.title).header}`}
+            className="w-full flex justify-between items-center border border-gray-200 rounded-xl bg-white px-5 py-4 transition-colors hover:bg-gray-50"
           >
-            <span className="font-semibold">{c.title}</span>
+            <div className="flex items-center gap-3">
+              <div className="text-left">
+                <span className="font-semibold block">{c.title}</span>
+                <span className="text-xs text-gray-500">{specialty}</span>
+              </div>
+            </div>
             <div className="flex items-center gap-3">
               <span className="text-sm text-gray-500">
                 {getCaseEarnedPoints(exam, c.id, scores)} / {c.points} p
@@ -190,7 +194,7 @@ export default function ResultatView({
           </button>
 
           {openCases[c.id] && (
-            <div className={`border border-t-0 rounded-b-xl overflow-hidden ${specialtyStyle(c.title).content}`}>
+            <div className="border border-t-0 border-gray-200 rounded-b-xl overflow-hidden bg-gray-50">
               {c.pages.map((page) =>
                 page.questions.map((q) => (
                   <div key={q.id} className="border-t border-gray-100 p-5">
@@ -244,8 +248,8 @@ export default function ResultatView({
                           onClick={() => handleScore(q.id, pts)}
                           className={`w-8 h-8 text-sm rounded-lg border transition-colors ${
                             scores[q.id] === pts
-                              ? "bg-blue-600 text-white border-blue-600"
-                              : "bg-white text-gray-600 border-gray-200 hover:border-blue-400"
+                              ? "bg-slate-900 text-white border-slate-900"
+                              : "bg-white text-gray-600 border-gray-200 hover:border-slate-400"
                           }`}
                         >
                           {pts}
@@ -259,7 +263,8 @@ export default function ResultatView({
             </div>
           )}
         </div>
-      ))}
+        )
+      })}
 
       <div className="mt-8 flex gap-3 pb-12">
         <Link
@@ -268,6 +273,12 @@ export default function ResultatView({
         >
           Gör om tentan
         </Link>
+        <button
+          onClick={handleFinish}
+          className="bg-slate-900 text-white px-5 py-3 rounded-lg text-sm font-medium hover:bg-slate-800 transition-colors"
+        >
+          Avsluta och spara
+        </button>
         <button
           onClick={handleGoHome}
           className="bg-gray-100 text-gray-700 px-5 py-3 rounded-lg text-sm font-medium hover:bg-gray-200 transition-colors"
