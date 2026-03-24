@@ -22,7 +22,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["På grund av diabetes med nytillkommen mikroalbuminuri bör hennes antihypertensiva behandling ökas i syfte att förbättra prognos för njurar och att minska kardiovaskulär risk. Den skärpta målnivån för blodtrycket är 130/80 mmHg."],
+              "facit": [
+                "På grund av diabetes med nytillkommen mikroalbuminuri bör hennes antihypertensiva behandling ökas i syfte att förbättra prognos för njurar och att minska kardiovaskulär risk. Den skärpta målnivån för blodtrycket är 130/80 mmHg."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -32,7 +34,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["ARB eller ACE-hämmare i initialt låg dos."],
+              "facit": [
+                "ARB eller ACE-hämmare i initialt låg dos."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -42,7 +46,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Vid dehydreringstillstånd ska ARB/ACE-hämmare och metformin utsättas tillfälligt."],
+              "facit": [
+                "Vid dehydreringstillstånd ska ARB/ACE-hämmare och metformin utsättas tillfälligt."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -52,7 +58,9 @@
               "maxPoints": 1.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Påtaglig vätskeförlust, aktuell svår infektion, överdosering av diuretika, inkompenserad hjärtsvikt, läkemedel som minskar njurgenomblödning (t.ex. NSAID, RAAS-blockad), lågt blodtryck."],
+              "facit": [
+                "Påtaglig vätskeförlust, aktuell svår infektion, överdosering av diuretika, inkompenserad hjärtsvikt, läkemedel som minskar njurgenomblödning (t.ex. NSAID, RAAS-blockad), lågt blodtryck."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -62,7 +70,9 @@
               "maxPoints": 1.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Ödem, långvarig hypertoni och/eller diabetes, ökad proteinuri, samtidig proteinuri och hematuri, akut tubulär nekros, akut glomerulonefrit, läkemedel, förgiftningar (t.ex. svampförgiftning), rabdomyolys, kontrastmedel."],
+              "facit": [
+                "Ödem, långvarig hypertoni och/eller diabetes, ökad proteinuri, samtidig proteinuri och hematuri, akut tubulär nekros, akut glomerulonefrit, läkemedel, förgiftningar (t.ex. svampförgiftning), rabdomyolys, kontrastmedel."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -72,7 +82,9 @@
               "maxPoints": 1.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Svårigheter att kissa, palpabel urinblåsa, prostatism, synligt blod i urinen (t.ex. urinblåsecancer), uretersten, retroperitoneal fibros, malignitet (t.ex. i lilla bäckenet/buken, urotelial malignitet alt. prostatacancer)."],
+              "facit": [
+                "Svårigheter att kissa, palpabel urinblåsa, prostatism, synligt blod i urinen (t.ex. urinblåsecancer), uretersten, retroperitoneal fibros, malignitet (t.ex. i lilla bäckenet/buken, urotelial malignitet alt. prostatacancer)."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -82,7 +94,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["NSAID eller läkemedel som påverkar renin-angiotensinsystemet, så kallad RAAS blockerare (ACE-hämmare, ARB eller aldosteronantagonister)."],
+              "facit": [
+                "NSAID eller läkemedel som påverkar renin-angiotensinsystemet, så kallad RAAS blockerare (ACE-hämmare, ARB eller aldosteronantagonister)."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -91,7 +105,7 @@
         {
           "id": "1-2",
           "context": "Din nästa patient är Petter, en 35-årig tidigare frisk man som söker på grund av nytillkomna blåsor i handflator och på fotsulor.",
-          "contextImageUrl": null,
+          "contextImageUrl": "/images/exams/2021-11/page10_img1.jpeg",
           "questions": [
             {
               "id": "1-2-1",
@@ -99,7 +113,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Pustulosis palmoplantaris (PPP)."],
+              "facit": [
+                "Pustulosis palmoplantaris (PPP)."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -109,7 +125,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Ev. rökning, ev. ledbesvär, yrkesanamnes."],
+              "facit": [
+                "Ev. rökning, ev. ledbesvär, yrkesanamnes."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -119,7 +137,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Orsaken är inte säkerställd. Rökstopp är önskvärt, kan leda till klar förbättring."],
+              "facit": [
+                "Orsaken är inte säkerställd. Rökstopp är önskvärt, kan leda till klar förbättring."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -129,7 +149,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Lokalbehandling med grupp IV-steroid bör förskrivas."],
+              "facit": [
+                "Lokalbehandling med grupp IV-steroid bör förskrivas."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -139,7 +161,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Förutom nikotinersättningsmedel finns två olika läkemedel att pröva, bupropion, Zyban® och vareniklin, Champix®."],
+              "facit": [
+                "Förutom nikotinersättningsmedel finns två olika läkemedel att pröva, bupropion, Zyban® och vareniklin, Champix®."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -149,7 +173,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Villkoret är att patienten accepterar rådgivning kring rökstoppet förutom recept på Zyban® eller Champix®."],
+              "facit": [
+                "Villkoret är att patienten accepterar rådgivning kring rökstoppet förutom recept på Zyban® eller Champix®."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -166,7 +192,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Tiazider kan ge lätt förhöjning av P-Calcium. Höga doser peroralt tillfört D-vitamin kan ge till och med kraftigt förhöjda P-Calciumnivåer."],
+              "facit": [
+                "Tiazider kan ge lätt förhöjning av P-Calcium. Höga doser peroralt tillfört D-vitamin kan ge till och med kraftigt förhöjda P-Calciumnivåer."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -176,7 +204,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["P-Albumin."],
+              "facit": [
+                "P-Albumin."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -186,7 +216,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Calciumjon eller Joniserat calcium."],
+              "facit": [
+                "Calciumjon eller Joniserat calcium."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -196,7 +228,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Det vanligaste är att lätt-måttlig hyperkalcemi inte ger några symtom alls eller endast lätta, ospecifika symtom. [Listade symtom som kan uppträda vid svår hyperkalcemi ger inte poäng.]"],
+              "facit": [
+                "Det vanligaste är att lätt-måttlig hyperkalcemi inte ger några symtom alls eller endast lätta, ospecifika symtom. [Listade symtom som kan uppträda vid svår hyperkalcemi ger inte poäng.]"
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -206,7 +240,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Undersökning av hud, palpation av lymfkörtlar, sköldkörtel, bröst, buk, kotpelare."],
+              "facit": [
+                "Undersökning av hud, palpation av lymfkörtlar, sköldkörtel, bröst, buk, kotpelare."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -216,7 +252,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Primär hyperparatyreodism (pHPT), sarkoidos, tyreotoxikos, litiumbehandling, immobilisering, njursvikt, familjär hypokalciurisk hyperkalcemi (FHH)."],
+              "facit": [
+                "Primär hyperparatyreodism (pHPT), sarkoidos, tyreotoxikos, litiumbehandling, immobilisering, njursvikt, familjär hypokalciurisk hyperkalcemi (FHH)."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -226,7 +264,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Multipelt myelom och njurcancer."],
+              "facit": [
+                "Multipelt myelom och njurcancer."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -252,7 +292,9 @@
               "maxPoints": 3.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Viktnedgång, klåda, färg på avföring och urin, hereditet, smärtanamnes – utlösande faktorer, läkemedel, tid sjkd, droger."],
+              "facit": [
+                "Viktnedgång, klåda, färg på avföring och urin, hereditet, smärtanamnes – utlösande faktorer, läkemedel, tid sjkd, droger."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -262,7 +304,9 @@
               "maxPoints": 3.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Bukpalpation: Ascites, palpabel gallblåsa – Courvoisiers tecken, Smärta vid djupandning – Murphy's tecken, sclerae + hud inspektion."],
+              "facit": [
+                "Bukpalpation: Ascites, palpabel gallblåsa – Courvoisiers tecken, Smärta vid djupandning – Murphy's tecken, sclerae + hud inspektion."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -279,7 +323,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Smärta-Ikterus-feber kallas Charcots triad och är associerat med kolangit."],
+              "facit": [
+                "Smärta-Ikterus-feber kallas Charcots triad och är associerat med kolangit."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -289,7 +335,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Blodstatus, Vätskestatus, CRP. ASAT, ALAT, ALP, bilirubin, GT, Amylas-Lipas. För att du misstänker sjukdom i gallvägarna med gallstas. Du vill även titta på inflammationsparametrar, Hb samt bukspottskörtelprover."],
+              "facit": [
+                "Blodstatus, Vätskestatus, CRP. ASAT, ALAT, ALP, bilirubin, GT, Amylas-Lipas. För att du misstänker sjukdom i gallvägarna med gallstas. Du vill även titta på inflammationsparametrar, Hb samt bukspottskörtelprover."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -299,7 +347,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Gallsten/koledokussten, kolecystit, Tumör i gallvägar/gallblåsa, Tumör i bukspottskörtel, PSC vid UC, Alkohol med cirrhos, iatrogen skada."],
+              "facit": [
+                "Gallsten/koledokussten, kolecystit, Tumör i gallvägar/gallblåsa, Tumör i bukspottskörtel, PSC vid UC, Alkohol med cirrhos, iatrogen skada."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -316,7 +366,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["E.Coli, Klebsiella, Enterokocker, Enterobakter. Bakteriefloran vid kolangit påminner om den vid kolecystit, men det anaeroba inslaget är betydligt större. Bacteroides fragilis och fusobakterier är vanligt förekommande."],
+              "facit": [
+                "E.Coli, Klebsiella, Enterokocker, Enterobakter. Bakteriefloran vid kolangit påminner om den vid kolecystit, men det anaeroba inslaget är betydligt större. Bacteroides fragilis och fusobakterier är vanligt förekommande."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -326,7 +378,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Antibiotika med t.ex Piperacillin/Tazobactam, Amoxicillin/Klavulansyra. Blododling, UL, CT, även MR/MRCP men inte på alla sjukhus. Vätska och eventuellt syrgas."],
+              "facit": [
+                "Antibiotika med t.ex Piperacillin/Tazobactam, Amoxicillin/Klavulansyra. Blododling, UL, CT, även MR/MRCP men inte på alla sjukhus. Vätska och eventuellt syrgas."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -336,7 +390,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Gallblåsecancer, pancreascancer, Tumör från extrahepatiska gallvägar t.ex. Klatskin's tumör."],
+              "facit": [
+                "Gallblåsecancer, pancreascancer, Tumör från extrahepatiska gallvägar t.ex. Klatskin's tumör."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -353,7 +409,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Avlasta gallvägarna, antigen via ERCP eller PTC inom 24 tim."],
+              "facit": [
+                "Avlasta gallvägarna, antigen via ERCP eller PTC inom 24 tim."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -363,7 +421,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Per-op perforation, blödning. Post-op pankreatit."],
+              "facit": [
+                "Per-op perforation, blödning. Post-op pankreatit."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -380,7 +440,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["K-vitamin brist på dåligt upptag i tarmen i frånvaro av gallsalter. Man måste kontrollera ett koagulationsstatus och eventuellt substituera med vit-K."],
+              "facit": [
+                "K-vitamin brist på dåligt upptag i tarmen i frånvaro av gallsalter. Man måste kontrollera ett koagulationsstatus och eventuellt substituera med vit-K."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -390,7 +452,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Dålig. Femårsöverlevnad ses nästan enbart efter kurativt syftande kirurgi. Om ingreppet bedöms som radikalt lever hälften efter fem år. Även efter kirurgi som bedömts som ej säkert radikal registreras femårsöverlevnad för cirka 20%."],
+              "facit": [
+                "Dålig. Femårsöverlevnad ses nästan enbart efter kurativt syftande kirurgi. Om ingreppet bedöms som radikalt lever hälften efter fem år. Även efter kirurgi som bedömts som ej säkert radikal registreras femårsöverlevnad för cirka 20%."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -416,7 +480,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Reumatoid artrit, septisk artrit, pyrofosfat artrit (falsk gikt) och gikt."],
+              "facit": [
+                "Reumatoid artrit, septisk artrit, pyrofosfat artrit (falsk gikt) och gikt."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -426,7 +492,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Kroppsvikten i kg delad med kroppslängden i meter i kvadrat (kg/m2)."],
+              "facit": [
+                "Kroppsvikten i kg delad med kroppslängden i meter i kvadrat (kg/m2)."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -436,7 +504,9 @@
               "maxPoints": 3.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Blodstatus, SR och CRP, reumaprover (t.ex RF, Citrullin ak, ANA), elektrolyter (s-Na, s-K), s-kreatinin och s-urat."],
+              "facit": [
+                "Blodstatus, SR och CRP, reumaprover (t.ex RF, Citrullin ak, ANA), elektrolyter (s-Na, s-K), s-kreatinin och s-urat."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -446,7 +516,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Ultraljud (för påvisande av dubbelkonturer på ledbroskytor) och deCT (datortomografi med dubbelenergiteknik)."],
+              "facit": [
+                "Ultraljud (för påvisande av dubbelkonturer på ledbroskytor) och deCT (datortomografi med dubbelenergiteknik)."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -455,7 +527,7 @@
         {
           "id": "3-2",
           "context": "Innan återbesöket blir Magnus dock akut försämrad och söker nu på sjukhusets akutmottagning. Han har haft lätt feber under natten och har fått en extremt smärtande, rodnad svullnad över vänster fotrygg och motsvarande vänstra stortåns grundled. Svar på proverna från tidigare mottagningsbesök visade följande: Normal hematologi frånsett SR 25 mm och CRP 14 mg/l, kreatinin 90 µmol/l och s-urat 680 µmol/l (ref <480 µmol/l).",
-          "contextImageUrl": null,
+          "contextImageUrl": "/images/exams/2021-11/page42_img1.jpeg",
           "questions": [
             {
               "id": "3-2-1",
@@ -463,7 +535,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Akut giktattack."],
+              "facit": [
+                "Akut giktattack."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -473,7 +547,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Försök till en steril diagnostisk punktion av stortåleden för att få ut ledexudat för analys av uratkristaller (guldstandard för giktdiagnos)."],
+              "facit": [
+                "Försök till en steril diagnostisk punktion av stortåleden för att få ut ledexudat för analys av uratkristaller (guldstandard för giktdiagnos)."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -490,7 +566,9 @@
               "maxPoints": 3.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Behandlingsalternativen är NSAID/cox-hämmare (5-10 dagar i full dos), kolkicin (0,5 mgx3 i 4 dagar) eller kortison (Prednisolon® 30 mg per os i 5 dagar)."],
+              "facit": [
+                "Behandlingsalternativen är NSAID/cox-hämmare (5-10 dagar i full dos), kolkicin (0,5 mgx3 i 4 dagar) eller kortison (Prednisolon® 30 mg per os i 5 dagar)."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -507,7 +585,9 @@
               "maxPoints": 3.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["I Magnus fall skall uratsänkande behandling sättas in pga. ålder <40 år, giktattacker engagerande flera leder, s-urat >480 µmol/l och förekomst av samsjuklighet i form av tidigare njurstenar och hypertoni. Allopurinol (Zyloric®) är förstahandsmedel."],
+              "facit": [
+                "I Magnus fall skall uratsänkande behandling sättas in pga. ålder <40 år, giktattacker engagerande flera leder, s-urat >480 µmol/l och förekomst av samsjuklighet i form av tidigare njurstenar och hypertoni. Allopurinol (Zyloric®) är förstahandsmedel."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -517,7 +597,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Målvärdet för s-urat är <360 µmol/l. Under de 3-6 första månaderna med successivt upptrappad behandling finns en ökad risk för akuta giktattacker och patienten bör därför ha tillgång till akutbehandling vid behov."],
+              "facit": [
+                "Målvärdet för s-urat är <360 µmol/l. Under de 3-6 första månaderna med successivt upptrappad behandling finns en ökad risk för akuta giktattacker och patienten bör därför ha tillgång till akutbehandling vid behov."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -534,7 +616,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Eftersom tiazidpreparat kan höja uratvärdet i serum väljer distriktsläkaren sannolikt i stället amlodipin – en kalciumantagonist som också kan sänka uratvärdet."],
+              "facit": [
+                "Eftersom tiazidpreparat kan höja uratvärdet i serum väljer distriktsläkaren sannolikt i stället amlodipin – en kalciumantagonist som också kan sänka uratvärdet."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -544,7 +628,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["I kartläggningen av patientens kardiovaskulära riskprofil bör ingå: En riktad anamnes kring eventuella symptom på kardiovaskulär sjukdom. Därefter ställningstagande till primärpreventiv behandling med hjälp av exempelvis SCORE. SCORE inkluderar ålder och kön, rökvanor, systoliskt blodtryck, och total och non-HDL kolesterol. Dessutom bör alkoholvanor efterfrågas och fasteblodsocker och evt. HbA1c mätas. Njurfunktionen bör evalueras och ett EKG registreras."],
+              "facit": [
+                "I kartläggningen av patientens kardiovaskulära riskprofil bör ingå: En riktad anamnes kring eventuella symptom på kardiovaskulär sjukdom. Därefter ställningstagande till primärpreventiv behandling med hjälp av exempelvis SCORE. SCORE inkluderar ålder och kön, rökvanor, systoliskt blodtryck, och total och non-HDL kolesterol. Dessutom bör alkoholvanor efterfrågas och fasteblodsocker och evt. HbA1c mätas. Njurfunktionen bör evalueras och ett EKG registreras."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -570,7 +656,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Kroppsyndrom/somatoformt syndrom med korrekt motivering (Spridda symtom från ett flertal system, övertygelse om sjukdom trots extensiv utredning, lång duration och stort lidande.) Differentialdiagnoser: depression, GAD, hypokondri."],
+              "facit": [
+                "Kroppsyndrom/somatoformt syndrom med korrekt motivering (Spridda symtom från ett flertal system, övertygelse om sjukdom trots extensiv utredning, lång duration och stort lidande.) Differentialdiagnoser: depression, GAD, hypokondri."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -580,7 +668,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Inleder med fokus på kroppsliga symtom, det är alliansbyggande och ger information."],
+              "facit": [
+                "Inleder med fokus på kroppsliga symtom, det är alliansbyggande och ger information."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -590,7 +680,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Allmänmedicin/Hälsocentral, detta för att minska antalet utredningar och mediciner som sätts in, samt ger bäst möjlighet för kontinuitet. Andra specialiteter kan stötta vid behov, exempelvis psykiatrin."],
+              "facit": [
+                "Allmänmedicin/Hälsocentral, detta för att minska antalet utredningar och mediciner som sätts in, samt ger bäst möjlighet för kontinuitet. Andra specialiteter kan stötta vid behov, exempelvis psykiatrin."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -607,7 +699,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Depression (med somatisering)."],
+              "facit": [
+                "Depression (med somatisering)."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -617,7 +711,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Sätter ej in medicin. Tillståndet är svårbedömt, bristande sjukdomsinsikt, ej klart hur uppföljning skall ske."],
+              "facit": [
+                "Sätter ej in medicin. Tillståndet är svårbedömt, bristande sjukdomsinsikt, ej klart hur uppföljning skall ske."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -627,7 +723,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Hög risk för biverkningar. Hög risk att patienten samlar på sig en diger medicinlista. Risk för utveckling av beroende (smärtstillande). Förstärkning av \"sjukdomsbild\" (om man behandlar somatiska åkommor)."],
+              "facit": [
+                "Hög risk för biverkningar. Hög risk att patienten samlar på sig en diger medicinlista. Risk för utveckling av beroende (smärtstillande). Förstärkning av \"sjukdomsbild\" (om man behandlar somatiska åkommor)."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -644,7 +742,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Hembesök. Allra minst en direktkontakt med patienten (telefon eller digitalt möte)."],
+              "facit": [
+                "Hembesök. Allra minst en direktkontakt med patienten (telefon eller digitalt möte)."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -661,7 +761,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Djup depression med psykotiska symtom/ alternativt katatoni på depressiv basis + korrekt motivering. Åtgärd: inläggning."],
+              "facit": [
+                "Djup depression med psykotiska symtom/ alternativt katatoni på depressiv basis + korrekt motivering. Åtgärd: inläggning."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -671,7 +773,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Uppfyller kriterier. Anna lider av en allvarlig psykisk störning (psykotisk depression). Vård kan ej ges i öppen form. Sluten psykiatrisk vård är nödvändig. Hon motsätter sig vård."],
+              "facit": [
+                "Uppfyller kriterier. Anna lider av en allvarlig psykisk störning (psykotisk depression). Vård kan ej ges i öppen form. Sluten psykiatrisk vård är nödvändig. Hon motsätter sig vård."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -681,7 +785,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Akutmottagningen (Medicin eller motsvarande)."],
+              "facit": [
+                "Akutmottagningen (Medicin eller motsvarande)."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -691,7 +797,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["ECT."],
+              "facit": [
+                "ECT."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -708,7 +816,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Att hon kan ha återinsjuknat i en somatiserad depression."],
+              "facit": [
+                "Att hon kan ha återinsjuknat i en somatiserad depression."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -718,7 +828,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Slutat med medicinering. Fråga om hon slutat med Duloxetin."],
+              "facit": [
+                "Slutat med medicinering. Fråga om hon slutat med Duloxetin."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -735,7 +847,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Rödbrusig, skakig/darrig, stegrat blodtryck, stegrad puls, ångest, förvirring, hallucinationer."],
+              "facit": [
+                "Rödbrusig, skakig/darrig, stegrat blodtryck, stegrad puls, ångest, förvirring, hallucinationer."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -745,7 +859,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Ordinerar bensodiazepiner. Hon är abstinent."],
+              "facit": [
+                "Ordinerar bensodiazepiner. Hon är abstinent."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -755,7 +871,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Stesolid 10 mg / Oxascand 15-25 mg och följer upp effekt efter ca 15-20 minuter. Ordinera mer medicin om initial dosering ej har effekt. Följ blodtryck, puls och allmäntillstånd."],
+              "facit": [
+                "Stesolid 10 mg / Oxascand 15-25 mg och följer upp effekt efter ca 15-20 minuter. Ordinera mer medicin om initial dosering ej har effekt. Följ blodtryck, puls och allmäntillstånd."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -765,7 +883,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Snabbare tillslag."],
+              "facit": [
+                "Snabbare tillslag."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -775,7 +895,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Alkohol är en GABA-agonist. Stimulering av GABA-systemet ger ångestlindring. När man slutar dricka alkohol medför en reaktiv ökning av glutamaterg signalering agitation/ångest."],
+              "facit": [
+                "Alkohol är en GABA-agonist. Stimulering av GABA-systemet ger ångestlindring. När man slutar dricka alkohol medför en reaktiv ökning av glutamaterg signalering agitation/ångest."
+              ],
               "facitExplanation": null,
               "tags": []
             }
@@ -792,7 +914,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Wernickes encefalopati."],
+              "facit": [
+                "Wernickes encefalopati."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -802,7 +926,9 @@
               "maxPoints": 2.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["WE beror på tiaminbrist, upptag av tiamin påverkas av alkohol. Högdos-tiamin x flera per dag. Vanligtvis parenteralt."],
+              "facit": [
+                "WE beror på tiaminbrist, upptag av tiamin påverkas av alkohol. Högdos-tiamin x flera per dag. Vanligtvis parenteralt."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -812,7 +938,9 @@
               "maxPoints": 1.0,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Klinisk diagnos. Ja. MR."],
+              "facit": [
+                "Klinisk diagnos. Ja. MR."
+              ],
               "facitExplanation": null,
               "tags": []
             },
@@ -822,7 +950,9 @@
               "maxPoints": 0.5,
               "hint": null,
               "imageUrl": null,
-              "facit": ["Korsakoff demens. Kännetecknas av i princip helt utslaget närminne och konfabulering."],
+              "facit": [
+                "Korsakoff demens. Kännetecknas av i princip helt utslaget närminne och konfabulering."
+              ],
               "facitExplanation": null,
               "tags": []
             }

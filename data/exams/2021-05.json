@@ -45,7 +45,7 @@
         {
           "id": "1-2",
           "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Aron väger 83 kg och har ett BMI på 24,1, hans blodtryck är 128/76 mmHg. Han äter normalkost och röker inte. Uppger måttlig alkoholkonsumtion. Han tränar inte regelbundet men funderar på att bli mer fysiskt aktiv. Han har behandling med insulinpump och använder glukossensorer, CGM. Du bedömer att Arons HbA1c är något högt och ni kommer gemensamt fram till att hans individuella målvärde bör vara 45-50 mmol/mol.",
-          "contextImageUrl": null,
+          "contextImageUrl": "/images/exams/2021-05/page3_img1.jpeg",
           "questions": [
             {
               "id": "1-2-1",
@@ -261,7 +261,7 @@
         {
           "id": "2-4",
           "context": "Inom primärvården får man som läkare ofta bedöma olika hudförändringar. Många patienter passar på att fråga om något som oroar dem fast de egentligen har tid bokat för något helt annat. Här visas bilder på vanligt förekommande hudförändringar som bland annat ses på en distriktsläkarmottagning samt olika diagnosförslag.",
-          "contextImageUrl": null,
+          "contextImageUrl": "/images/exams/2021-05/page8_img1.jpeg",
           "questions": [
             {
               "id": "2-4-1",
@@ -280,7 +280,7 @@
         {
           "id": "2-5",
           "context": "Jespers pappa Fredrik får du träffa på en halvakut tid några månader senare. Du arbetar fortfarande kvar som AT-läkare på vårdcentralen och uppskattar kontinuiteten med patienterna. Fredrik söker med smärta och svullnad i framförallt fingrarnas småleder och en tå samt ömhet i ena akillessenans fäste. Han har svårt att sova p.g.a. stelhet och smärta vilket ger dagtrötthet. Det visar sig att Fredrik har besvär med återkommande smärta i leder och att hans mormor också hade ont i lederna. Jespers pappa Fredrik har också fjällande hudförändringar sedan några år tillbaka som inte kliar. Hudförändringarna började på armbågar, knän samt i nacken vid hårfästet. De har rodnad botten med stearinaktiga, tjocka plaque och har nu spridit sig till bål och rygg. Han har märkt att sol förbättrar hudförändringarna.",
-          "contextImageUrl": null,
+          "contextImageUrl": "/images/exams/2021-05/page9_img1.jpeg",
           "questions": [
             {
               "id": "2-5-1",
