@@ -1,0 +1,974 @@
+{
+  "id": "2021-08",
+  "title": "AT-prov augusti 2021",
+  "date": "2021-08-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Kirurgi",
+      "points": 20,
+      "intro": "Du är jour på ett länssjukhus och möter en 45-årig man som söker akut vid 22-tiden. Patienten har sedan tidigare en omfattande sjukhistoria; redan i tonåren sjuknade han in i Crohns' sjukdom i kolon. Han är opererad i buken vid tre tillfällen; senaste tillfället för 12 år sedan. Kolon och rektum är bortopererade och han lever med en terminal ileostomi. Hans Crohnsjukdom är bedömd som inaktiv sedan flera år och han har ingen läkemedelsbehandling riktad mot denna.\n\nSedan ca tre timmar besväras han nu av tidvis svåra högersidiga buksmärtor; han mår illa och har kräkts en gång.\n\nStatus: Smärtpåverkad, i övrigt gott allmäntillstånd, temp: 36,9. Buk: Högersidig stomi. Ingen säker peritoneal retning, men patienten reagerar med smärta vid palpation i höger sida av buken och flanken; smärtan förefaller värst ovan naveln. Hjärta och lungor auskulteras utan anmärkning, saturation 98%. BT: 160/100, Puls: 88.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilka tre differentialdiagnoser (med principiellt olika mekanismer) bedömer du mest sannolika? Motivera. (OBS! Endast dina tre första förslag kommer att bedömas). (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lokaliserad smärta utan feberreaktion. Appendix bortopererad. I första hand misstänks uretärstensanfall eller gallstensanfall. Med tanke på anamnesen är tidigt ileus en möjlighet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Vilka åtgärder – ordinationer planerar du för patienten? Motivera (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten har njurpåverkan. Han har tunntarmsstomi som i kombination med kräkning medför risk för snabb ytterligare intorkning; dessutom komplicerad stensjukdom. Inläggning – vätskebehandling med ringeracetat/NaCl. Kontroll av urinproduktion, temp och relevanta prover. Fasta kan motiveras om akut åtgärd under narkos skulle kunna vara aktuell; annars fri dryck. Smärtstillande vb – undvik NSAID. Kontakt med urolog."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-1b",
+          "context": "Du misstänker bl a uretärstensanfall. Han får inj oxynorm 5 mg sc. och svarar bra på detta.\n\nCT: \"Tunntarmen är normalvid. Ingen fri gas eller vätska. Lätt hydronefros på höger sida, ett 14x12 mm stort konkrement i höger njurbäckens samlingsdel, samt ett 9x7 mm stort konkrement i höger uretär i nivå med L4:s tvärutskott. Inga konkrement på vänster sida.\"\n\nLab: Hb 124 (117-153) g/L; CRP 14 (<5mg/L); LPK 8,7 (3-9 x10⁹/L); S-Na 140 (137-145) mmol/L; S-K 4,5 (3,6-4,6) mmol/L; S-Krea 210 (45-90) µmol/L. ALAT 1,0 (0,15-1,1) µkat/L; ASAT 0,65 (0,25-0,75) µkat/L; ALP 0,9 (0,7-1,9) µkat/L; Bilirubin 13 (5-25) µmol/L; Amylas 0,90 (0,15-1,1) µkat/L. eGFR 28 (>90 ml/min/1,73m²). Urinsticka visar 3+ för röda blodkroppar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-3",
+              "text": "Vilka faktorer - relaterade till stenarna - påverkar risken för njurskada? Nämn högst tre faktorer (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Graden av stas; tiden med stas; samtidig infektion. Risken för njurskada är relaterad till graden av obstruktion. Vid höggradig obstruktion föreligger risk för permanent njurskada i cirka 30 % av fallen efter 4 veckor."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-4",
+              "text": "Vilka behandlingsmetoder finns generellt för stenar i övre urinvägarna? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ESWL; uretäroskopi; perkutan extraktion; öppen kirurgi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-1c",
+          "context": "Nästa morgon möter du patienten vid ronden. Han är smärtfri och har god urinproduktion; S-kreatinin har sjunkit till 152 µmol/L. Ni kommer överens om att han kan gå hem i väntan på behandling av stenarna. Urologen gör bedömningen att patientens stenar bör prioriteras för behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-5",
+              "text": "Ni diskuterar hans komplicerade situation (två konkrement på samma sida) igen och han undrar då på vilket sätt du tror att stenbehandlingen kommer att genomföras just i hans fall? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Uretärkonkrementet skall behandlas först. Om man först behandlar konkrementet i njurbäckenet så kan fragment komma att passera ner i uretären och risken är då stor att dessa fragment fastnar i uretären vid konkrementet i L4-nivå. Ett alternativ är uretäroskopi av uretärkonkrementet + efterföljande ESWL av det andra."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-6",
+              "text": "Vilka instruktioner ger du patienten när han skrivs ut? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ger honom rådet att söka vid feber. Tillräckligt vätskeintag och urinproduktion i relation till stomiflödet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Just när du är på väg att avsluta samtalet undrar patienten om du kan titta på hans stomi; han anger att den, egentligen över en längre tid, ändrat utseende och att det blivit svårare att få bandaget att passa. Bilden visar stomiområdet i stående. Du bedömer att svullnaden i anslutning till stomin försvinner när han lägger sig ner på britsen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilken diagnos ställer du? Du bedömer att du behöver remittera patienten. Vem eller vilka är lämpliga mottagare av din remiss? Motivera. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Parastomalt bråck, \"stomibråck\". Kontakt med stomiterapeut för fr a hjälp med optimalt bandage; detta kan hjälpa patienten i närtid. I övrigt remiss till kirurgklinik då den enda egentliga behandlingen är operation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Ett år senare möter du patienten på nytt; även denna gång söker han akut. De tidigare stenarna blev framgångsrikt behandlade. Nu har han svår, generell buksmärta sedan ca fyra timmar. Han anger också att området runt stomin kraftigt svullnat upp och att det området gör ont. Han mår illa och har kräkts en gång.\n\nStatus: At: Smärtpåverkad; temp 36,9. Hjärta och lungor auskulteras utan anmärkning, saturation 99%. BT: 160/95, Puls: 105/min. Buk: Diskret svullnad. Ingen peritoneal retning. Stomin har normal färg, men området (ca 5-6 cm) runt stomin är kraftigt svullet och ömmande vid palpation; det finns ingen hudrodnad. Stomipåsen är tom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Hur bedömer du situationen (diagnos – diagnoser)? Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inklämning i känt parastomalt bråck; tunntarmsileus sekundärt till detta. Känt bukväggsbråck som svullnat akut med samtidig smärta. Inget stomiflöde i kombination med kräkning talar starkt för tarmobstruktion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Hur planerar du handläggningen närmaste dygnet? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Smärtstillande, vätskebehandling (1-2 l ringeracetat + 1-2 glukos med elektrolyter), v-sond, försök till reposition av bråcket. Vid lyckad reposition bör patienten fortsatt observeras. Vid misslyckad reposition planeras omedelbar operation; preoperativ CT är inte fel, men måste genomföras skyndsamt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-3",
+              "text": "Sköterskan frågar dig hur stor volym (ungefär, ml/dygn) det är rimligt att anta att den aktuella patienten har under normala omständigheter (dvs i hemmet, med ordinarie kost). Vad svarar du? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "800-1200 ml"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Du bedömer att patienten (som har en terminal ileostomi) normalt har ett stomiflöde på ca 800-1000 ml/dygn. Föregående dygn registrerades ca 2500 ml i stomiflöde. Du bedömer att detta kan vara en effekt som är relaterad till det akuta, postoperativa läget.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Vilken behandling ordinerar du i den aktuella situationen? Motivera (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fritt intag per os. Behandling med klar vätska, NaCl, eller Ringeracetat, 1500-2000 ml. Det aktuella stomiflödet är sannolikt 1000-1500 ml för högt. Elektrolytinnehållet i vätskan som förloras via stomin är sådant att det kompenseras väl med ringeracetat eller NaCl."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-2",
+              "text": "Efter ytterligare två dygn kvarstår ungefär samma höga stomiflöde. Vilken ytterligare behandling överväger du nu? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Läkemedel som påverkar stomiflödet i sig, i första hand loperamid; bulkmedel är ett alternativ."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-4-3",
+              "text": "Loperamid är ett vanligt, receptfritt läkemedel. Vilken är verkningsmekanismen? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Loperamid är en syntetisk opioid som minskar peristaltik och gastrointestinal sekretionen. Läkemedlet utövar sin effekt genom att binda till µ-opioidreceptorer i tarmen, vilket hämmar frisättningen av acetylkolin och prostaglandiner."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatri",
+      "points": 20,
+      "intro": "Du är olegitimerad underläkare på en psykiatrisk klinik och tjänstgör dagtid på den psykiatriska akutmottagningen.\n\nMadeleine, 25 årig-kvinna inkommer med polis efter att hittats kraftigt berusad på en parkbänk. Hon pratar något osammanhängande och hon nämner att hon inte vill leva längre. Madeleine verkar nedstämd och har svårt att medverka i samtalet. Hon har ingen tidigare kontakt med psykiatrin enligt journalen.\n\nTrots att alkotestaren visar 0,5 mg/l i utandningsluft (vilket motsvarar 1,0 promille) klagar Madeleine över abstinenssymtom i form av illamående, tremor, huvudvärk, psykomotorisk oro och sjukdomskänsla. Du överväger inneliggande vård för alkoholabstinens.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka anamnestiska uppgifter behöver du för att avgöra om slutenvård är indicerad för Madeleines alkoholabstinens? Nämn fyra väsentliga uppgifter och motivera. (4 p)",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "• Daglig konsumtion (0,5p): för att veta om det är mer än 75 cl starksprit dagligen eller motsvarande under mer än månad (0,5p)\n• Tidigare abstinenshallucinos eller delirium tremens (0,5p): då risken är större att få igen det efter en lång aktuell missbruksperiod (0,5p)\n• Epileptiskt anfall (i.e. abstinenskramp) särskilt under de senaste tre dagarna (0,5p): då finns risk för fortsatt kramper, risk för död (0,5p)\n• Graviditet eller interkurrenta sjukdomar tex insulinbehandlad diabetes, pneumoni, pankreatit, tecken på grav leversvikt med esofagusvaricer eller caput medusae (0,5p): tex risk för fostret, ökad risk för medicinska komplikationer (0,5p)\n• När alkoholintaget upphörde (0,5p): för att kunna värdera risken för alkoholkomplikationer (0,5p)\n• Annat aktuellt drogintag (0,5p): kan komplicera vidare abstinensbehandlingen (0,5p)\n• Läkemedel (0,5p): (ex betablockerare kan kamouflera abstinenssymtom) (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vid undersökningstillfället är Madeleine alkoholberusad. Hur påverkar detta din suicidriskbedömning och vidare handläggning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det påverkar tillförlighet av insamlade psykopatologiska fynd. Pågående alkoholkonsumtion kan trigga igång en aktiv suicidhandling/minska hämningarna (0,5p). Övervägs att observera patienten tills hon nyktrar till, eventuellt extra tillsyn (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-3",
+              "text": "Du vill sätta in behandling mot hennes alkoholabstinens men sköterskan undrar om vi måste vänta tills alkoholhalten har sjunkit till noll. Vad svarar du? Motivera (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det behövs inte (0,5p). Vissa personer som druckit stora mängder alkohol och utvecklat hög tolerans kan få abstinenssymtom långt innan blodalkoholhalten sjunkit till noll. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du bedömde att Madeleine behövde inneliggande vård pga. svår alkoholabstinens och suicidprevention. Du bestämde att abstinensbehandlingen skulle startas trots att alkoholhalten inte har sjunkit till noll med hänsyn till misstänkt toleransutveckling. Hon blev frivilligt inlagd på samma avdelning som du tjänstgör på. Du träffar henne dagen efter ankomsten. Du vill göra en ny suicidriskbedömning då hon var berusad vid ankomsten vilket påverkat tillförligheten av insamlade psykopatologiska fynd.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilken skattningsskala kan du använda för gradering av hennes alkoholabstinens? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CIWA-skalan (Clinical Institute Withdrawal Assessment-Alcohol) (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilka fyra frågor måste du ställa till Madeleine för att adekvat kunna bedöma suicidrisken? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Tidigare suicidstankar, planer och försök?\n- Aktuella suicidtankar/planer/förberedelser?\n- Ärftlighet för suicid?\n- Tillgång till läkemedel/vapen?\n- Pågående missbruk och/eller brist på impulskontroll?\n- Nätverk och skyddsfaktorer?\n(0,5p per svar, max 2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Du har kommit fram till att Madeleine har ett alkoholberoende. Vilka tre läkemedel med olika funktionsmekanismer överväger du föreslå till henne som långtidsbehandling mot återfall (1,5 p)?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Disulfiram (i.e Antabus) (0,5p), akamprosat (i.e. Campral) (0,5p) och naltrexon (0,5p). Nalmefen (Selincro) ger också poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-4",
+              "text": "Hur följer du upp Madeleines alkoholkonsumtion med blodmarkör? Motivera ditt val. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "b-PEth (fosfatidyletanol) (0,5p). Det bildas endast i närvaro av etanol och har därmed mycket hög specificitet. Falskt positiva resultat har inte påvisats, och sensitiviteten är högre än för CDT, MCV och gamma-GT såväl var för sig som i kombination. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Madeleine vårdas numera frivilligt på samma avdelning som du tjänstgör på. Du har bedömt suicidrisken som låg. Under vistelsens gång framkommer att Madeleine är gravid i vecka 11. I samråd med din överläkare fortsätter hon med den planerade avgiftningen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Hennes mor hör av sig till dig och vill att du rekommenderar abort till henne pga. hennes nuvarande psykosociala situation. Rekommenderar du abort? Motivera ditt svar (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej (0,5p), beslutet är enbart patientens. Man ger däremot saklig information om risker för fosterskada vid alkoholanvändning under graviditet. Gynekologer och barnmorskor rekommenderar för övrigt aldrig abort, förutom på maternell vitalindikation (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Madeleine vill inte att du kontaktar socialtjänsten och hänvisar till Offentlighets- och sekretesslagen. Hon vårdas frivilligt och vård enligt Lagen om vård av missbrukare i vissa fall (LVM) är i nuläget inte aktuellt. Har du rätt som olegitimerad läkare att bryta sekretessen och kontakta socialtjänsten pga. oro för ofött barn? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ja (0,5p). Enligt 25 kap, 12 §, Offentlighets- och sekretesslagen: \"Uppgift om gravid kvinna eller någon närstående till henne får lämnas från en myndighet inom hälso- och sjukvården till en annan sådan myndighet eller till en myndighet inom socialtjänsten om uppgiften behöver lämnas för en nödvändig insats till skydd för det väntade barnet.\""
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-3",
+              "text": "Har du rätt att tvångsvårda henne med hänvisning till Lagen om psykiatrisk tvångvård (LPT) för att skydda det ofödda barnet? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej, inget lagrum för tvångsvård enligt LPT kan användas för att skydda det ofödda barnet. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-4",
+              "text": "Ge förslag på två läkemedel för behandling av Madeleines oro och sömnproblem som kan användas med hänsyn till graviditeten (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Prometazin (ie Lergigan) (0,5p) och Propiomazin (i.e. propavan) (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Du kontaktade socialtjänsten under vårdtiden och framförde din oro för det ofödda barnet. Efter utskrivningen har Madeleine haft kontakt med mödravårdscentral och socialtjänsten. Hon har försökt hålla sig alkoholfri under hela graviditeten. Graviditeten har varit bra.\n\nTvå dagar efter förlossningen, sker en akut och dramatisk förändring. Madeleine ter sig agiterad, förvirrad och växlar i humöret. Hon pratar osammanhängande och är psykomotoriskt orolig. Hon vill gå därifrån och det är svårt att övertala henne att stanna kvar. Personalen från BB har tagit spädbarnet ifrån henne. Du blir tillkallad till BB för en akut psykiatrisk bedömning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vilken diagnos bedömer du som mest sannolik? Motivera ditt svar. (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Postpartum psykos (0,5p). Det förekommer oftast två-tre dagar efter förlossningen med dramatisk, maniform symtombild."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Du ber om hjälp av en specialistläkare inom psykiatrin. Redogör tre åtgärder som krävs det närmaste dygnet (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inläggning inom psykiatri (0,5p), Tvångsvård/vårdintyg (0,5p), akut medicinering mot psykos/agitation (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Du misstänker postpartum psykos. Du bedömer att det behövs inläggning på en akut psykiatrisk avdelning enligt Lag för psykiatrisk tvångsvård (LPT) då patienten lider av allvarlig psykisk störning, hon har ett oundgängligt behov av psykiatrisk heldygnsvård samt kan ej ta ett grundat ställningstagande till egen vård. Under tiden på BB har ni ordinerat akut medicinering mot psykos/agitation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilken psykisk sjukdom utgör den vanligaste riskfaktorn för postpartum psykos? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bipolär sjukdom (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Vilken behandling bör du ge mot hennes postpartum psykos? Ange en viktig fördel och nackdel med behandlingen. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elektrokonvulsiv behandling (ECT) (0,5p). Fördel: snabb effekt. Nackdel: kognitiva besvär, narkosbehov (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Bipolär sjukdom utgör vanligen en riskfaktor för postpartum psykos. Ni har därför påbörjat inneliggande utredning. Det finns tidigare misstänkta maniska skov och mycket talar för en bipolär sjukdom. Madeleine fick också elektrokonvulsiv behandling (ECT) mot postpartum psykos med bra effekt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Madeleine påbörjar behandling med Litium som profylax mot nya affektiva skov. Med vilka fyra prover behöver behandlingen monitoreras inför insättning? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "S-Li pga. snävt terapeutiskt fönster (0,5p), TSH, fT4 pga. risk för hypotyreos (0,5p), P-kreatinin pga. risk för njurpåverkan (0,5p), P-Ca pga. risk för hyperparatyreoidism (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du arbetar som AT-läkare på en vårdcentral när 67-åriga Lena kommer för kontroll av depression. Hon insattes för ett år sedan på Sertralin och mår nu ganska bra.\n\nFör två månader sedan halkade hon dock på ett bananskal och ådrog sig en högersidig odislocerad radiusfraktur när hon var i Danmark på semester. En dansk jourläkare behandlade frakturen med en gipsskena, som hon själv tog bort efter fyra veckor.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilket vanligt beräkningsverktyg för osteoporos kan du använda för att komplettera anamnesen vid frakturer (0,5 p)?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "FRAX (Fracture Risk Assessment Tool). Med tanke på radiusfrakturen är det viktigt att utreda henne för eventuell osteoporos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Nämn fem olika relevanta faktorer från detta verktyg (2,5 p)",
+              "maxPoints": 2.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "• Ålder\n• Kön\n• Vikt\n• Längd\n• Tidigare lågenergifraktur\n• Förälder haft höftfraktur\n• Aktuell rökning\n• Systemisk kortisonbehandling, pågående eller tidigare motsvarande ≥ 5 mg Prednisolon i mer än tre månader\n• Reumatoid artrit\n• Alkoholkonsumtion ≥3 standardglas/dag\n• Andra sjukdomar eller tillstånd som orsakar benskörhet såsom typ I diabetes, hypertyroidism, hypogonadism, tidig menopaus (<45 års ålder)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-1b",
+          "context": "Med tanke på underarmsfrakturen är det viktigt att utreda henne för eventuell osteoporos. Du ställer frågor enligt FRAX, ett internationellt validerat web-baserat verktyg för att uppskatta hennes risk för fraktur. Lena väger 65 kg, är 165 cm lång, röker ett paket cigaretter per dag, dricker sällan alkohol, hon har tidigare inte brutit sig något, men hennes mamma ådrog sig en höftfraktur i 70-års åldern. Hon har inte reumatoid artrit och har aldrig medicinerat med kortison eller motionerat regelbundet på något sätt. FRAX visar en 10-årsrisk på 39 % för osteoporotisk fraktur och 16 % för höftfraktur (normalt referensvärde är under 15 %).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-3",
+              "text": "Vad undersöker du i somatiskt status med tanke på misstanken om osteoporos? Ange 4 svar och motivera varför (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "• Allmäntillstånd tex avmagring, gulhet i huden – tecken på cancersjukdom\n• Mät längd och vikt. Låg BMI ökar frakturrisken. Längdminskning kan tyda på kotkompressioner. Låg vikt kan tyda på anorexi, ätstörning, malabsorption.\n• Undersök ryggen, föreligger kyfos eller är diastasen mellan revbensbågar och crista uttalat liten? Leta efter förändringar i kotpelaren, hur patienten rör sig – tecken på tidigare frakturer i kotorna.\n• Balansförmåga\n• Palpera lymfkörtlar på halsen, axiller och ljumskar för att leta efter eventuella sekundära orsaker till osteoporos som malignitet.\n• Buken – malignitet, avmagring, tecken på leversjukdom\n• Hjärta, blodtryck – ingår i allmänstatus\n• Lungor – rökare, KOL"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Vilka relevanta laboratorieprover vill du analysera med tanke på misstanken om osteoporos? Ange 4 svar och motivera varför (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "• B-Hb – AT, malabsorption, malignitet, inflammatorisk sjukdom (anemi ökar frakturrisken)\n• eGFR – Inför eventuell behandling, sekundär osteoporos pga njursvikt\n• P-Kalcium – Malignitet, primär hyperparatyroidism\n• P-Albumin – Leversjukdom, malignitet\n• S-alkaliska fosfataser – Primär hyperparatyroidism, skelettsjukdom, benomsättning, metastaser, osteomalaci\n• SR – Malignitet (inklusive myelom), reumatoid artrit\n• S-Tyreoideastimulerande hormon – Hypertyreos kan ge osteoporos\n• P-Fosfat – Primär hyperparatyroidism, njursjukdom, malabsorption"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-5",
+              "text": "Vill du remittera henne för någon ytterligare undersökning med tanke på den aktuella situationen, och i så fall vilken? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bentäthetsmätning / DXA."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Undersökningar av hennes status med allmäntillstånd, undersökning av ryggen, lymfkörtlar och buk var helt normala liksom hjärta, lungor och blodtryck. Alla blodprover var normala.\n\nBentäthetsmätningen visar T-Score rygg (L:I-L:IV) -3,1 SD, T-Score höger lårbenshals -3,0 SD, T-Score vänster lårbenshals -2,9 SD. Du uppdaterar FRAX med T-score för det sämsta värdet för lårbenshalsen och noterar att 10-årsrisken för osteoporosfraktur blir 51%, dvs ännu högre än vid första uppskattningen utan bentäthetsmätning.\n\nLena står nu på din telefonlista.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Hon har sett svar på undersökningen via 1177 och nu önskar hon veta vad undersökningen visade och vilken diagnos hon har. Vad svarar du henne och motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hon uppfyller kriterier för osteoporos, benskörhet, i både ländrygg och höfter, genom att T-score ligger under -2,5 SD. Motivet är att kriterierna uppfylls."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Vad står T-score för? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "T-score är ett statistiskt mått på hur många standardavvikelser ett värde avviker från medelvärdet för en ung, frisk population kvinnor."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-3",
+              "text": "Vad kan hon, förutom läkemedelsbehandling, göra själv för att förbättra sin medicinska situation med tanke på vad bentäthetsmätningen visade? Ange 3 förslag och motivera varför (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "• Erbjud rökavvänjningsstöd – Rökning ökar risken för benskörhet\n• Fysisk träning med belastning av skelettet är viktig\n• Balansträning – Stärker skelettet och motverkar risken för fall\n• Adekvat kostintag av kalcium och D-vitamin – Stärker skelettet\n• Alkohol – använder hon mer än hon vill medge? Malnutrition bidrar till osteoporos. Ökar risken för fall.\n• Fallpreventionsåtgärder i hemmet till exempel höftskydd\n• Kontroll av syn\n• Försiktighet med läkemedel som påverkar fallbenägenhet (sömnmedel, lugnande, mm)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Lena uppfyller kriterier för osteoporos i både ländrygg och höft. Du uppmuntrar henne att sluta röka samt börja träna och försöka se till att hon har adekvat kostintag av kalcium och D-vitamin. Med tanke på hennes mycket höga frakturrisk och dessutom osteoporos föreligger indikation för läkemedelsbehandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vilken läkemedelsbehandling rekommenderas i första hand vid osteoporos? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Antiresorptiva läkemedel, bisfosfonater, årlig infusion zoledronsyra 5 mg eller veckodos alendronsyra 70 mg (0,5p). Kalcium och D-vitamin rekommenderas som dagligt tillägg till aktiv behandling med osteoporosläkemedel (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "På vilket sätt följer du behandlingen? Ange två förslag och motivera varför? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Viktigt med telefon- eller fysisk kontakt efter några månader eftersom många patienter avbryter behandlingen (0,5p). Kontroll med bentäthetsmätning (0,5p) ca två år efter insatt behandling för att säkerställa effekt och följsamhet och därefter ca vartannat år för att följa behandlingseffekt samt ta ställning till när utsättning av läkemedlet ska ske."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Du väljer att sätta in veckotablett alendronat samt dagligt tillskott av kalcium vitamin D. Medicineringen verkar fungera väl och uppföljande bentäthetsmätning efter två år visar något förbättrade värden varför medicinering fortsätter. Någon ytterligare bentäthetsmätning genomförs inte och alendronat behandlingen fortsätter.\n\nEn fredagseftermiddag, 5 år efter att hon halkade i Danmark, söker Lena samma vårdcentral på en akut tid där du fortsatt att arbeta nu som ST-läkare. Hon fick igår plötsligt debuterande smärta i vänster lår utan något känt utlösande trauma. Smärtan sitter lateralt på låret mellan höften och knät. Hon skattar maximala 10 på VAS-skalan. Patienten kan knappt gå, beskriver själv att hon haltar som en anka. Hon har själv känt en liten knöl på låret.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vad tror du kan ha hänt (1 p)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fraktur, malignitet - primär eller metastas, alternativt Pagets sjukdom of the bone."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Du remitterar patienten till akut röntgen eftersom du var konfunderad över det akuta insjuknandet utan trauma. Röntgen visade en femurfraktur.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Röntgen visade en femurfraktur. Hur tror du den kan ha uppkommit? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fraktur beroende på bennekros som är en ovanlig biverkan vid bisfosfonatbehandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Hur handlägger du nu patienten vidare? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skickar henne akut till ortoped."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-3",
+              "text": "Vilka formella åtgärder är det lämpligt att vidta nu med tanke på den beskrivna läkemedelsbiverkningen i fallet? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du bör snarast rapportera misstänkt biverkning av bisfosfonat till Läkemedelsverket. Det är ofta lättast att den läkare som satte in behandlingen gör det, som har tillgång till tidsuppgifter för när läkemedelsbehandlingen påbörjades i relation till när symtom/undersökningsfynd noterades. Redan misstanke om en biverkan ska rapporteras. Patienten bör också informeras om möjligheten att anmäla reaktionen till Läkemedelsförsäkringen (Svenska Läkemedelsförsäkringen AB)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Du har nu ett läkarbesök inplanerat med Lena på vårdcentralen. Inbokande sjuksköterska berättar att Lena är både ledsen och arg på grund av den fraktur som drabbat henne. Hon vill att du förklarar varför patienter får behandling för att förhindra fraktur, men som bidrar till att de får fraktur. För att förbereda dig letar du rätt på en nyligen publicerad artikel från den ansedda tidskriften The New England journal of Medicine av Dennis M Black med flera från 2020.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Förklara varför patienter får behandling för att förhindra fraktur, men som bidrar till att de får fraktur med utgångspunkt från bifogade figuren från artikeln (AFF= atypisk femurfraktur), motivera ditt svar. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "AT-läkaren ska föra ett risk-nyttaresonemang som inkluderar att till exempel 5 års bisfosfonat behandling av 10 000 vita kvinnor förhindrade 859 frakturer varav 286 höftfrakturer, men bidrog till att åtta bisfosfonatassocierad atypiska frakturer inträffade. Nyttan med behandlingen (859 förhindrade frakturer) överstiger risken för den ovanliga biverkan (8 atypiska femurfrakturer). Risken för atypisk lårbensfraktur ökade vid långtidsanvändning av bisfosfonater, 38 inträffade efter 10 års behandling. Detta bidrar till att den maximala behandlingstiden enligt Läkemedelsverket är 10 år."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "Förklara vad Number Needed till Treat betyder (NNT) (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "NNT står för number needed to treat och beskriver hur många patienter som måste behandlas för att en viss definierad händelse skall undvikas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Internmedicin",
+      "points": 20,
+      "intro": "Du arbetar som medicinjour på ett länssjukhus. Sjuksköterskan ber dig komma till akut rummet dit en 72 år gammal man med känd hypertoni inkommit med ambulans. För en vecka sedan har patienten fått andra sprutan med vaccin mot Covid-19 (SARS-CoV-2). Patienten har sedan ett dygn fått successivt tilltagande andnöd och feber. Kontroll av vitalparametrar visar BT 120/60 mm Hg, hjärtfrekvens 110/min, temp 38,9 °C och saturation 91% med 5 liter/min O₂ på näsgrimma. Vid undersökning finner du en klar och orienterad patient med påtaglig dyspne, andningsfrekvens 22/min; du auskulterar nedsatta andningsljud basalt på höger sida.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka två anamnestiska uppgifter bedömer du viktigast att komplettera med? Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Covid-19 exponering (för att värdera smittsamhet) och rökning (äldre man med dyspne, KOL). (Bröstsmärta, Ortopné, Perifera ödem (hjärtsviktssymptom))."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Patienten förnekar att han har träffat någon med symtom på covid-19 de sista veckorna. Han rökte ett paket cigaretter om dagen från tonåren fram till 65 års ålder. Du har fått svar på akuta prover: CRP 223 mg/l (<5) och blodgas: pH 7,24 (7,35-7,45), pCO₂ 4,1 kPa (4,6-6,0), pO₂ 7,4 kPa (10,6-13,8), HCO₃ 10 mmol/l (22-27), Base Excess -8 (-3–3).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Tolka blodgasen? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Metabol acidos med respiratorisk kompensation."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vilken diagnos bedömer du mest sannolik? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bakteriell pneumoni med tanke på det höga CRP."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-3",
+              "text": "Vilken differentialdiagnos bedömer du mindre sannolik men ändå nödvändig att utesluta innan eventuell inläggning? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Covid-19 infektion. Av vårdhygieniska skäl då vaccin inte ger 100% skydd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du gör bedömningen att bakteriell pneumoni är mest sannolikt, men du vill utesluta Covid-19 infektion.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Om patienten skulle uppvisa ett positivt antigentest för Sars-CoV 2, vilka två vedertagna läkemedelsbehandlingar (förutom syrgas) rekommenderar du då utifrån de data du har, om patienten skall läggas in? Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Antikoagulation (LMWH eller OAK) för den förhöjda risken för trombos/lungemboli och systemiska kortikosteroider med tanke på tecken till hög inflammatorisk aktivitet (CRP) och förhöjt syrgasbehov."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Du får svar på antigentest som är negativt för Covid-19; enligt sjukhusets rutiner bedömer du honom som smittfri och planerar att lägga in honom för behandling mot pneumoni. Inför antibiotikaval poängsätter du honom enligt CRB65.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilka parametrar ingår i CRB65 och vilken poäng får denna patient? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Konfusion, Andningsfrekvens, Blodtryck och ålder >65 → 2 poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Utifrån resultatet på CRB 65 vilket antibiotikum väljer du? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bensylpenicillin då pneumokocker bedöms som sannolikast agens för samhällsförvärvad pneumoni."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Patienten får 2 poäng på CRB65; du bedömer att han har en samhällsförvärvad pneumoni. Efter odlingar väljer du att starta behandling med bensyl-pc 3gx3 intravenöst. Han läggs in och du beställer en lungröntgen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Tolka röntgenbilden? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pleural förtätning högerlungbas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Undersökningen visar en högersidig pleural förtätning. Efter att ha tagit kompletterande bilder bedömer röntgenläkaren det som pleuravätska och misstänkt empyem.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Föranleder svaret på röntgenundersökningen någon åtgärd? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pleuratappning för diagnostik och behandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Du planerar pleuratappning både för att säkerställa diagnosen och för att dränera infektionen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilka 4 analyser av pleuravätskan bedömer du viktigast med avseende på infektion? Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "pH (snabbt svar och bekräftar empyemmisstanken), Cellräkning (bekräftar infektionsmisstanken), Allmän odling (för att få genes och resistensmönster), TBC diagnostik (direktmikroskopi alt PCR – kan vara förklaring till empyem och kräver helt annan behandling), Glukos (lågt stödjer infektionsmisstanken)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Du anlägger ett pleuradrän och det tömmer sig halmgul grumlig vätska. Du skickar vätskan för analys av pH (svar 7,1; talar starkt för infektion), allmän odling, direktmikroskopi av Tb, och cellräkning. Det tömmer sig snabbt 500 ml opalescent vätska och du väljer att stänga av dränet och ber sedan sköterskan att öppna det senare för att tappa maximalt 500 ml varannan timme.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Föranleder empyemmisstanken ändring av behandling? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Byte till bredspektrumantibiotika då man nu får misstänka andra bakterier än pneumokocker."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-8-2",
+              "text": "När det tömt sig sammanlagt 1100 ml upphör utbytet trots att du kontrollerat att dränet är öppet och inte har glidit ut. Vilken åtgärd är nu motiverad? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Spola dränet (Röntgen kontroll av dränageläge)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Du byter antibiotikum till Piperacillin/Tazobactam för att få bredare täckning och ber sköterskan spola dränaget; utbytet startar igen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Vad är anledningen till att man kombinerar Piperacillin med Tazobactam? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tazobactam förhindrar att piperacillin inaktiveras av betalaktamas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Allmän odling av pleuravätskan visar växt av Streptococcus anginosus känslig för Piperacillin/Tazobactam. Efter ytterligare några dygn mår patienten bättre och dränaget kan avvecklas. Patienten övergår till peroral antibiotikabehandling och skrivs ut med planerad uppföljning på mottagningen om 6 veckor. Vid återbesöket mår han bättre andningsmässigt och en lungröntgenkontroll är utan anmärkning. Han berättar att han besvärats av hjärtklappning sista veckan; du ordinerar ett EKG.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Tolka EKG. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förmaksflimmer."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "EKG visar förmaksflimmer. Vid auskultation i vila har han hjärtfrekvens 130/min. Patienten upplever sig trots detta ganska opåverkad och när du föreslår inläggning för att starta behandling kan han inte tänka sig det. Du behandlar honom därför polikliniskt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Vad vill du sätta in för medicinering och varför utifrån de bakgrundsdata du har om patienten? Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Frekvensreglering: Betablockad (Digoxin). Antikoagulation: OAK utifrån minst 2 poäng på CHADS-VASC2."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

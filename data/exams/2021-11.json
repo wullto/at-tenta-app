@@ -1,0 +1,834 @@
+{
+  "id": "2021-11",
+  "title": "AT-prov november 2021",
+  "date": "2021-11-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du arbetar på en vårdcentral i en mindre stad i norra Sverige. Din första patient för dagen är Kristina, 63 år, som har diabetes typ 2 och hypertoni, och kommer till dig för årskontroll. Du konstaterar att hennes diabetes är acceptabelt kontrollerad med HbA1c på 49 mmol/mol. Hon medicinerar med Amlodipin 5 mg 1x1 och Metformin 500 mg 1+0+1. En avvikelse du noterar är en återkommande och ökande tendens till mikroalbuminuri. Värden U-Albumin/kreatininkvot i morgonurin har i kronologisk ordning varit 2,7 - 3,2 - 3,5 - 8,9 (referensnivå för morgonurin: <3,0 mg/mmol). eGFR har vid de senaste fyra mätningarna legat på 70, 68, 65 resp. 62 ml/min. Kristina har egen blodtrycksmätare av överarmstyp som du tidigare kalibrerat mot din egen blodtrycksmätare med god överenstämmelse jämfört din mätare. Patienten har för vana att mäta sitt blodtryck varje vecka och brukar vid mottagningsbesöken visa dig sin lista med de i hemmet uppmätta värdena. Du noterar att det genomsnittliga blodtrycksvärdet för de senaste 6 mätningarna är 142/88 mmHg, och vid besöket idag mäter du upp 145/90 mmHg. Patienten poängterar i förbifarten att hon är återhållsam med att salta extra på maten och alkohol undviks i det närmaste helt och hållet.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilket målvärde för blodtrycket rekommenderar du i Kristinas fall? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["På grund av diabetes med nytillkommen mikroalbuminuri bör hennes antihypertensiva behandling ökas i syfte att förbättra prognos för njurar och att minska kardiovaskulär risk. Den skärpta målnivån för blodtrycket är 130/80 mmHg."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Ge förslag på lämplig ökning av patientens antihypertensiva behandling. Ange preparattyp och initial dosering. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["ARB eller ACE-hämmare i initialt låg dos."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-3",
+              "text": "Vilka särskilda instruktioner ger du Kristina gällande medicineringen med Metformin och ARB/ACE-hämmare? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Vid dehydreringstillstånd ska ARB/ACE-hämmare och metformin utsättas tillfälligt."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-4",
+              "text": "Beskriv 3 anamnestiska uppgifter, symtom eller kliniska fynd som skulle kunna väcka misstankar om prerenal orsak hos en patient (man eller kvinna) som utvecklat njursvikt. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Påtaglig vätskeförlust, aktuell svår infektion, överdosering av diuretika, inkompenserad hjärtsvikt, läkemedel som minskar njurgenomblödning (t.ex. NSAID, RAAS-blockad), lågt blodtryck."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-5",
+              "text": "Beskriv 3 anamnestiska uppgifter, symtom eller kliniska fynd som skulle kunna väcka misstankar om renal orsak hos en patient (man eller kvinna) som utvecklat njursvikt. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Ödem, långvarig hypertoni och/eller diabetes, ökad proteinuri, samtidig proteinuri och hematuri, akut tubulär nekros, akut glomerulonefrit, läkemedel, förgiftningar (t.ex. svampförgiftning), rabdomyolys, kontrastmedel."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-6",
+              "text": "Beskriv 3 anamnestiska uppgifter, symtom eller kliniska fynd som skulle kunna väcka misstankar om postrenal orsak hos en patient (man eller kvinna) som utvecklat njursvikt. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Svårigheter att kissa, palpabel urinblåsa, prostatism, synligt blod i urinen (t.ex. urinblåsecancer), uretersten, retroperitoneal fibros, malignitet (t.ex. i lilla bäckenet/buken, urotelial malignitet alt. prostatacancer)."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-7",
+              "text": "Ange 2 vanliga läkemedelsgrupper ur vilka läkemedel ofta förekommer som bidragande orsak till utlösande av njursvikt. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["NSAID eller läkemedel som påverkar renin-angiotensinsystemet, så kallad RAAS blockerare (ACE-hämmare, ARB eller aldosteronantagonister)."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Din nästa patient är Petter, en 35-årig tidigare frisk man som söker på grund av nytillkomna blåsor i handflator och på fotsulor.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Vilken diagnos ställer du? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Pustulosis palmoplantaris (PPP)."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Utifrån de fynd du gjort i Petters handflator, ange två viktiga anamnestiska faktorer. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Ev. rökning, ev. ledbesvär, yrkesanamnes."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-3",
+              "text": "Petter undrar om man känner till den bakomliggande orsaken till de uttalade förändringarna i handflatorna och fotsulorna, och om han kan göra något själv för att förbättra tillståndet. Vad svarar du? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Orsaken är inte säkerställd. Rökstopp är önskvärt, kan leda till klar förbättring."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-4",
+              "text": "Bör någon läkemedelsbehandling förskrivas? I så fall ange läkemedelsgrupp och administrationssätt. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Lokalbehandling med grupp IV-steroid bör förskrivas."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-5",
+              "text": "Vad svarar du patienten på hans fråga om det finns några läkemedel utöver nikotinersättningsmedel som skulle kunna underlätta för honom att klara av att sluta röka? Ange två läkemedelsnamn. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Förutom nikotinersättningsmedel finns två olika läkemedel att pröva, bupropion, Zyban® och vareniklin, Champix®."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-6",
+              "text": "Vilket är villkoret för förstagångsförskrivning av Zyban® eller Champix®? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Villkoret är att patienten accepterar rådgivning kring rökstoppet förutom recept på Zyban® eller Champix®."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Din tredje mottagningspatient för dagen är Gunnel, 57 år, som i augusti månad från företagshälsovården remitterats till dig. Orsaken till remissen är att det önskas värdering av ett i samband med hälsoundersökning upptäckt förhöjt blodkalkvärde (P-Calcium), 2,69 mmol/L (flertalet lab i Sverige har hos vuxna referensvärde 2,15-2,50 mmol/L). Övriga prover inklusive övriga elektrolyter anges ha varit normala. Du känner Gunnel sedan tidigare från hypertonikontroller. Gunnel medicinerar sedan ett 10-tal år med T. Salures® (bendroflumetiazid) 5 mg 1x1 och T. Felodipin 5 mg 1x1. Hon har läst att det är bra att ta D-vitamin och har på nätet beställt hem D-vitaminpreparat.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Utifrån det du redan enligt ovanstående känner till om Gunnel ange 2 tänkbara orsaker till förhöjning av hennes P-Calcium. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Tiazider kan ge lätt förhöjning av P-Calcium. Höga doser peroralt tillfört D-vitamin kan ge till och med kraftigt förhöjda P-Calciumnivåer."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-2",
+              "text": "Vilken ytterligare labanalys behövs för att beräkna korrigerat P-Calcium? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["P-Albumin."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-3",
+              "text": "På senare år har det börjat användas ett annat prov (än korrigerat Calcium) som kan ge en säkrare uppfattning om den sanna nivån av extracellulärt kalcium. Vad kallas detta prov? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Calciumjon eller Joniserat calcium."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-4",
+              "text": "Vad är skälet till frikostighet vad gäller att ordinera provet P-Calcium? Vilken brukar den vanliga symtombilden vid lätt-måttlig hyperkalcemi vara? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Det vanligaste är att lätt-måttlig hyperkalcemi inte ger några symtom alls eller endast lätta, ospecifika symtom. [Listade symtom som kan uppträda vid svår hyperkalcemi ger inte poäng.]"],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-5",
+              "text": "Ange 4 i sammanhanget viktiga undersökningsmoment vid kroppsundersökning av Gunnel (utöver hjärt- lungstatus, blodtrycksmätning och EKG) med hänsyn till hyperkalcemin. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Undersökning av hud, palpation av lymfkörtlar, sköldkörtel, bröst, buk, kotpelare."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-6",
+              "text": "Förutom malignitet, tiazidbehandling och intag av D-vitamin ange 4 andra tänkbara bakomliggande orsaker till förhöjt P-Calcium. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Primär hyperparatyreodism (pHPT), sarkoidos, tyreotoxikos, litiumbehandling, immobilisering, njursvikt, familjär hypokalciurisk hyperkalcemi (FHH)."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-3-7",
+              "text": "Ange 2 maligniteter kända för att kunna ligga bakom kombinationen tresiffrig SR och hyperkalcemi. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Multipelt myelom och njurcancer."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Du arbetar som AT-läkaren på ett länsdelssjukhus. Du går ett jourpass på akuten en torsdagskväll och skall titta på en patient som har kommit för en stund sedan. Patienten är en 38 år gammal manlig byggarbetare som har känt sig lite hängig senaste månaderna men i övrigt kunnat arbeta som vanligt. Kollegorna på jobbet har sagt att han ser gul ut och det är något som de flitigt har skämtat om dagligen senaste veckan. Han har nu under kvällen fått feber och har ont i magen men ej tagit något smärtstillande. Hans sambo är väldigt orolig och de har därför åkt in till akuten för att få veta vad det beror på.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vad är det viktigt att fråga om i anamnesen? Var specifik med frågorna, minst 5 stycken och motivera dina svar. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Viktnedgång, klåda, färg på avföring och urin, hereditet, smärtanamnes – utlösande faktorer, läkemedel, tid sjkd, droger."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Berätta hur du går till väga när du undersöker patienten och vad du söker efter med tanke på anamnesen ovan. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Bukpalpation: Ascites, palpabel gallblåsa – Courvoisiers tecken, Smärta vid djupandning – Murphy's tecken, sclerae + hud inspektion."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du finner en lätt palpationsömhet i övre delen av buken och du känner en resistens under höger arcus. Patienten har gula ögonvitor. Buken är mjuk i övrigt och inga tecken på ascites. Det gör inte ondare då patienten djupandas eller rör på sig. Vid Per rectum får du ljus avföring på handsken. Temp 39,2 grader. Puls 70, blodtryck 110/70.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilka 3 fynd i status får dig att reagera och vad kallas dessa tre tillsammans med ett egennamn som syndrom? Vilket fysiologiskt tillstånd är troligaste orsaken och vilken diagnos misstänker du efter din kliniska undersökning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Smärta-Ikterus-feber kallas Charcots triad och är associerat med kolangit."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilka laborationsprover skulle du vilja beställa? Nämn minst fyra och specificera vilka du är speciellt intresserad av med tillhörande motivering. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Blodstatus, Vätskestatus, CRP. ASAT, ALAT, ALP, bilirubin, GT, Amylas-Lipas. För att du misstänker sjukdom i gallvägarna med gallstas. Du vill även titta på inflammationsparametrar, Hb samt bukspottskörtelprover."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Vad finns det för differentialdiagnoser då patienten kliniskt har kolangit och med informationen du har så här långt? Nämn minst två och motivera för varje diagnosförslag. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Gallsten/koledokussten, kolecystit, Tumör i gallvägar/gallblåsa, Tumör i bukspottskörtel, PSC vid UC, Alkohol med cirrhos, iatrogen skada."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Proverna talar för gallstas och kolangit. Det har nu gått en stund och patienten säger att han fryser väldigt. En ny temperaturkontroll visar en temp på 40,1 grader.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Nämn minst en sorts bakterie som är vanligtvis förekommande vid kolangit. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["E.Coli, Klebsiella, Enterokocker, Enterobakter. Bakteriefloran vid kolangit påminner om den vid kolecystit, men det anaeroba inslaget är betydligt större. Bacteroides fragilis och fusobakterier är vanligt förekommande."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Vilken åtgärd är nu viktigast i detta ögonblick och hur lyder dina ordinationer för handläggningen framöver? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Antibiotika med t.ex Piperacillin/Tazobactam, Amoxicillin/Klavulansyra. Blododling, UL, CT, även MR/MRCP men inte på alla sjukhus. Vätska och eventuellt syrgas."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-3",
+              "text": "Vilka differentialdiagnoser tänker du på? Nämn minst två. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Gallblåsecancer, pancreascancer, Tumör från extrahepatiska gallvägar t.ex. Klatskin's tumör."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "CT visar en diffus tumör i leverns hilusområde och mot duodenalpapillen. Man kan tänka sig en magnetröntgenundersökning (MRCP) eller alternativt en ERCP. Man lyckas stenta det trånga partiet i gallgången och galla kan åter rinna ut i tarmen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vilken åtgärd är nu efter CT den bästa undersökningen och åtgärden? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Avlasta gallvägarna, antigen via ERCP eller PTC inom 24 tim."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Vad finns det för per- och postoperativa risker med ERCP? Nämn minst två. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Per-op perforation, blödning. Post-op pankreatit."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Patienten utreds ytterligare med magnetröntgen och fyndet tillsammans med borst-cytologiprov från ERCP undersökningen visar tyvärr en extrahepatisk gallgångstumör, en s.k Klatskintumör.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Patienten upplevdes som särskilt lättblödande under operationen, vad kan vara förklaringen till det? Vad behöver man kontrollera om ytterligare operation blir aktuell? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["K-vitamin brist på dåligt upptag i tarmen i frånvaro av gallsalter. Man måste kontrollera ett koagulationsstatus och eventuellt substituera med vit-K."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Redogör för 5-årsöverlevnaden för gallgångscancer. Skilj på de som inte opereras och de som opereras i ditt svar. Använd gärna procentsatser? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Dålig. Femårsöverlevnad ses nästan enbart efter kurativt syftande kirurgi. Om ingreppet bedöms som radikalt lever hälften efter fem år. Även efter kirurgi som bedömts som ej säkert radikal registreras femårsöverlevnad för cirka 20%."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Internmedicin",
+      "points": 20,
+      "intro": "Du har mottagningsvecka som vikarierande underläkare på länsdelssjukhusets medicinmottagning. Din första patient är 39-årige Magnus, som kommer på remiss från distriktsläkaren pga. återkommande svullnad och svår smärta i knän, fotleder och framfötterna sedan knappt ett år tillbaka. Han har även haft feber av och till när lederna varit som mest svullna och smärtsamma. Besvären har kommit och gått. Han har vid behov ordinerats smärtstillande i form av paracetamol och NSAID med viss effekt. Han har kunnat fortsätta att arbeta som lastbilschaufför. Han röker inte och dricker inte alkohol under veckorna, men tar gärna några öl till helgerna. Magnus har en tablettbehandlad hypertoni sedan 3 år tillbaka (candesartan och tiaziddiuretika). I anamnesen framkommer också att han haft problem med njurstenar som stötvågsbehandlats. I status noteras: Opåverkat AT. Vikt 92 kg, kroppslängd 1,72 m. Hjärta: regelbunden rytm, inga biljud. Lungor: normala andningsljud. Bltr (sittande vänster arm): 160/90 mmHg. Ledstatus: I knälederna föreligger palpationssmärta över ledspringan bilateralt, ingen hydrops eller lokal värmeökning. I fotlederna inget anmärkningsvärt, men i vänster framfot tydlig palpationssmärta och kapselsvullnad kring MTP1 leden.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilka sjukdomar kan tänkas ge återkommande svullnad och smärtor av detta slag i de nedre extremiteternas leder? (ge fyra förslag) (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Reumatoid artrit, septisk artrit, pyrofosfat artrit (falsk gikt) och gikt."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Hur räknar man ut patientens BMI (Body Mass Index)? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Kroppsvikten i kg delad med kroppslängden i meter i kvadrat (kg/m2)."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Ange 6 relevanta labprover du vill beställa utifrån patientens sjukhistoria och aktuella tillstånd. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Blodstatus, SR och CRP, reumaprover (t.ex RF, Citrullin ak, ANA), elektrolyter (s-Na, s-K), s-kreatinin och s-urat."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Nämn två avbildande undersökningar som kan rekommenderas i ett fall som detta för undersökning av de påverkade lederna? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Ultraljud (för påvisande av dubbelkonturer på ledbroskytor) och deCT (datortomografi med dubbelenergiteknik)."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Innan återbesöket blir Magnus dock akut försämrad och söker nu på sjukhusets akutmottagning. Han har haft lätt feber under natten och har fått en extremt smärtande, rodnad svullnad över vänster fotrygg och motsvarande vänstra stortåns grundled. Svar på proverna från tidigare mottagningsbesök visade följande: Normal hematologi frånsett SR 25 mm och CRP 14 mg/l, kreatinin 90 µmol/l och s-urat 680 µmol/l (ref <480 µmol/l).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vilken diagnos misstänker du i första hand vid dagens akutbesök? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Akut giktattack."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Diagnostiken utifrån klinisk bild skulle i den aktuella situationen kunna kompletteras med en riktad diagnostisk åtgärd. Vilken? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Försök till en steril diagnostisk punktion av stortåleden för att få ut ledexudat för analys av uratkristaller (guldstandard för giktdiagnos)."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Vid akutbesöket uppvisar Magnus en klassiskt giktdrabbad stortå. Tidigare förhöjt uratvärde stöder diagnosen akut giktattack.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Nämn tre behandlingsalternativ vid en akut giktattack. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Behandlingsalternativen är NSAID/cox-hämmare (5-10 dagar i full dos), kolkicin (0,5 mgx3 i 4 dagar) eller kortison (Prednisolon® 30 mg per os i 5 dagar)."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Blodproverna från akutbesöket visade S-urat 560 µmol/l, SR 30 mm och CRP 20 mg/l, kreatinin oförändrat 90 µmol/l. Artriten i stortåns grundled har gått fint tillbaka efter kortisonbehandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Varför bör uratsänkande medel sättas in i Magnus fall (fyra skäl räknas) och vilket läkemedel är förstahandsval? (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["I Magnus fall skall uratsänkande behandling sättas in pga. ålder <40 år, giktattacker engagerande flera leder, s-urat >480 µmol/l och förekomst av samsjuklighet i form av tidigare njurstenar och hypertoni. Allopurinol (Zyloric®) är förstahandsmedel."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-4-2",
+              "text": "Vilken är målnivån för urat i serum under behandlingen och varför skall patienten ha tillgång till lämplig akutbehandling att ta under de tre till sex första månaderna? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Målvärdet för s-urat är <360 µmol/l. Under de 3-6 första månaderna med successivt upptrappad behandling finns en ökad risk för akuta giktattacker och patienten bör därför ha tillgång till akutbehandling vid behov."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Din kollega nämner att gikt är starkt associerad till samsjuklighet för många sjukdomar såsom hypertoni, hjärt-kärlsjukdom, typ-2 diabetes, njursjukdom och det metabola syndromet. Han föreslår att distriktsläkaren får ändra Magnus blodtrycksbehandling och att man kartlägger en kardiovaskulär riskprofil.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Varför bör man byta tiazider mot annan antihypertensiv behandling och vad för typ av preparat bör distriktsläkaren föreslå? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Eftersom tiazidpreparat kan höja uratvärdet i serum väljer distriktsläkaren sannolikt i stället amlodipin – en kalciumantagonist som också kan sänka uratvärdet."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Vad ingår i en kardiovaskulär riskprofil (anamnestiskt och laboratoriemässigt)? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["I kartläggningen av patientens kardiovaskulära riskprofil bör ingå: En riktad anamnes kring eventuella symptom på kardiovaskulär sjukdom. Därefter ställningstagande till primärpreventiv behandling med hjälp av exempelvis SCORE. SCORE inkluderar ålder och kön, rökvanor, systoliskt blodtryck, och total och non-HDL kolesterol. Dessutom bör alkoholvanor efterfrågas och fasteblodsocker och evt. HbA1c mätas. Njurfunktionen bör evalueras och ett EKG registreras."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatri",
+      "points": 20,
+      "intro": "Patientfall 1: Anna 27 år. Du vikarierar som underläkare på psykiatrikliniken strax efter genomförd AT. Du är placerad på akut- och bedömningsenheten där ni tar hand om akuta fall, bedömer remisser och gör kortare uppföljningar. Det har kommit in en remiss från medicinkliniken där Anna 27 år, sökt då hon är helt övertygad om att hon drabbats av Myalgisk Encefalopati (ME). Anna är sedan tidigare känd på medicinakuten då hon söker hjälp där väldigt ofta. De önskar nu en bedömning från psykiatrin. I remissen står att Anna upplever att hon konstant känner sig trött och har stora koncentrationssvårigheter. Hon upplever att hon blir väldigt fysiskt trött efter ansträngning och har därför helt undvikit att anstränga sig senaste tiden. Större delen av dagen tillbringas sittande eller liggandes i sängen. Du läser igenom hennes journal och där noterar du att hon under de senaste tre åren utretts extensivt för magsmärtor, tarmbesvär, domningar i benen och ett kroniskt smärttillstånd i ryggen. Anna har ibland haft specifika diagnoser i åtanke, men oftast har det rört sig om organrelaterade problem och en övertygelse om att \"något är fel\". Anna har ofta beskrivit ett mycket stort lidande utifrån sina besvär.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilken psykiatrisk diagnos stämmer bäst in på ovanstående problembild? Ange den mest sannolika primärdiagnosen och två möjliga psykiatriska differentialdiagnoser. Motivera din primärdiagnos. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Kroppsyndrom/somatoformt syndrom med korrekt motivering (Spridda symtom från ett flertal system, övertygelse om sjukdom trots extensiv utredning, lång duration och stort lidande.) Differentialdiagnoser: depression, GAD, hypokondri."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vad bör du göra om patienten vill prata om sina kroppsliga symtom? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Inleder med fokus på kroppsliga symtom, det är alliansbyggande och ger information."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Om du bedömer att ett kroppsyndrom föreligger, vilken vårdinstans bör vanligen ha det övergripande ansvaret för Anna? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Allmänmedicin/Hälsocentral, detta för att minska antalet utredningar och mediciner som sätts in, samt ger bäst möjlighet för kontinuitet. Andra specialiteter kan stötta vid behov, exempelvis psykiatrin."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Anna bejakar nedstämdhet, sover dåligt och vaknar tidigt. Hon bejakar livsleda men förnekar suicidtankar. I status noteras minnessvårigheter, antydan till svarslatens och sänkt grundstämning. Mimiken är sparsam.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Baserat på anamnes och aktuellt status, vilken primärdiagnos bör du misstänka i det här läget? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Depression (med somatisering)."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Bör du sätta in medicinering i samband med den här konsultationen? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Sätter ej in medicin. Tillståndet är svårbedömt, bristande sjukdomsinsikt, ej klart hur uppföljning skall ske."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-3",
+              "text": "Varför bör man vara försiktig med att sätta in alla former av mediciner vid kroppssyndrom? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Hög risk för biverkningar. Hög risk att patienten samlar på sig en diger medicinlista. Risk för utveckling av beroende (smärtstillande). Förstärkning av \"sjukdomsbild\" (om man behandlar somatiska åkommor)."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Några månader senare har Anna gradvis blivit allt sämre. Hon har fått allt svårare att ta sig upp ur sängen på grund av fysisk svaghet. Hon har ätit sparsamma mängder och gått ned minst 5 kg på mindre än två månader. Anna har blivit allt mer ljus- och ljudkänslig och tillbringar sin tid i ett mörkt rum. Modern ringer hälsocentralen och är övertygad om att Anna har en mycket svår ME.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vad behöver du göra i det här läget? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Hembesök. Allra minst en direktkontakt med patienten (telefon eller digitalt möte)."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "När du kommer på hembesök träffar du patienten liggandes i sin säng. Anna ger i princip ingen respons när du presenterar dig. Hon svarar ej på dina frågor. Modern berättar att dottern slutat prata och nu enbart kommunicerat via korta sms. Senaste dagarna har hon i princip slutat äta och sista dygnet har hon även slutat dricka vatten. Hon är kraftigt avmagrad, blek och ser tärd ut.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vilken primärdiagnos är det mest sannolikt att Anna har? Motivera din diagnos. Vad blir din åtgärd? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Djup depression med psykotiska symtom/ alternativt katatoni på depressiv basis + korrekt motivering. Åtgärd: inläggning."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Uppfyller Anna kriterier för utfärdande av vårdintyg? Motivera utförligt. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Uppfyller kriterier. Anna lider av en allvarlig psykisk störning (psykotisk depression). Vård kan ej ges i öppen form. Sluten psykiatrisk vård är nödvändig. Hon motsätter sig vård."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-3",
+              "text": "Var bör hon initialt bedömas när hon kommer in till sjukhuset med ditt skrivna vårdintyg? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Akutmottagningen (Medicin eller motsvarande)."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-4",
+              "text": "Vilken behandling är förstaval vid en djup depression med uttalade psykotiska inslag? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["ECT."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Nästan tre år har gått och Anna har i huvudsak kommit på årskontroller på hälsocentralen, men bokas nu in på en akut tid. Anna söker då hon är säker på att hon drabbats av långtids-covid. Hon beskriver att hon känner sig konstant trött, har svårigheter att känna vissa lukter, har en rusande puls, huvudvärk och andningssvårigheter. Anna har aldrig haft någon säkerställd covid-infektion och upprepade covidtester har samtliga varit negativa.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vad bör AT-läkaren misstänka att Anna drabbats av? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Att hon kan ha återinsjuknat i en somatiserad depression."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-5-2",
+              "text": "Vad är ett vanligt skäl till återinsjuknande i psykiatrisk sjukdom, särskilt vid allvarligare sjukdomsbild, och vad behöver AT-läkaren fråga Anna? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Slutat med medicinering. Fråga om hon slutat med Duloxetin."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Patientfall 2 Sara 38 år. Du har avslutat din AT för en månad sedan och påbörjat ett vikariat inom psykiatrin. Du går nu din första nattjour på psykiatriska kliniken. Sara, 38 år, har lagts in för att få hjälp med avgiftning då hon inte kan sluta dricka alkohol. Sara hade vid inläggning druckit ca 2 flaskor vin om dagen i nästan 4 månader, innan dess ca en flaska vin om dagen i cirka 6 månader. Hon hade inte haft någon helnykter dag det senaste året. Vid inläggningen blåste hon 1.7 promille etanol.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilka statusfynd letar du efter vid bedömning av Saras grad av alkoholabstinens? Ange 4 symtom. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Rödbrusig, skakig/darrig, stegrat blodtryck, stegrad puls, ångest, förvirring, hallucinationer."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Sara blåser fortfarande 0.5 promille. Vad bör din åtgärd i det här läget vara? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Ordinerar bensodiazepiner. Hon är abstinent."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-3",
+              "text": "Ge förslag på en lämplig bensodiazepin och ange adekvat dosering. Ange hur och när du utvärderar effekten. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Stesolid 10 mg / Oxascand 15-25 mg och följer upp effekt efter ca 15-20 minuter. Ordinera mer medicin om initial dosering ej har effekt. Följ blodtryck, puls och allmäntillstånd."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-4",
+              "text": "Oxazepam och diazepam skiljer sig farmakokinetiskt. Vad är fördelen med att ge diazepam i det här läget? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Snabbare tillslag."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-5",
+              "text": "Varför är det vanligt med stegrad ångest vid alkoholabstinens? Vilket signalsystem i hjärnan är påverkat? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Alkohol är en GABA-agonist. Stimulering av GABA-systemet ger ångestlindring. När man slutar dricka alkohol medför en reaktiv ökning av glutamaterg signalering agitation/ångest."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Tre nätter senare har Sara börjat bete sig lite underligt, hon verkar förvirrad och man har noterat lite stapplig gång. Sara har tagit sitt bensodiazepin-schema enligt ordination och sovit på nätterna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Vilket tillstånd bör du misstänka i det här läget? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Wernickes encefalopati."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-2",
+              "text": "Förklara mekanismen bakom Wernicke's encefalopati och varför man löper ökad risk att drabbas av WE vid tillnyktring efter långvarigt alkoholbruk? Hur behandlas Wernickes encefalopati? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["WE beror på tiaminbrist, upptag av tiamin påverkas av alkohol. Högdos-tiamin x flera per dag. Vanligtvis parenteralt."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-3",
+              "text": "Hur ställs diagnosen Wernicke's encefalopati? Finns det någon radiologisk undersökning som kan hjälpa till vid diagnostik av Wernicke's? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Klinisk diagnos. Ja. MR."],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-7-4",
+              "text": "Vad kallas det kroniska tillstånd som kan uppstå efter en obehandlad eller underbehandlad Wernickes Encefalopati? Ange även ett av huvudsymtomen för poäng. (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": ["Korsakoff demens. Kännetecknas av i princip helt utslaget närminne och konfabulering."],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

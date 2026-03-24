@@ -1,0 +1,1307 @@
+{
+  "id": "2021-02",
+  "title": "AT-prov februari 2021",
+  "date": "2021-02-26",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Allmänmedicin",
+      "points": 20,
+      "intro": "Del 1 - Magnus (10 p)\n\nDu vikarierar som underläkare på en vårdcentral och träffar Magnus, 47 år, som söker för buksmärtor. De senaste månaderna har han besvärats av sura uppstötningar, halsbränna och molande smärtor i övre delen av buken. Han har också känt sig trött, rastlös, irriterad och har haft svårt att somna på kvällarna. Magnus är gift, jobbar som egenföretagare och bor med hustrun och två tonårsbarn i ett mindre villaområde i utkanten av en storstad.\n\nMagnus uppger sig ha god aptit. Han har inte uppfattat besvären som vare sig förbättrade eller försämrade av måltider och han tar inga mediciner. Han har oroat sig lite för magbesvären, men helst vill han bara ha någon medicin som tar bort besvären, eftersom han för närvarande är mitt uppe i avslutningen av en viktig affär.\n\nMagnus är frisk sedan tidigare, tar inga mediciner och har ingen känd hereditet för magtarmsjukdomar.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilka anamnestiska frågor vill du ställa i första hand, för att identifiera eventuella larmsymtom? Ange två frågor. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Larmsymtom: dysfagi, ofrivillig viktnedgång, mörk avföring, hematemes, frekventa kräkningar. (1 p, 0,5 p för varje alternativ)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Ange två ytterligare anamnestiska uppgifter som du behöver inhämta som kan vara av betydelse för differentialdiagnostik och handläggning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Levnadsvanor: rökning, alkohol, fysisk aktivitet, stress. (1 p, 0,5 p för varje alternativ)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-3",
+              "text": "Nämn fyra olika differentialdiagnoser som skulle förklara Magnus besvär. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gastroesofagal refluxsjukdom (GERD), gastrit, esofagit, ulcus (duodenalsår, ventrikelsår), ventrikelcancer, funktionell dyspepsi, livsstilsrelaterad dyspepsi (alkohol, stress), gallvägsbesvär. (2 p, 0,5 poäng för varje alternativ)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Du träffar Magnus 47 år på vårdcentral. Magnus söker för sura uppstötningar, halsbränna och molande smärtor i övre delen av buken. Han har också känt sig trött, rastlös, irriterad och har haft svårt att somna på kvällarna. Han har bibehållen aptit.\n\nMagnus förnekar dysfagi, ofrivillig viktnedgång, mörk avföring, hematemes eller frekventa kräkningar. Du överväger olika orsaker till Magnus besvär. Smärtorna kan stämma med gastrit, ulcus, ventrikelcancer, funktionell dyspepsi, livsstilsrelaterad dyspepsi eller gallvägsbesvär. Dessutom har Magnus refluxsymtom. Han är fysiskt aktiv och spelar golf regelbundet samt röker inte. Arbetsbördan har dock ökat påtagligt de senaste två åren.\n\nMagnus uppger att han dricker \"normala mängder\" alkohol. Han förnekar ofrivillig viktnedgång och avföringen har haft normal färg, konsistens samt varit regelbunden. Du undersöker Magnus, som är helt opåverkad, normalviktig. Cor: regelbunden rytm, rena toner, frekvens 72/min. Inga blåsljud. Blodtryck: 155/95 mm Hg sittande i höger arm. Pulm: u.a. Buk: normalkonfigurerad, mjuk, lätt ömmande i epigastriet. Lever och mjälte ua, patologiska resistenser ej palpabla. Per rektumundersökning: ua, normalfärgad faeces på handsken.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Ange två relevanta laboratorieprover du vill komplettera utredningen med. Motivera dina svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb, leverprover, Hp antigen i feces. För full poäng krävs att man skriver Hb. (F-Hb och CRP med rätt motivering). (0,5 p för varje prov)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Du träffar Magnus 47 år på vårdcentral. Magnus söker för sura uppstötningar, halsbränna och molande smärtor i övre delen av buken. Han har också känt sig trött, rastlös, irriterad och har haft svårt att somna på kvällarna. Han har bibehållen aptit och ingen ofrivillig viktnedgång. Besvären är inte relaterade till födointag. Magnus tar inga mediciner. Arbetsbördan har ökat påtagligt de senaste två åren. Han uppger sig dricka \"normala mängder\" alkohol. Icke-rökare. Avföringen har haft normal färg, konsistens samt varit regelbunden. Han har ett blodtryck på 155/95 mmHg.\n\nDu överväger olika orsaker till Magnus besvär såsom gastrit, ulcus, ventrikelcancer, funktionell dyspepsi, livsstilsrelaterad dyspepsi eller gallvägsbesvär.\n\nDu kompletterar utredningen med provtagning. En vecka senare kommer provsvaren: B-Hb 147 g/L (Ref 134–170), P-ALAT 0,7 ukat/L (Ref < 1,2), Hp antigen i feces: Neg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Du ringer upp Magnus och lämnar provsvaren. Hur planerar du hans fortsatta vård? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Återbesök inom en månad. Provbehandling med protonpumpshämmare (PPI) i en vecka eftersom patienten är under 50 år och inte har några larmsymtom. Upprepad kontroll av blodtrycket och fördjupad alkoholanamnes. 1,5 p (0,5 för handläggning av magbesvären, 0,5 för uppföljning av blodtrycket och 0,5 för alkoholkonsumtionen)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Du träffar Magnus 47 år på vårdcentral. Magnus söker för sura uppstötningar, halsbränna och molande smärtor i övre delen av buken. Han har också känt sig trött, rastlös, irriterad och har haft svårt att somna på kvällarna. Efter att du har utrett hans magbesvär och inte funnit några allvarliga symtom har du provbehandlat med protonpumpshämmare med viss förbättring. Du funderar ifall Magnus har symtom på utmattningssyndrom.\n\nVid återbesöket 10 dagar senare uppger Magnus att magbesvären har lättat lite, även om de inte är helt borta. Magnus tar vid besöket återigen upp besvären med trötthet, rastlöshet och sömnsvårigheter. Ofta behöver han arbeta såväl kvällar som helger för att hinna med sitt företag, och han har fått allt svårare att koppla av och att somna på kvällarna. Senaste halvåret har han också känt sig alltmer irriterad hemma. Dessutom har han börjat få svårt att koncentrera sig, glömmer lätt och vid ett tillfälle för några dagar sedan glömde han var han var på väg när han satt i bilen på motorvägen tidigt på morgonen. De senaste två veckorna har han haft svårt att hitta energi för enklare sysslor, t ex att läsa tidningen eller titta på TV. Du överväger om Magnus även har drabbats av utmattningssyndrom.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "Nämn fyra diagnoskriterier (två huvudkriterier och två ytterligare kriterier) för utmattningssyndrom, enligt Socialstyrelsen definition. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Duration minst 2 veckor med symtom och stressfaktorer under minst 6 månader (obligatoriskt för poäng). Påtaglig brist på energi (obligatoriskt för poäng). Koncentrationssvårigheter, påtagligt nedsatt förmåga att hantera krav eller tidspress, labilitet eller irritabilitet, sömnstörning, påtaglig kroppslig svaghet, kroppsliga symtom (hjärtklappning, magtarmsymtom, ljus- och ljudkänslighet, huvudvärk). 1 p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Du träffar Magnus 47 år på vårdcentral. Magnus söker för sura uppstötningar, halsbränna och molande smärtor i övre delen av buken. Han har också känt sig trött, rastlös, irriterad och har haft svårt att somna på kvällarna. Efter att du har utrett hans magbesvär och inte funnit några allvarliga symtom har du provbehandlat med protonpumpshämmare med viss förbättring. Efter utvidgad anamnes bedömer du att Magnus uppfyller kriterier för utmattningssyndrom samt dricker 2 glas vin/öl dagligen samt 4–5 glas vin/öl/starksprit varje dag på helgen eller i samband med affärsresor.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Var ligger gränsen för riskbruk av alkohol för män? Ange svar i antal standardglas per vecka eller per tillfälle (0,5 p).",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "14 standardglas/vecka eller 5 standardglas/tillfälle (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Du träffar Magnus 47 år på vårdcentral. Magnus söker för sura uppstötningar, halsbränna och molande smärtor i övre delen av buken. Han har också känt sig trött, rastlös, irriterad och har haft svårt att somna på kvällarna. Efter att du har utrett hans magbesvär och inte funnit några allvarliga symtom har du provbehandlat med protonpumpshämmare med viss förbättring. Efter utvidgad anamnes bedömer du att Magnus uppfyller kriterier för utmattningssyndrom samt dricker 2 glas vin/öl dagligen samt 4–5 glas vin/öl/starksprit varje dag på helgen eller i samband med affärsresor.\n\nDu räknar tillsammans med Magnus till att han överstiger gränsen för riskbruk (14 standardglas/vecka eller mer än 5 standardglas vid ett tillfälle). Magnus vill gärna få hjälp med läkemedel för att minska sin alkoholkonsumtion. Du bedömer att Antabus är inte så lämpligt i Magnus fall, utan föreslår för honom att välja mellan två andra alternativ: Campral® eller Naltrexon®.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Beskriv verkningsmekanismen för Campral® (akamprosat) och Naltrexon®. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akamprosat minskar alkoholsuget genom NMDA-receptormodulering och kräver inte totalabstinens. Naltrexon är opioidantagonist, minskar alkoholbegäret och kräver inte heller totalabstinens. (2 p, 1 p/läkemedel)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Del 2 - Adrian och Jasmin (10 p)\n\nNästa patient är Adrian, 1,5 år, som kommer med sin mamma. Han har varit förkyld i cirka en vecka, med hosta, grön snuva och feber. Sedan han började i förskola för tre månader sedan har han varit mer eller mindre förkyld hela tiden. Febern försvann efter tre dagar, men han har en besvärlig hosta, mest nattetid, och har varit otröstlig på natten. Mamman har uppfattningen om att \"det rosslar\" på lungorna och att Adrian verkar har det jobbigt med andningen emellanåt. Hon är också bekymrad över att Adrian inte vill äta så mycket, men han har druckit ganska bra. Blöjan är oftast lite lättare men han kissar regelbundet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Nämn fyra kliniska tecken som är viktiga att leta efter hos barn som söker med andningssvårigheter. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hög andningsfrekvens, cyanos, indragningar (interkostala, supraklavikulära), näsvingespel (hos spädbarn), slöhet, påverkat allmäntillstånd, dålig kapillär återfyllnad, låg syremättnad. 2 p (0,5 poäng för varje rätt svar)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-7-2",
+              "text": "Nämn två anamnestiska uppgifter som kan vara av värde för rätt diagnostik om man misstänker astma. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tidigare obstruktiva perioder, hereditet för astma, atopi/eksem, kända födoämnesallergiska besvär, husdjur eller rökning i hemmet. 1 p (0,5 p för varje rätt)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-8",
+          "context": "Adrian, 1,5 år, kommer till vårdcentralen med sin mamma. Han har varit förkyld i cirka en vecka, med hosta, grön snuva och feber. Febern försvann efter tre dagar, men han har en besvärlig hosta, mest nattetid. Enligt mamma har han det jobbigt med andningen emellanåt. Han har sämre aptit men dricker ganska bra.\n\nDu undersöker Adrian och ser en pigg gosse, opåverkad och afebril. Han sitter lugnt i mammas famn och du kan notera snuva och gult intorkat sekret i ögonfransarna bilateralt. Han har normal andningsfrekvens och inga indragningar eller cyanos. Vid lungauskultation hörs tydliga ronki apikalt bilateralt samt lätt förlängd expirium, inga krepitationer. Mamman berättar att Adrian har haft två liknande episoder tidigare, det första när han var tre månader gammal, då var han inlagd på sjukhus och fick behandling mot en svår RS-virusinfektion. Mor har gett inhalation Airomir® (salbutamol) i spacer tre–fyra gånger varje dag den senaste veckan, med endast tillfällig effekt. Adrian har inte eksem eller födoämnesallergier och det finns inga husdjur eller rökning i hemmet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-8-1",
+              "text": "Du misstänker att Adrian har astma. På vilken grund ställer du den diagnosen och behöver du ytterligare provtagning eller undersökningar för att kunna ställa diagnos? Motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diagnosen astma kan ställas eftersom det är gossens tredje episod med obstruktiv bronkit och han är under 2 år (3 år i vissa rekommendationer) (0,5 p). Inga ytterligare prover/undersökningar behövs eftersom han inte är så andningspåverkad (normal andningsfrekvens, inga indragningar) vilket gör att pneumonidiagnos är osannolik och han verkar inte behöva syrgas. Han är för liten för att medverka i en spirometri. (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-9",
+          "context": "Adrian, 1,5 år, kommer till vårdcentralen med sin mamma. Han har varit förkyld i cirka en vecka, med hosta, grön snuva och feber. Febern försvann efter tre dagar, men han har en besvärlig hosta, mest nattetid. Vid lungauskultation hörs tydliga ronki apikalt bilateralt samt lätt förlängd expirium, inga krepitationer. Adrian har haft två liknande episoder tidigare. Mor har gett inhalation Airomir® (salbutamol) i spacer tre–fyra gånger varje dag den senaste veckan, med endast tillfällig effekt.\n\nDu kan ställa diagnosen astma eftersom det är Adrians tredje episod med obstruktiv bronkit och han är under 2 år. Du behöver inga fler prover eller undersökningar utan ordinerar en behandling.\n\nAdrians mor undrar om han inte ska ha kontinuerlig behandling mot astman eftersom han har haft tre episoder på så pass kort tid.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-9-1",
+              "text": "Vilken behandling ordinerar du för den aktuella episoden? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ordinerar inhalationssteroid (t ex flutikason) eller Montelukast i ca 10 dagar och ger råd att ge samma behandling vid obstruktiva episoder framöver."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-9-2",
+              "text": "Hur avgör du om Adrian ska ha kontinuerlig behandling framöver? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Om han hostar även mellan infektionsperioderna eller har mer än en exacerbation/månad."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-10",
+          "context": "En månad senare träffar du Adrians storasyster Jasmin på mottagningen igen, hon kommer med pappa. Jasmin, 3 år gammal, fick hög feber för tre dagar sedan, feber som inte svarar på febernedsättande, och vill inte äta. I morse upptäckte föräldrarna ett rödprickigt utslag i armhålor, ljumskar och över magen. Ingen hosta eller snuva.\n\nVid undersökning är Jasmin gnällig och missnöjd, har rödfebriga kinder. Temp 38,5. Mun och svalg: rodnad tunga som liknar ett smultron, ilsken rodnad i gommen och vita beläggningar på tonsillerna. Auskultation av hjärta och lungor ua. På bålen ser du ett mycket svagt finprickigt rodnat utslag som känns som sandpapper vid palpation.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-10-1",
+              "text": "Vilken diagnos kan du ställa med ledning av den kliniska undersökningen. Vilket sjukdomsagens misstänker och hur kan du verifiera din diagnosmisstanke? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Scharlakansfeber/scarlatina (0,5 p). Betahemolytiska streptokocker grupp A, Strep-A snabbtest. (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-11",
+          "context": "Du träffar Jasmin, 3 år, som söker med ett finprickigt utslag, smultrontunga och feber i tre dagar som inte svarar på febernedsättande. Ingen hosta eller snuva. Du misstänker scharlakansfeber och bekräftar det med en positiv Strep-A test.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-11-1",
+              "text": "Vilket preparat vill du behandla Jasmin med? Ange preparatnamn, antal administrationstillfällen, och behandlingslängd. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Penicillin V (Kåvepenin), flytande peroralt, 3 ggr/dag i tio dagar. 2 p, 1 p för bara preparatnamn."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-12",
+          "context": "Du träffar Jasmin, 3 år, som söker med ett finprickigt utslag, smultrontunga och feber i tre dagar som inte svarar på febernedsättande. Ingen hosta eller snuva. Du misstänker scharlakansfeber och bekräftar det med en positiv Strep-A test.\n\nJasmin sätts in på flytande Kåvepenin (penicillin V) 12,5 mg/kg som ges oralt tre gånger dagligen i tio dagar. Två dagar senare återkommer mamma med Jasmin, som är numera feberfri men har fått ont i magen och även kräkts en gång ett par timmar efter att hon hade börjat ta penicillinet. Det finprickiga utslaget är borta men har ersatts nu av några spridda 1 mm stora röda makulösa utslag på mage och båda låren, som inte kliar. Föräldrarna misstänker pc-allergi och undrar om du kan ändra till annan sorts medicin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-12-1",
+              "text": "Vad beslutar du om Jasmins fortsatta behandling? Motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Icke-kliande utslag och/eller magbesvär betraktas inte som pc-allergi och scarlatinan kan fortsätta att behandlas med betalaktamantibiotika (0,5 p). Jasmin kan fortsätta med Kåvepenin (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Du har nyligen fått din legitimation och jobbar på akutmottagningen på ett länsdelssjukhus.\n\nEmma, en 33-årig kvinna söker med akuta buksmärtor. Inne på undersökningsrummet träffar du en välvårdad normalviktig kvinna som uppenbarligen har kraftiga smärtor vid minsta rörelse.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka fyra frågor ställer du gällande hennes smärtanamnes? Första fråga: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Debut (0,5 p): Hur/när började smärtan, abrupt eller smygande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Andra fråga: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lokalisation (0,5 p): Var sitter smärtan, utstrålning, avgränsad eller diffust."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-3",
+              "text": "Tredje fråga: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förlopp (0,5 p): Har den flyttat på sig? Blivit sämre eller bättre? Finns det påverkande faktorer (mat/rörelse/medicin)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-4",
+              "text": "Fjärde fråga: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Karaktär (0,5 p): Kommer den i intervaller eller konstant? Molande, brännande, krampande, värk. Intensitet (VAS-skala)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Emma, en 33-årig kvinna söker med akuta buksmärtor.\n\nDu börjar med en riktad smärtanamnes där du efterlyser debut, lokalisation, förlopp och karaktär. I morse var Emma på toa och upplevde en ofullständig tarmtömning, vilket händer henne ibland. Strax efter toabesöket fick hon kraftiga buksmärtor under naveln strålandes ner mot underlivet och bak mot analöppningen. Hon provade microlax som inte lindrade smärtan. Hon beskriver smärtan vid all form av rörelse. Under transporten till akuten blev hon kallsvettig och yr vilket hon fortfarande är.\n\nDu fortsätter med en generell anamnes enligt MAPLES. M: laxering vid behov, inga regelbundna mediciner, A: inga allergier, P: under utredning för kronisk obstipation, misstanke om neurogen tarmrubbning, koloskopi med biopsi från sigmoideum för 2 dagar sedan, väntar på återbesök, annars frisk, inga tarmsjukdomar i släkten, L: sambo, arbetar som kontorist, ätit för 4 timmar sedan, sista mens för 3 veckor sedan, ES: måttlig med alkohol enstaka gånger per månad, aldrig rökt.\n\nDin undersökning visar: fri luftväg, andningsfrekvens 18, saturation 100% på rumsluft. Lungorna auskulteras med vesikulära andningsljud, inga rassel eller ronki. Puls 85 slag/min, blodtryck 100/60 mmHg. Buken palperas endast ytligt och visar défense i nedre delen. Smärtan beskrivs såväl till höger, vänster och nertill i buken. Ingen ömhet under höger eller vänster arcus. Ingen dunkömhet under njurlogerna. Normala tarmljud auskulteras. Per rektum tom ampull, inget blod på handsken. Hon får 15 poäng på Glasgow Coma Scale (GCS), hennes temp är 37,1°C med ett normalt hudkostym.\n\nDu får svar på blodprover (Hb: 146 g/L, Leukocyter: 12,1 x10^9/L, CRP: <0,60 mg/L, normala elektrolyter och leverprover), blodgas (normal förutom Laktat: 2,5 mmol/L), bladderscan (21 ml), urinsticka (negativ, hcg negativ) och EKG (normal sinusrytm).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilka två läkemedel ordinerar du nu? Läkemedel ett samt motivation: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Morfin som snabb och potent smärtstillning (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Läkemedel två samt motivation: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ringer-Acetat som vätska då hon inte ska inta något per os inför vidare utredningen (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Ange den mest sannolika diagnosen: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gastrointestinal perforation (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-4",
+              "text": "Ange en rimlig differentialdiagnos: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Till exempel: Divertikulit, Ovarialtorsion, Volvulus, Tarmischemi, perforerad Salpingit (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-5",
+              "text": "Vad behöver göras nu? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT-buk eller diagnostisk laparoskopi (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Emma söker med akuta buksmärtor. Efter toabesöket i morse fick hon kraftiga buksmärtor och kommer in med ambulans. Hon utreds för kronisk obstipation och koloskoperades för 2 dagar sedan där man även tog en biopsi.\n\nVitalparametrar: Andningsfrekvens 18, Saturation 100%, Puls 85 slag/min, Blodtryck 100/60 mmHg, vid full medvetande, afebril. Emma ömmar i nedre delen buken med défense.\n\nPatientnära proverna visar: Hb: 146 g/L, Leukocyter: 9,1 x10^9/L, CRP: <0,60 mg/L, normala elektrolyter och leverprover, blodgas normal förutom Laktat: 2,5 mmol/L, bladderscan 21 ml, urinsticka negativ, hcg negativ.\n\nDu ordinerar morfin mot smärtan (5 mg iv) samt ringer-acetat för blodtrycket och vätskeersättning. CT-buk med iv-kontrast påvisar tecken på perforation i colon sigmoideum. På bilderna syns rikligt med gas samt vätska i buken, faecesinnehåll i distala ileum samt ventrikelretention. Du meddelar fyndet till ansvarig akutkirurg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Med tanke på CT-fyndet, vilken ytterligare patientnära åtgärd behöver göras nu inför operation? (0,5p) Och varför? (0,5p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ventrikelsond (0,5 p). Att undvika aspiration pga hotande ileus (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Vilka läkemedel ska du ordinera nu för att minska risken för abdominella senkomplikationer? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Cefotaxim och Metronidazol (1 p) eller Piperacillin/tazobactam (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Emma söker med akuta buksmärtor. Efter toabesöket i morse fick hon kraftiga buksmärtor och kommer in med ambulans. Hon utreds för kronisk obstipation och koloskoperades för 2 dagar sedan där man även tog en biopsi.\n\nVitalparametrar: Andningsfrekvens 18, Saturation 100%, Puls 85 slag/min, Blodtryck 100/60 mmHg, vid full medvetande, afebril. Emma ömmar i nedre delen buken med défense.\n\nDu bedömer perforation som tänkbar komplikation efter koloskopin. CT-buk påvisar tecken på perforation i colon sigmoideum med rikligt med gas samt vätska i buken, faecesinnehåll i distala ileum samt ventrikelretention. Du sätter ventrikelsond och ordinerar antibiotika.\n\nPatienten opereras akut. Man börjar med en diagnostisk laparoskopi där man ser fekal peritonit med rikligt med faeces i buken. Konverteras till öppen kirurgi. Det uppsuges 600 ml tunnflytande tarminnehåll och därefter hittar man en ca 4 mm stor perforation i sigmoideum ca 1 dm ovanför promontoriet. Perforationen sys över med en raphi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Med tanke på patientens sjukdomshistorik, vilken kirurgisk operativ plan är nu lämpligast? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Uppläggning av stomi (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Motivera varför. (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "På grund av långvarig obstipationsproblematik och behov av stora mängder laxantia rekommenderas inte att utsätta raphin för belastning (godkänd med att inte vilja belasta en nyligen sydd tarm) (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "En 33-årig kvinna söker med akuta buksmärtor. Du diagnostiserar en sigmoideum-perforation vilken opereras akut. Patienten skrives hem med en sigmoideostomi och kommer 6 månader senare till mottagningen och önskar nedläggning av stomin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilka två undersökningar bör göras hos Emma inför nedläggning av sigmoideostomin? Undersökning ett: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Endoskopisk undersökning av colon via stomin (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-5-2",
+              "text": "Undersökning två: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Endoskopisk undersökning av rektalstumpen (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Läkarstudenten, som går bredvid dig, undrar vilka medicinska behandlingsmedel man kan ordinera vid obstipation. Nämn fyra olika verkningsmekanismer vid laxantiabehandling. (2p)",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Verkningsmekanism Ett: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bulkmedel (0,5 p): Ispaghula (Lunelax, Vi-Siblin), Sterkuliagummi (Inolaxol)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Verkningsmekanism Två: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Icke absorberbara kolhydrater med osmotisk aktivitet (0,5 p): Laktulos (Duphalac), Laktitol (Importal Ex-Lax)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-3",
+              "text": "Verkningsmekanism Tre: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mjukgörande medel (0,5 p): Flytande Paraffin (Paraffin, Paraffinemulsion). Alternativt salinskta aktiva medel: Polyetylenglykol/Makrogol (Forlax, Omnilax, Movicol m.fl.)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-4",
+              "text": "Verkningsmekanism Fyra: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tarmirriterande medel (0,5 p): Sennaglykosider (Pursennid Ex-Lax), Natriumpikosulfat (Laxoberal). Alternativt Klysma: Bisakodyl (Toilax), Sorbitol (Resulax)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "Du arbetar torsdag kväll på en medelstor akutmottagning som jourläkare. In kommer en 26-årig man med ambulans. Han berättar att han under eftermiddagen åkte el-sparkcykel och krockade med en bil som körde ut från en parkering. Han berättar att han väjde åt höger men slog sedan med vänster sidan in i bilen. Smärtan gick över efter en kort stund och han kunde ta sig hem utan problem. Senare skulle han ut med några kompisar, men väl inne på restaurangen började han få mer och mer ont i buken samt blev blek och yr. Hans kompisar ringde efter en ambulans som transporterade honom till akuten.\n\nDu träffar honom på akutrummet och börjar undersöka honom. Han har en fri luftväg med en andningsfrekvens på 24/min. Lungorna auskulteras med vesikulära andningsljud bilateralt, saturation ligger på 97% med 10 liter syrgas på mask. Hans puls är 110 slag/min, regelbundet och han har ett blodtryck på 100/70 mmHg. Han ömmar i buken, mest till vänster, där du även ser ett hematom i vänster flank runt revbensbågen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Vilken diagnos är mest sannolik i nuläget? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mjältskada (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-7-2",
+              "text": "Vilken bukundersökning på akutrummet anser du befogat i detta läge? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "FAST-Ultraljud (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Du arbetar torsdag kväll på en medelstor akutmottagning som jourläkare. In kommer en 26-årig man med ambulans. Han berättar att han under eftermiddagen åkte el-sparkcykel och krockade med en bil. Hans puls är 110 slag/min och blodtryck 100/70 mmHg. Han ömmar i buken, mest till vänster, där du ser även ett hematom i vänster flank runt revbensbågen.\n\nDu misstänker en mjältskada och vill göra en FAST. Under tiden ultraljudsmaskinen hämtas gör du en kort neurologisk bedömning. Han öppnar ögonen på tilltal, rör alla extremiteter på uppmaning och är lite konfusorisk, men svarar på dina frågor.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Hur många poäng får han på Glasgow Coma Scale (GCS)? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "13 (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-8-2",
+              "text": "Ange alla tre kategorier och respektive siffervärden (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ögon 3, Verbal 4, Motorik 6 (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Du arbetar torsdag kväll på en medelstor akutmottagning som jourläkare. In kommer en 26-årig man med ambulans efter trauma mot vänster sida mot bil. Puls 110 slag/min, blodtryck 100/70 mmHg. Han ömmar i buken, mest till vänster med hematom i vänster flank. Du misstänker en mjältskada. Neurologisk bedömning ger 13 poäng på GCS (3 Ögon, 4 Verbal, 6 Motor).\n\nFAST visar fri vätska i buken. En blockvändning upptäcker inga vidare skador och under din reevaluering får du nya vitalparametrar: Andningsfrekvens 28/min, Saturation 98% på 10 liter syrgas, Puls 125 slag/min, Blodtryck 85/55 mmHg.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Vilken behandling initierar du nu på akutrummet? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Perifer venös access med två grova nålar och intravenöst vätskebolus (isoton kristalloid) 1000 ml (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-2",
+              "text": "Och vilken provtagning är viktigast för denne patienten? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blodgruppering och BAS-test inför blodtransfusion (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-3",
+              "text": "Vad behöver göras? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stoppa blödningen (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-4",
+              "text": "Vart behöver patienten transporteras? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Till operation (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-9-5",
+              "text": "Vilken radiologisk undersökning hade varit indicerad för en cirkulatoriskt stabil patient med trubbigt buktrauma? (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Trauma-CT eller CT buk (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "En ung man kommer till akuten efter trauma mot abdomen. FAST visar fri vätska i buken och patientens vitalparametrar är så alarmerande att han tas akut till operation. Du följer med som assistent. Vid laparotomin finns 2 liter blod i buken. Buken packas med dukar.\n\nKirurgen berättar att det finns två sätt att hantera mjältskador med operation. Antingen splenektomi med risk för ett nedsatt immunförsvar eller mjältbevarande kirurgi med risk att patienten börjar blöda igen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Vilka två olika strategier samt vilka risker för respektive strategi finns i behandlingen av mjältskador? Strategi ett: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Splenektomi med risk för permanent nedsatt immunförsvar (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-2",
+              "text": "Strategi två: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mjältbevarande kirurgi med risk för postoperativ blödning (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-11",
+          "context": "En ung man kommer till akuten efter trauma mot abdomen. FAST visar fri vätska i buken och han tas akut till operation. Vid laparotomin finns 2 liter blod i buken. Kirurgen väljer att bevara mjälten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-11-1",
+              "text": "Vilken typ av bakterier utgör största problemet efter en splenektomi? (1p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Personer som har fått sin mjälte bortopererad löper en ökad risk att insjukna med svåra infektioner orsakade av kapselförsedda bakterier (1 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-11-2",
+              "text": "Vilka vaccinationer rekommenderas efter splenektomi? Nämn 3. Första: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pneumokocker (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-11-3",
+              "text": "Andra: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Meningokocker (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-11-4",
+              "text": "Tredje: (0,5p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Influensa (0,5 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Internmedicin",
+      "points": 20,
+      "intro": "Per 68 år inkommer till regionsjukhusets medicinakut med ambulans pga intermittenta bröstsmärtor som nu på morgonen förvärrats påtagligt.\n\nDu träffar honom på akutrummet där du har en patient framför dig som är blek och kallsvettig, orolig och ter sig smärtpåverkad. Något snabb ytlig andning med frekvens kring 22–24/minut. Inga benödem. Han uppger pågående bröstsmärta som började hastigt påkommen för 45 minuter sedan och som är betydligt kraftigare än de tidigare episoderna den senaste veckan. Smärtan, som han skattar till VAS 9, sitter centralt i bröstet med utstrålning mot halsen. Inget trauma. Ej illamående och inga kräkningar. Inga infektionstecken. Känner sig tungandad. I ambulans uppmättes blodtryck 105/85 mmHg, puls 110 slag/min, saturation 95% med 8 liter syrgas på mask.\n\nI övrigt har han sedan 13 år tillbaka hypertoni behandlad med Salures (bendroflumetazid). Använder ingen tobak.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Innan du påbörjar status har du tre viktiga akuta differentialdiagnoser i åtanke. Vilka? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärtinfarkt, aortadissektion, lungemboli. Perimyokardit och pneumoni ger inga poäng pga akut insjuknande och avsaknad av infektionstecken. Pneumothorax ger inga poäng pga avsaknad av trauma och spontanpneumothorax mycket sällsynt utan annan bakomliggande sjukdom. Ulcus ger inga poäng pga avsaknad av illamående och kräkningar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Per 68 år, som är icke-rökare och har diabetes typ II och hypertoni sedan 13 år tillbaka, inkommer till medicinakuten via ambulans pga intermittenta bröstsmärtor som nu på morgonen förvärrats påtagligt. Du träffar honom på akutrummet där han är blek och kallsvettig, orolig och smärtpåverkad. Andningsfrekvens kring 22–24/minut. Inga benödem. Pågående bröstsmärta som började hastigt för 45 minuter sedan, VAS 9, centralt i bröstet med utstrålning mot halsen. Inga infektionstecken. Tungandad. I ambulans blodtryck 105/85 mmHg, puls 110 slag/min, saturation 95% med syrgas på mask.\n\nDu misstänker hjärtinfarkt, lungemboli alternativt aortadissektion.\n\nI status finner du: Hjärta med måttligt systoliskt blåsljud över I4–6 sinister. Regelbunden rytm, puls 118 slag/min. Blodtryck 90/61 mmHg. Lungor: basala rassel bilateralt. Buk: mjuk och oöm. Inga benödem.\n\nBlodgas: saturation 94% (95–98), pH 7,32 (7,35–7,45), pCO2 5,8 (4,6–6,0 kPa), pO2 7,6 (8,0–13,0 kPa), BE -3 (-3,0–+3,0 mmol/L), Laktat 2,9 (0,5–1,6 mmol/L), Na 138 (137–145 mmol/L), K 3,6 (3,5–4,4 mmol/L), kreatinin 85 (60–105 µmol/L), Hb 118 (134–170 g/L)",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Tolka blodgasen. Förklara blodgasens avvikande värden utifrån det du redan vet om patienten. (1,0 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Låg saturation pga inkompensation. Laktat förhöjt pga försämrad perifer genomblödning och/eller försämrad oxygenering pga lindrig anemi kombinerat med desaturering."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Patienten befinner sig i begynnande chock. Vad är mekanismen till patientens prechockbild utifrån de tre differentialdiagnoserna (hjärtinfarkt, lungemboli och aortadissektion). (3,0 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärtinfarkt – pga kardiell ischemi minskar hjärtats kontraktionskraft vilket genererar sänkt cardiac output och hjärtminutvolym. Lungemboli – pga lungembolier ökar afterload i hjärtats högra hjärthalva. Mindre blod kommer över från höger till vänster hjärthalva och vänster kammare har mindre volym blod att pumpa ut i kroppen. Aortadissektion – när blodet i aortaväggen dissekerar sig vidare kan ett falskt lumen i aorta uppkomma. Detta kan komprimera eller obstruera äkta aortalumen eller kärlavgångar från aorta, vilka kan försörjas från falska lumen. Obstruktionen leder till nedsatt blodförsörjning perifert om dissektionen med påföljande chock."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Per 68 år, inkommer till medicinakuten via ambulans pga intermittenta bröstsmärtor som nu på morgonen förvärrats påtagligt. På akutrummet är han blek och kallsvettig, orolig och smärtpåverkad. Andningsfrekvens kring 22–24/minut. Pågående bröstsmärta som började hastigt för 45 minuter sedan, VAS 9, centralt i bröstet med utstrålning mot halsen. Inga infektionstecken. Tungandad. I ambulans blodtryck 105/85 mmHg, puls 110 slag/min, saturation 95% med syrgas på mask. Status: Hjärta med måttligt systoliskt blåsljud. Regelbunden rytm med frekvens 118. Blodtryck 90/61 mmHg. Lungor basala rassel bilateralt. Blodgas: låg saturation pga inkompensation, förhöjt laktat pga försämrad perifer cirkulation.\n\nPå EKG ser du oregelbunden sinusrytm. ST-höjning anteriort samt lateralt med reciproka ST-sänkningar inferiort.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Det har nu gått 8 minuter på akutrummet och du får följande EKG i din hand. Beskriv eventuella EKG-förändringar? (1,0 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Oregelbunden sinusrytm, dvs sinusarytmi. ST-höjning anteriort samt lateralt med reciproka ST-sänkningar inferiort."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "Per 68 år, inkommer till medicinakuten via ambulans pga intermittenta bröstsmärtor som nu förvärrats. Pågående bröstsmärta VAS 9 centralt i bröstet. Status: Hjärta med måttligt systoliskt blåsljud. Blodtryck 90/61 mmHg. Lungor basala rassel bilateralt. På EKG ser du oregelbunden sinusrytm, ST-höjning anteriort samt lateralt med reciproka ST-sänkningar inferiort.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilket koronarkärl är sannolikt orsaken till patientens hjärtinfarkt? (1,0 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "LAD (Left Anterior Descendens) som orsakar anterior ST-höjningsinfarkt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Per 68 år, inkommer till medicinakuten via ambulans pga pågående bröstsmärta som började hastigt för 45 minuter sedan, VAS 9, centralt i bröstet. Status: Hjärta med måttligt systoliskt blåsljud. Regelbunden rytm med frekvens 118. Blodtryck 90/61 mmHg. Lungor basala rassel bilateralt. Blodgas med låg saturation, förhöjt laktat. På EKG: ST-höjning anteriort samt lateralt med reciproka ST-sänkningar inferiort. Du misstänker anterior ST-höjningsinfarkt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Vilka läkemedel ordinerar du akut och vilken dos? (2,0 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Furix 40 mg iv pga inkompensation (0,5 p). Smärtbehandling med nitroglycerin sublingualt 0,4 mg, eller som infusion. Inj morfin 1 mg/ml, 1–5 ml ges vid smärta som inte svarar på nitroglycerin. (0,5 p). Trombocythämmare tablett bamyl/trombyl 500 eller 300 mg po (0,5 p). Heparininfusion 5000 IE. (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-5-2",
+              "text": "Efter att du ordinerat läkemedelsbehandling på akutrummet, hur handlägger du patienten nu? (1,0 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontakt med kardiolog för PCI för omgående revaskularisering (0,5 p). Därefter inläggning på HIA (0,5 p). Trombolys kan ges om väntetid till PCI blir längre än 2 timmar (kräver motivering avseende tidsfördröjning för poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Per 68 år, inkommer till medicinakuten via ambulans pga pågående bröstsmärta som började hastigt för 45 minuter sedan. På EKG: ST-höjning anteriort samt lateralt med reciproka ST-sänkningar inferiort. Du misstänker anterior ST-höjningsinfarkt och kontaktar direkt kardiolog och PCI-center för omgående revaskularisering. Därefter lägger du in patienten på HIA med telemetri.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Du har erhållit svar på troponin T som är 25 ng/L. Hur snabbt från ischemins debut stiger troponin signifikant och när kan man förvänta sig maximalvärde? (1,0 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stiger signifikant 3–5 timmar respektive når topp efter 10–14 timmar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "Förklara vad troponin (I och T) är, i vilka celler de finns och dess uppgift. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Troponin är ett hjärtspecifikt strukturellt protein som förekommer i kroppens tvärstrimmiga muskulatur (framför allt på myocyterna i hjärtat), där det sitter fast på tropomyosin. Dess uppgift är att reglera musklernas kontraktilitet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-3",
+              "text": "Beskriv det akuta händelseförloppet ur ett patofysiologiskt perspektiv som har orsakat hjärtinfarkten och gett denna EKG-bild. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den viktigaste bakomliggande mekanismen till ett akut koronart syndrom är ett ateromatöst lipidinlagrat inflammerat plack som rupturerar. Trombocyter aktiveras, aggregerar och stimulerar i sin tur koagulationssystemet så att en tromb bildas som hotar att helt eller delvis ockludera kranskärlet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "Per 68 år, inkommer till medicinakuten via ambulans pga pågående bröstsmärta. Du misstänker anterior ST-höjningsinfarkt och kontaktar kardiolog och PCI-center för omgående revaskularisering. Patienten har nu kommit till HIA efter PCI mot LAD (Left Anterior Descendens). Han är välmående. Inga bröstsmärtor. Normal andningsfrekvens med en saturation på 96%. Blodtryck 125/75 mmHg. Inga arytmier.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Vilken undersökning bör göras innan patienten skrivs hem? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Transthorakal ekokardiografi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-7-2",
+              "text": "Vilka fyra allvarliga komplikationer efter hjärtinfarkt måste man alltid ha i åtanke vid en plötslig hemodynamisk försämring? (2,0 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärttamponad, ventrikelseptumdefekt (VSD), papillarmuskelruptur, arytmier såsom ventrikeltakykardi, ventrikelflimmer, AV-block samt kammaraneurysm."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Per 68 år, inkommer till medicinakuten via ambulans pga pågående bröstsmärta. Du misstänker anterior ST-höjningsinfarkt. Patienten har kommit till HIA efter PCI mot vänster kranskärl. Han är välmående. Under vårdtiden genomgår patienten transthorakal ekokardiografi som visar lindrigt nedsatt LVEF på 40–45%, normal högerkammarfunktion samt lindrig-måttlig mitralisinsufficiens. Inga tecken på komplikationer efter hjärtinfarkten.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vilka läkemedel ska patienten ordineras som stående ordination framöver? Dela in dem i prognosförbättrande och icke prognosförbättrande. (3,0 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Prognosförbättrande: trombyl, brilique (alternativt klopidogrel), atorvastatin, ACE-hämmare eller ARB samt betablockad. Icke prognosförbättrande: spray glytrin 0,4 mg vb."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Psykiatri",
+      "points": 20,
+      "intro": "Du arbetar som AT-läkare på en geriatrisk sjukhusavdelning där Kerstin 75 år vårdas för höftfraktur. Frakturen orsakades av fall i hemmet vid toalettbesök nattetid. Hon har sedan tidigare hypertoni, värkbesvär, övervikt (BMI 31) samt diabetes typ 2.\n\nKerstin är på bättringsvägen och belastar höften med gott resultat men mår ändå inte bra. Sjuksköterskan uttrycker oro då Kerstin sagt att hon önskar att hon slapp leva. Du går för att prata med henne för att få fram mer information.\n\nKerstin berättar att hon alltid har varit orolig av sig och känt sig nedstämd periodvis tidigare i livet. Hon mådde dock bra senast i februari 2020, men sedan covid-19 kom har hon varit mycket isolerad. Hennes dotter har hjälpt till mycket med inköp och stöd. Det sista halvåret har Kerstin blivit alltmer passiv, trött och nedstämd, fått svårt att koncentrera sig på läsning och tv-program och tycker också att minnet har blivit sämre. Hon grubblar mycket, har svårt att hantera oro, och har fått svårare att somna. Hon känner sig alltid spänd i kroppen. Hon tycker att livet är hopplöst och önskar att hon slapp leva, samtidigt som hon är rädd för att dö. Kerstin dricker knappt någon alkohol och hon tar inga droger. Du kan inte hitta någon somatisk förklaring till Kerstins försämrade psykiska mående.\n\nDu ringer och diskuterar med psykiatrikonsult som undrar vad du efter samtalet har för diagnostiska hypoteser gällande Kerstins psykiatriska symtom.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka två diagnoser bedömer du som mest sannolika? Motivera dina förslag och för ett kortare resonemang kring hur dina två förslag eventuellt kan samverka med varandra. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Generaliserat ångestsyndrom (GAD): påtaglig oro för flera saker sista sex månaderna och svårt att kontrollera oron. Utöver detta finns uttröttbarhet, koncentrationssvårigheter, muskelspänning, sömnstörning. Räcker för att uppfylla diagnos. Egentlig depression (eventuellt recidiverande utifrån anamnes) sista halvåret: tilltagande nedstämdhet, intresseförlust, koncentrationssvårigheter, livsleda, sömnsvårigheter, trötthet/energibrist. Räcker för att uppfylla diagnos (minst 5 kriterier). 0,5 poäng för GAD och 0,5 poäng för depressiv episod. 1 poäng för motivering av diagnoser samt resonemang att hon sannolikt har en underliggande GAD och depressiv episod pålagrad på detta. Om ej resonemanget kring hur GAD och depression samverkar kan ej maxpoäng uppnås."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Kerstin 75 år med hypertoni, värkproblem, övervikt samt diabetes typ 2, eftervårdas för höftfraktur på geriatrisk avdelning. Sjuksköterska uppmärksammar att Kerstin har livsleda och verkar ledsen. Vid fördjupad anamnestagning bedömer du att hon uppfyller kriterier för depression (recidiverande) och GAD. Hon har vid tidigare episoder provat citalopram samt sertralin med bristande effekt samt venlafaxin med intolerabla biverkningar.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Ange två frågor som du tycker är särskilt viktiga att ställa till dottern. Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Symtom på kognitiv svikt eftersom patienten har nämnt minnesproblem – viktigt ur differentialdiagnostiskt perspektiv. Hur har patienten kunnat sköta om sig själv och hemmet? Behov av social planering. Fråga om minnet behöver vara med för full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Kerstin 75 år med hypertoni, värkproblem, övervikt samt diabetes typ 2, eftervårdas för höftfraktur på geriatrisk avdelning. Vid fördjupad anamnestagning bedömer du att hon uppfyller kriterier för depression (recidiverande) och GAD. Hon har tidigare provat citalopram samt sertralin med bristande effekt samt venlafaxin med intolerabla biverkningar. Via anhöriganamnes framkommer ingen uppenbar minnessvikt; om det föreligger minnesproblem verkar de ha kommit i anslutning till depressionen. Dottern uttrycker viss oro för hur det fungerar i hemmet när modern mår sämre.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Ge förslag på ett långsiktigt farmakologiskt behandlingsalternativ som du bedömer lämpligt. Motivera ditt svar samt för en diskussion om effekt och biverkningsprofil. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Duloxetin: God antidepressiv effekt, även god effekt på GAD. Hyfsat vetenskapligt stöd hos äldre med återkommande depressioner. Kan ge in- och utsättningssymtom, initialt ökad ångest hos en del. Vanliga biverkningar hos äldre: muntorrhet, yrsel, diarré/förstoppning. Kan ge blodtrycksökning och hyponatremi. Mirtazapin: Lätt att sätta in, ingen ångeststegring initialt, god effekt på sömn. Kan ge metabola biverkningar och viktuppgång (kan vara olämpligt vid övervikt/diabetes). Kan ge sedering dagtid och hyponatremi. Sämre vetenskapligt stöd för GAD. SSRI kan motiveras och ge delpoäng om argumentationen är väl underbyggd. Motivering och resonemang är det viktigaste i denna fråga!"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Kerstin 75 år med hypertoni, värkproblem, övervikt samt diabetes typ 2, eftervårdas för höftfraktur på geriatrisk avdelning. Du väljer att sätta in duloxetin. Blodtrycket är i överkant på 150/90 mmHg (upprepade mätningar) och natrium ligger kroniskt i underkant på 135 nmol/L (ref 137–145 nmol/L). Njurfunktion, blodstatus, leverstatus, thyroideaastatus samt calcium är inom normalvärden.\n\nAktuella mediciner: enalapril 10 mg 1x1 samt Salures® (bendroflumetiazid) 5 mg 1x1, metformin 500 mg 1x3, lång- och kortverkande insulin, paracetamol 500 mg 2x4. Hemma brukar Kerstin också ta ibuprofen 400 mg 1–2 tabl dagl.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Redogör för två överväganden som du behöver göra beträffande Kerstins läkemedel i relation till nyinsatt duloxetin. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Överväg ändring av blodtrycksmedicinering då natrium ligger i underkant och kombinationen antidepressivum och diuretika (Salures), framför allt hos äldre, ofta är mindre lämpligt då det kan leda till hyponatremi (0,5 p). Sätt ut ibuprofen och informera Kerstin om att NSAID är en mindre lämplig behandling för smärta vid samtidig behandling med duloxetin pga ökad risk för blödning i övre delen av gastrointestinalkanalen (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Ange två vetenskapligt underbyggda icke-farmakologiska behandlingsinsatser mot depression som du bedömer att Kerstin kan vara behjälpt av efter utskrivning. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Psykoterapi (0,5 p) – behöver ej specificeras närmare typ av terapi. Fysisk aktivitet (helst ledarlett) (0,5 p). ECT ger ej poäng, annan behandling måste provas först."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Kerstin 75 år med hypertoni, diabetes typ 2 och övervikt, eftervårdas för höftfraktur på geriatrisk avdelning. Vid fördjupad anamnestagning bedömer du att hon uppfyller kriterier för depression (recidiverande) och GAD. Du väljer att sätta in duloxetin. Via anhöriganamnes framkommer ingen uppenbar minnessvikt; minnesproblemen verkar ha kommit i anslutning till depressionen. SIP genomförs och hemtjänst x 3 planeras. Du justerar Kerstins somatiska mediciner.\n\nKerstin är fortsatt mest bekymrad över sitt minne och undrar om det inte ska utredas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Vad svarar du henne beträffande kompletterande minnesutredning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Att minnesproblem är vanligt vid depression och att depressionen först ska behandlas tills den är i remission. Det vanliga är att minnesproblemen då går tillbaka. Om de inte gör det ska man utreda vidare. Viktigt att förklara för patienten så att hon förstår och kan bli lugnad i sin oro."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Kerstin är fortsatt bekymrad och ställer frågor om Alzheimers sjukdom. Det framkommer att hennes bästa väninna har drabbats av detta.\n\nKerstin undrar om det vid Alzheimers sjukdom blir brist på någon signalsubstans och om det går att behandla detta.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Vilken är den viktigaste signalsubstansen som det blir för låga nivåer av vid Alzheimers sjukdom och hur kan man behandla detta? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Acetylkolin (0,5 p). Det kan även vara sänkta nivåer av serotonin, noradrenalin och dopamin men acetylkolin måste nämnas som viktigaste. Ge kolinesterashämmare (vanligast donepezil) (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-6-2",
+              "text": "Nämn två faktorer som påverkar val av behandlingstid vid farmakologisk behandling av egentlig depression? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandlingssvar. Antal tidigare depressionsepisoder och när de har förekommit i relation till nuvarande episod. Samsjuklighet (vid samsjuklighet kan behandlingstiden behöva förlängas). Svårighetsgrad. Compliance. Två av ovanstående ger 1 poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-7",
+          "context": "Två månader senare i din AT är du nattjour på psykiatriska akutmottagningen. Som första patient tar du in Salim 21 år som söker för ångest.\n\nSalim kom som ensamkommande flyktingbarn till Sverige från Syrien för fem år sedan. Han har nu permanent uppehållstillstånd och läser in sista året på gymnasiet men har mycket frånvaro, framför allt sista halvåret. Salim är ganska fåordig i samtalet men efter en lång stund har du fått fram att han upplever att det finns onda krafter i samhället som vill övervaka människor inklusive honom själv. Han har ibland känt att han har en viktig roll i att utforska hur allt detta hänger ihop och kan ibland uppleva att det kommer budskap till honom från nyhetssändningar. Han negerar hallucinatoriska upplevelser. Stämningsläget är väsentligen neutralt. Affekterna är sparsamma. Salim bejakar dödsönskan men negerar aktuella suicidtankar eller planer. Han är kroppsligt frisk vad han känner till.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-7-1",
+              "text": "Nämn två viktiga kompletterande frågor du vill ställa till patienten som kan vara av värde för dina differentialdiagnostiska överväganden. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alkohol- och droganamnes, tidigare psykiatriska symtom, trauma som ger påtagliga symtom idag, tidigare suicidförsök, fördjupade frågor om psykotiska symtom, hereditet. 0,5 poäng per relevant symtom men ej mer än 0,5 poäng om droganamnes inte är med."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-8",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år som söker för ångest. Han har en svår bakgrund som ensamkommande flyktingbarn men går nu gymnasiet, dock med mycket frånvaro sista halvåret. Det framkommer tecken på vanföreställningar kring övervakning samt hänsyftningsidéer.\n\nDu kompletterar anamnesen med användning av droger och alkohol. På rak fråga bejakar Salim frekvent cannabisrökande under flera års tid, dagligen till varannan dag. Han har också senaste halvåret tagit bensodiazepiner i form av Xanor® (alprazolam) som han köpt på svarta marknaden. Konsumtionen uppgår till cirka tio tabletter à 1 mg dagligen. Alkohol dricker han sparsamt. Inga tidigare psykiska besvär innan kriget. Inga tidigare suicidförsök.\n\nVid fördjupade frågor om psykotiska symtom framkommer viss sjukdomsinsikt, en påtaglig sjukdomskänsla samt ångest relaterat till psykotiska upplevelser och till att han inte har råd att köpa mer droger.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-8-1",
+              "text": "Vad gör du nu för kompletterande undersökningar på psykiatriska akutmottagningen? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Drogtest i urin. Somatiskt status för att ta ställning till eventuell abstinens. Drogscreening behöver vara med för full poäng, eftersom han kan ha tagit fler preparat än han medger och för att vissa preparat snabbt går ur kroppen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-9",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år som söker för ångest. Det framkommer tecken på vanföreställningar kring övervakning samt hänsyftningsidéer. Det framkommer långvarig och frekvent användning av cannabis samt senaste halvåret tilltagande konsumtion av bensodiazepinen Xanor® (alprazolam) köpt på svarta marknaden, aktuell dygnsdos ca 10 mg alprazolam.\n\nFrån urinprov tas drogsticka som är positiv för cannabis och bensodiazepiner. Salim uppger att han rökte cannabis senast igår och tog alprazolam senast i förrgår.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-9-1",
+              "text": "Värdera risken för abstinens och medicinska komplikationer för de droger Salim har tagit. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hög risk för bensodiazepinabstinens (motsvarar en dygnsdos diazepam på ca 100 mg). Kan ge abstinenskramper och delirium. Förvisso endast två dagar sedan intag men redan abstinenssymtom – man kan förvänta sig svårare abstinens med risk för komplikationer. Vid resonemang om att det är kort tid sedan intag och att risken är låg ska detta kompletteras med risken på några dagars sikt för att ge poäng. Cannabis kan orsaka abstinensbesvär lång tid efter att användning upphört men akuta medicinska komplikationer är inte något problem."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-10",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år som söker för ångest. Det framkommer vanföreställningar och hänsyftningsidéer. Långvarig och frekvent användning av cannabis samt senaste halvåret tilltagande konsumtion av alprazolam, aktuell dygnsdos ca 10 mg. Drogtest är positivt på bensodiazepiner och cannabis. Alprazolam intogs senast i förrgår. Du letar efter symtom på bensodiazepinabstinens.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-10-1",
+              "text": "Vilka parametrar i somatiskt status är du intresserad av för att värdera eventuell bensodiazepinabstinens? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Puls (obligatoriskt för full poäng). Övriga symtom: svettningar, tremor och illamående/kräkningar. Blodtryck brukar mätas men ger tydligare utslag vid alkoholabstinens än ren bensodiazepinabstinens, poäng ges för blodtryck."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-11",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år som söker för ångest. Det framkommer vanföreställningar och hänsyftningsidéer. Langvarig och frekvent cannabisanvändning samt senaste halvåret tilltagande konsumtion av alprazolam, aktuell dygnsdos ca 10 mg. Drogtest positivt. Du letar efter symtom på bensodiazepinabstinens och finner puls 105 slag/minut och blodtryck 142/84 mmHg. Salim är orolig, lätt kallsvettig och har lindrig handtremor. Du misstänker uppseglande bensodiazepinabstinens.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-11-1",
+              "text": "Vad anser du är den lämpligaste handläggningen av Salim i nuläget? Motivera ditt svar. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inneliggande vård är nödvändig pga medicinska risker samt för observation av psykotiska symtom och svårigheter med compliance polikliniskt. Motivera honom till inläggning på sjukhus med nedtrappningsschema med bensodiazepiner. Utan nedtrappning av bensodiazepiner kan ej full poäng erhållas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-12",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år som söker för ångest. Det framkommer vanföreställningar och hänsyftningsidéer. Långvarig och frekvent cannabisanvändning samt senaste halvåret tilltagande konsumtion av alprazolam med aktuell dygnsdos ca 10 mg. Drogtest positivt. Du misstänker uppseglande bensodiazepinabstinens. Efter viss övertalning går Salim med på att läggas in på sjukhus. Senare på natten blir du uppringd av sjuksköterskan på beroendeavdelningen. Salim vill inte kvarstanna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-12-1",
+              "text": "Vilka juridiska överväganden behöver du göra om du inte kan övertala patienten att kvarstanna på sjukhus? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ställningstagande till konvertering enligt § 11 LPT (Lagen om psykiatrisk tvångsvård) (0,5 poäng) – osannolikt att kriterier uppfylls men bedömning behöver ändå göras. Om du inte kan konvertera enligt § 11 LPT och du måste låta patienten gå behöver du göra akut anmälan enligt LVM (Lagen om vård av missbrukare) (0,5 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-13",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år som söker för ångest. Tilltagande psykotiska symtom med vanföreställningar och hänsyftningsidéer. Långvarig cannabis- och alprazolomanvändning. Salim läggs in för behandling av abstinens med nedtrappningsschema. De psykotiska symtomen tilltar trots att nedtrappningen går bra. Somatisk utredning är ua. Salim är väldigt plågad av sina psykotiska symtom och därför sätts antipsykotisk behandling med aripiprazol (Abilify® 10 mg dagligen) in.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-13-1",
+              "text": "Beskriv verkningsmekanismen för aripiprazol. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Aripiprazol är en partiell agonist på dopamin D2- och serotonin 5HT1A-receptorer, samt en 5HT2A-antagonist. Denna partiella agonist verkar som antagonist vid överskott av dopamin i bansystem som medför psykos, samtidigt som den blir en agonist i områden med låg dopamintonus. Den särskilda verkningsmekanismen med partiell dopaminagonism och antagonism krävs för full poäng men exakta receptorer behöver ej nämnas. Dopaminantagonism ger delpoäng men inte full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-14",
+          "context": "Du är nattjour på psykiatriska akutmottagningen och träffar Salim 21 år. Han har läkts in för bensodiazepinabstinens och psykotiska symtom. Antipsykotisk behandling med aripiprazol sätts in. Vid nästa läkarsamtal noterar du att Salim inte kan sitta stilla. Han går av och an i rummet och beskriver en inre oro och rastlöshet som gör att han måste vara i rörelse.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-14-1",
+              "text": "Vad är den medicinska benämningen på det patienten har drabbats av och vilken åtgärd föreslår du för att komma tillrätta med besväret? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akatisi – oförmåga att vara stilla. En typ av extrapyramidal biverkan. Vanlig biverkan av antipsykotisk medicinering, i detta fall aripiprazol. Rekommenderas dossänkning eller preparatbyte. Symtomatisk behandling: betablockerare kan provas. Antikolinerga läkemedel har vanligtvis ganska dålig effekt men ger poäng då frågan är relativt svår. Bensodiazepiner inte lämpligt för denna patient då de precis har trappats ut pga beroende."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

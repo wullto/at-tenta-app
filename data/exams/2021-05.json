@@ -1,0 +1,918 @@
+{
+  "id": "2021-05",
+  "title": "AT-prov maj 2021",
+  "date": "2021-05-01",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Detta är hans första besök på den mottagning du arbetar på. Hans senaste HbA1c är 54 mmol/mol. Han har behandling med insulinpump och använder glukossensor (CGM, kontinuerlig glukosmonitorering).",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilka fyra frågor är relevanta att ställa till Aron i samband med detta övertag från annan medicinmottagning? Motivera ditt svar. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypoglykemier, förekomst, frekvens, allvarlighetsgrad, utlösande faktorer, hur gör Aron vid hypo? Fysisk aktivitet, typ, intensitet, förberedelser inför och efter, problem? Rökning, ja/nej, ev info? Alkohol, ja/nej, ev info? Hur han använder pump/pumpfunktioner? Problem? Nedladdning regelbundet? Hur han använder sensorn? Problem? Vad har han för övriga problem som han vill ha hjälp med? Hur är det med recept på insulin/pumptillbehör? Aktuella insulindoser? Kost (vegan, LCHF mm)?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Arons HbA1c är 54 mmol/mol. Hur bedömer du detta värde? Vilka faktorer skall vägas in vid individuellt målvärde för HbA1c? Motivera ditt svar. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Då det finns en stark koppling mellan HbA1c och risk för diabeteskomplikationer bör man sträva efter ett HbA1c som är så lågt som möjligt utan att skapa problem med hypoglykemier. För Aron bör HbA1c ligga mellan 45-50 mmol/mol. Ett individuellt målvärde bör sättas på alla patienter där man väger in individens ålder, samsjuklighet och förväntat livslängd."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Aron väger 83 kg och har ett BMI på 24,1, hans blodtryck är 128/76 mmHg. Han äter normalkost och röker inte. Uppger måttlig alkoholkonsumtion. Han tränar inte regelbundet men funderar på att bli mer fysiskt aktiv. Han har behandling med insulinpump och använder glukossensorer, CGM. Du bedömer att Arons HbA1c är något högt och ni kommer gemensamt fram till att hans individuella målvärde bör vara 45-50 mmol/mol.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-2-1",
+              "text": "Diabeteskomplikationer kan drabba flera organ, inte sällan ses ögonkomplikationer. Aron hade en mild retinopati. Vilken är den allvarligaste formen av retinopati och vad karakteriserar denna? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Proliferativ retinopati, kännetecknas av neovaskularisation, glaskropps- eller preretinal blödning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-2-2",
+              "text": "Ange två faktorer som bidrar till utveckling av diabetesögonkomplikationer. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienter med lång diabetesduration (80 % av typ 1-diabetikerna med diabetes efter 15 år har utvecklat en mild retinopati). Typ 1 diabetes – retinopati är vanligare vid typ 1-diabetes pga längre tids exposition för höga blodsockervärden. Dålig glukoskontroll (mätt som HbA1c) under lång tid. Patienter med samtidig hypertoni. Patienter med samtidig mikroalbuminuri (diabetesnefropati)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Aron väger 83 kg och har ett BMI på 24,1, hans blodtryck är 128/76 mmHg. Han äter normalkost och röker inte. Uppger måttlig alkoholkonsumtion. Han tränar inte regelbundet men funderar på att bli mer fysiskt aktiv. Han har behandling med insulinpump och använder glukossensorer, CGM. Du bedömer att Arons HbA1c är något högt och ni kommer gemensamt fram till att hans individuella målvärde bör vara 45-50 mmol/mol. Aron har laddat ner sin glukoskurva från sensorn, se bild.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-3-1",
+              "text": "Tolka bilden, ange 2 problem vad gäller glukoskontrollen och vad ger du Aron för råd med anledning av fynden? (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nattliga glukosnivåer kl 2300-0100 och 0400-0600 med rekyl däremellan, detta motiverar en reduktion av den nattliga basaldosen. Höga postprandiella glukosvärden efter frukost och efter middag. Glömda eller sena doser? Aron bör ges akt på att komma ihåg att ge måltidsinsulindos inför frukost och middag och att tänka på att kolhydraträkna och att kolhydratskvoten i pumpen ställs in."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-4",
+          "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Aron väger 83 kg och har ett BMI på 24,1, hans blodtryck är 128/76 mmHg. Han äter normalkost och röker inte. Uppger måttlig alkoholkonsumtion. Han tränar inte regelbundet men funderar på att bli mer fysiskt aktiv. Han har behandling med insulinpump och använder glukossensor, CGM. Du bedömer att Arons HbA1c är något högt och ni kommer gemensamt fram till att hans individuella målvärde bör vara 45-50 mmol/mol. Aron har sedan barndomen spelat fotboll men haft uppehåll senaste fyra åren. Han funderar nu på att börja träning och delta i studenthälsans cirkelträning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-4-1",
+              "text": "För att minska risken för hypoglykemier i samband med fysisk aktivitet, vilka 2 råd ger du Aron? (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Undvika fysisk aktivitet om problem med hypoglykemier senaste 12 timmar före planerad fysisk aktivitet. Sikta på glukosvärden 6-10 mmol/l inför fysisk aktivitet. Vid pumpbehandling sänka basaldosen (30-50%) 2 timmar innan och under den fysiska aktiviteten. Tillse att snabba kolhydrater finns tillgängligt under fysisk aktivitet. Tänka på att glukossänkande effekten av fysisk aktivitet varierar beroende på intensitet och längd. Att regelbunden fysisk aktivitet leder till ökad insulinkänslighet (generell dosminskning kan behövas). Viktigt med måltid så snabbt som möjligt efter fysisk aktivitet, obs ökad insulinkänslighet. Att ställa larm på sensorsystemet, CGM, för snabbt fallande glukosvärden."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-5",
+          "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Aron väger 83 kg och har ett BMI på 24,1, hans blodtryck är 128/76 mmHg. Han äter normalkost och röker inte. Uppger måttlig alkoholkonsumtion. Han tränar inte regelbundet men håller på att bli mer fysiskt aktiv. Han har behandling med insulinpump och använder CGM. Du bedömer att Arons HbA1c är något högt och ni kommer gemensamt fram till att hans individuella målvärde bör vara 45-50 mmol/mol. Han har börjat att träna i cirkelgympa och du rekommenderar en temporärt reducerad basdos med 50% med start 2 timmar inför träning och så även under hela träningspasset samt att tillse att han stabilt ligger i glukosvärden mellan 6-10 mmol/l inför träningen och sätter larm för fallande glukosvärden i CGM systemet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-5-1",
+              "text": "Aron berättar att pumpen slutade fungera i samband med ett träningspass. Vilka är riskerna med felande pumpfunktion vid behandling av typ 1 diabetes? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Då man vid pumpbehandling endast får upprepade små doser av snabbinsulin så finns ingen depå av långverkande insulin. Ett pumpstopp leder således snabbt till en insulinbrist med stigande glukosvärden och efter 2-3 timmar börjar det bildas ketonkroppar vilket kan utvecklas till en diabetisk ketoacidos (DKA)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-5-2",
+              "text": "Aron har vid ett tillfälle haft en allvarlig hypoglykemi och har några frågor kring detta. Hur definieras en allvarlig hypoglykemi? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Definition av Allvarlig hypoglykemi: ett lågt glukosvärde som innebär att individen behöver hjälp av annan person för att häva hypoglykemin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-6",
+          "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Aron väger 83 kg och har ett BMI på 24,1, hans blodtryck är 128/76 mmHg. Han äter normalkost och röker inte. Uppger måttlig alkoholkonsumtion. Han tränar inte regelbundet men håller på att bli mer fysiskt aktiv. Han har behandling med insulinpump och använder glukossensor, CGM. Du bedömer att Arons HbA1c är något högt och ni kommer gemensamt fram till att hans individuella målvärde bör vara 45-50 mmol/mol. Hypoglykemi är en akut komplikation vid diabetes och klassificeras i tre olika nivåer; Nivå 1 glukosvärde under 3,9 mmol/l eller lägre och milda symtom. Nivå 2, glukosvärde 3,0-3,9 mmol/l och påverkan, Nivå 3 anger att individen har en allvarlig påverkan som kräver annan persons hjälp för att häva hypoglykemin.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-6-1",
+              "text": "Hur behandlas en allvarlig hypoglykemi och vilken roll spelar patientens medvetandegrad? Hur följes denna behandling upp? (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tillför ca 15 g flytande snabba kolhydrater (t ex 2 dl juice) om pat vaken. Tillför glukos parenteralt om patienten är medvetandesänkt. Ge 30 ml 30% glukoslösning i.v., upprepas vb. 15-regeln: Tag tabletter dextrosol (glukos) vid lågt glukosvärde: Vuxna 4 tabl (16 g kolhydrater), för barn ½ tabl per 10 kg kroppsvikt. Stänga av insulinpumpen under 30-45 min eller reducera basaldosen maximalt under 30-45 min för att förhindra lågt glukosvärde. Injektion av glukagon (Hypokit) 1mg i.m. kan övervägas. Nasal administration av frystorkat glukagon (Baqsimi) kan övervägas. Uppföljning: Tag nytt glukosvärde efter 15 min. Upprepa vid behov tillförsel av glukos, oralt om vaken patient, parenteralt om medvetandesänkt. Fundera på vad som kan ha varit utlösande faktor. Överväg eventuella dosjusteringar av insulin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "1-7",
+          "context": "Aron, 23 år, har typ 1 diabetes sedan 4 års ålder. Kända komplikationer med mild retinopati. Han har precis börjat studera på universitetet och överflyttas nu från en annan medicinmottagning. Hans senaste HbA1c är 54 mmol/mol. Han har behandling med insulinpump och använder glukossensor, CGM. Riskerna med pumpmalfunktion är att då inget depåinsulin finns vid insulinpumpbehandling så uppträder insulinbrist snabbt och det finns risk för utveckling av diabetisk ketoacidos. Aron är med på en insparksfest och förtär stora mängder alkohol. Han kommer in till akutmottagningen, med sänkt medvetandegrad, RLS 2-3, P-Etanol är 27 mmol/l och Plasmaglukos är 2,1 mmol/L. Eftersom han har diabetes så läggs han in för övervakning. Beslut fattas att temporärt stänga av insulinpumpen och övergå till multipla insulininjektioner subkutant, sk MDI behandling under den aktuella vårdtiden.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-7-1",
+              "text": "Varför ökar risken för hypoglykemi i samband med alkoholkonsumtion? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nedbrytning av alkohol sker i levern av enzymet alkoholdehydrogenas och kommer att prioriteras framför glukoneogenes i levern. Detta leder till ökad risk för hypoglykemier i samband med alkoholförtäring. Alkoholöverkonsumtion kan även påverka omdömet och följsamhet med ökad risk för hypos som följd. Vidare kan alkoholöverkonsumtion vara kopplat till bristande näringsintag med ökad risk för hypos pga nedsatt glykogeninlagring i levern."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du arbetar på vårdcentral under AT och där träffar du Jesper som är inbokad på en akuttid. Han är en tidigare frisk 15-åring som söker med sin pappa Fredrik. Jesper har insjuknat med halsont och 38,2 i feber samt avsaknad av andra ÖLI-symtom sedan ett par dygn. Ingen annan i familjen är sjuk.\n\nI status hittar du:\n- Allmäntillstånd: Gott, febervarm. Grötigt tal.\n- Ytliga lymfkörtlar: Ömmar i käkvinklar bilateralt.\n- Munhåla och svalg: Hypertrofiska, rodnade samt belagda tonsiller bilateralt.\n- Öron: Bilateralt klar samt normalställd trumhinna.\n- Hjärta: Lätt takykardi, inga hörbara bi- eller blåsljud.\n- Lungor: Rena andningsljud bilateralt samt liksidiga lungfält.\n- Buk: Mjuk, ingen hepatosplenomegali.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilka är de fyra Centorkriterierna som är kopplade till diagnos av streptokocktonsillit? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Feber > 38,5, ömmande lymfkörtlar i käkvinklar, belagda tonsiller, frånvaro av hosta. (Samtliga fyra Centorkriterier skall vara med för full poäng (2p), 3 Centorkriterier 1,5 p, 2 Centorkriterier 1p, 1 Centorkriterium 0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Du arbetar på vårdcentral under AT och du träffar Jesper som är inbokad på en akuttid. Han är en tidigare frisk 15-åring som söker med sin pappa, Fredrik. Jesper har insjuknat med halsont, 38,2 i feber samt avsaknad av andra ÖLI-symtom sedan ett par dygn. Ingen annan i familjen är sjuk. Jesper uppfyller tre av fyra Centorkriterier (ömmande lymfkörtlar i käkvinklar, belagda tonsiller och avsaknad av hosta). Feber > 38,5 grader är det fjärde Centorkriteriet som Jesper inte uppfyller.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Hur många Centorkriterier skall uppfyllas för att motivera ett snabbtest (Strep A)? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "3 av 4 kriterier skall uppfyllas. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Streptokocktonsillt är vanligen en självbegränsande sjukdom på c:a 7 dagar. Antibiotika minskar sjukdomsdurationen c:a 1 dag och rekommenderas om mer än eller lika med 3 Centorkriterier och positiv snabbtest för Grupp-A streptococcer (GAS) eller positiv odling. Jesper har feber på 38,2, ömmande lymfkörtlar i käkvinklar, belagda tonsiller samt avsaknad av hosta. Utifrån att han uppfyller 3 av 4 Centorkriterier beställer du ett snabbtest (Strep-A) vilket är positivt. Du rekommenderar behandling med antibiotika (han har ingen känd allergi).",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vilket antibiotikum är förstahandspreparat vid streptokocktonsillit? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pc-V är förstahandspreparat, Kåvepenin®. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Vilket preparat väljer du vid allergi mot förstahandspreparatet utifrån STRAMAs riktlinjer? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid pc-allergi (anafylaxi) klindamycin (alternativt cefadroxil, ej anafylaxi). (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Inom primärvården får man som läkare ofta bedöma olika hudförändringar. Många patienter passar på att fråga om något som oroar dem fast de egentligen har tid bokat för något helt annat. Här visas bilder på vanligt förekommande hudförändringar som bland annat ses på en distriktsläkarmottagning samt olika diagnosförslag.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Vilken diagnos hör till vilken bild? Para ihop dem och bilda sex par (bokstav för diagnos samt siffra för respektive bild). A - Pityriasis versicolor, B - Pityriasis rosea, C - Virusexantem, D - Erytema multiforme, E - Seborroisk keratos, F - Herpes zoster. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "A-3, B-2, C-6, D-4, E-5, F-1. (1-2 par ger 0p, 3 par ger 0,5p, 4 par ger 1p, 5 par ger 1,5p, 6 par ger 2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "context": "Jespers pappa Fredrik får du träffa på en halvakut tid några månader senare. Du arbetar fortfarande kvar som AT-läkare på vårdcentralen och uppskattar kontinuiteten med patienterna. Fredrik söker med smärta och svullnad i framförallt fingrarnas småleder och en tå samt ömhet i ena akillessenans fäste. Han har svårt att sova p.g.a. stelhet och smärta vilket ger dagtrötthet. Det visar sig att Fredrik har besvär med återkommande smärta i leder och att hans mormor också hade ont i lederna. Jespers pappa Fredrik har också fjällande hudförändringar sedan några år tillbaka som inte kliar. Hudförändringarna började på armbågar, knän samt i nacken vid hårfästet. De har rodnad botten med stearinaktiga, tjocka plaque och har nu spridit sig till bål och rygg. Han har märkt att sol förbättrar hudförändringarna.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-5-1",
+              "text": "Vilken sjukdom är mest sannolik att Fredrik drabbats av? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Psoriasisartrit. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-6",
+          "context": "Du misstänker att Fredrik har fått psoriasisartrit och går vidare med en artritutredning. Du har noterat att > 4 leder är engagerade.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-6-1",
+              "text": "Vilka två relevanta prover beställer du vid en artritutredning? Motivera ditt svar (blodstatus/elektrolytstatus ger ej poäng). (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Laboratorieprover: SR eller CRP för att värdera graden av inflammatorisk aktivitet och RF/anti-CCP för att differentiera mot reumatism. S-urat kan tas för att differentiera mot gikt. S-kreatinin för att se om njurengagemang finns. (1p om två av ovanstående svar finns med där SR eller CRP skall vara ett av proverna för att få rätt)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-6-2",
+              "text": "Vilken bilddiagnostisk undersökning är viktigast och vilka kroppsdelar undersöks vid en artritutredning? Motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Slätröntgen: händer, fötter och annan drabbad led/område (ländrygg och häl i detta fall). (1p) Enbart slätröntgen ger 0,5p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-7",
+          "context": "När du är färdig med Fredrik går du vidare med nästa patient som är Ulla, 73 år. Du har träffat henne några månader tidigare för en årskontroll av blodtrycket, hon medicinerar med Amlodipin 10 mg och Zopiklon 5 mg tn vb. Idag kommer hon tillsammans med sin make och berättar att hon är orolig för sitt minne. Hon har fått allt svårare att komma ihåg vad som nyligen sagts, vad hon nyligen gjort och koder till sitt bankkort.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-7-1",
+              "text": "Nämn tre viktiga differentialdiagnoser. Motivera ditt svar. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Demenssjukdomar eller andra kognitiva sjukdomar, psykiska sjukdomar som depression eller utmattningstillstånd, sömnbesvär och stressrelaterade besvär, hypothyreos, hjärntumör, högt alkoholintag, B12-brist, hypercalcemi, normaltryckshydrocephalus samt biverkan av läkemedel (Zopiklon)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-8",
+          "context": "Nästa patient är Ulla, 73 år. Du har träffat henne några månader tidigare för en årskontroll av blodtrycket, hon medicinerar med Amlodipin 10 mg och Zopiklon 5 mg tn vb. Idag kommer hon tillsammans med sin make och berättar att hon är orolig för sitt minne. Hon har fått allt svårare att komma ihåg vad som nyligen sagts, vad hon nyligen gjort och koder till sitt bankkort. Du noterar att Ulla upprepar några av de saker hon berättar under samtalet och bestämmer dig för att gå vidare med en basal kognitiv utredning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-8-1",
+              "text": "Vad ingår i en basal kognitiv utredning på primärvårdsnivå utöver status och anamnes? Ange fyra olika tester eller undersökningar. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Standardiserade kognitiva tester, exempelvis MMSE-SR eller RUDAS (vid annat modersmål än svenska eller låg utbildningsnivå), klocktest, strukturerade formulär för anhöriganamnes, laboratorieundersökningar för att utesluta andra sjukdomar, avbildning av hjärnan via DT eller MR samt strukturerad bedömning av funktions- och aktivitetsförmågan (en s.k. ADL-bedömning)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-9",
+          "context": "Nästa patient är Ulla, 73 år, som är orolig för sitt minne. Hon har fått allt svårare att komma ihåg vad som nyligen sagts, vad hon nyligen gjort och koder till sitt bankkort. Du noterar att Ulla upprepar några av de saker hon berättar under samtalet och bestämmer dig för att gå vidare med en basal kognitiv utredning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-9-1",
+              "text": "Demenssjukdomar brukar delas upp i tre grupper utifrån patofysiologi, vilka då? Ange även den vanligaste diagnosen i varje grupp. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "1. Primärdegenerativa sjukdomar; Alzheimers demens. 2. Vaskulära sjukdomar; vaskulär demens. 3. Sekundära sjukdomar; alkoholdemens."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-10",
+          "context": "Nästa patient är Ulla, 73 år, som är orolig för sitt minne. Hon har fått allt svårare att komma ihåg vad som nyligen sagts, vad hon nyligen gjort och koder till sitt bankkort. Du misstänker en tidig Alzheimers sjukdom och kallar Ulla på ett besök veckan efter.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-10-1",
+              "text": "Förklara på ett kortfattat sätt patofysiologin bakom Alzheimers sjukdom. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alzheimers sjukdom anses orsakas av flera olika mekanismer där bildning av amyloida plack (1p), tau-patologi i form av uppkomst av neurofibrillära nystan och neuropiltrådar (0,5p) samt neurodegeneration i framförallt de parietala och temporala loberna är de viktigaste (0,5p). Den dominerande förklaringsmodellen är den s.k. amyloidkaskadhypotesen, där ett fysiologiskt normalt protein i hjärnan (Aβ) börjar att aggregera, vilket antas försämra nervcellernas funktion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-2",
+              "text": "Vilken läkemedelsgrupp är förstahandspreparat vid tidig Alzheimers sjukdom? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Acetylkolinesterashämmare, t.ex. Donepezil, Rivastigmin eller Galantamin. (0,5p om enbart läkemedelsnamn nämns)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-10-3",
+              "text": "Vilka två andra mycket viktiga icke-medikamentella åtgärder vill du hjälpa Ulla och hennes make med? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förmedla kontakt med kommunen för information om vad de kan bistå med i form av stöd i hemmet, dagverksamhet med möjlighet till social stimulering eller hjälpmedel (oftast via en arbetsterapeut). Stödsamtal via demenscentrum/anhörigcentrum eller liknande instans inom kommun eller region, både för anhöriga och patient. Anhöriggrupper."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-11",
+          "context": "Nästa patient är Ulla, 73 år, som är orolig för sitt minne. Du misstänker en tidig Alzheimers sjukdom och kallar Ulla på ett återbesök. Vid besöket går du genom de undersökningar som gjorts och förklarar att du misstänker Alzheimers sjukdom. Du föreslår att ni sätter in ett läkemedel som kan lindra de kognitiva symtomen. Du rekommenderar även kontakt med anhörigcentrum/demenscentrum eller liknande instans inom kommunen för stödsamtal, anhöriggrupp samt möjlighet till dagverksamhet längre fram.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-11-1",
+              "text": "När du träffar en patient med en tydlig kognitiv påverkan finns det två områden som du är skyldig att efterfråga i din roll som myndighetsutövare. Vilka två områden? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alla läkare är enligt lag skyldiga att anmäla till Transportstyrelsen (0,5p) om de träffar en patient som är olämplig att ha körkort. Alla läkare är även skyldiga att anmäla om en patient är olämplig att inneha vapen (0,5p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Psykiatri",
+      "points": 20,
+      "intro": "Du går nattjour under din AT-placering inom psykiatrin i Duveholm. Din första patient är 69-åriga Marita, som kommer med sin make, på remiss från vårdcentralen. Hon har tidigare genom åren haft problem med depressioner och ångest. Ångesten har ökat de två senaste månaderna och hon sökte vårdcentralen för några veckor sedan pga hjärtklappning och skakningar men inget avvikande återfanns vid undersökning. Hon har också haft problem med bristande aptit och sväljsvårigheter. Hon sökte akuten för en vecka sedan och blev somatiskt friad.\n\nMaken berättar att Marita är försämrad sedan tre veckor. Hon har svårt att hantera telefonen. Hon har fått svårare att kommunicera och att förstå anhöriga. Hon lagar ej längre mat, har slutat läsa tidningar och att titta på tv. Hon bejakar känsla av nedstämdhet och ångest men förnekar självmordstankar, syn- och hörselhallucinationer.\n\nVid undersökning ses stel ansiktsmimik, fattigt kroppsspråk och svarslatens.\n\nHon har blivit insatt på Atenolol, Stesolid, Atarax samt Imovane via vårdcentralen.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Nämn två viktiga somatiska differentialdiagnoser som du vill utesluta och motivera varför? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypertyreos, ökad ångest och hjärtklappning, svårigheter att svälja. Hypotyreos, nedstämd och svår att koncentrera sig och dåligt minne. Demens, försämrad funktion. Lewy-Body demens, parkinsonism. Hjärtbesvär med ångest. Konfusion med infektion. Blandat ihop sina mediciner ex Stesolid och Imovane. Läkemedelsbiverkan av ex. Atarax. Predelirium. Cancer i matstrupen. Viktigt att utesluta somatiska sjukdomar som kan behandlas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilken psykiatrisk diagnos bedömer du att det är och varför? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Depression, uppfyller diagnoskriterierna. Generaliserat ångestsyndrom, GAD, tidskriterier uppfylls ej, har mindre än 6 månaders duration."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "Du utesluter somatiskt skäl till hennes försämring men du tänker att symtombilden är förenlig med depression. Du sätter in patienten på antidepressiva i form av Sertralin 50 mg x1 med uppföljning på vårdcentralen om några veckor.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Vad rekommenderar du vid nästa kontakt ifall hon inte förbättras de närmaste veckorna? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Efterhöra patientens compliance genom att fråga anhöriga. Höjning till adekvat dosering, och ifall det fortfarande inte blir bättre preparatbyte."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Vad rekommenderar du därefter ifall hon blir kraftigt försämrad? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inläggning på psykiatrisk avdelning och/eller Elektrokonvulsiv behandling, ECT, alternativt preparatbyte."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "Du tänker att symtombilden är förenlig med depression. Du sätter in patienten på antidepressiva i form av Sertralin 50 mg med uppföljning på vårdcentralen om några veckor. Du informerat patienten och maken om att höra av sig igen om hon inte förbättras och att man då kan behöva höja dosen eller byta medicin. Ifall hon blir kraftigt försämrad kan inläggning vara aktuellt. Maken är orolig för hur han ska klara av Marita i hemmet.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Ange två kommunala insatser som kan vara aktuella för Marita utifrån hennes aktuella hemsituation? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hemtjänst, avlastningsboende."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "context": "De söker igen då Marita försämras och får allt svårare att äta och dricka. Hon läggs in på psykiatrisk avdelning. Efter några dygns observation och samtal så framkommer flera depressiva vanföreställningar. Marita upplever att hon har en tumör i halsen som gör att hon inte kan äta trots att man tidigare har undersökt det på både vårdcentral och akutmottagning och inte funnit något anmärkningsvärt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-4-1",
+              "text": "Vilken behandling har akut indikation i Maritas fall och motivera varför? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elektrokonvulsiv behandling, ECT, på indikationen svår depression med psykotiska symtom. Äldre patient där ECT kan vara skonsammare än läkemedel. Svårbehandlad depression med påverkade parametrar som aptit och katatona inslag. Kan vara livräddande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "context": "Överläkaren på avdelningen bedömer att patienten ska erbjudas elektrokonvulsiv behandling, ECT, på indikation svår depression med psykotiska symtom. Då patienten är äldre så kan ECT vara skonsammare än läkemedel. Hon har påverkade vitalparametrar vilket kan göra behandlingen livräddande.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-5-1",
+              "text": "Berätta för patienten och maken hur behandlingen praktiskt går till. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Elektrokonvulsiv behandling (ECT) ges i serier om ca 4-12 gånger med några dagars intervall. Efter en lätt sövning med sömnmedel och muskelavslappnande medel så utlöser behandlaren ett generaliserat epileptiskt krampanfall via 2 punkters kutan elstimulering på huvudet. Den varar ofta 30-60 sekunder och sedan vaknar man snart efter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "Initialt tveksamma så blir patienten och maken mer positiva när ni förklarar hur behandlingen går till. Efter behandlingens gång blir patienten gladare, blir av med vanföreställningarna och hon äter med god aptit. Vid hemgång från avdelningen sköter hon sin egen ADL, ser på tv tillsammans med de andra patienterna och hon stickar en sjal.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Ge förslag på lämplig läkemedelsbehandling efter ECT:n och motivera varför? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lämplig antidepressiva i adekvat dosering för att förhindra återinsjuknande i samma depression."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-7",
+          "context": "På avdelningen sätts patienten in på T. Venlafaxin som trappas upp till 150 mg när ECT:n avslutas.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-7-1",
+              "text": "Marita undrar hur länge hon måste medicinera med Venlafaxin? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hon bör äta Venlafaxin tills hon är helt symtomfri och därefter åtminstone en 6-12 månaders period för att förebygga återfall eller återinsjuknande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-8",
+          "context": "Du berättar att det finns risk att depressionen kan återkomma och hon bör äta Venlafaxin åtminstone 6-12 månader. 12 månader senare kontaktar maken dig när du vikarierar på vårdcentral. Marita har nu blivit försämrad sista månaden efter att hon slutat med Venlafaxin på eget bevåg. Hon känner mer oro, är dämpad och vill inte göra något. Vid snabbt insatt läkarbesök till dig berättar hon att känner sig trött hela tiden, har minskad aptit och ökad ångest på morgonen. Hon klarar inte sedan några veckor tillbaka att laga mat, går stelt och det är kaos och röra i hennes huvud.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-8-1",
+              "text": "Vad vill du föreslå patienten för behandling i nuläget? Motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Återinsättning av antidepressiv medicinering. Då hon tidigare svarat väl på ECT kan det vara lämpligt även om hon inte hunnit bli lika dålig som det tidigare tillfället med remiss till psykiatrin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-9",
+          "context": "Patienten får Venlafaxin med upptrappning men försämras allt mer. Du remitterar henne till specialistpsykiatrin för ställningstagande till förnyad elektrokonvulsiv behandling, ECT. Hon svarar snabbt på detta. Hon följs upp via psykiatrin och erbjuds återfallsförebyggande läkemedel i form av Litium. Du träffar henne på vårdcentralen 6 månader senare pga envis knäsmärta. Vid besöket beskriver hon illamående och du märker att hon darrar markant mer om händerna och det finns tendens till förvirring. Hon berättar att hon behövt medicinera med receptfria NSAID, Non-Steroidal Anti-Inflammatory Drugs, i flera veckor men haltar fortfarande.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-9-1",
+              "text": "Vilken icke-knärelaterad diagnos är viktig att tänka på nu och förklara varför? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Litiumförgiftning, litium har ett smalt terapeutiskt fönster och blir snabbt toxiskt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-9-2",
+              "text": "Nämn en aktuell riskfaktor för den här utvecklingen och förklara verkningsmekanismen? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kombinationen längre tids behandling med NSAID mot knäsmärtan och Litium ger ökad risk för förhöjd litiumkoncentration pga minskad utsöndring av litium i njurarna."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-10",
+          "context": "Du misstänker att hon drabbats av akut litiumförgiftning pga användning av NSAID-preparat mot knäsmärtan vilket i kombination med litium kan orsaka förhöjda litiumnivåer pga minskad njurutsöndring. Du tar ett nytt litiumprov som visar 1,3 (referensintervall: 0,5-0,8 mmol/l) och skickar en akut remiss till specialistpsykiatrin för justering av litiumordinationen.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-10-1",
+              "text": "Nämn en viktig bestående komplikation till långvarigt förhöjda nivåer av litium? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Njurskada, hypotyreos, hypoparatyreos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Du är som underläkare nattjour på akutmottagningen vid ett länssjukhus. En 52-årig kvinna söker akut med feber/frossa och vänstersidiga flanksmärtor sedan ett halvt dygn tillbaka. För drygt en vecka sedan genomgick hon en ESWL behandling (stötsvågsbehandling). Man behandlade då en uretärsten som var 9 mm. Den låg i mellersta delen av vänster uretär.\n\nPatienten ser trött och tagen ut. Hon är febervarm och har även haft frossbrytningar på akuten.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka fyra relevanta anamnestiska områden vill du inkludera i en riktad anamnes för att handlägga denna akuta situation, förutom det som rör det akuta aktuella tillståndet? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tidigare sjukdomar. Nuvarande sjukdomar. Aktuell medicinering. Överkänslighet/allergier."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilken är din första bedömning vad patienten kan ha drabbats av när du fått ovanstående initiala information och ser henne? Beskriv hur du tänker. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Komplikation till den genomförda ESWL behandling av en större uretärsten. Fragment som nu fastnat i uretären, avflödeshinder (0,5p) tillsammans med en bakteriell infektion (0,5p), dvs en så kallad 'avstängningspyelit' som kan utvecklas till en livshotande sepsis. Patienten har hög feber, frossa, en sepsis kan ha utvecklats."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Vilka sex fysiologiska mätvärden och parametrar i status är initialt väsentligast för att kunna bedöma patientens akuta tillstånd? (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vitalparametrar, NEWS (National Early Warning Score) alternativt RETTS: Medvetandegrad, Andningsfrekvens, Saturation, Blodtryck, Puls/Hjärtfrekvens, Temperatur."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "I ditt initiala anamnestagande får du reda på att patienten har en hypertoni och hyperlipidemi för vilka hon medicinerar med Enalapril 10 mgx1 och Simvastatin 20 mg x 1. Du ser även i läkemedelsportalen att patienten står på Prednisolon 10 mg om dagen för en polymyalgi. I övrigt har patienten varit frisk förutom en del tidigare njurstensbesvär. Hon har ingen allergi eller överkänslighet mot läkemedel eller annat. I status noteras temp 39,5°C, Blodtryck (BT) 85/55 mm Hg, puls 116, Andningsfrekvens 27/min (AF) och Saturation (Sat) 86% (på luft). Patienten är lätt omtöcknad, tittar upp när du ställer frågor och kan besvara dessa men ligger annars med slutna ögon. Hudkostymen är dock ordinär utan marmorering.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Hur bedömer du svårighetsgraden på det aktuella sjukdomstillståndet, beskriv, motivera utifrån de fynd/parametrar du har tillgängliga? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du bedömer att patienten har en sepsis, ett potentiellt livshotande tillstånd. Patienten har medvetandepåverkan, förhöjd andningsfrekvens >22/min, nedsatt syremättnad, hypotoni systoliskt blodtryck <100 mm Hg, takykardi, hög feber/temp. Snabb handläggning är livsavgörande, då det på kort tid kan utvecklas till farligt tillstånd – septisk chock."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Du bedömer att patienten har sepsis, ett potentiellt livshotande tillstånd. Hennes medvetandepåverkan är ett allvarligt tecken som tyder på organsvikt. Hypotoni, takykardi, förhöjd andningsfrekvens, nedsatt syremättnad, hög feber. Snabb handläggning är avgörande, då det på kort tid kan utvecklas till septisk chock med organsvikt.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilka tre basala initiala behandlingsåtgärder på akuten måste du ha vidtagit, och med vad, innan du hunnit få kontakt med din bakjour? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ge syrgas 2-3 l/min på grimma, alternativt 5-15 l/min på mask. (0,5p) Ge vätska. 2 grova iv nålar. Ge Ringer-acetat bolus 500-1000 ml inom 30 min eventuellt upprepat. (0,5p) Starta parenteral antibiotikabehandling ex cefotaxim med stötdos aminoglykosid, alternativt piperacillin/tazobaktam med stötdos aminoglykosid, alternativt meropenem med stötdos aminoglykosid. Detta skall vara givet inom en timme från ankomst till akutmottagningen. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-2",
+              "text": "Vilka relevanta initiala (inom <60 min) diagnostiska åtgärder på akuten bör du ha vidtagit? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Säkra odlingar, blod, urin. Venös eller arteriell blodgas inkluderande laktat. Blodstatus (Hb, LPK, diff, TPK), kreatinin/elektrolyt-status, CRP, även lever- och koagulationsstatus."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-3",
+              "text": "Vilka relevanta basala fysiologiska parametrar monitorer du när patienten fortfarande befinner sig på akuten? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Basal monitorering på akuten: andningsfrekvens, saturation (pulsoximetri), medvetandegrad, blodtryck, puls inkluderande hjärtövervakning (EKG). Ev diures efter att KAD satts för att tömma urinblåsan och mäta urinproduktion (timdiures)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-4",
+              "text": "Infektion utgående från urinvägar är den näst vanligaste orsak till samhällsförvärvad sepsis. Nämn ytterligare tre av de fyra vanligaste organsystem som utgör infektionsfokus och orsak till samhällsförvärvad sepsis och som man måste ha med i sitt differentialdiagnostiska tänkande? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lunga – luftvägar (1:a vanligaste), Buk (3:e vanligaste), Hud och mjukdelar (4:e vanligaste)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "context": "Patienten har fått syrgas på mask (>5l/min), Ringer-acetat bolus och verkat svara något på detta tryckmässigt men inte helt tillfredställande. Du har kontaktat IVA-jouren för att få fortsatt vårdnivå IVA. Blod och urinodlingar är tagna och patienten har fått en bolusdos av aminoglykosid samt cefotaxim. KAD har satts för att följa urinproduktion. Av labprover som tagits har du fått svar på laktat som är 4,1 mmol/l (ref 1,2-2,1). Du har i övrigt fortsatt basal monitorering inkluderande medvetandegrad, puls-blodtryck, övervaknings-EKG och pulsoximetri.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-4-1",
+              "text": "Vad har laktatnivån för betydelse i din bedömning av patientens tillstånd? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En laktatstegring kan vara indikation på att patienten är på väg in i en septisk chock trots att vasopressor stöd ännu inte behövts. (markör för vävnadshypoxi och hypoperfusion, följa behandlingseffekt, prediktor för överlevnad)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-2",
+              "text": "Varför får man få ökade laktatnivåer vid sepsis, förklara kortfattat patofysiologiska mekanismer till en laktatstegring? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den cellulära hypoxin och hypoperfusionen leder till anaerob metabolism med metabol acidos och laktatansamling som följd. Alternativt: katakolamin stimulering av beta2-receptorer kan leda till en uppreglering av glykolysen som genererar mer pyruvat än som kan tas omhand av mitokondrierna via citronsyracykeln, och därför bildas mer laktat."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-3",
+              "text": "Vilka parametrar ingår i SOFA poängsystemet för bedömning av följande sex ingående organsystem: Respiration, Koagulation, Lever, Cirkulation, CNS och Njure? (3 p) (om fler parametrar än de som ingår anges, ges avdrag)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Respiration – PaO2/FiO2, kPa. Koagulation – Trombocyter, 10^9/l. Lever – Bilirubin, mikromol/l. Cirkulation – Blodtryck/vasopressor (medelartärtryck MAP). CNS – GCS eller RLS. Njure – Kreatinin, mikromol/l och/eller diures, ml/dygn."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-4",
+              "text": "Hur skall den misstänkta orsaken till tillståndet diagnosticeras efter de initiala akuta åtgärderna då patientens tillstånd har börjat att stabiliserats, motivera? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Efter de initiala åtgärder med antibiotika, vätskebehandling, har du genomfört bilddiagnostik i form av en CT/DT urinvägar som kan verifiera din misstanke om avstängningspyelit. (alternativt ultraljudsundersökning)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-4-5",
+              "text": "Hur skall i det akuta skedet med en åtgärd det misstänkta infektionsfokuset åtgärdas efter att patientens tillstånd har börjat att stabiliserats, motivera? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Detta kräver beslut om akut avlastning med perkutan nefropyelostomi, oavsett tiden på dygnet kontakta röntgen. Här är det frågan om att dränera en infektion som lett till ett livshotande tillstånd. Helst nefropyelostomi då man är säkrare på att man får en fungerande avlastning/dränering. Om man väljer stent är dubbel-J inte optimalt då man inte har kontroll på att den dränerar mer än när man lägger upp den."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-5",
+          "context": "Patientens laktatnivå utgör ett varningstecken på potentiell organsvikt och därför skall patienten nu initialt vårdas på IVA-nivå. Efter de initiala åtgärderna med antibiotika, vätskebehandling och att du den närmsta timmen sett att patienten har 'stabiliserats' något, har du gjort en CT urinvägar som kan verifiera din misstanke om avstängningspyelit som grundorsak till patientens allvarliga tillstånd. Du har i samråd med urologbakjouren fått röntgenjouren att under natten anlägga en vänstersidig nefropyelostomikateter.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-5-1",
+              "text": "Hur tänker du och hur hanterar du uppgiften om att patienten står på kortison i dosen 10 mg Prednisolon per dag? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Pga steroidmedicineringen som patient normalt har kommer sannolikt hennes binjurar inte kunna svara adekvat på den stress som infektionen utlöser varför extra steroider bör ges iv, i form av hydrokortison (50-100 mg initial dos, 100–200 mg/dygn intravenöst, fördelat på 3 doser/dygn, max 200 mg/dygn) som även har mineralkortikoid effekt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-6",
+          "context": "Pga patientens steroidmedicinering för polymyalgi orkar sannolikt inte binjurarna att svara på den ökade stressen sepsisen innebär. De närmsta dygnen erhåller patienten därför 100 mg iv/dygn av hydrokortison. Då patienten nu varit på intensivvårdsavdelning ett halvt dygn och allmäntillstånd och hemodynamisk stabiliserat sig och inte längre erfordrar vasopressorstöd får patienten nu flyttas över till en intermediärvårdsavdelning som har kapacitet för fortsatt monitorering och behandling.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-6-1",
+              "text": "Du ordinerar till avdelningen att monitorering skall ske av fysiologiska mätvärden och parametrar enligt NEWS (National early warning score). Vilka mål skall bibehållas under övervakningen de närmsta 24 timmarna för följande tre parametrar: 1) Systoliskt Blodtryck, 2) Saturation (SaO2), 3) Medvetandegrad. (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bibehålla: adekvat blodtryck: systoliskt blodtryck >= 90 mm Hg, alternativt medelartärtryck >65 mm Hg. Adekvat saturation, pulsoximetri, SaO2: 93-97%. Medvetandegrad: vaken och orienterad."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
