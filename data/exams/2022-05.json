@@ -1,0 +1,669 @@
+{
+  "id": "2022-05",
+  "title": "AT-prov maj 2022",
+  "date": "2022-05-20",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Kirurgi",
+      "points": 20,
+      "intro": "Du är kirurgjour på ett länssjukhus en fredagskväll. Du besöker avdelningen för att titta på en patient. Patienten i fråga har fått mer ont i buken efter en genomgången bukoperation, vilket oroar sjuksköterskan på avdelningen. Du finner inget oroande men sitter och ordinerar nya prover, när de ringer från akutmottagningen om en ny patient. Det gäller en man i 60-årsåldern som inkommit med plötsligt påkomna högt sittande buksmärtor. De är lite stressade på akutmottagningen och beskriver att han är blek, kallsvettig och ter sig rejält allmänpåverkad.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Vilka differentialdiagnoser överväger du i detta tidiga skede? Ange minst fyra av dina möjliga diagnoser.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svarsförslag: Med tanke på patientens ålder, anamnes och akuta insjuknande kan man överväga flera möjliga diagnoser såsom hjärtinfarkt, rupturerat aortaaneurysm, basal pneumoni, perforerat ulcus, pankreatit, gall- eller njursten. (0,5 p för varje korrekt diagnosförslag, max 2 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Det tar ungefär fem minuter innan du kan vara nere på akutmottagningen och göra din egen kliniska bedömning. Utifrån dina tankar om möjliga differentialdiagnoser ordinerar du personalen på akutmottagningen att göra lite initiala åtgärder. Motivera vilka, i väntan på din ankomst.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "EKG för att utesluta kardiell genes. Kroppstemperatur, puls och blodtryck för att se om det kan vara tecken på sepsis, blödning eller smärtreaktion (0,5 p för ett rätt svar och 1 p för minst två av dessa). Blodprover tas för att värdera eventuellt inslag av inflammation med CRP, blodstatus (Hb och LPK), amylas, leverstatus (konjugerat bilirubin och ALP) och vätskebalans och njurpåverkan med elektrolytstatus (Na, K och kreatinin) (0,5 p för minst två rätta svar och 1 p för minst fyra rätta svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-3",
+              "text": "Mot bakgrund av vad du hittills fått fram i anamnes och status hos denna allmänpåverkade man, vill du gå vidare med radiologisk diagnostik i väntan på provsvaren. Vilka olika metoder kan du tänka dig och vilka för- och nackdelar finns det med de olika metoderna?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du överväger lågdos DT buköversikt, vanlig DT buk med intravenös kontrast och ultraljud buk (0,5p för varje korrekt svar, max 1 p). Möjliga fördelar med ultraljud är att undersökningen ibland kan göras direkt nere på akutmottagningen, inte utsätter patienten för strålning och är bra på att påvisa till exempel gallsten men samtidigt är undersökarberoende, kan vara svår att utföra på patienter med bukfetma eller mycket gas i tarmarna. Lågdos DT använder mindre strålning men har inte samma detaljdiagnostik som en vanlig DT med kontrast har men ger en mer generell överblick än ultraljud som är en mer riktad undersökning i det akuta skedet. En vanlig DT är bra på att avbilda buken i dess helhet, är mindre undersökarberoende men mindre bra på att påvisa gallsten som oftast inte är röntgentäta (0,25 p för varje korrekt för- eller nackdel, max 1 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-4",
+              "text": "Vilken är din arbetsdiagnos nu och hur vill du smärtlindra patienten? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gallstenssmärta (1 p). Patienten har ingen känd allergi varför du väljer smärtlindring med NSAID (0,5 p) då detta förutom smärtlindrande effekten även minskar trycket i gallblåsan via prostaglandinhämningen (0,5 p). Ett alternativ är opiater, men detta kan ge gallspasm och är ett andrahandsalternativ (0,5 p). (0,5 p för varje korrekt svar men max 1 p totalt)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-5",
+              "text": "Du bedömer att patienten behöver läggas in, då patienten kanske har en begynnande cholecystit. Vilka blir dina ordinationer till sjuksköterskan på kirurgavdelningen. Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ordinerar fasta med intravenös vätskebehandling, till exempel 1000 ml Ringer-acetat, över natten (1 p). För att följa förloppet ber du sjuksköterskan ta om blodproverna nästa morgon (0,5 p) samt kontrollera vitalparametrar inklusive temperatur (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-6",
+              "text": "Vad finns det generellt för alternativ till akut operation av en cholecystit? Motivera varför ni planerar en akut operation.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ett alternativ är konservativ behandling med smärtlindring, fasta och vätskebehandling för att sedan göra en elektiv cholecystektomi när det hela lugnat ned sig (1p). Ett annat alternativ är dränage av gallblåsan med ultraljudsledd punktion (1 p). Det krävs ofta kortare vårdtid med en akut operation och det är mindre risk för komplikationer, framför allt jämfört med enbart dränage (1 p). (1p för varje korrekt svar, max 2 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-7",
+              "text": "Narkosjouren kommer till avdelningen och ger en preoperativ ordination gällande premedicinering. Vilka preoperativa åtgärder vill du som kirurg därutöver ordinera innan patienten tas till operation?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Profylax med lågmolekylärt heparin, antibiotikaprofylax samt smärtlindring, till exempel ytterligare en dos NSAID (1 p för varje korrekt svar, max 2 p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-8",
+              "text": "Vad finns det för risk med att man inte kunnat göra en peroperativ cholangiografi och hur vill du agera med tanke på denna risk?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förutom att klarlägga gallgångsanatomin och säkerställa att ingen gallgångsskada skett så använder man en peroperativ cholangiografi för att se så att det inte finns några gallstenar som tagit sig ut från gallblåsan och fastnat i gallvägarna då detta kan leda till gallstas och komplikationer (1 p). Ett sätt är att följa leverprover postoperativt så att man ser en normalisering av dessa prover och ett annat är att man kan tänka sig en postoperativ MRCP (1 p för minst ett av dessa svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-9",
+              "text": "Vad finns det för olika undersökningar för att säkerställa en eventuell förekomst av sten i djupa gallvägarna? Redogör för vad de olika metoderna har för olika fördelar och vilken metod du i första hand väljer.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man kan antingen gå vidare med en MRCP (0,5 p) eller en ERCP (0,5 p). MRCP har fördelen att den är icke-invasiv, varför det är förstahandsval vid utredningar som här (0,5 p). ERCP är en invasiv metod men har fördelen att ett eventuellt konkrement kan åtgärdas i samma seans (0,5 p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-10",
+              "text": "Vilket tillstånd misstänker du?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Gastrointestinal blödning efter genomförd ERCP med sfinkterotomi (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-11",
+              "text": "Vilka andra komplikationer är vanligt förekommande efter en ERCP?\n\nFall 1, Epilog Max poäng: 0 Epilog Patienten skrivs hem sex dagar efter sin akuta cholecystektomi och sin post-operativa blödning efter ERCP:n. Han hade ingen ytterligare blödning utan hans Hb låg stabilt över 100 efter blodtransfusionen, Han drabbades inte av perforation efter ERCP (kopplad till sfinkterotomin precis som blödningen) eller ERCP-orsakad pankreatit (kopplad till kontrastfyllnad av pankreasgången) som är andra komplikationer som kan drabba patienterna efter en ERCP. Patienten skrevs hem utan särskilda kostråd men med ett recept på per oral järnsubstitution. Vid en telefonuppföljning med sköterskorna på mottagningen en dryg vecka efter hemgång så mådde han riktigt bra och hade så smått kunnat återgå till sitt arbete som egen företagare.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Perforation (0,5 p) och ERCP-orsakad pankreatit (0,5 p).\n\nFall 1, Epilog Max poäng: 0 Epilog Patienten skrivs hem sex dagar efter sin akuta cholecystektomi och sin post-operativa blödning efter ERCP:n. Han hade ingen ytterligare blödning utan hans Hb låg stabilt över 100 efter blodtransfusionen, Han drabbades inte av perforation efter ERCP (kopplad till sfinkterotomin precis som blödningen) eller ERCP-orsakad pankreatit (kopplad till kontrastfyllnad av pankreasgången) som är andra komplikationer som kan drabba patienterna efter en ERCP. Patienten skrevs hem utan särskilda kostråd men med ett recept på per oral järnsubstitution. Vid en telefonuppföljning med sköterskorna på mottagningen en dryg vecka efter hemgång så mådde han riktigt bra och hade så smått kunnat återgå till sitt arbete som egen företagare.\n\nFall 2 – Allmänmedicin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Allmänmedicin",
+      "points": 20,
+      "intro": "När du kommer till vårdcentralen på morgonen träffar du först Britta, 56 år, som söker 3 dagar efter ett fästingbett. På platsen för fästingbettet finns en 2 cm stor, lätt upphöjd och välavgränsad rodnad. Britta undrar om det är borrelia som ska behandlas med antibiotika. Vidare har hon hört att det finns ett blodprov som kan svara på om det är en borreliainfektion eller inte. Britta undrar om hon kan få ta det provet.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vad svarar du Britta på hennes frågor och hur handlägger du henne? Motivera dina svar.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det har gått för kort tid för att kunna skilja fästingburen infektion som orsak till hudmanifestationen från reaktionen på bettet. Ingen antibiotika i nuläget men pat ska komma åter om hudmanifestationen tillväxer finns kvar efter ca 10 dagar eller mer. För diagnos krävs erytem > 5 cm Diagnosen är klinisk och serologiska tester har ingen plats vid diagnostik av erythema migrans."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vad kallas tillståndet och hur väljer du nu att handlägga patienten? Motivera varför.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-05/fall2_erythema_migrans.jpg",
+              "facit": [
+                "Erythema migrans som i sig inte är farligt utan behandling ges för att det sannolikt minskar risken för neuroborrelios och andra manifestationer. Penicillin V 1gx3 i 10 dagar"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Din nästa patient är Åke 72 år som är före detta rökare med typ 2-diabetes som behandlas med metformin. Han har även levaxinsubstituerad hypotyreos och hypertoni. För 5 år sedan genomgick ha strålbehandling för prostatacancer utan känd spridning. Han är fysiskt ganska inaktiv och han har nu sedan några månader blivit allt mera andfådd speciellt på kvällar och nätter när han ligger ned. Åke har inga bröstsmärtor. När du undersöker Åke auskulteras hjärta med hjärtfrekvens 100 och lungor utan anmärkning. Blodtrycket är 165/95 mm Hg och du noterar svullnad av underbenen bilateralt. När du trycker på svullnaden blir det kvar en grop i huden på platsen där du tryckt vilket du uppfattar som pittingödem.",
+          "contextImageUrl": "/images/exams/2022-05/fall2_ekg_del1.jpg",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilken är din primära diagnosmisstanke som orsak till Åkes andfåddhet? Ange de två mest relevanta blodprover eller undersökningar som du vill utföra på vårdcentralen för att utreda Åke vidare med tanke på din diagnosmisstanke?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärtsvikt. EKG + natriuretisk peptid (NT-proBNP/BNP)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vad visar EKG och hur väljer du nu att utreda patienten vidare?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-05/fall2_ekg_del2.jpg",
+              "facit": [
+                "Patologisk Q-våg i anteriora avledningar som tecken på genomgången transmural hjärtinfarkt. Remiss för ekokardiografi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Åke 72 år är före detta rökare med typ 2-diabetes som behandlas med metformin. Han har även levaxinsubstituerad hypotyreos och hypertoni. För 5 år sedan genomgick ha strålbehandling för prostatacancer utan känd spridning. Han är fysiskt inaktiv och har nu på senare tid blivit allt mera andfådd speciellt på kvällarna när han ligger ned. Han har inga bröstsmärtor. När du undersöker Åke auskulteras hjärta med hjärtfrekvens 100 och lungor utan anmärkning. Blodtrycket är 165/95 mm Hg och du noterar svullnad av underbenen bilateralt. När du trycker på svullnaden blir det kvar en grop i huden på platsen där du tryckt vilket du uppfattar som pittingödem.\n\nDin primära diagnosmisstanke är hjärtsvikt och du tar ett EKG som visar patologisk Q-våg i anteriora avledningar samt NT-proBNP som var >1800 ng/L. Du väljer därefter att remittera Åke för ekokardiografi.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "På vilket sätt indelas idag hjärtsvikt och på vilket sätt kan ekokardiografi vägleda indelningen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hjärtsvikt delas in i två eller tre huvudgrupper, baserat på mätning av vänster kammares ejektionsfraktion (EF) som mäts med ekokardiografi: Hjärtsvikt med reducerad EF (HFrEF = Heart Failure with reduced Ejection Fraction, EF ≤ 40 %), Hjärtsvikt med lätt reducerad EF (HFmrEF = Heart Failure with mildly reduced Ejection Fraction, EF 41-49 %), Hjärtsvikt med bevarad EF (HFpEF = Heart Failure with preserved Ejection Fraction, EF ≥ 50 %)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Ange de två troligaste orsakerna till Åkes misstänkta hjärtsvikt utifrån hans anamnes och dina undersökningsfynd. Motivera varför.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "tidigare hjärtinfarkt som gett bestående myokardskador samt hypertoni som genom långvarig belastning av myokardiet leder till blir hypertroft med efterföljande ökad remodelling och nedsatt perfusion vilket i sin tur ger nedsatt EF"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-3",
+              "text": "Det finns idag fyra läkemedelsgrupper som visat sig minska dödligheten vid hjärtsvikt. Grupperna kan i många fall kombineras med varandra. Vilka är de fyra grupperna?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ACE-hämmare (ARB vid intolerans mot ACE-hämmare), Betablockerare, Mineralkortikoidreceptorantagonister, SGLT2-hämmare, även sakubutril men initieras sällan i primärvården"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "context": "Åke 72 år är före detta rökare med typ 2-diabetes som behandlas med metformin. Han har även levaxinsubstituerad hypotyreos och hypertoni. Han är fysiskt inaktiv men har på senare tid blivit allt mera andfådd speciellt på kvällarna när han ligger ned. Han har inga bröstsmärtor. När du undersöker Åke auskulteras hjärta med hjärtfrekvens 100 och lungor utan anmärkning. Blodtrycket är 165/95 mm Hg och du noterar svullnad av underbenen bilateralt. När du trycker på svullnaden blir det kvar en grop i huden på platsen där du tryckt vilket du uppfattar som pittingödem.\n\nPå misstanke om hjärtsvikt beställer du ekokardiografi som visar dilaterad vänsterkammare med hypokinesi/akinesi inom framväggen, skattad ejektionsfraktion 40%. Det finns idag fyra läkemedelsgrupper som visat sig minska dödligheten vid hjärtsvikt. Grupperna är ACEhämmare (ARB vid intolerans mot ACE-hämmare), Betablockerare, Mineralkortikoidreceptorantagonister och SGLT2-hämmare. Även sakubutril som dock sällan initieras i primärvården.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-4-1",
+              "text": "Beskriv verkningsmekanismen för hur ACE-hämmare respektive betablockerare utövar sin gynnsamma effekt vid hjärtsvikt.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ACE-hämmare: Vid inhibering av RAAS minskar den via renin-angiotensin orsakade vasokonstriktionen och aldosteroneffekten hämmas vilket medför en förbättrad hjärtminutvolym. ACE-hämmare minskar också dilatationen av vänsterkammaren vid hjärtsvikt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-4-2",
+              "text": "Diuretika har funnits med i behandlingsarsenalen av kronisk hjärtsvikt sedan många år. Via vilken mekanism och vilket användningsområde har diuretika i behandling av kronisk hjärtsvikt idag?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Effekten utövas via sänkt fyllnadstryck och minskat vätskeöverskott och är huvudsakligen symptomlindrande. Diuretikadosen bör hållas så låg som möjligt och gärna vara tillfällig. Vid palliativ vård kan symtomatisk behandling med enbart diuretika ibland vara rimligt.\n\nFall 3 – Psykiatri"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Psykiatri",
+      "points": 20,
+      "intro": "Du är AT-läkare och primärjour en fredagskväll på psykiatriska akutmottagningen. Klockan ett på natten kommer polisen in med Martin, 24 år, med handfängsel på. De har omhändertagit honom hemma hos hans mor efter att hon ringt 112 och larmat. Martin ska ha tagit sig in hos modern och letat efter tabletter. När hon försökte hindra honom hotade han henne med kniv. Martin är oregerlig, försöker smita och har försökt ta polisens vapen. De måste hålla honom för att han inte ska ge sig på dem eller andra eller inredningen. Han talar osammanhängande om att göra slut på allt, ”suicide by cop”, ber om att bli skjuten och om att han inte orkar mer. Det luktar alkohol. Han svarar inte på frågor och medverkar inte till någon undersökning. Polisen rapporterar att Martin enligt modern igår ska ha varit som vanligt.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Skötaren föreslår att Martin ska läggas i bälte i nödvärn eftersom han annars riskerar skada sig själv eller andra utifrån sitt aggressiva och utagerande beteende. Vad svarar du?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Polisen har situationen under kontroll och tillser säkerheten. Det finns i nuläget inget stöd för bältesläggning i nödvärn."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Du tänker att Martin måste kvarstanna och övervakas och undersökas i den mån det är möjligt. Då han inte medverkar och vill ge sig av funderar du på tvångsvård. Vilka tre förutsättningar behöver föreligga för vård enligt Lagen om Psykiatrisk Tvångsvård (LPT)? Är de uppfyllda i detta fall? Motivera.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Allvarlig psykisk störning: oregerlig, osammanhängande, är genom sitt beteende i ett allvarligt psykiskt tillstånd. Oundgängligt psykiatriskt vårdbehov: kan inte vårdas på annat sätt och riskerar då allvarligt skada sig själv eller annan. Vägrar vård eller kan inte ge grundat ställningstagande. Förutsättningarna är uppfyllda."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Då du inte är legitimerad läkare får du inte utfärda vårdintyg. Du ringer till din bakjour för att få hjälp men får svaret att hon inte heller kan skriva vårdintyg i den aktuella situationen. Varför är det så?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Beslut om tvångsvård enlig LPT görs i två steg, vårdintyg respektive intagningsbeslut, som inte får göras av en och samma person. Bara bakjouren har den formella rätten att fatta intagningsbeslut, oftast genom delegation från sin chefsöverläkare."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Kan BUP-jouren skriva ett vårdintyg nu? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nej. Den vårdintygsskrivande läkaren måste själv göra sin bedömning av patienten på plats."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-5",
+              "text": "Hur många standardglas eller gram alkohol motsvarar den veckokonsumtion Martin uppger? Hur skulle du beteckna risken med den nivån av alkoholkonsumtion?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Cirka 10 standardglas eller 120 gram alkohol per vecka är under gränsen för vad som anses motsvara ett riskbruk för män."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-6",
+              "text": "För vilken drog förutom alkohol kan Martin ha abstinens? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Opioider. Frusenhet(feber), snuva, muskelvärk, dysforisk sinnesstämning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-7",
+              "text": "DSM-5 tar upp 9 symptom på opioidabstinens. Nämn ytterligare 4 utöver de Martin uppvisat.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Illamående eller kräkningar, ökat tårflöde, vidgade pupiller, gåshud, svettning, diarré, gäspningar, sömnsvårigheter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-8",
+              "text": "Vilka kriterier på diagnosen opioidbrukssyndrom enligt DSM-5 framkommer? Är diagnosen uppfylld? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Större mängd än tänkt, misslyckade försök att sluta, mycket tid ägnas åt att skaffa opioider, viktiga sociala aktiviteter överges eller minskas, tolerans, abstinens. Diagnosen är uppfylld då det räcker med 2 av 11 kriterier vilka visat sig under en 12-månadersperiod."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-9",
+              "text": "Vad skulle riskeras att hända om Martin fick buprenorfin i nuvarande situation? Redogör kort för buprenorfinets farmakologiska egenskaper som förklarar detta fenomen.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Precipiterad abstinens skulle kunna utlösas. Buprenorfin har mycket hög affinitet till µreceptorn och är samtidigt en partiell agonist. Buprenorfin skulle konkurrera ut den andra opioiden men kanske inte ge motsvarande agonistiska effekt med resulterande abstinens."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-10",
+              "text": "Även om Martin lyckas trappa ut tabletterna och bli av med abstinensen finns en risk för återfall. Varför är den situationen extra riskfull, inte minst för Martin som ännu inte har så många års erfarenhet av opioidmissbruk? Vad kan hända och vad beror det på?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom toleransen sjunker snabbt vid uppehåll från opioider finns en risk att personen tror att hen tål betydligt högre doser och omedvetet tar en överdos med potentiell livsfara."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-11",
+              "text": "Vilken diagnos skulle bäst kunna förklara denna symptombild? Motivera. Nämn även 2 differentialdiagnoser som du främst bedömer aktuella. Motivera.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Posttraumatiskt stressyndrom (PTSD): kan förklara alla beskriva symptom. Vaksamhet, oro att något ska hända, svårt att lite på andra, mardrömmar och obehagliga minnen antyder mer specifikt PTSD.\n\nDifferentialdiagnoser: Affektiv sjukdom: depression eller dystymi: koncentrationssvårigheter, sömnsvårigheter, negativa känslor, svagt intresse. Generaliserat ångestsyndrom (GAD): ständig oro, koncentrationssvårigheter, sömnsvårigheter, irritabilitet. ADHD: ständig rastlöshet, koncentrationssvårigheter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-12",
+              "text": "Vad är nödvändiga förutsättningar för att kunna ställa diagnosen PTSD?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Exponering för en eller flera traumatiska händelser och påträngande symptom associerade med den traumatiska händelsen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-13",
+              "text": "Debut och förlopp är viktiga aspekter i diagnostiken. Hur skiljer dessa sig åt för PTSD, recidiverande depression respektive ADHD?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "PTSD: debut efter trauma eller med fördröjd debut >6 månader, varaktighet minst 1 månad och kan bli förbättras spontant eller bli kroniskt.\n\nRecidiverande depression: Episodiskt förlopp med episoder som varar under veckor till månader åtskilda av friska perioder. Debuterar vanligen bland yngre vuxna. ADHD: debut i barndomen, kontinuerligt fluktuerande förlopp."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-14",
+              "text": "Vilken av diagnoserna egentlig depression eller dystymi skulle vara mest trolig, om det skulle handla om ett affektivt tillstånd? Motivera.\n\nFall 3, Epilog Max poäng: 0 Epilog Du genomför en MINI-intervju med Martin och det framkommer att han utvecklat PTSD efter ett brutalt rånöverfall för ca 5 år sedan. Det finns flera depressiva symptom som kan förklaras av PTSD. Det finns ingen barndomsanamnes talande för ADHD. Martin får senare traumabehandling och förbättras.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dystymi. Långvariga kontinuerliga besvär utan allvarlig funktionsnedsättning (sköter sitt jobb).\n\nFall 3, Epilog Max poäng: 0 Epilog Du genomför en MINI-intervju med Martin och det framkommer att han utvecklat PTSD efter ett brutalt rånöverfall för ca 5 år sedan. Det finns flera depressiva symptom som kan förklaras av PTSD. Det finns ingen barndomsanamnes talande för ADHD. Martin får senare traumabehandling och förbättras.\n\nFall 4 – Internmedicin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Internmedicin",
+      "points": 20,
+      "intro": "Anna-Karin, 61 år, söker på akutmottagningen pga. andfåddhet. I anamnesen framkommer också intermittent torrhosta men ingen bröstsmärta eller feber. Hon har noterat att konditionen successivt har försämrats vilket hon skyllt på sin övervikt, som tyvärr har tilltagit med fyra kilos viktuppgång den senaste månaden. Inte blir det lättare att gå ned i vikt då hon har svårt att motionera pga. ”de slitna knäna”, som tidvis värker och är stela i likhet med fingrarna. När hon idag kom till skolan, där hon arbetar som administratör, blev hennes arbetskamrater oroliga för att hon blev så andfådd när hon tog sig uppför trapporna. Hennes chef skjutsade därför henne till akutmottagningen. Anna-Karin har aldrig rökt. Hon genomgick appendektomi i barndomen och cholecystektomi för 20 år sedan. För åtta år sedan diagnostiserades hon med hypertoni och sedan dess medicinerar hon med Enalapril 20 mg 1x1. De senaste två månaderna har hon de flesta dagarna också medicinerat med receptfritt Ibuprofen 200 mg 1–2 tabletter per dag för att lindra besvären från knäna och fingrarna. AT: Opåverkad i vila. Lindrig dyspne i samband med avklädning. Lindriga bilaterala ankelödem. Vikt 89 kg, längd 169 cm. Temp. 36,8 °C. Hjärta: Regelbunden rytm 90/min, inga biljud. Lungor: Andningsfrekvens 18/min. Normala andningsljud på vänster sida, nedsatta på höger sida där det också finns perkutorisk dämpning. BT: 122/72 mmHg. Buk: Adipös, Mjuk, oöm, inga resistenser. Saturation: 93 % utan syrgastillförsel. EKG: Sinusrytm 88/min. Normalt EKG. I samband med den initiala triageringen på akutmottagningen togs också blodprover: Hb 121 (117–153 g/L), LPK 4,0 (3,5–8,8 x109/L), TPK 102 (165–390 x109/L), Natrium 138 (137–144 mmol/L), Kalium 4,5 (3,5–4,4 mmol/L), Kreatinin 112 (50–90 µmol/L), CRP <5 (<5 mg/L), P-Troponin T hs 3 (<15 ng/L), P-Glukos 6,1 (4,2–7,7 mmol/L), aB-pH 7,39 (7,35–7,45), aBpO2 9,0 (11,0–14,0 kPa), aB-pCO2 5,0 (4,6–6,0 kPa), aB-HCO3- 24 (22–27 mmol/L), aB-BE 0 (±3), aB-Laktat 1,4 (0,5–1,6 mmol/L).",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2022-05/fall4_lungrontgen_front.jpg",
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Med vilken undersökning vill du komplettera utredningen? Motivera.",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Med anledning av dyspne, hypoxi och avvikande fynd vid fysikalisk undersökning av lungorna är det rimligt att genomföra avbildande undersökning av lungorna, i första hand lungröntgen. Fynden i status inger i första hand misstanke om betydande mängd pleuravätska på höger sida."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilket är det huvudsakliga patologiska fyndet på lungröntgen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-05/fall4_lungrontgen_sida.jpg",
+              "facit": [
+                "Lungröntgen visar stora mängder högersidig pleuravätska."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Vilken åtgärd är rimligt att vidta härnäst? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Thorakocentes (tappning av pleuravätska) (0,5p) för att lindra Anna-Karins symtom och provtagning från vätskan för diagnostiska ändamål. (0,5p) (Omkontroll av saturation och, vid sjunkande värden jämfört med tidigare saturation på akutmottagningen, tillförsel av syrgas (0,5p))"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-4",
+              "text": "På vilken av ovan tre markerade interkostala lokalisationer ska nålen placeras vid thorakocentes (ange nr.1, 2 eller 3)? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-05/fall4_thorakocentes.jpg",
+              "facit": [
+                "Lokalisation 3 (1p). För att undvika skada på interkostalnerv och interkostalkärl, vilka är lokaliserade i anslutning till revbenets nedre kant (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-5",
+              "text": "Vilka prover vill du analysera från pleuravätskan? Motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "• • • • • •\n\nOdlingar/direktmikroskopi (allmän, TBC, (svamp)) – värdera infektiös genes Cytologi – värdera malign genes Protein (albumin) – värdera om vätskan utgörs av exsudat eller transsudat. För exsudat talar pleura-protein >30 g/L och/eller pleura-protein/plasma-protein >0,5 Glukos – låga värden (<3,3 mmol/L eller pleura-glukos/p-glukos <0,5) talar för infektiös genes, malign genes eller RA) pH – värden <7,3 ses vid samma diagnoser som orsakar låga halter av pleura-glukos. Värden <7,2 talar starkt för infektiös genes LD – kan användas för att differentiera exsudat från transsudat (pleura-LD/plasma-LD >0,6 talar för exsudat); höga värden (>16 µkat/L) talar för empyem, reumatoid artrit eller malignitet\n\n0,5p per punkt och korrekt motivering. Max 2p. För maxpoäng krävs att de tre första punkterna ingår i svaret."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-6",
+              "text": "Mot bakgrund av vad som framkommit hittills, vilken typ av pleuravätska har Anna-Karin? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vätskan utgörs av ett transsudat (0,5p). Att transsudation är den bakomliggande uppkomstmekanismen framgår av att proteinhalten är betydligt lägre i pleuravätskan jämfört med i plasma. För transsudat talar pleura-protein <30 g/L och/eller pleura-protein/plasma-protein <0,5"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-7",
+              "text": "Mot bakgrund av ovanstående, vilken vanlig diagnos är det rimligt att först värdera som orsak till pleuravätskan och hur gör du detta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den vanligaste orsaken till större mängder pleuratranssudat är hjärtsvikt (0,5p). Mot denna diagnos i Anna-Karins fall talar ensidig pleuravätska samt normalt EKG. Det är dock rimligt att komplettera utredningen med ekokardiografi och/eller analys av BNP/NT-pro BNP. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-8",
+              "text": "Vilket annat organ är rimligt att värdera patologiska förändringar i? Motivera. Ange också lämplig(a) diagnostisk(a) undersökning(ar).",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Förekomst av högersidigt pleuratranssudat i kombination med förhöjt PK(INR) och låga trombocyter kan tala för levercirros (0,5p) med portal hypertension som genes till pleuravätskan. Det är rimligt att komplettera utredningen med DT alt. ultraljud buk (0,5p) samt analys av leverblodprover (0,5p) (transaminaser, ALP, GT, Bilirubin, Albumin)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-9",
+              "text": "Vad kan vara en starkt bidragande orsak till att pleuravätska (och ascites) debuterat eller förvärrats den senaste tiden hos Anna-Karin? Redogör också för den bakomliggande patofysiologin till detta samband.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Regelbundet intag av ibuprofen (NSAID) (0,5p). NSAIDs huvudsakliga verkningsmekanism är hämning av prostaglandinsyntesen (0,5p). Prostaglandin I2 och prostaglandin E2 har betydelse för vidmakthållande av renalt blodflöde genom att dilatera afferenta arterioler (1p). Detta är av särskild vikt vid försämrad genomblödning av njurarna såsom vid portal hypertension då intag av NSAID kan leda till uttalad retention av natrium och vatten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-10",
+              "text": "Redogör för övriga farmakologiska interventioner som du vill vidta för att eliminera kvarvarande pleuravätska och ascites.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid portal hypertension med ascites och pleuravätska föreligger sekundär aldosteronism med retention av natrium och vatten. Den viktigaste farmakologiska interventionen för att bryta detta tillstånd är behandling med spironolakton (i regel minst 100 mg/d) (1p) vilket när påtaglig vätskeretention föreligger ofta kombineras furosemid (0,5p). Samtidig behandling med hög dos spironolakton och enalapril leder till risk för hyperkalemi och nedsatt glomerulär filtration. Enalapril bör sättas ut eller ges i reducerad dos. (0,5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-11",
+              "text": "Vilka specifika blodprover vill du beställa för att påvisa orsaken till cirros? Motivera.",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "PEth (alkoholöverkonsumtion?) (0,5p), HBsAg (Hepatit B?) (0,5p), anti-HCV (Hepatit C?) (0,5p), ANA/SMA (autoimmun hepatit?) (0,5p), AMA (primär biliär kolangit?) (0,5p) plasmaproteinfraktionering (autoimmun leversjukdom? antitrypsinbrist?) (0,5p). och järnstatus inkl. ferritin (hemokromatos?) (0,5p) Man kan också tänka sig att analysera ceruloplasmin (Wilsons sjukdom?)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-12",
+              "text": "Vilken sjukdom förefaller mest sannolikt ha orsakat cirros hos Anna-Karin? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Uttalad stegring av ferritin och förhöjd transferrinmättnad talar för hemokromatos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-13",
+              "text": "Vilken behandling vill du ordinera för att förhindra progress av Anna-Karins leversjukdom?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blodtappning (flebotomi) tills ferritin normaliseras förhindrar progress av organkomplikationer vid hemokromatos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-14",
+              "text": "Vilken är den mest sannolika orsaken till att ingen av Anna-Karins föräldrar diagnostiserades med hemokromatos?\n\nFall 4, Epilog Max poäng: 0 Epilog Anna-Karin remitterades till Blodcentralen för blodtappningar. Efter fem månader uppnåddes normala järnparametrar. Hon återfick inte ascites eller pleuravätska. Ledsmärtorna, som var relaterade till hemokromatos, förbättrades och kunde behandlas med paracetamol vid behov. Endokrinologisk utredning påvisade inga endokrina komplikationer relaterade till hemokromatos. Gastroskopi visade små esofagusvaricer där blödningsrisken bedömdes som ringa varför man avstod från profylaktisk behandling. Ultraljud lever genomförs varje halvår som screening för hepatocellulär cancer eftersom risken för detta är ökad då cirros hade utvecklats innan sjukdomen upptäcktes. Hennes barn och syskon genomgick utredning varvid hennes yngre bror konstaterades ha hemokromatos i asymtomatiskt skede.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Genetisk hemokromatos ärvs autosomalt recessivt. Patienterna är således homozygota för den sjukdomsframkallande mutationen. Detta innebär att föräldrarna mest sannolikt var heterozygoter för den sjukdomsframkallande mutationen. Heterozygoter utvecklar inte sjukdomen.\n\nFall 4, Epilog Max poäng: 0 Epilog Anna-Karin remitterades till Blodcentralen för blodtappningar. Efter fem månader uppnåddes normala järnparametrar. Hon återfick inte ascites eller pleuravätska. Ledsmärtorna, som var relaterade till hemokromatos, förbättrades och kunde behandlas med paracetamol vid behov. Endokrinologisk utredning påvisade inga endokrina komplikationer relaterade till hemokromatos. Gastroskopi visade små esofagusvaricer där blödningsrisken bedömdes som ringa varför man avstod från profylaktisk behandling. Ultraljud lever genomförs varje halvår som screening för hepatocellulär cancer eftersom risken för detta är ökad då cirros hade utvecklats innan sjukdomen upptäcktes. Hennes barn och syskon genomgick utredning varvid hennes yngre bror konstaterades ha hemokromatos i asymtomatiskt skede."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

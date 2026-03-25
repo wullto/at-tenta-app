@@ -1,0 +1,803 @@
+{
+  "id": "2022-08",
+  "title": "AT-prov augusti 2022",
+  "date": "2022-08-26",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Internmedicin",
+      "points": 20,
+      "intro": "Du är läkare på medicinmottagningen på ett universitetssjukhus. Klockan är 11.05 och efter en kort kafferast passerar du väntrummet där din nästa patient Hubert håller på att registrera sitt besök. Han hälsar glatt och ni byter några ord innan du går och friskar upp minnet genom att läsa lite i journalen. Hubert är 70 år gammal och kommer för uppföljning av antikoagulantiabehandling som han har för sitt förmaksflimmer. Från en snabbläsning av journalen från senaste besöket får du följande information. Socialt: Tidigare polis, de sista 10 åren innan pension mest skrivbordsarbete. Tidigare rökare, mellan 20 och 50 års ålder, totalt ca 15 paketår. Delar på en flaska vin till helgen. Pågående hälsoproblem: Förmaksflimmer, Eliquis-profylax. Tablettbehandlad hypertoni. Måttlig njursvikt (habituellt eGFR(krea) kring 40 ml/min/1,73m2). Aktuellt: Känner inte av sitt förmaksflimmer. Tar dagliga promenader och cyklar flera gånger i veckan på spinningcykel. Dålig compliance till Eliquis-behandlingen. Tänker inte på att ta tabletterna då han inte märker något om han missar en dos. Uppskattar att han missar ungefär var tredje dos men ibland oftare, särskilt på kvällar. Blodtryck fortsatt välreglerat, vid senaste kontroll 120/80 mmHg. Läkemedel: T Enalapril 10mg 1x1, T Eliquis 5mg 1x2, T Seloken ZOC 100mg 1x1 När du sedan ska hämta Hubert i väntrummet märker du att hans högra mungipa hänger och han har svårt att finna orden när du frågar hur det är med honom. Han verkar stressad och för upp och lägger vänster hand på bröstet och klappar där ett par gånger, försöker säga något men får inte ur sig ord. Han försöker lite okoordinerat resa sig ur stolen utan framgång, ena benet stödjer ej.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Ange 3 rimliga akuta potentiellt livshotande differentialdiagnoser (som resulterar i olika handläggning) till patientens besvär. Motivera dina förslag. Vilken av dessa diagnoser är mest sannolik i detta fall?",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stroke (pareser), aortadissektion (tar sig mot bröstet), hjärtinfarkt (tar sig mot bröstet). Stroke mest sannolik."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Enligt vilket protokoll kommer sannolikt handläggningen göras på akuten? Vilken neurologisk funktionsskattningsskala används då?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rädda hjärnan, NIH strokeskala (NIHSS)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-3",
+              "text": "Nämn två av de viktigaste momenten som bör prioriteras i denna funktionsskattningsskala.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Testa motorik i extremiteter, bedömning av afasi"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-4",
+              "text": "Vilken bilddiagnostisk undersökning vill du göra akut?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT hjärna"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-5",
+              "text": "Detta är CT hjärna på denna patient. Vad drar du för slutsatser av den som är viktiga för handläggningen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-08/fall1_ct_hjarna.jpg",
+              "facit": [
+                "Normal CT. Ingen blödning. Därför kan trombolys/trombendartärektomi vara aktuell."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-6",
+              "text": "Förutom förmaksflimret, vilken är den viktigaste enskilda riskfaktorn för stroke som denna patient har, samt vilken typ av stroke är vanligast?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypertoni + Ischemiskt stroke."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-7",
+              "text": "Nämn 6 blodprover som bör tas hos denna patient som ingår i rädda hjärnanhandläggningen. Vilket av dessa blodprover kan eventuellt avslöja att neurologiska symtom ej är på grund av stroke?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "- Hb, LPK, TPK - PK (INR), APTT, - Glukos (hypoglycemi kan ge neurologiska symtom) - Na, K, Krea - Leverstatus - Blodgruppering/BAS-test om trombolys ges."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-8",
+              "text": "CT hjärna visade ej på någon blödning hos denna patient. Vilken akutbehandling är indicerad? Motivera kort.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Trombektomi, Pat står på antikoagulans (NOAK), även om det är oklart hur mycket han tar, vilket är en kontraindikation för trombolys."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-9",
+              "text": "Patienten har ytterligare en kontraindikation för trombolys. Vilken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För högt blodtryck."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-10",
+              "text": "Nämn ytterligare fyra kontraindikationer mot trombolys vid stroke (gäller alla fall, inte specifikt denna patient)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "1.symtomdebut>4,5h, 2.intrakraniell blödning, 3.endast mindre neurologiska symtom (låg poäng på NIHSS), 5.Hög blödningsrisk (känd blödningsbenägenhet, trombocytopeni 6. Krampanfall. 8. Blodsocker >22 mmol/l 9. <10 dagar sedan förlossning, punktion av artär eller hjärtmassage. 10. <3 mån sedan större kirurgi, GI blödning, större trauma, genomgången stroke.\n\nDessutom: - Bakteriell endokardit - Perikardit - Akut pankreatit - Esofagusvaricer - Arteriella aneurysm - Arteriella/venösa kärlmissbildningar - Tumör med ökad blödningsrisk - Allvarlig leversjukdom - Pågående eller nyligen genomgången allvarlig blödning - Genomgången CNS-skada (t ex tumör eller intrakraniell/spinal kirurgi)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-11",
+              "text": "Hur lång tid får maximalt gå från symtomdebut till dess att man inte längre skall ge trombolys?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "4.5 h."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-12",
+              "text": "Patienten genomgår trombektomi med god effekt. Blodtrycket sjunker sedan till acceptabla nivåer. Nämn en typ av läkemedel som han kommer att behandlas med förutom sina tidigare läkemedel, samt uppge en avbildningsundersökning som bör utföras på honom.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "statiner + UL carotider.\n\nFall 2 - Psykiatri"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Psykiatri",
+      "points": 20,
+      "intro": "Du är har nyss fått din legitimation som läkare och har ditt första vikariat vid den psykiatriska kliniken på sjukhuset i Småstad. Det är lördag och du är primärjour i psykiatri på en sjukhusgemensam akutmottagning. Under tiden du gått rond med överläkaren på den lilla psykiatriska akutvårdsavdelningen har en ambulans kommit till akutmottagningen med en ung man på en bår. Du blir nerringd från rondarbetet för att värdera den nya patienten. Den rutinerade vårdpersonalen har först sökt medicinjouren, som är upptagen på annat håll, och vill därför att du först skall bedöma mannen. Du finner honom liggande på båren med en hand på bröstet och den andra krampaktigt hållande i bårens kant. Han är vaken men ser påverkad ut, har en kvävande tryckkänsla över bröstet och tycker sig inte kunna andas.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilken diagnos har du underlag för?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ingen"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vilken preliminär diagnos har du nu underlag för efter denna anamnes och undersökning?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fortfarande ingen. Se bl a https://lakartidningen.se/aktuellt/patientsakerhet/2006/11/eangesten-uppstod-som-enfoljd-av-de-akuta-brostsmartorna/"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-3",
+              "text": "Vad bör du göra nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Låter medicinjouren göra en bedömning av symtombilden."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-4",
+              "text": "Nu har du underlag för en sannolik diagnos, vilken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det rör sig om en panikattack. Paniksyndrom ger 0"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-5",
+              "text": "Vilka diagnoskriterier krävs för att ställa diagnosen paniksyndrom?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Återkommande panikattacker. Oförutsebara attacker - dvs inte kopplade till vissa situationer Sekundära symtom, exv rädsla för att dö, att förlora kontrollen eller att bli sinnessjuk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-6",
+              "text": "Ange två evidensbaserade behandlingsmetoder för paniksyndrom?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "KBT SSRI"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-7",
+              "text": "Vilka strukturerade diagnostiska instrument finns för att ta ställning till psykiatrisk samsjuklighet? Nämn två!\n\nEPILOG Max poäng: 0 EPILOG Patienten Patrik får utmärkt information om vad en panikattack är, hur han ska bete sig om besvären återkommer, men i övrigt erbjuds ingen behandling. Av en tillfällighet stöter ni på varandra på stan och Patrik tar initiativ till att prata. Berättar att han varit besvärsfri sedan den episod då han kom in på akuten. Han har förändrat en del saker i sitt liv och mår nu utmärkt. Du förvånas inte över detta eftersom de flesta som upplever en första panikattack inte kommer att utveckla ett paniksyndrom.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "SCID MINI"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Nästa person du ombeds bedöma är en man som kommit till akutmottagningen tillsammans med närstående som är hans flickvän. Det visar sig att mannen, Gabriel Pettersson, är 42 år och flickvännen Hanna är 15 år yngre. Paret är inte sammanboende, de träffades för sex månader sedan efter att han flyttat till orten. Flickvännen ska snart resa till USA för en postdoc vid ett stort universitet i Boston. Flickvännen tycker att mannen förändrats i sitt beteende de senaste två veckorna. Gabriel har blivit alltmer irritabel och vill följa med henne till Boston eftersom han skulle kunna tillgodogöra sig tiden där bättre än hon. De senaste nätterna har han hållit henne vaken med mångordiga och tjatiga utläggningar varvid han bland annat föreslagit att hon inte skulle åka eftersom han kunde allt som man kan vid Bostonuniversitetet och kunde lära henne detta om hon stannade hemma. När hon ifrågasatte det blev han allt mer irriterad och argumenterade emot intensivt och långrandigt pratande hela tiden. När Gabriel plötsligt reser sig under samtalet för att gå ut och röka berättar flickvännen att han under de senaste veckorna slutat ta hand om sina två minderåriga barn som fått sköta sig helt själva, vara ute på nätterna och inte gått till skolan.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vilket blir ditt första diagnosförslag?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Maniskt skov"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Ange även två rimliga psykiatriska differentialdiagnoser?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Drogmissbruk Annan psykos"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Vilka tre kriterier krävs för vård enligt denna lag?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lider av en allvarlig psykisk störning. Har ett oundgängligt behov av psykiatrisk dygnetruntvård (slutenvård) Motsätter sig erbjuden vård alternativt att det finns grundad anledning att anta att vården inte kan ges med personens samtycke (LPT 3§)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-4",
+              "text": "Vilket läkemedel har han mest sannolikt givits för sin bipolära sjukdom typ I.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Litium"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-5",
+              "text": "Två allvarliga biverkningar vid litiumbehandling bör kontrolleras extra tätt? Vilka är dessa och vilka laboratorieprover bör du ta för att bedöma dem?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Njurfunktionspåverkan, progressiv, S-Krea eller motsvarande (0.5+0.5) Ämnesomsättningsrubbning: S-TSH (0.5+0.5) Hjärtfunktionsstörning (i princip rätt, men i sbd med återinsättning efter försummelse kan man se det som av underordnad betydelse - om det inte finns symtom)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-6",
+              "text": "Vilken är din lagliga skyldighet att göra när du nås av denna information?\n\nEPILOG Max poäng: 0 EPILOG Gabriel Pettersson kommer till mottagningen följande måndag. Hans tillstånd är ganska oförändrat men ett visst mått av sjukdomsinsikt har tillkommit. Han medverkar vid provtagningen och är positivt inställd att återuppta medicineringen med litium. Efter att ett par veckor passerat är Gabriel i stort sett helt återställd och planerar för att resa och hälsa på sin flickvän i Boston två månader längre fram. Socialtjänsten har gjort utredning till följd av den orosanmälan enligt Socialtjänstlagen som du gjort och givit familjen och barnen extra stöd under en period.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Orosanmälan enl SoL 14 kap. 1§"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "Efter att patienten Gabriel har gått hem får du en stund av lugn. Men framåt kvällen blir du nerringd till akutmottagningen igen. Patienten Amina Svärd är enligt personalen välkänd på grund av frekventa besök efter längre perioder med överkonsumtion av alkohol, men även efter att hon ramlat och skadat sig. Amina är 52 år, lever tillsammans med en jämnårig man, har ett känt alkoholberoende, har även stöd från socialtjänsten i kommunen, och har även regelbunden kontakt med klinikens egen beroendeenhet. Hon är nu synligt men endast lätt berusad, darrig och mår synbart mycket psykiskt dåligt och är uppenbarligen abstinent. Enligt journalhandlingarna har hon vid flera tillfällen drabbats av delirier och även krampat efter långa perioder med stora alkoholintag, då hon inte ätit alls eller mycket lite. Hon säger sig nu ha druckit två flaskor vin per dag, och dessutom mycket öl, under en vecka, utom idag då hon mått dåligt och inte kunnat äta något alls. Hon känner igen mönstret själv och från journalhandlingarna framgår att Amina har ett isolerat alkoholberoende, har aldrig berusat sig med annat än etanol, och att hennes akutbesök brukar te sig så här.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Ange ett objektivt instrument som syftar till att skatta graden av abstinens?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "fr a CIWA-Ar. Rätt även för CAGE, TWEAK, RAPS"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Vilka prover anser du vara viktiga för att bedöma hennes akuta somatiska tillstånd? Prioritera de tre som du anser vara viktigast, och motivera.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Alkoholkonc (Alkometer) (prio 1 - hur berusad är hon just nu?) Elektrolyter (prio 2 -låga S-Na o S-K vanligt - ibland farligt låga) Glukos (prio 3 - inte ätit, dåliga sockereserver vanliga vid alkohol- och leversjd) Även andra kan motiveras men inte i stället för ovannämnda"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-3",
+              "text": "Vilka två läkemedel använder du i första hand i detta läge och varför?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Oxazepam/diazepam - minska oro och risk för delirium (neuroleptika ger 0) Tiamin - förebygga neurologisk skada pga B1-brist"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-4",
+              "text": "Vilken skillnad finns mellan dessa preparat och vilken betydelse har det för behandlingen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diazepam har mycket längre halveringstid (upp till 70 timmar). …..vilket-inebär att behandlingen blir mer svårstyrbar"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-5",
+              "text": "Vilken är generalindikationen för att LVM skall kunna tillämpas?\n\nEPILOG Max poäng: 0 EPILOG Amina får behandling enligt riktlinjerna med oxazepam och tiamin varefter det akuta tillståndet lägger sig. Du övervägde diazepam som dock har mycket längre halveringstid (upp till 70 timmar). Socialnämnden beslutar om vård enligt LVM då det bedömdes att Amina, som rekvisiten för denna lag anger ”till följd av ett fortgående missbruk av alkohol, narkotika eller flyktiga lösningsmedel är i behov av vård för att komma ifrån sitt missbruk och att vårdbehovet inte kan tillgodoses enligt socialtjänstlagen eller på annat sätt.”",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "...till följd av ett fortgående missbruk av alkohol, narkotika eller flyktiga lösningsmedel … ...är i behov av vård för att komma ifrån sitt missbruk… ...och att vårdbehovet inte kan tillgodoses enligt socialtjänstlagen eller på annat sätt. (LVM 4§)\n\nFall 3 - Allmänmedicin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Allmänmedicin",
+      "points": 20,
+      "intro": "Vid en vårdcentral möter du som AT-läkare Stina som är 73 år och pensionär. Stina har tidigare arbetat som sekreterare, hon är gift, har tre vuxna barn och har aldrig rökt. Stina är fysiskt aktiv med cykling och promenader. Hennes far avled vid 50-års ålder av hjärtinfarkt och vid samma ålder avled en bror av stroke. Stina har under flera år successivt tilltagande besvär av belastningsrelaterad värk medialt i båda knän, mest vänster knä. För ett par år sedan gjordes en bedömning och hon rekommenderades en behandling.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilken är den troligaste orsaken till Stinas ledvärk?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Knäledsartros"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilken behandling är förstahandsval vid artros?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fysioterapi med artrosskola"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Vilken radiologisk undersökning är förstahandsval och beskriv förutsättningar för bästa radiologisk artrosdiagnostik av knän.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Röntga knä med belastning i stående"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Beskriv tre röntgenförändringar som talar för artros i ovanstående bild.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-08/fall3_kna_rontgen.jpg",
+              "facit": [
+                "Kraftig sänkning av mediala ledspringans vidd, pålagringar på mediala ledytekanten och skleros."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-5",
+              "text": "Vilken behandling rekommenderar du Stina? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Remiss för ortopedisk kirurgi."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-7",
+              "text": "Hur orsakar konstant förhöjda nivåer av parathormon hyperkalcemi och sekundär osteoporos? Beskriv den molekylärbiologiska mekanismen.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En konstant förhöjd nivå av parathormon aktiverar benmärgens stromaceller att uttrycka cytokinerna RANKL och M-CSF varvid de mångkärniga och stora osteoklasterna rekryteras från hematopoetiska osteoklastprogenitorceller och aktiveras på benytor till mångkärniga och stora osteoklaster, kroppens enda celler som kan bryta ned ben."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-8",
+              "text": "Beskriv verkningsmekanismen för osteoklasternas demineralisering av skelettet.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Demineraliseringen av skelettet sker genom att osteoklasterna surgör benytan genom ökat uttryck av en protonpump och en kloridjonkanal varvid pH sjunker och mineralkristaller löses ut i den del av cellen som vetter mot resorptionslakunen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-9",
+              "text": "Demineraliseringen av skelettet sker genom att osteoklasterna surgör benytan genom ökat uttryck av en protonpump och en kloridjonkanal, varvid pH sjunker och mineralkristaller löses ut vid den del av osteoklastcellen som vetter mot benytan. Slutsatsen för Stina är att hon har en sekundär osteoporos orsakad av primär hyperparatyreoidism, som därför indicerar operativ åtgärd. Utredning visar att Stina har ett adenom i nedre höger parathyreoideakörtel som tas bort och Stina blir normokalcemisk efter ingreppet. 3.9. Vid vilka omständigheter bör Stina erbjudas farmakologisk behandling för sin osteoporos och i så fall vilken farmakologisk behandling? Motivera.\n\nEpilog Max poäng: 0 Epilog Vid sekundär osteoporos är behandlingen främst att åtgärda grundorsaken. Vid fraktur eller hög risk för fraktur bör farmakologisk behandling erbjudas Stina och då bisfosfonater i kombination med tillskott av kalcium och D-vitamin. Ett sätt att skatta frakturrisk är Fracture Risk Assessment Tool (FRAX).",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid sekundär osteoporos är behandlingen främst att åtgärda grundorsaken, vilket gjorts. Vid fraktur eller hög risk för fraktur bör farmakologisk behandling erbjudas och då bisfosfonater i kombination med tillskott av kalcium och D-vitamin.\n\nFall 4 - Kirurgi"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-6",
+          "context": "För sina svåra besvär av värk och sömnstörning orsakat av knäledsartros överenskommer ni om remiss för ställningstagande till ortopedisk kirurgi. Några månader senare kommer Stina på nytt till dig på vårdcentralen då hon noterat förändrade avföringsvanor i mer än tre månader. Avföringen har varit omväxlande hård och lös. Vikten är oförändrad. Vid klinisk undersökning noterar du att buken är mjuk och oöm, utan patologiska resistenser och per rektum känns inget onormalt med brun feces på handsken. Fråga 3.6.1. Nämn tre lämpliga prover som kan stärka misstanken om tumörsjukdom.\n\nFall 3. Fråga 3.6.2. Max poäng: 1.5 För sina svåra besvär av värk och sömnstörning orsakat av knäledsartros överenskommer ni om remiss för ställningstagande till ortopedisk kirurgi. Några månader senare kommer Stina på nytt till dig på vårdcentralen då hon noterat förändrade avföringsvanor i mer än tre månader. Avföringen har varit omväxlande hård och lös. Vikten är oförändrad. Vid klinisk undersökning noterar du att buken är mjuk och oöm, utan patologiska resistenser och per rektum känns inget onormalt med brun feces på handsken.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-6-1",
+              "text": "Nämn tre lämpliga prover som kan stärka misstanken om inflammatorisk tarmsjukdom.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tumör: Hb, CRP och f-Hbx3."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-2",
+              "text": "Nämn tre lämpliga prover som kan stärka misstanken om inflammatorisk tarmsjukdom.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inflammatorisk tarmsjukdom: Hb, CRP, calprotectin och albumin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-3",
+              "text": "Med anledning av Stinas ändrade avföringsvanor, hur tolkar du svaren på fHb, Hb, CRP, albumin och f-Calprotectin?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "En viss risk för tumörsjukdom kvarstår och risken för inflammatorisk tarmsjukdom är försumbar"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-4",
+              "text": "För sina svåra besvär av värk och sömnstörning orsakat av knäledsartros överenskommer ni om remiss för ställningstagande till ortopedisk kirurgi. Några månader senare kommer Stina på nytt till dig på vårdcentralen då hon noterat förändrade avföringsvanor i mer än tre månader. Avföringen har varit omväxlande hård och lös. Vikten är oförändrad. Vid klinisk undersökning noterar du att buken är mjuk och oöm, utan patologiska resistenser och per rektum känns inget onormalt med brun feces på handsken. Initial utredning med anledning av förändrade avföringsvanor visar f-Hb 1 påvisbar och 2 ej påvisbara, Hb 126 g/L (120-150), CRP <5 (<5), P-albumin 40 g/L (34-45) f-Calprotectin 30 mg/kg (<50). Övriga allmänna prover som analyserades visade: P-glucos 6,3 mmol/L (4,0-6,0), P-kreatinin 57 umol/L (45-90), P-Calcium 2,59 mmol/L (2,152,50), P-ALAT 0,37 ukat/L (0,15-0,75), P-ASAT 0,45 ukat/L (0,25-0,60), P-ALP 1,4 ukat/L (0,7-1,9), P-GT 0,20 ukat/L (0,15-1,20).\n\nDin bedömning är att en viss risk för tumörsjukdom kvarstår och att risken för inflammatorisk tarmsjukdom är försumbar. Ni överenskommer att fortsätta utredningen av de förändrade avföringsvanorna och kompletterar laboratorieutredningen med rektoskopi. 3.6.4. Beskriv indikationen för rektoskopi, förberedelse och hur undersökningen genomförs.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Utesluta patologi i rektum där kolontumör är vanligast och där radiologisk undersökning är osäker. Förberedelse med laxermedel lokalt distalt på undersökningsdagen och ökat vätskeintag dagen före undersökningen. Efter att palpation per rektum är utförd införs ett rakt rektoskop genom anus och skjuts under okulär besiktning upp genom rektum."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-5",
+              "text": "Nämn två laboratorieprover, utöver förnyat P-Calcium, för att komplettera utredningen av Stinas förhöjda P-Calciumvärde?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "P-Calciumjonaktivitet (fritt calcium) eller korrigerat kalcium och parathormon (PTH)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-6",
+              "text": "Hur tolkar du svaret från dessa blodprovsanalyser, vilken är den troligaste diagnosen och hur väljer du utifrån diagnosen att handlägga patienten?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lätt till måttlig primär hyperparatyreoidism troligen sedan flera år. För fortsatt handläggning konsulteras endokrinolog eller motsvarande."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-6-7",
+              "text": "Varför rekommenderas en DXA? Motivera.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Den konstant förhöjda parathormonnivån ökar rekryteringen av P-Calcium från skelettet och utveckling av sekundär osteoporos som följd. DXA-mätning utförs för att bedöma om osteoporos föreligger."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Kirurgi",
+      "points": 20,
+      "intro": "Du arbetar som jourhavande kirurg på ett mellansvenskt lasarett en lördag eftermiddag. Kirurgsköterskan ber dig gå in till en ung kvinna som kommit in efter att ha skadat höger hand när hon åkte pulka i en närliggande skidbacke. Hon är opåverkad men har ett ganska djupt skärsår som börjar mellan ring- och långfinger och går ut mot handflatan (se Figur). Hon berättar att hon skurit sig på den vassa pulkakanten när hon åkte omkull för cirka två timmar sedan. Hon har inga övriga tecken på skada och du bedömer att det är en isolerad handskada.\n\nSåret glipar något och går ned i mjukdelarna under huden. Den blåfärgade ytan markerar sårets utbredning.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": "/images/exams/2022-08/fall4_sar_hand.jpg",
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Vilka kontroller behöver du göra innan Du tar ställning till behandling?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Grad av kontamination, känselbortfall distalt om skadan, motorik i fingrar, cirkulation (0.5p) för varje rätt svar. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Vilken utrustning för själva sutureringen behöver du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Nålförare, klopincett, monofil icke resorberbar sutur av dimension 4.0 eller 3.0, sax. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Hur planerar du att bedöva såret? Ange preparat och motivera ditt val.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Infiltrationsanestesi med Xylocain eller motsvarande med eller utan adrenalin (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-4",
+              "text": "Redogör för den principiella verkningsmekanismen av Xylocains anestetiska effekt på molekylär nivå.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lidokain blockerar impulsledningen i nervfibrerna reversibelt genom att hämma transporten av natriumjoner genom nervmembranet. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-5",
+              "text": "Vilken suturteknik bör användas (0.5p) och vilken ytterligare behandling bör ges innan hon kan lämna sjukhuset (0.5p)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Enstaka suturer. Tetanusvaccination om inte detta nyligen är givet. 1p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-6",
+              "text": "Vad misstänker du och hur ska det behandlas?\n\nEpilog Max poäng: 0 Epilog Patienten opereras med spolning av senskida, antibiotikabehandling och följs upp avseende rehabilitering av skadan. Vid uppföljning är hon helt återställd efter 6 månader",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-08/fall4_finger_infektion.jpg",
+              "facit": [
+                "Infektiös tendovaginit. Antibiotika och spolning av senskida (2p) 2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Följande vecka är du schemalagd på kirurgmottagningen. Nästa patient på listan är en 45-årig tidigare frisk man som söker på grund av en knöl på ryggen. Han har haft den så länge han kan minnas. Den kan ha ökat något i storlek senaste året men inte dramatiskt. Anledningen att han söker är att han fick ett gymkort i julklapp och knölen irriterar när han tränar på gymmet. Vid undersökning finner du en cirka 3x2 cm stor rörlig, oöm och välavgränsad resistens som ligger subkutant.",
+          "contextImageUrl": "/images/exams/2022-08/fall4_knol.jpg",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Du bestämmer dig för att excidera knölen i lokalbedövning. Ange minst två viktiga frågor att ställa till patienten innan du börjar?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fråga om han äter antikoagulantia eller har blödningsbenägenhet och om allergi för lokalbedövning (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vilka kirurgiska-anatomiska faktorer måste du ta hänsyn till för att uppnå ett gott resultat? Ange minst fyra för maximal poäng.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Incision parallellt med Langerhans linjer, undvika för stor hudexcision, god hemostas, radikalitet det vill säga fullständig excision av knölen, adaptation av hudkanterna (0.5p per korrekt aspekt, maximalt 2p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "context": "Följande torsdag kväll är det åter dags att gå jour. Den första patienten du bedömer är en 60-årig kvinna med kraftig övervikt (BMI 52), diabetes typ 2 och kronisk obstruktiv lungsjukdom. Hon har en ömmande svullnad i vänster ljumske sedan cirka ett dygn. Den ligger cirka 1 cm lateralt om a. femoralis och förändringen mäter ungefär 2x2 cm.",
+          "contextImageUrl": "/images/exams/2022-08/fall4_ct_buk.jpg",
+          "questions": [
+            {
+              "id": "4-3-1",
+              "text": "Vilka två differentialdiagnoser bör du ha i åtanke?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Subkutan abscess och ljumskbråck (1p)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-2",
+              "text": "Hur gör du bäst det och vilka andra utredningsresultat behöver du för att planera den akuta handläggningen?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT buk/bäcken, kropptemperatur, puls, blodtryck, allmänpåverkan, LPK, CRP. B-glukos (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-3",
+              "text": "Behövs ytterligare provtagning? I så fall vilken?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ja, blododling (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-4",
+              "text": "Du bedömer att hon har en allvarlig mjukdelinfektion. Vilken läkemedelsbehandling för att behandla infektionen är indicerad? Ange preparat och motivera.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-08/fall4_hudinfekt.jpg",
+              "facit": [
+                "Bensylpenicillin 3g x 3 + Klindamycin (Dalacin) 600 mg x 3 i.v. Du misstänker fokus från huden och vill täcka streptokocker och stafylokocker.)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-3-5",
+              "text": "Hur planerar du den akuta kirurgiska behandlingen? Beskriv i detalj hur du gör. Motivera ditt val av teknik.\n\nEpilog Max poäng: 0 Epilog Du bestämmer dig för incision i narkos och efter uppvätskning och iv antibiotika görs en incision i höger ljumske på operation. Det tömmer sig rikligt med pus och du tar en sårodling. Nästa dag är patienten förbättrad och feberfri.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Incision i lokalbedövning eftersom detta är en snabb åtgärd och ett mindre trauma. Alternativt incision i narkos eftersom detta är mindre smärtsamt och ger större möjligheter att göra ett bra dränage. Palpera att abscessen är helt tömd. Skölj med koksalt. Lämna såret efter incisionen öppen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

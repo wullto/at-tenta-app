@@ -1,0 +1,808 @@
+{
+  "id": "2022-02",
+  "title": "AT-prov februari 2022",
+  "date": "2022-02-25",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": "Efter genomförd AT ha du börjat som legitimerad underläkare på psykiatriska kliniken i staden. Det är lördag och du har dagjour på psykiatriska akutmottagningen. Din första patient är Peter som söker tillsammans med sin syster Anna.\n\nPeter är 22 år gammal och studerar datavetenskap på högskolan. Det finns inga tidigare journaler på Peter. Under samtalet är det Anna som börjar beskriva sin oro för sin bror. Efter att ha tjatat på sin broder ett tag gick han till slut med på att följa med till sjukhuset. Anna berättar att hon tycker Peter har förändrat sin personlighet senaste två veckorna. Hon får meddelanden från honom dygnet runt med storslagna idéer om att starta upp ett nytt Facebook. Hon upplever honom som disträ och lättirritabel. Vanligtvis är Peter en mycket lugn och stabil person.\n\nPeter själv ställer sig helt oförstående till sin systers oro. Han följde med till sjukhuset för att göra henne nöjd. Med stor entusiasm och inlevelse börjar han sedan beskriva sina affärsplaner för dig. Efter ett tag lyckas du avbryta Peter för att gå vidare med ett antal frågor.\n\nFör att kunna göra en grundläggande psykiatrisk bedömning behöver du tydligare penetrera anamnesen.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Ange 3 anamnestiska uppgifter som du i detta skede måste fråga om och motivera varför. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Viktiga uppgifter kan vara hereditet för psykisk sjukdom i släkten.",
+                "Användning av droger.",
+                "Tidigare psykisk ohälsa (depressiva perioder).",
+                "Penetrering av sömnanamnes.",
+                "Aktuella läkemedel.",
+                "Suicidalitet (aktuell och tidigare).",
+                "Tidsduration av symptombild.",
+                "För full poäng krävs dels viktig anamnestisk uppgift av betydelse för aktuellt fall, dels rimlig motivering."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Vad bedömer du är den mest sannolika diagnosen utifrån anamnes och klinisk bild? Motivera med 3 symptom som stöder ditt diagnosförslag. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hypomani är den mest sannolika diagnosen. Baseras på irritabilitet som är ett av tre huvudkriterier för mani (tillsammans med ökad energi, aktivitet eller rastlöshet, och förhöjt stämningsläge). Utöver detta ska 4 av följande symptom förekomma; minskat behov av sömn, talträngdhet, lätt distraherad, ökad målinriktad aktivitet (omdömeslöst affärsprojekt), bristande sjukdomsinsikt. Symptomen förefaller inte i nuvarande tillstånd lett till allvarlig funktionsnedsättning samt psykotiska symptom föreligger ej vilket talar emot mani."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-3",
+              "text": "Ange 2 rimliga differentialdiagnostiska tillstånd som du alltid måste beakta vid den symptombild som Peter presenterar. Motivera ditt svar. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Mani (bipolär sjukdom), substansbrukssyndrom eller drogutlösta symptom. Rimlig motivering krävs för varje svarsförslag för full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-4",
+              "text": "Beskriv kortfattat ditt förslag på vidare handläggning. Svaret skall innehålla lämplig uppföljning med tidsram och vårdnivå. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "För full poäng bör man ange:",
+                "1. Att patienten skall följas upp i psykiatrin (öppenvård eller heldygnsvård).",
+                "2. Man bör förklara om vårdintyg är indicerat samt 3. Ange rimlig uppföljningsplanering för patienten ur tidsperspektiv."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-5",
+              "text": "Utifrån anamnes och aktuellt tillstånd vad är din preliminära bedömning att Peter lider av? Motivera ditt svar. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det mest sannolika är att Peter drabbats av en akut mani. Andra tillstånd som exempelvis akut psykos (eventuellt substansutlöst) kan vara rimligt. För full poäng kräves diagnos och rimlig motivering."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-6",
+              "text": "Vad gör du för att säkerställa att Peter blir bedömd av läkare? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du är väl insatt i Peters sjukhistorik och har ju träffat honom tidigare. Som läkare i allmän tjänst kan du begära biträde av polis för handräckning av Peter till akutmottagningen för att genomföra undersökning för vårdintyg enligt 47§ andra stycket första punkten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-7",
+              "text": "Beskriv kortfattat din vidare handläggning av Peter i akutskedet. Motivera din handläggning. (4 p)",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Peter lider av en mani vilket är en allvarlig psykisk störning. Du bedömer att han i nuvarande tillstånd har ett oundgängligt behov av psykiatrisk heldygnsvård och att det finns grundad anledning att nödvändig vård (inkluderat medicinering) inte kan ges med Peters samtycke, trots att han accepterar ditt förslag om inläggning. Du bör i detta fall skriva ett vårdintyg enligt §4 lagen om psykiatrisk tvångsvård."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-8",
+              "text": "Ge två förslag på akut medicinsk behandling du kan ge på akutmottagning till Peter? Ange lämplig medicinering att ge per oralt, samt lämplig medicinering om tvångsadministration är nödvändigt. Motivera ditt val av läkemedel. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid akut agitation/mani; Prova att ge frivilligt (peroralt) i första hand; ex. olanzapin. I andra hand med tvång om nödvändigt, ex. lorazepam im, kombination haloperidol/prometazin im.",
+                "Sömnmedicin; t.ex nitrazepam, levopramazin per oralt.",
+                "För full poäng krävs lämpliga preparat och motivering."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-9",
+              "text": "Beskriv kortfattat hur den aktuella situationen måste hanteras. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Bedömning av vårdintyget och §6b beslut bör ske skyndsamt av läkare med chefsöverläkardelegation (bakjour/specialistjour). Tvångsmedicinering och avskiljning bör också övervägas med tanke på den aktuella situationen. (Som legitimerad läkare kan du fatta beslut om tvångsåtgärder enligt §6a innan intagningsbeslut fattats av chefsöverläkare)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Internmedicin",
+      "points": 20,
+      "intro": "Du tjänstgör på akutmottagningen som AT-läkare och handlägger en dam som inkommit med remiss från sin allmänläkare med ett svullet ben.\n\nUlla-Britt är 76 år gift. Hon har varit rökare och hon är pensionerad lärare. De klarar sig bra utan hjälp i hemmet. Hon har hypertoni och typ 2 diabetes men inte några andra kroniska sjukdomar. Hon söker sjukvård då vänster ben svullnat sedan några dagar men hon kan inte precisera exakt när eller hur det började. Benet är svullet distalt i underbenet som ömmar lite vid tryck. Hon kontaktar sin allmänläkare som remitterar henne till akuten.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vilken är den sannolikaste diagnosen som allmänläkaren angivit på remissen till akutmottagningen? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Diagnosförslaget på remissen är djup ventrombos (DVT)?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Ange två viktiga anamnestiska uppgifter du behöver för att bedöma hennes symtom. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tidigare venös trombos, nyligen genomgått något kirurgiskt ingrepp, varit inlagd på sjukhus, varit skadad, varit sängliggande eller immobiliserad av någon anledning eller finns annat medicinskt tillstånd med ökad risk för venös trombos, till exempel cancersjukdom, stroke med pareser, infektionssjukdom, reumatisk eller annan systemsjukdom, systemisk östrogenbehandling, uttalad artros, grav övervikt, kroniskt obstruktiv lungsjukdom (KOL) eller annan allvarlig hjärtkärlsjukdom?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-3",
+              "text": "Nämn två andra diagnoser du alltid bör överväga vid denna typ av symtom. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Andra diagnoser att överväga vid svullet och smärtande underben är perifer arteriell kärlsjukdom, claudicatio intermittens, Bakercysta eller artros, traumatisk skada/fraktur med eller utan hematom, artritsjukdom eller tillstånd med perifert ödem, till exempel. försämrad hjärtsvikt, njursvikt och läkemedelsbiverkningar. Vid anamnes på tidigare trombos kan posttrombotiska förändringar och venös insufficiens eventuellt förklara en ökad svullnad. Lungemboli är en konsekvens av DVT och bör alltid bedömas vid DVT-utredning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-4",
+              "text": "För att komma vidare i diagnostiken av eventuell DVT så genomför du en klinisk sannolikhetsbedömning enligt Wells. Ange två statusfynd som ingår i Wells score. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I Wells score ingår följande statusfynd: helbenssvullnad, vadomfång >3 cm större på symtomatiska sidan, pittingödem på symtomgivande sidan, kollateralflöde i ytliga icke-varikösa kärl, och lokaliserad ömhet längs djupa vensystemet. Rodnad och värmeökning ingår inte som statusfynd i Wells score."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-5",
+              "text": "Vilken cut-off-nivå, beslutsgräns i antal poäng, finns i Wells score för att sannolikheten för DVT ska anses som hög? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Cut-off-nivån för hög sannolikhet för DVT är 2 poäng eller mer i Wells score."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-6",
+              "text": "Ange en anamnestisk uppgift som inte ingår i Wells score men som kan ha betydelse för sannolikheten att patienten har en DVT. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Östrogenbehandling, p-piller, annan hormonbehandling, graviditet, hereditär koagulationsrubbning, pågående cytostatika, nylig covid-19-infektion, inflammatorisk tarmsjukdom. Pågående antikoagulantiabehandling ingår inte i Wells score och innebär att sannolikheten är lägre för venös trombossjukdom. Hög ålder är en riskfaktor för venös trombos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-7",
+              "text": "Vilken undersökning eller provtagning är mest adekvat att gå vidare med med dessa fynd? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ett ultraljud med duplexteknik beställs på kliniskt fysiologiska laboratoriet på sjukhuset och patienten får en tid inom en timme. Alternativa undersökningar är ultraljud på akutmottagning eller flebografi på röntgenavdelning. D-dimer bör inte tas vid DVT-misstanke om den kliniska sannolikheten enligt Wells score är hög."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-8",
+              "text": "Vilka blodprover är mest adekvata att ta på akutmottagningen? Ange de tre viktigaste proverna och motivera dina val. (3 p)",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Blodstatus, främst Hb och TPK, samt kreatinin/eGFR behövs för att avgöra vilken behandling patienten bör ha och vad som är säkrast. Vid anemi och trombocytopeni ökar risken för blödning vid insättande av antikoagulantia. Nedsatt njurfunktion innebär att man eventuellt behöver dossänka antikoagulantia.",
+                "Övriga prover som kan övervägas är leverstatus (ASAT/ALAT, PK, mm) om det finns anamnetiska uppgifter om leverpåverkan. Påverkad leverfunktion ökar risken för biverkningar av antikoagulantia. D-dimer ska INTE beställas eller tas när man har en hög sannolikhet för DVT enligt Wells score utan då ska en diagnostisk undersökning genomföras så snabbt som möjligt."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-9",
+              "text": "Hur lägger du upp behandlingen den närmaste tiden? Ange preparatgrupp eller generiskt namn på läkemedel, doseringsprincip och efterföljande dos (0,5 p) samt ange kortfattat verkningsmekanism för valt preparat (0,5 p).",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hon har en okomplicerad DVT och behandling inleds direkt på akuten med NOAK (nya orala antikoagulantia eller DOAK, direktverkande orala antikoagulantia), antingen apixaban (Eliquis) i laddningsdos 5 mg 2x2 i en vecka därefter 5 mg 1x2, eller rivaroxaban (Xarelto) med laddningsdos 15 mg 1x2 i tre veckor, därefter 20 mg 1x1. Båda dessa preparat är hämmare av koagulationsfaktor Xa.",
+                "Alternativt kan man ge LMH (lågmolekylärt heparin) i subkutana injektioner. Exempel på LMH är dalteparin (Fragmin) och tinzaparin (Innohep). LMH ges i viktanpassad dos i endossprutor och behöver dosreduceras vid njursvikt, trombocytopeni, med mera. LMH verkar genom att främja antitrombins hämning av de aktiverade koagulationsfaktorerna, främst faktor Xa.",
+                "Trombinhämmaren (faktor II) dabigatran (Pradaxa) och faktor Xa-hämmaren edoxaban (Lixiana), är också godkända för behandling av okomplicerad DVT, men först efter minst 5 dygn med LMH subkutant eller ofraktionerat heparin intravenöst. Insättning av anti-vitamin-K-medlet warfarin/Waran rekommenderas inte i detta fall på akutmottagningen, men kan eventuellt bli aktuellt längre fram."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": "Ulla-Britt planeras att skrivas ut till hemmet med ordinerat antikoagulantia i tablettform enligt rekommendation, recept är skrivet. Innan hon hinner hämta ut sina tabletter på sjukhusapoteket så får hon plötsligt akut andnöd, obehag i bröstet och hjärtklappning och måste sätta sig ner. Apotekspersonalen ringer på akutlarm och hon förs snabbt till akutrummet. Hon har där andningsfrekvens på 28/min. Lungorna auskulteras utan biljud, saturationen är 90% utan syrgas, hjärtfrekvensen är 110/min och blodtrycket 120/80 mm Hg. Hon är lite gråblek men vaken och talbar.\n\nEn blodgas tas, liksom EKG och ni planerar en kompletterande behandling och utredning.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "Vad har hänt? Ange en viktig diagnos att misstänka nu på akutrummet. (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ulla-Britt hann aldrig hämta ut sitt recept på sjukhusapoteket och fick ingen akutbehandling på akutmottagningen, på grund av lång väntetid. Hon har mycket sannolikt fått en lungembolisering, med emboli från den trombotiserade vena femoralis till lungartärerna, vilket ger en cirkulatorisk och respiratorisk påverkan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "Vilken akutbehandling ger du? Ange preparat och administrationssätt. (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du bör ge intravenöst ofraktionerat heparin i en bolusdos på 5 000 E intravenöst samt ordinera syrgas på mask med mål att ha saturation >95%. Vi hög-risk LE rekommenderas att ge iv heparin före diagnostiska undersökningar."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "Vilken eller vilka diagnostiska undersökningar bedömer du behöver göras i detta skede? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du bör beställa en akut datortomografi lungartärer (DTLA) med kontrast och om möjligt göra en akut ekokardiografi, om möjligt på akutrummet, detta får dock inte förhindra akut inläggning, helst på intensivvårdsenhet (HIA/IVA) för övervakning. DTLA visar segmentella lungembolier i flera artärer men inga tecken på högerkammarbelastning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-4",
+              "text": "Vilket är det mest typiska patologiska blodgasfyndet vid lungemboli, ange två fynd. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Det mest typiska patologiska blodgasfyndet vid lungemboli är hypoxi med sänkt pO2 och samtidig hypokapni med sänkt pCO2 som kompensationsmekanism, hyperventilation. Det vanligaste blodgasfyndet vid LE är att det är normalt, dvs kroppen kan kompensera hypoxin som uppstår."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-5",
+              "text": "Patienter med akut lungemboli bör riskstratifieras, detta för att avgöra risken för tidig mortalitet. Hur riskstratifierar du patienten och vad blir din bedömning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Enligt European Society of Cardiology (ESC) Guidelines 2019 är fynd av klinisk chock, förhöjd sPESI, dvs \"simplified Pulmonary Embolism Severity Index\", högerkammarbelastning på ekokardiografi eller DTLA samt patologiskt förhöjt proNT-BNP och/eller troponin-T förenligt med sämre prognos. sPESI är en prognostisk score som ger 1 poäng var för ålder >80 år, saturation <90%, systoliskt blodtryck <100 mm Hg, hjärtfrekvens >110/min samt poäng för förekomst av hjärtlungsjukdom eller cancer.",
+                "Noll (0) eller max 1 poäng på sPESI innebär bättre prognos än högre poäng. Alla patienter med LE bör riskstratifieras enligt sPESI och ovan nämnda markörer innan beslut om behandling i akutskedet. Förutom ovan kan också EKG användas i bedömningen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "context": "På avdelningen är Ulla-Britt stabil och frågan kommer upp om orsaken till hennes trombossjukdom. Någon koagulationsrubbning är inte känd i familjen och hon har inte haft trombos förut. Din överläkare rekommenderar att du gör en klinisk \"malignitetsscreening\" med utvidgat status och frågar efter B-symtom, mm.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-3-1",
+              "text": "Vad menas med B-symtom? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "B-symtom är kliniska fynd som för misstankarna mot malign sjukdom och kan leda utredningen åt rätt håll. B-symtom förekommer hos cirka en tredjedel av patienterna med Hodgkins lymfom, och används ofta som initial anamnestisk screening vid malignitetsutredning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-2",
+              "text": "Ange tre (3) B-symtom. (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Klassiska B-symtom är oförklarlig viktnedgång, svängande eller fluktuerande feber och nattsvettningar. Ulla-Britt anger att hon gått ned några kg i vikt de senaste veckorna och att hon är tröttare än vanligt, aptiten är sämre, och dessutom är avföringen annorlunda och hon har eventuellt sett lite blod vid något tillfälle. Kliniskt status ger inte mycket mer, det finns inga patologiska lymfkörtlar på hals eller i ljumskar. I buken palperas levern lätt förstorad, icke-ömmande. Det genomförs inte någon rektalundersökning eller undersökning av brösten."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-3",
+              "text": "Du ordinerar utvidgade blodprover. Vilket enskilt blodprov har sannolikt störst betydelse för din möjlighet att identifiera en bakomliggande malign sjukdom hos Ulla-Britt? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Fynd av anemi, lågt hemoglobin, Hb, har sannolikt störst betydelse för möjligheten att hitta en malign sjukdom via blodprovsscreening. Oförklarlig anemi bör alltid utredas.",
+                "Ulla-Britt har ett Hb på 104 dag 3, en mikrocytär anemi med lågt MCV. Vid ankomsten var Hb 110 g/L. Leverprover visar lätt påverkan på transaminaser med ASAT på 1,8 och ALAT på 1,9 mekv/L, PK(INR) är 1,1. Övriga blodprover är normala, b-glukos 12."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-4",
+              "text": "Vilken kompletterande utredning bedömer du med dessa fynd vara lämpligast att genomföra? Ange en (1) undersökning. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ulla-Britt kunde gå hem med information om att kompletterande utredning av hennes tarm var nödvändig, där vi skrev remiss för koloskopi att genomföra på endoskopiskt centrum inom kort. Det beställdes även en datortomografi DT buk med kontrast med frågan malign sjukdom i tarm eller lever, tecken på metastaser?"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-5",
+              "text": "Hur bör du göra med hennes behandling av trombossjukdomen med dessa fynd? Bör den ändras och i så fall till vad och varför? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vi ändrade hennes medicinering till enbart LMH, i viktanpassad dos med endossprutor, detta för att NOAK kan innebär större risk för blödning från en eventuell tumör i tarmen. Dessutom bör NOAK vara utsatt inför koloskopi där man eventuellt gör ett vävnadsprov/biopsi, detta för att förhindra blödning från tarmen vid undersökningen.",
+                "NOAK kan ges vid vissa cancerassocierade trombossjukdomar i kliniskt lugnt skede, det vill sägas när blödningsrisken är låg, blodstatus stabilt och det inte finns uppenbar interaktionsrisk med cytostatika eller dylikt samt att magtarmfunktionen är normal. Metformin bör pausas inför kontrastförstärkt DT."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-3-6",
+              "text": "Vad bör du skriva i hennes utskrivningsmeddelande och tala om för henne att vara uppmärksam på inför planerad utredning med uppföljande besök på medicinmottagning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "I utskrivningsmeddelandet anges tydligt att hon fått en trombossjukdom där grundorsaken måste utredas ytterligare. Hon bör vara uppmärksam på blödningssymtom och söka akut om hon får bröstsmärtor, svår andnöd, svimningssymtom, blödning ur tarmen, urinen el dylikt. Hon bör undvika acetylsalicylsyra (ASA) och antiinflammatoriska läkemedel av typ NSAID."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Kirurgi",
+      "points": 20,
+      "intro": "En 58-årig för övrigt frisk kvinna söker för högersidiga knäsmärtor som uppträder vid belastning och trappgång. Besvären ökar om patienten har gått mycket under en dag.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Vilken diagnos ligger närmast till hands? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Knäartros."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Vilken differentialdiagnos måste du tänka på och hur kan du med en enkel klinisk undersökning avgöra varifrån smärtorna kommer? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Besvären kan vara utlösta från en artros i höftleden. Klinisk undersökning med rotation av höftleden i 90-graders flexion avgör om det föreligger en så kallad refered pain. Om rörligheten i höftleden är fri kan engagemang från denna led uteslutas."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Vad råder du patienten? Nämn 4 alternativ. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Ett BMI på 33 bidrager till smärtproblematiken! Förändrade levnadsvanor som leder till viktreduktion. Riktad fysioterapi med hjälp av artrosskola eller fysioterapeut. Smärtstillande medicinering. Ortosbehandling med valgiserande knäortos, cortisoninjektion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Vad har hänt och vad blir dina åtgärder? Vad kommer att ske på sjukhuset? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten har en djup infektion. I detta läge är det enda rätta att skicka patienten till opererande sjukhusakutmottagning med en remiss med önskan om revisionskirurgi. Odlingar tas intraartikulärt, en synovektomi och byte av lösa komponenter genomföres. Antibiotikabehandling tidigast efter tagna djupa odlingar. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "context": "En 72-årig man söker för smärtor i ländryggen sedan 6v. Han bekymras av att han har nattlig värk. Han har opererats för spinal stenos för cirka 20 år sedan och har haft bra effekt av ingreppet. I övrigt är han frisk och tar inga mediciner.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-2-1",
+              "text": "Hur vill du penetrera anamnesen? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Övriga symtom? Miktionsbesvär? Avföringsvanor? Buksmärtor? Bröstsmärtor? Andningsbesvär? Anamnes på tobakskonsumtion. Gångförmåga och finmotorik. Allmänna symtom såsom viktnedgång, feber, svettningar. Minst 4 alternativ. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-2",
+              "text": "Hur kompletterar du status? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Per rektumpalpation, distalstatus i samtliga extremiteter, scanning av urinblåsan. (1.5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-3",
+              "text": "Hur fortsätter du din kliniska undersökning? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Palpation längs kärlsträngen och undersökning med Hohmans tecken. (1p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-4",
+              "text": "Vilka differentialdiagnoser tänker du på hos denna patient? Tänk i helhetsperspektivet. (4 p)",
+              "maxPoints": 4.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Denna patient har en anamnes som för misstanken till en metastas. Detta måste utredas med bildgivande metoder; slätröntgen - ct – magnetkamera (gold standard). Vidare föreligger misstanke på djup ventrombos; utreds med ultraljud. Det kan naturligtvis föreligga andra processer i ryggen såsom infektion, degeneration. (4p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-2-5",
+              "text": "Hur utreder du patienten vidare? Vilka labprover vill du ha? Vilka radiologiska undersökningar? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lab: Hb, röda och vita blodkroppar, CRP, SR, Krea, calcium, urinsticka. Röntgen: ultraljud av ben, CT/slätröntgen rygg eller MR rygg. 4 alternativ. (2p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "context": "En 40-årig kvinna söker på grund av en resistens i vänster bröst som hon upptäckt för några veckor sedan och som ej har försvunnit spontant. Ur anamnesen framkommer att hon har bröstimplantat sedan 15 år. I status finner du att det finns en oöm resistens i yttre nedre kvadranten. Bröstet är inte färg- eller formförändrat. Det finns ingen sekretion ur bröstvårtan. Du palperar en icke förskjutbar oöm resistens.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-3-1",
+              "text": "Vad gör du med denna patient? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Skickar patienten på mammografi. (0.5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-2",
+              "text": "Hur fortsätter du handläggningen? (0,5 p)",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Patienten skickas på ultraljudsledd punktion för cytologisk utvärdering. (0.5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-3",
+              "text": "Hur är den fortsatta handläggningen? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Operation med sektorresektion och \"sentinel node\", antiöstrogenbehandling och strålbehandling. (1.5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-3-4",
+              "text": "När behövs en remiss för genetisk utredning? (1,5 p)",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Om flera medlemmar i den närmaste släkten har drabbats av bröstcancer eller cancer i äggstockar alternativt bröstcancer i låg ålder alternativt bilateral bröstcancer. (1.5p)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicin",
+      "points": 20,
+      "intro": "Du arbetar på en vårdcentral några mil från ett länsdelssjukhus. En överviktig 50-årig man söker dig akut på vårdcentralen då han sedan en vecka märkt stickningar, ömhet och rörelsesmärta i bröstkorgen. Smärtan är lokaliserad mellan de nedersta revbenen på vänster sida om bröstbenet. Obehaget märks vid djupandning och vissa rörelser. Ingen hosta, andfåddhet eller magbesvär. Han berättar att han gjort en magsäcksoperation 2 veckor tidigare för att minska sin övervikt och att han inte tar några mediciner.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Hur vill du komplettera anamnesen avseende besvären från bröstkorgen? Ange 4 relevanta frågor att ställa till patienten. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Feber, Ändrade avföringar, Miktionsbesvär, Illamående, Kräkningar, Korrelation till måltid, Trauma, Tidigare liknande besvär, Andningsbesvär, Typ av fetmaoperation, Komplikation vid operationen, Ont i magen, Trötthet."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Hur vill du komplettera utredningen på vårdcentralen? Motivera svaret? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CRP"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Ange 2 relevanta diagnoser som kan förklara besvären i bröstkorgen. Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Postoperativ komplikation, Abscess, Pleurit, Rizopati, Lungemboli, Aortaaneurysm."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-4",
+              "text": "Hur handlägger du patienten? Vilken ytterligare undersökning beställer du? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Samråd med kirurgjouren och datortomografi thorax/övre buk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "I samråd med kirurgjouren på sjukhuset beställer du en akut datortomografi som visar tillkomst av en postoperativ abscess under diafragma på vänster sida. Fortsatt handläggning sker på kirurgmottagningen.\n\nEfter ett drygt halvår träffar du patienten på nytt. Man har på kirurgen tömt abscessen och behandlat med antibiotika. Denna gång söker han för miktionsbesvär som tillkommit sista månaden. Han har märkt tätare miktioner och han måste gå upp 3 gånger per natt för att kissa.",
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Hur vill du komplettera anamnesen avseende miktionsbesvären? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Igångsättningssvårigheter svag stråle trängningar, känsla av dålig tömning, efterdropp, ökade urinmängder törst."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Ange 4 tillstånd som kan förklara besvären. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Benign prostataförstoring, prostatacancer, urinvägsinfektion, urinretention, diabetes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-3",
+              "text": "Vilka 4 relevanta prover och undersökningar gör du med anledning av miktionsbesvären? (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Urinsticka, PSA, urinodling, bladderscan, krea, palpation per rektum (PR), P-glukos."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-4",
+              "text": "Vilka diagnoser misstänker du med ledning av resultaten? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Urinretention som kan vara betingad av prostatahyperplasi. Diabetes."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-5",
+              "text": "Vilken åtgärd ordinerar du på vårdcentralen med ledning av undersökningsresultaten? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "KAD, diabetesdiagnostik med anledning av glucosuri"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-6",
+              "text": "Hur följer du upp denna åtgärd? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid försök att avlägsna kateter efter 1-2 veckor görs ny bladderscan, remiss till urologen"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-7",
+              "text": "Vilka 2 ytterligare prover ordinerar du med anledning av urinvägssymtomen? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Urinodling. PSA"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-8",
+              "text": "Vilka 4 ytterligare prover ordinerar du med anledning av patientens glukosuri? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Faste P-Glukos, Kreatinin, eGFR, HbA1c, Blodstatus, U-Albumin/kreatininindex, TSH, ev lipidstatus"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-9",
+              "text": "Vilken behandling ordinerar du med ledning av provsvaren? (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Information. Livsstilsåtgärder, metformin"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-10",
+              "text": "Om detta är otillräckligt, vilken ytterligare behandling rekommenderar du patienten för diabetes? Motivera. (1 p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Dietistkonsultation, GLP-1-receptor agonist eller SGLT2-hämmare."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-11",
+              "text": "Hur handlägger du patienten med ledning av lipidvärdena? Vilka målvärden för kolesterol och HbA1c bör patienten nå? Motivera. (2 p)",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Behandling med statin. HbA1c mål 48 mmol/mol. Efter genomförda livsstilsråd kan statindosen justeras för att nå lipidmålen totalkolesterol < 4,5 mmol/l, LDL <1,8 mmol/l vid hög kardiovaskulär risk (eller <1,4 mmol/l vid mycket hög risk)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

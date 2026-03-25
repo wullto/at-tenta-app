@@ -1,0 +1,562 @@
+Examination efter läkares
+allmäntjänstgöring (AT)
+Skriftligt prov
+
+Frågor och Svarsförslag
+till eAT-provet
+26 augusti 2022
+
+Fall 1 - Internmedicin
+Fall 2 - Psykiatri
+Fall 3 - Allmänmedicin
+Fall 4 - Kirurgi
+
+Fall 1 - Internmedicin
+Fall 1, Fråga 1.1.1.
+Max poäng: 4
+
+Du är läkare på medicinmottagningen på ett universitetssjukhus. Klockan är 11.05 och efter en
+kort kafferast passerar du väntrummet där din nästa patient Hubert håller på att registrera sitt
+besök. …..
+Fråga 1.1.1. Ange 3 rimliga akuta potentiellt livshotande differentialdiagnoser (som
+resulterar i olika handläggning) till patientens besvär. Motivera dina förslag. Vilken
+av dessa diagnoser är mest sannolik i detta fall?
+
+Svarsförslag:
+Stroke (pareser), aortadissektion (tar sig mot bröstet), hjärtinfarkt (tar sig mot bröstet).
+Stroke mest sannolik.
+
+Fall 1, Fråga 1.1.2.
+Max poäng: 2
+
+Fråga 1.1.2. Enligt vilket protokoll kommer sannolikt handläggningen göras på
+akuten? Vilken neurologisk funktionsskattningsskala används då?
+
+Svarsförslag:
+Rädda hjärnan, NIH strokeskala (NIHSS)
+
+Fall 1, Fråga 1.1.3.
+Max poäng: 1
+
+Fråga 1.1.3. Nämn två av de viktigaste momenten som bör prioriteras i denna
+funktionsskattningsskala.
+
+Svarsförslag:
+Testa motorik i extremiteter, bedömning av afasi
+
+Fall 1, Fråga 1.1.4.
+Max poäng: 1
+
+Fråga 1.1.4. Vilken bilddiagnostisk undersökning vill du göra akut?
+
+Svarsförslag:
+CT hjärna
+
+Fall 1, Fråga 1.1.5.
+Max poäng: 1
+
+Fråga 1.1.5. Detta är CT hjärna på denna patient. Vad drar du för slutsatser av den
+som är viktiga för handläggningen?
+
+Svarsförslag:
+Normal CT. Ingen blödning. Därför kan trombolys/trombendartärektomi vara aktuell.
+
+Fall 1, Fråga 1.1.6.
+Max poäng: 2
+
+Fråga 1.1.6. Förutom förmaksflimret, vilken är den viktigaste enskilda riskfaktorn för
+stroke som denna patient har, samt vilken typ av stroke är vanligast?
+
+Svarsförslag:
+Hypertoni + Ischemiskt stroke.
+
+Fall 1, Fråga 1.1.7.
+Max poäng: 2
+
+Fråga 1.1.7. Nämn 6 blodprover som bör tas hos denna patient som ingår i rädda
+hjärnan-handläggningen. Vilket av dessa blodprover kan eventuellt avslöja att
+neurologiska symtom ej är på grund av stroke?
+
+Svarsförslag:
+- Hb, LPK, TPK
+- PK (INR), APTT,
+- Glukos (hypoglycemi kan ge neurologiska symtom)
+- Na, K, Krea
+- Leverstatus
+- Blodgruppering/BAS-test om trombolys ges.
+
+Fall 1, Fråga 1.1.8.
+Max poäng: 1
+
+Fråga 1.1.8. CT hjärna visade ej på någon blödning hos denna patient. Vilken
+akutbehandling är indicerad? Motivera kort.
+
+Svarsförslag:
+Trombektomi, Pat står på antikoagulans (NOAK), även om det är oklart hur mycket han tar, vilket
+är en kontraindikation för trombolys.
+
+Fall 1, Fråga 1.1.9.
+Max poäng: 1
+
+Fråga 1.1.9. Patienten har ytterligare en kontraindikation för trombolys. Vilken?
+
+Svarsförslag:
+För högt blodtryck.
+
+Fall 1, Fråga 1.1.10.
+Max poäng: 2
+
+Fråga 1.1.10. Nämn ytterligare fyra kontraindikationer mot trombolys vid stroke
+(gäller alla fall, inte specifikt denna patient)
+
+Svarsförslag:
+1.symtomdebut>4,5h, 2.intrakraniell blödning, 3.endast mindre neurologiska symtom (låg poäng
+på NIHSS), 5.Hög blödningsrisk (känd blödningsbenägenhet, trombocytopeni 6. Krampanfall. 8.
+Blodsocker >22 mmol/l 9. <10 dagar sedan förlossning, punktion av artär eller hjärtmassage. 10.
+<3 mån sedan större kirurgi, GI blödning, större trauma, genomgången stroke.
+
+Dessutom:
+- Bakteriell endokardit
+- Perikardit
+- Akut pankreatit
+- Esofagusvaricer
+- Arteriella aneurysm
+- Arteriella/venösa kärlmissbildningar
+- Tumör med ökad blödningsrisk
+- Allvarlig leversjukdom
+- Pågående eller nyligen genomgången allvarlig blödning
+- Genomgången CNS-skada (t ex tumör eller intrakraniell/spinal kirurgi)
+
+Fall 1, Fråga 1.1.11.
+Max poäng: 1
+
+Fråga 1.1.11. Hur lång tid får maximalt gå från symtomdebut till dess att man inte
+längre skall ge trombolys?
+
+Svarsförslag:
+4.5 h.
+
+Fall 1, Fråga 1.1.12.
+Max poäng: 2
+
+Fråga 1.1.12. Patienten genomgår trombektomi med god effekt. Blodtrycket sjunker
+sedan till acceptabla nivåer. Nämn en typ av läkemedel som han kommer att
+behandlas med förutom sina tidigare läkemedel, samt uppge en
+avbildningsundersökning som bör utföras på honom.
+
+Svarsförslag:
+statiner + UL carotider.
+
+Fall 2 - Psykiatri
+Fall 2, Fråga 2.1.1.
+Max poäng: 0.5
+Du är har nyss fått din legitimation som läkare och har ditt första vikariat vid den psykiatriska
+kliniken på sjukhuset i Småstad. Det är lördag och du är primärjour i psykiatri på en
+sjukhusgemensam akutmottagning. ….
+Fråga 2.1.1. Vilken diagnos har du underlag för?
+
+Svarsförslag:
+Ingen
+
+Fall 2, Fråga 2.1.2.
+Max poäng: 1
+
+Fråga 2.1.2. Vilken preliminär diagnos har du nu underlag för efter denna anamnes
+och undersökning?
+Svarsförslag:
+Fortfarande ingen.
+Se bl a https://lakartidningen.se/aktuellt/patientsakerhet/2006/11/eangesten-uppstod-som-enfoljd-av-de-akuta-brostsmartorna/
+
+Fall 2, Fråga 2.1.3.
+Max poäng: 1
+
+Fråga 2.1.3. Vad bör du göra nu?
+Svarsförslag:
+Låter medicinjouren göra en bedömning av symtombilden.
+
+Fall 2, Fråga 2.1.4.
+Max poäng: 1
+
+Fråga 2.1.4. Nu har du underlag för en sannolik diagnos, vilken?
+Svarsförslag:
+Det rör sig om en panikattack. Paniksyndrom ger 0
+
+Fall 2, Fråga 2.1.5.
+Max poäng: 1.5
+
+Fråga 2.1.5. Vilka diagnoskriterier krävs för att ställa diagnosen paniksyndrom?
+Svarsförslag:
+Återkommande panikattacker.
+Oförutsebara attacker - dvs inte kopplade till vissa situationer
+Sekundära symtom, exv rädsla för att dö, att förlora kontrollen eller att bli sinnessjuk.
+
+Fall 2, Fråga 2.1.6.
+Max poäng: 1
+
+Fråga 2.1.6. Ange två evidensbaserade behandlingsmetoder för paniksyndrom?
+Svarsförslag:
+KBT
+SSRI
+
+Fall 2, Fråga 2.1.7.
+Max poäng: 1
+
+Fråga 2.1.7. Vilka strukturerade diagnostiska instrument finns för att ta ställning till
+psykiatrisk samsjuklighet? Nämn två!
+Svarsförslag:
+SCID
+MINI
+
+Fall 2, Fråga 2.2.1.
+Max poäng: 1
+
+….. Gabriel har blivit alltmer irritabel och vill följa med henne till Boston eftersom han skulle kunna
+tillgodogöra sig tiden där bättre än hon. De senaste nätterna ….
+Fråga 2.2.1. Vilket blir ditt första diagnosförslag?
+Svarsförslag:
+Maniskt skov
+
+Fall 2, Fråga 2.2.2.
+Max poäng: 1
+
+Fråga 2.2.2. Ange även två rimliga psykiatriska differentialdiagnoser?
+Svarsförslag:
+Drogmissbruk
+Annan psykos
+
+Fall 2, Fråga 2.2.3.
+Max poäng: 1.5
+
+Fråga 2.2.3. Vilka tre kriterier krävs för vård enligt denna lag?
+Svarsförslag:
+Lider av en allvarlig psykisk störning.
+Har ett oundgängligt behov av psykiatrisk dygnetruntvård (slutenvård)
+Motsätter sig erbjuden vård alternativt att det finns grundad anledning att anta att vården inte
+kan ges med personens samtycke (LPT 3§)
+
+Fall 2, Fråga 2.2.4
+Max poäng: 1
+
+Fråga 2.2.4. Vilket läkemedel har han mest sannolikt givits för sin bipolära sjukdom
+typ I.
+Svarsförslag:
+Litium
+
+Fall 2, Fråga 2.2.5.
+Max poäng: 2
+
+Fråga 2.2.5. Två allvarliga biverkningar vid litiumbehandling bör kontrolleras extra
+tätt? Vilka är dessa och vilka laboratorieprover bör du ta för att bedöma dem?
+Svarsförslag:
+Njurfunktionspåverkan, progressiv, S-Krea eller motsvarande (0.5+0.5)
+Ämnesomsättningsrubbning: S-TSH (0.5+0.5)
+Hjärtfunktionsstörning (i princip rätt, men i sbd med återinsättning efter försummelse kan man se
+det som av underordnad betydelse - om det inte finns symtom)
+
+Fall 2, Fråga 2.2.6.
+Max poäng: 1
+
+Fråga 2.2.6. Vilken är din lagliga skyldighet att göra när du nås av denna
+information?
+Svarsförslag:
+Orosanmälan enl SoL 14 kap. 1§
+
+Fall 2, Fråga 2.3.1.
+Max poäng: 0.5
+
+… Patienten Amina Svärd är enligt personalen välkänd på grund av frekventa besök efter längre
+perioder med överkonsumtion av alkohol …
+Fråga 2.3.1. Ange ett objektivt instrument som syftar till att skatta graden av
+abstinens?
+Svarsförslag:
+fr a CIWA-Ar. Rätt även för CAGE, TWEAK, RAPS
+
+Fall 2, Fråga 2.3.2.
+Max poäng: 1.5
+
+Fråga 2.3.2. Vilka prover anser du vara viktiga för att bedöma hennes akuta
+somatiska tillstånd? Prioritera de tre som du anser vara viktigast, och motivera.
+Svarsförslag:
+Alkoholkonc (Alkometer) (prio 1 - hur berusad är hon just nu?)
+Elektrolyter (prio 2 -låga S-Na o S-K vanligt - ibland farligt låga)
+Glukos (prio 3 - inte ätit, dåliga sockereserver vanliga vid alkohol- och leversjd)
+Även andra kan motiveras men inte i stället för ovannämnda
+
+Fall 2, Fråga 2.3.3.
+Max poäng: 1
+
+Fråga 2.3.3. Vilka två läkemedel använder du i första hand i detta läge och varför?
+Svarsförslag:
+Oxazepam/diazepam - minska oro och risk för delirium (neuroleptika ger 0)
+Tiamin - förebygga neurologisk skada pga B1-brist
+
+Fall 2, Fråga 2.3.4.
+Max poäng: 1
+
+Fråga 2.3.4. Vilken skillnad finns mellan dessa preparat och vilken betydelse har det
+för behandlingen?
+Svarsförslag:
+Diazepam har mycket längre halveringstid (upp till 70 timmar).
+…..vilket-inebär att behandlingen blir mer svårstyrbar
+
+Fall 2, Fråga 2.3.5.
+Max poäng: 1.5
+
+Fråga 2.3.5. Vilken är generalindikationen för att LVM skall kunna tillämpas?
+Svarsförslag:
+...till följd av ett fortgående missbruk av alkohol, narkotika eller flyktiga lösningsmedel …
+...är i behov av vård för att komma ifrån sitt missbruk…
+...och att vårdbehovet inte kan tillgodoses enligt socialtjänstlagen eller på annat sätt. (LVM 4§)
+
+Fall 3 - Allmänmedicin
+Fall 3, Fråga 3.1.
+Max poäng: 0.5
+
+Vid en vårdcentral möter du som AT-läkare Stina som är 73 år och pensionär. Stina har tidigare
+arbetat som sekreterare, hon är gift, har tre vuxna barn och har aldrig rökt. Stina är fysiskt aktiv
+med cykling och promenader. Hennes far avled vid 50-års ålder av hjärtinfarkt och vid samma
+ålder avled en bror av stroke. Stina har under flera år successivt tilltagande besvär av
+belastningsrelaterad värk medialt i båda knän, mest vänster knä. För ett par år sedan gjordes en
+bedömning och hon rekommenderades en behandling.
+Fråga 3.1. Vilken är den troligaste orsaken till Stinas ledvärk?
+Svarsförslag:
+Knäledsartros
+
+Fall 3, Fråga 3.2.
+Max poäng: 0.5
+
+Fråga 3.2. Vilken behandling är förstahandsval vid artros?
+Svarsförslag:
+Fysioterapi med artrosskola
+
+Fall 3, Fråga 3.3.
+Max poäng: 1
+
+Fråga 3.3. Vilken radiologisk undersökning är förstahandsval och beskriv
+förutsättningar för bästa radiologisk artrosdiagnostik av knän.
+Svarsförslag:
+Röntga knä med belastning i stående
+
+Fall 3, Fråga 3.4.
+Max poäng: 2
+
+Fråga 3.4. Beskriv tre röntgenförändringar som talar för artros i ovanstående bild.
+Svarsförslag:
+Kraftig sänkning av mediala ledspringans vidd, pålagringar på mediala ledytekanten och skleros.
+
+Fall 3, Fråga 3.5.
+Max poäng: 1
+Fråga 3.5. Vilken behandling rekommenderar du Stina? Motivera.
+Svarsförslag:
+Remiss för ortopedisk kirurgi.
+
+Fall 3, Fråga 3.6.1.
+Max poäng: 1.5
+
+Fråga 3.6.1. Nämn tre lämpliga prover som kan stärka misstanken om tumörsjukdom.
+Svarsförslag:
+Tumör: Hb, CRP och f-Hbx3.
+
+Fall 3, Fråga 3.6.2.
+Max poäng: 1.5
+
+Fråga 3.6.2. Nämn tre lämpliga prover som kan stärka misstanken om inflammatorisk
+tarmsjukdom.
+Svarsförslag:
+Inflammatorisk tarmsjukdom: Hb, CRP, calprotectin och albumin.
+
+Fall 3, Fråga 3.6.3.
+Max poäng: 2
+
+Fråga 3.6.3. Med anledning av Stinas ändrade avföringsvanor, hur tolkar du svaren på
+f-Hb, Hb, CRP, albumin och f-Calprotectin?
+Svarsförslag:
+En viss risk för tumörsjukdom kvarstår och risken för inflammatorisk tarmsjukdom är försumbar
+
+Fall 3, Fråga 3.6.4.
+Max poäng: 2
+
+3.6.4. Beskriv indikationen för rektoskopi, förberedelse och hur undersökningen
+genomförs.
+Svarsförslag:
+Utesluta patologi i rektum där kolontumör är vanligast och där radiologisk undersökning är
+osäker. Förberedelse med laxermedel lokalt distalt på undersökningsdagen och ökat
+vätskeintag dagen före undersökningen. Efter att palpation per rektum är utförd införs ett
+rakt rektoskop genom anus och skjuts under okulär besiktning upp genom rektum.
+
+Fall 3, Fråga 3.6.5.
+Max poäng: 1
+
+Fråga 3.6.5. Nämn två laboratorieprover, utöver förnyat P-Calcium, för att
+komplettera utredningen av Stinas förhöjda P-Calciumvärde?
+Svarsförslag:
+P-Calciumjonaktivitet (fritt calcium) eller korrigerat kalcium och parathormon (PTH).
+
+Fall 3, Fråga 3.6.6.
+Max poäng: 2
+
+Fråga 3.6.6. Hur tolkar du svaret från dessa blodprovsanalyser, vilken är den
+troligaste diagnosen och hur väljer du utifrån diagnosen att handlägga patienten?
+
+Svarsförslag:
+Lätt till måttlig primär hyperparatyreoidism troligen sedan flera år. För fortsatt handläggning
+konsulteras endokrinolog eller motsvarande.
+
+Fall 3, Fråga 3.6.7.
+Max poäng: 1
+
+Fråga 3.6.7. Varför rekommenderas en DXA? Motivera.
+Svarsförslag:
+Den konstant förhöjda parathormonnivån ökar rekryteringen av P-Calcium från skelettet och
+utveckling av sekundär osteoporos som följd. DXA-mätning utförs för att bedöma om osteoporos
+föreligger.
+
+Fall 3, Fråga 3.7.
+Max poäng: 1
+
+Fråga 3.7. Hur orsakar konstant förhöjda nivåer av parathormon hyperkalcemi och
+sekundär osteoporos? Beskriv den molekylärbiologiska mekanismen.
+Svarsförslag:
+En konstant förhöjd nivå av parathormon aktiverar benmärgens stromaceller att uttrycka
+cytokinerna RANKL och M-CSF varvid de mångkärniga och stora osteoklasterna rekryteras från
+hematopoetiska osteoklastprogenitorceller och aktiveras på benytor till mångkärniga och stora
+osteoklaster, kroppens enda celler som kan bryta ned ben.
+
+Fall 3, Fråga 3.8.
+Max poäng: 1
+
+Fråga 3.8. Beskriv verkningsmekanismen för osteoklasternas demineralisering av
+skelettet.
+Svarsförslag:
+Demineraliseringen av skelettet sker genom att osteoklasterna surgör benytan genom ökat
+uttryck av en protonpump och en kloridjonkanal varvid pH sjunker och mineralkristaller löses ut i
+den del av cellen som vetter mot resorptionslakunen.
+
+Fall 3, Fråga 3.9.
+Max poäng: 2
+
+3.9. Vid vilka omständigheter bör Stina erbjudas farmakologisk behandling för sin
+osteoporos och i så fall vilken farmakologisk behandling? Motivera.
+Svarsförslag:
+Vid sekundär osteoporos är behandlingen främst att åtgärda grundorsaken, vilket gjorts. Vid
+fraktur eller hög risk för fraktur bör farmakologisk behandling erbjudas och då bisfosfonater i
+kombination med tillskott av kalcium och D-vitamin.
+
+Fall 4 - Kirurgi
+Fall 4, Fråga 4.1.1.
+Max poäng: 2
+
+Du arbetar som jourhavande kirurg på ett mellansvenskt lasarett en lördag eftermiddag.
+
+Såret glipar något och går ned i mjukdelarna under huden. Den blåfärgade ytan markerar sårets
+utbredning.
+Fråga 4.1.1. Vilka kontroller behöver du göra innan Du tar ställning till behandling?
+Svarsförslag:
+Grad av kontamination, känselbortfall distalt om skadan, motorik i fingrar, cirkulation (0.5p)
+för varje rätt svar. (2p)
+
+Fall 4, Fråga 4.1.2.
+Max poäng: 2
+
+Fråga 4.1.2. Vilken utrustning för själva sutureringen behöver du?
+Svarsförslag:
+Nålförare, klopincett, monofil icke resorberbar sutur av dimension 4.0 eller 3.0, sax. (2p)
+
+Fall 1 Fråga 4.1.3
+Max poäng: 1
+
+Fråga 4.1.3. Hur planerar du att bedöva såret? Ange preparat och motivera ditt val.
+Svarsförslag:
+Infiltrationsanestesi med Xylocain eller motsvarande med eller utan adrenalin (1p)
+
+Fall 4, Fråga 4.1.4.
+Max poäng: 1
+
+Fråga 4.1.4. Redogör för den principiella verkningsmekanismen av Xylocains
+anestetiska effekt på molekylär nivå.
+Svarsförslag:
+Lidokain blockerar impulsledningen i nervfibrerna reversibelt genom att hämma transporten
+av natriumjoner genom nervmembranet. (1p)
+
+Fall 4, Fråga 4.1.5.
+Max poäng: 1
+
+Fråga 4.1.5. Vilken suturteknik bör användas (0.5p) och vilken ytterligare behandling
+bör ges innan hon kan lämna sjukhuset (0.5p)?
+Svarsförslag:
+Enstaka suturer. Tetanusvaccination om inte detta nyligen är givet. 1p.
+
+Fall 4, Fråga 4.1.6.
+Max poäng: 2
+
+Patienten söker igen efter 6 dygn med värk i hela handen. Du konstaterar ett ödem över
+handryggen och kraftig svullnad av långfingret.
+
+Hon kan inte aktivt extendera fingret och försök till passiv extension utlöser svår smärta.
+Fråga 4.1.6. Vad misstänker du och hur ska det behandlas?
+Svarsförslag:
+Infektiös tendovaginit. Antibiotika och spolning av senskida (2p) 2p)
+
+Fall 4, Fråga 4.2.1.
+Max poäng: 1
+
+Fråga 4.2.1. Du bestämmer dig för att excidera knölen i lokalbedövning. Ange minst
+två viktiga frågor att ställa till patienten innan du börjar?
+Svarsförslag:
+Fråga om han äter antikoagulantia eller har blödningsbenägenhet och om allergi för
+lokalbedövning (1p).
+
+Fall 4, Fråga 4.2.2.
+Max poäng: 2
+
+Fråga 4.2.2. Vilka kirurgiska-anatomiska faktorer måste du ta hänsyn till för att
+uppnå ett gott resultat? Ange minst fyra för maximal poäng.
+Svarsförslag:
+Incision parallellt med Langerhans linjer, undvika för stor hudexcision, god hemostas,
+radikalitet det vill säga fullständig excision av knölen, adaptation av hudkanterna (0.5p per
+korrekt aspekt, maximalt 2p).
+
+Fall 4, Fråga 4.3.1.
+Max poäng: 1
+
+Fråga 4.3.1. Vilka två differentialdiagnoser bör du ha i åtanke?
+
+Svarsförslag:
+Subkutan abscess och ljumskbråck (1p).
+
+Fall 4, Fråga 4.3.2.
+Max poäng: 2
+
+Fråga 4.3.2. Hur gör du bäst det och vilka andra utredningsresultat behöver du för att
+planera den akuta handläggningen?
+Svarsförslag:
+CT buk/bäcken, kropptemperatur, puls, blodtryck, allmänpåverkan, LPK, CRP. B-glukos (2p)
+
+Fall 4, Fråga 4.3.3.
+Max poäng: 1
+
+Fråga 4.3.3. Behövs ytterligare provtagning? I så fall vilken?
+Svarsförslag:
+Ja, blododling (1p)
+
+Fall 4, Fråga 4.3.4.
+Max poäng: 2
+Fråga 4.3.4. Du bedömer att hon har en allvarlig mjukdelinfektion. Vilken
+läkemedelsbehandling för att behandla infektionen är indicerad? Ange preparat och
+motivera.
+Svarsförslag:
+Bensylpenicillin 3g x 3 + Klindamycin (Dalacin) 600 mg x 3 i.v. Du misstänker fokus från
+huden och vill täcka streptokocker och stafylokocker.).
+
+Fall 4, Fråga 4.3.5.
+Max poäng: 2
+
+Fråga 4.3.5. Hur planerar du den akuta kirurgiska behandlingen? Beskriv i detalj hur
+du gör. Motivera ditt val av teknik.
+Svarsförslag:
+Incision i lokalbedövning eftersom detta är en snabb åtgärd och ett mindre trauma.
+Alternativt incision i narkos eftersom detta är mindre smärtsamt och ger större möjligheter
+att göra ett bra dränage. Palpera att abscessen är helt tömd. Skölj med koksalt. Lämna såret
+efter incisionen öppen.
+
+

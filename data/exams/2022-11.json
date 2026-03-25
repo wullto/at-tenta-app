@@ -1,0 +1,770 @@
+{
+  "id": "2022-11",
+  "title": "AT-prov november 2022",
+  "date": "2022-11-18",
+  "totalPoints": 80,
+  "cases": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "Fall 1 – Psykiatri",
+      "points": 20,
+      "intro": "Du tjänstgör som AT läkare på psykiatriska akutmottagningen när Anders 58 år söker för ångest. Anders berättar att han för fyra dagar sedan drabbades av en kraftig ångestattack på arbetet och gick hem. Dagen efter sjukanmälde han sig då han hade fortsatt svår ångest. Sedan dess har han mest legat i sängen. Han beskriver ångesten som konstant. Anders säger att han trivs på sitt arbete som ekonom och att arbetsbelastningen inte är något problem. Han bor med sin hustru och behandlas via primärvården med ramipril för hypertoni sedan ett par år. Aktuellt blodtryck vid besöket är 142/84 mm Hg, puls 86. Alkoholkonsumtionen är låg, han nekar till att han tar några droger och han röker inte. Du får inte fram någon hereditet för psykiatriska sjukdomar. Du upplever samtalet som lite svårt, Anders tittar mest ner i golvet och svarar kortfattat, är något irritabel och stämningsläget verkar lätt sänkt.",
+      "pages": [
+        {
+          "id": "1-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "1-1-1",
+              "text": "Nämn två ytterligare frågor som du behöver ställa till Anders för att kunna komma vidare i din bedömning. Motivera varför just dessa frågor är viktiga.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Särskilt viktiga frågor: Finns tidigare psykiska besvär – förekomst av sådana kan påverka diagnostik och behandling. Suicidalitet– nu och tidigare (tankar, planer, försök) - kan påverka behandlingsupplägget väsentligt. 0.5 poäng per motiverat svarsförslag. Suicidalitet måste vara med för full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-2",
+              "text": "Hur bemöter du Anders önskemål om alprazolam? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du förskriver inte alprazolam. Preparatet är narkotikaklassat och kraftigt beroendeframkallande. Även om Anders fick god ångestlindring av detta preparat för många år sedan bedöms det inte motiverat med sådan behandling. Istället erbjuder du ett icke beroendeframkallande preparat som hydroxizin, prometazin eller alimemazin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-3",
+              "text": "Redogör för de två huvudsymtomen vid egentlig depression samt vilken duration och frekvens dessa behöver ha för diagnosuppfyllelse enligt DSM-5.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Symtomen ska ha förelegat under samma 2-veckors period och ska ha inneburit en förändring av personens tillstånd. A-kriterier: 1. Nedstämdhet under större delen av dagen så gott som dagligen. Och/eller 2. Påtagligt minskat intresse för eller minskad glädje av alla eller nästan alla aktiviteter under större delen av dagen så gott som dagligen. 0.5 poäng per symtom. 0.5 poäng för duration (minst 2 veckor) 0.5 poäng för frekvens (större delen av dagen så gott som dagligen). Samtliga måste finnas med för full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-4",
+              "text": "Hur resonerar du kring totalsumman 26 poäng på MADRS-S och hur använder du dig av resultatet från skattningsskalan?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Totalsumman 26 poäng kan indikera medelsvår depressiv episod (0.5 poäng). Dock finns bristfälligt underlag för att svårighetsgradera endast utifrån skattningsskala. Poäng på skattningsskalor ska alltid sättas i sitt kliniska sammanhang och vara en del i bedömningen tillsammans med anamnes och status (0.5 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-5",
+              "text": "Vilken farmakologisk behandling mot depression bedömer du vara indicerad i Anders fall? Ange lämpligt preparat, startdos och måldos. Motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sertralin som Anders svarade på förra gången (0.5 poäng). Startdos 50 mg (0.5 poäng). Möjligen kan man motivera 25 mg i ett par dagar vid svår ångest. Måldos minst 100 mg (0.5 poäng) Motivering: Patienter som tidigare har svarat väl på antidepressiv behandling vid depression ska erbjudas återinsatt behandling. Detta har prioritet 1 enligt nationella riktlinjer. (0.5 poäng). (Eftersom endast depressionsbehandling efterfrågas ges ej poäng för anxiolytika eller sömnmedicin)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-6",
+              "text": "Vilken information måste du ge Anders om uppstart av behandling med sertralin och när kan han förvänta sig effekt av behandlingen?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Man måste informera om att patienten kan må sämre i början av behandlingstiden med nytillkomna/ökade suicidtankar (0.5 poäng) samt att det tar ett par veckor innan behandlingen har någon effekt (0.5 poäng). Övriga vanliga biverkningar såsom huvudvärk, illamående samt sexuella biverkningar är naturligtvis också relevanta att nämna men ovanstående måste vara med för full poäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-7",
+              "text": "Ge två exempel på melankoliska symtom vid depression, enligt DSM-5.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Två av följande: 1: förmågan att känna glädje har i stort sett försvunnit helt 2: ingen avledbarhet (reagerar inte alls på positiva stimuli) 3: nedstämdheten har en distinkt kvalitet som utmärks av djupt missmod, förtvivlan och/eller vresighet eller en känsla av fullständig tomhet. 4: nedstämdheten är genomgående värst på morgonen 5: tidigt uppvaknande (minst 2 timmar före vanlig tid) 6: stark psykomotorisk hämning eller agitation 7: betydande aptitlöshet eller viktminskning 8: överdrivna obefogade skuldkänslor. 0.5 poäng per korrekt symtom."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-8",
+              "text": "Hur handlägger du Anders på akutmottagningen? Motivera ditt svar.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Anders bör i detta tillstånd erbjudas inneliggande psykiatrisk vård (0.5 poäng) då försämringen är snabb och han bedöms ha en djup depression med melankoliska symtom, samt nytillkomna suicidtankar och svår ångest (adekvat motivering 0.5 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-9",
+              "text": "Vilka två evidensbaserade behandlingsalternativ vid svår depression är aktuella i Anders fall? Vilken av dessa har starkast indikation? Motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ECT behandling (0.5 poäng). Mycket god och snabb effekt vid djup depression med melankoliska symtom (0.5 poäng). Starkast indikation i detta fall (0.5 poäng) Om Anders ej accepterar detta fortsatt antidepressiv behandling (0.5 poäng). Svagare evidensläge för hur man ska tänka kring val av farmakologisk behandling. Anders har inte stått på setralin särskilt länge men han har under denna tid försämrats avsevärt och har besvärande biverkningar. Det finns goda skäl att byta till ett läkemedel med bredare verkningsmekanism såsom venlafaxin. Fortsatt anxiolytisk behandling är också viktig men behandlar inte själva grundsjukdomen och ger här inte poäng. Psykoterapi ger inga poäng. Evidens för psykoterapi som depressionsbehandling finns vid lindrig-måttlig men inte svår depression."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-10",
+              "text": "Förklara verkningsmekanismen för venlafaxin och mirtazapin.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Venlafaxin (och dess huvudsakliga metabolit O-desmetyl venlafaxin) hämmar återupptaget av serotonin och noradrenalin. (Venlafaxin är också en svag hämmare av dopaminåterupptag). 1 poäng Mirtazapin är en centralt verkande presynaptiska 2 antagonist (0.5 poäng) som ökar noradrenerg och serotonerg transmission (0.5 poäng)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-11",
+              "text": "Hur hanterar du Anders önskemål om att bli utskriven?",
+              "maxPoints": 0.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du samtalar med Anders och försöker resonera med honom att han måste kvarstanna på sjukhus."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-12",
+              "text": "Vilka åtgärder vidtar du nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Du ändrar tillsynsgrad till kontinuerlig tillsyn på grund av akut förhöjd suicidrisk. 0.5 poäng. Du tillkallar legitimerad kollega för hjälp med konverteringsbedömning. 0.5 poäng"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-13",
+              "text": "Vad skiljer vårdintyg för konvertering till psykiatrisk tvångsvård (§11 LPT) från vårdintyg för psykiatrisk tvångsvård (§4 LPT)?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Utöver de tre kriterierna vid §4 måste vid en konvertering enligt §11 även farlighetskriteriet vara uppfyllt. Detta innebär att patienten utgör en akut fara för sig själv eller annan. (Farlighetskriteriet och dess innebörd räcker för poäng. Övriga kriterier behöver ej presenteras eftersom endast skillnaden efterfrågas)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-14",
+              "text": ": Uppge två vanligt förekommande biverkningar av ECT.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Två av: huvudvärk, illamående, muskelvärk, minnespåverkan. Samtliga dessa under behandlingstiden. Överslag i hypomani/mani är inte vanligt. Detsamma gäller för mer bestående minnespåverkan."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-15",
+              "text": "Hur lång bör den farmakologiska behandlingstiden vara vid en enstaka depressionsepisod och hur bedömer du Anders lämpliga behandlingstid i relation till denna? Motivera ditt svar.",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Adekvat behandlingslängd är 6-12 månader efter remission. Behandlingen bör i detta fall vara längre än så men det går ej att säga exakt tid, beror på behandlingseffekt och biverkningar Motivering till förlängd behandlingstid: återkommande depressionsepisod och allvarlig sjukdom med förhöjd suicidrisk."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "1-1-16",
+              "text": "Nämn en icke-farmakologisk evidensbaserad behandling som minskar recidivrisken vid återkommande depression samt redogör för när i sjukdomsförloppet denna ska ges.\n\nEpilog\n\nMax poäng: 0\n\nEpilog Efter att Anders skrivs ut från slutenvården följs han upp på allmänpsykiatrisk mottagning. Han påbörjar KBT behandling med fokus på återfallsprevention. Han slutar med mirtazapin efter tre månader då han sover bra. Ett år efter remission mår Anders fortsatt väl och önskar minska venlafaxin då han är besvärad av sexuella biverkningar. Venlafaxin minskas till 75 mg och sätts sedan ut efter ytterligare ett par månader då man bedömer att han tillgodogjort sig KBT behandlingen mycket väl. Anders kan efter ytterligare ett besök avslutas från allmänpsykiatrisk mottagning och fortsättningsvis följas av läkare på vårdcentralen. Ett halvår senare när han kommer på hypertonikontroll mår han fortsatt väl.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kognitiv beteendeterapi (KBT). Poäng ges även specifikt för mindfulnessbaserad kognitiv terapi (MBCT). Behandlingen ska ges efter att remission har uppnåtts.\n\nFall 2 – KIRURGI Det är november och du är på väg till jobbet. På en stenig och brant väg möter du en cyklist som tappar kontrollen över sin cykel, när han väjer för dig. Han har ingen hjälm på sig, slår huvudet i en större sten och förblir liggandes orörlig på marken. Du har din mobiltelefon med dig och larmar genast 112. Ambulansen är på väg. Platsen bedöms vara säker ur trafiksynpunkt. Du väljer frivilligt att använda dina medicinska kunskaper för att hjälpa till i situationen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "Fall 2 – Kirurgi",
+      "points": 20,
+      "intro": "Det är november och du är på väg till jobbet. På en stenig och brant väg möter du en cyklist som tappar kontrollen över sin cykel, när han väjer för dig. Han har ingen hjälm på sig, slår huvudet i en större sten och förblir liggandes orörlig på marken. Du har din mobiltelefon med dig och larmar genast 112. Ambulansen är på väg. Platsen bedöms vara säker ur trafiksynpunkt. Du väljer frivilligt att använda dina medicinska kunskaper för att hjälpa till i situationen.",
+      "pages": [
+        {
+          "id": "2-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "2-1-1",
+              "text": "Vad är din nästa åtgärd?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Kontrollerar fri luftväg under manuell rörelserestriktion av halsryggen (0,5+0,5P)\n\n………………..Du går fram till patienten och undersöker luftvägen medan du ser till att en av dina kompisar immobiliserar halsryggen. Du hör ett snarkande andningsljud."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-2",
+              "text": "Vad blir din åtgärd?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektion av munhålan samt jaw-thrust eller chin-lift (0,5+0,5P)\n\nDet är november…………… Ambulansen anländer och har med sig basala hjälpmedel. De tar fram näskantarell och svalgtub."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-3",
+              "text": "Kan du använda dessa hjälpmedel i den aktuella situationen? Motivera ditt resonemang.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Näskantarell används ej vid tecken på skallbasfraktur att undvika skada hjärnan. Svalgtub används ej vid vakna patienter att undvika framkallandet av kräkning (1+1P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-4",
+              "text": "Efter att ha etablerat fri luftväg, vad är nästa steg i akutbedömningen av patienten och vilka två parametrar är viktigast?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "B som breathing. Andningsfrekvens och Saturation (0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-5",
+              "text": "Vilka åtgärder behöver göras med tanke på dessa värden?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Stödventilation medels mask och blåsa samt syrgas (0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-6",
+              "text": "Vad mer behöver göras under B? Ange fyra ytterligare undersökningar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Inspektion, Auskultation, Perkussion och Palpation av bröstkorgen (0,5+0,5+0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-7",
+              "text": "Vilka två parametrar är viktiga som ambulanspersonalen kan vara behjälplig med och vilka två undersökningar ska du göra i din fortsatta bedömning?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Puls och Blodtryck (även kapillär återfyllnad) samt bedömning av bäckenstabilitet och långa rörben (C-circulation) (1+1P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-8",
+              "text": "Vad är nästa steg i bedömningen av en traumapatient och vad ingår under detta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "D-bedömning, Pupiller och medvetandegrad (0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-9",
+              "text": "Vilka två radiologiska undersökningar är indicerade med tanke på ovan beskrivna fynd? (motivera varför du väljer dessa) Sidbrytning",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CT skalle, Röntgen pulm/CT thorax (0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-10",
+              "text": "Med tanke på dessa fynd, vilka två interventioner behöver göras?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Avlastning av ökad intrakraniellt tryck, thoraxdrän. (0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-1-11",
+              "text": "Nämn två läkemedelsterapier som kan påbörjas i väntan på att neurokirurgen är på plats för att optimera patientens prognos med tanke på det intrakraniella hematomet. Beskriv även verkningsmekanismen av dessa läkemedelsterapier.\n\nEpilog 2.1. Max poäng: 0\n\nDet är november och du är på väg till jobbet. På en stenig och brant väg möter du en cyklist som tappar kontrollen över sin cykel, när han väjer för dig. Han har ingen hjälm på sig, slår huvudet i en större sten och förblir liggandes orörlig på marken. Du har din mobiltelefon med dig och larmar genast 112. Ambulansen är på väg. Platsen bedömas vara säker. Luftvägen förbättras genom jaw-thrust och en svalgtub medan halsryggen skyddas. Patienten andas med en frekvens av 8/min och saturerar blodet med 87%. Då patienten har en låg saturation och en låg andningsfrekvens behöver han stödventileras med syrgas genom mask och blåsa. Saturationen stiger genast till 96%. Vid inspektion, auskultation, perkussion och palpation av bröstkorgen hittas ett blåmärke på höger sida av bröstkorgen. Där känns krepitationer över minst tre revben. Dock finns normala auskultationsljud och perkussionsljud. Hjärtfrekvensen är 85/min och blodtrycket är 130/90 mmHg. Kapillär återfyllnad över sternum är 2 sekunder. Bäckenet känns stabilt och det finns ingen misstanke om fraktur av långa rörben. Cirkulationen bedöms som stabil. Nästa steg är bedömningen av D. Pupillstatus: Höger pupill större än den vänstra samt reagerar långsammare på ljus. Medvetandegrad: GCS 7 (Eye: 1, Verbal: 2, Motor 4), RLS 5 Äntligen har ambulansen fått fram en bår och flyttar över patienten med en scoop-bår, medan man ser till att inte mobilisera halsryggen. Man kör till närmaste akutmottagning där man återigen gör en ABCDE-bedömning. Man hittar inga fler skador. CT skalle visar en färsk epiduralhematom med medellinjeförskjutning, CT thorax visar en större högersidig pneumothorax med subkutant emfysem. Man bestämmer att epiduralhematomet behöver avlastas via NK med högsta prioritet. Under tiden man väntar på neurokirurgen läggs det ett thoraxdrän på höger sidan vilket genast förbättrar saturationen.\n\nEpilog Osmotisk terapi med Mannitol för att minska intrakraniell volym genom att dra intracellulär vätska extracelllärt samt infusion av Tranexamsyra för att minska fibrinolysen och därmed blödningen, påbörjas. Neurokirurgen anländer och trepanerar skallbenet. Patienten förbättras under vårdtiden och är idag återigen aktiv cyklist, dock använder han alltid hjälm nuförtiden.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Osmotisk terapi (Mannitol / hyperton natriumklorid; minskar intrakraniell volym), Antifibrinolytisk terapi (Tranexamsyra, minskar blödningen) (1+1P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "context": null,
+          "contextImageUrl": "/images/exams/2022-11/fall2_fasciit.jpg",
+          "questions": [
+            {
+              "id": "2-2-1",
+              "text": "På akutmottagningen larmas du till Leif, en 57-årig man med följande parametrar. A: Fri luftväg B: Saturation 93% på rumsluft, normala andningsljud, andningsfrekvens 28 C: Blodtryck 95/55 mmHg, puls: 133/min D: Vaken och adekvat, dock trött E: Temperatur 40 Grader Celsius, finprickigt exantem på hela kroppen, kraftigt ömmande rodnad 20X20cm på insidan höger lår med svartaktig blåsbildning (bild). Patienten klagar över kraftiga smärtor.\n\nBlodprover: CRP 348 mg/L (<3), Kreatinin 403 μmol/L (60-105), Hb 150 g/L (134170), Natrium 128 mmol/L (137-145), Kalium 2.8 mmol/L (3,5-4,4), PK 1.3 INR (0,91,2), Laktat 4.4 mmol/L (0,9-1,7), BE -6.8 Han berättar att han fick diarréer och kräkningar för tre dagar sedan. För två dagar sedan fick han feber och en rodnad medialt på höger lår. Idag blev han plötslig mycket sämre, utvecklade röda prickar över hela kroppen, fick hög feber och därför larmade hans fru ambulansen. Han har inga kända allergier, tar inga mediciner förutom blodtryckssänkande, är frisk förutom tablettbehandlad hypertoni, bor i villa med hustrun och hund, röker inte och dricker sällan alkohol. Vid närmare undersökning ser du att rodnaden sprider sig med en oskarp gräns och har en blåröd färg. Patienten klagar över mycket kraftiga smärtor i det rodnade området och även utanför. 2.2.1. Med tanken på ovanstående fynd, vilket tillstånd har drabbat Leif och vilken diagnos kan orsaka denna kliniska bild?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Svår sepsis med begynnande cirkulationssvikt, nekrotiserande fasciit (0,5+0,5P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-2",
+              "text": "På akutmottagningen larmas du till Leif, en 57-årig man med följande parametrar. A: Fri luftväg B: Saturation 93% på rumsluft, normala andningsljud, andningsfrekvens 28 C: Blodtryck 95/55 mmHg, puls: 133/min D: Vaken och adekvat, dock trött E: Temperatur 40 Grad Celsius, finprickigt exantem på hela kroppen, kraftigt ömmande rodnad 20X20cm på insidan höger lår. Blodprover: CRP 348 mg/L (<3), Kreatinin 403 μmol/L (60-105), Hb 150 g/L (134-170), Natrium 128 mmol/L (137-145), Kalium 2.8 mmol/L (3,5-4,4), PK 1.3 INR (0,9-1,2), Laktat 4.4 mmol/L (0,9-1,7), BE -6.8 Han berättar att han fick diarréer och kräkningar för tre dagar sedan. För två dagar sedan fick han feber och en rodnad medialt på höger lår. Idag blev han plötslig mycket sämre, utvecklade röda prickar över hela kroppen, fick hög feber och därför larmade hans fru ambulansen. Han har inga kända allergier, tar inga mediciner förutom blodtryckssänkande, är frisk förutom tablettbehandlad hypertoni, bor i villa med hustrun och hund, röker inte och dricker sällan alkohol. Fin närmare undersökning ser du att rodnaden sprider sig med en oskarp gräns och har en blåröd färg. Patienten klagar över mycket kraftiga smärtor i det rodnade området och även utanför.\n\nDu bedömer att Leif har drabbats av en svår sepsis med begynnande multiorgansvikt och misstänker en nekrotiserande fasciit som orsak. 2.2.2. Vilka tre åtgärder måste nu skyndsamt inledas?",
+              "maxPoints": 3.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Tidig och aggressiv kirurgi (avlägsnande av nekrotisk vävnad), Antibiotika efter odling (Betalaktam och Klindamycin), Hemodynamisk behandling (Vätksa, inotropi) (3P)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "2-2-3",
+              "text": "På akutmottagningen larmas du till Leif, en 57-årig man med följande parametrar. A: Fri luftväg B: Saturation 93% på rumsluft, normala andningsljud, andningsfrekvens 28 C: Blodtryck 95/55 mmHg, puls: 133/min D: Vaken och adekvat, dock trött E: Temperatur 40 Grad Celsius, finprickigt exantem på hela kroppen, kraftigt ömmande rodnad 20X20cm på insidan höger lår Blodprover: CRP 348 mg/L (<3), Kreatinin 403 μmol/L (60-105), Hb 150 g/L (134-170), Natrium 128 mmol/L (137-145), Kalium 2.8 mmol/L (3,5-4,4), PK 1.3 INR (0,9-1,2), Laktat 4.4 mmol/L (0,9-1,7), BE -6.8 Han berättar att han fick diarréer och kräkningar för tre dagar sedan. För två dagar sedan fick han feber och en rodnad medialt på höger lår. Idag blev han plötslig mycket sämre, utvecklade röda prickar över hela kroppen, fick hög feber och därför larmade hans fru ambulansen. Han har inga kända allergier, tar inga mediciner förutom blodtryckssänkande, är frisk förutom tablettbehandlad hypertoni, bor i villa med hustrun och hund, röker inte och dricker sällan alkohol. Fin närmare undersökning ser du att rodnaden sprider sig med en oskarp gräns och har en blåröd färg. Patienten klagar över mycket kraftiga smärtor i det rodnade området och även utanför. Du bedömer att Leif har drabbats av en svår sepsis med begynnande cirkulationssvikt och misstänker en nekrotiserande fasciit som orsak.\n\nPatienten behöver skyndsamt tas till operation för att avlägsna nekrotisk vävnad. Under transport påbörjas Antibiotikabehandling med Betalaktam och Klindamycin efter odling samt hemodynamisk behandling med intravenös vätska och inotropi. Blandflora är vanlig vid nekrotiserande fasciit men infektion med en enda bakterie förekommer oftare. 2.2.3. Vilken bakterie är den vanligaste orsaken till nekrotiserande fasciit när det bara föreligger ett species?\n\nEpilog 2.2. Max poäng: 0\n\nPå akutmottagningen larmas du till Leif, en 57-årig man med följande parametrar. A: Fri luftväg B: Saturation 93% på rumsluft, normala andningsljud, andningsfrekvens 28 C: Blodtryck 95/55 mmHg, puls: 133/min D: Vaken och adekvat, dock trött E: Temperatur 40 Grad Celsius, finprickigt exantem på hela kroppen, kraftigt ömmande rodnad 20X20cm på insidan höger lår Blodprover: CRP 348 mg/L (<3), Kreatinin 403 μmol/L (60-105), Hb 150 g/L (134-170), Natrium 128 mmol/L (137-145), Kalium 2.8 mmol/L (3,5-4,4), PK 1.3 INR (0,9-1,2), Laktat 4.4 mmol/L (0,9-1,7), BE -6.8 Han berättar att han fick diarréer och kräkningar för tre dagar sedan. För två dagar sedan fick han feber och en rodnad medialt på höger lår. Idag blev han plötslig mycket sämre, utvecklade röda prickar över hela kroppen, fick hög feber och därför larmade hans fru ambulansen. Han har inga kända allergier, tar inga mediciner förutom blodtryckssänkande, är frisk förutom tablettbehandlad hypertoni, bor i villa med hustrun och hund, röker inte och dricker sällan alkohol. Fin närmare undersökning ser du att rodnaden sprider sig med en oskarp gräns och har en blåröd färg. Patienten klagar över mycket kraftiga smärtor i det rodnade området och även utanför. Du bedömer att Leif har drabbats av en svår sepsis med begynnande cirkulationssvikt och misstänker en nekrotiserande fasciit som orsak. Patienten behöver skyndsamt tas till operation för att avlägsna nekrotisk vävnad. Under transport påbörjas Antibiotikabehandling med Betalaktam och Klindamycin efter odling samt hemodynamisk behandling med intravenös vätska och inotropi.\n\nEpilog Odlingen visar en infektion med Streptococcus pyogenes. Efter flera operativa revisioner och två veckors antibiotikaterapi på intensivvårdsavdelningen kan Leif flyttas till en vanlig vårdavdelning.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Streptococcus pyogenes / betahemolyserande streptokocker grupp A / GAS. (1P)\n\nFall 3 – INTERNMEDICIN Du tjänstgör som jourhavande läkare på akuten på ett universitetssjukhus. Karl, 64 år, inkommer i ambulans efter att han ringt 112 pga hastigt påkommet kraftigt tryck över bröstet sedan en timme tillbaka."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "Fall 3 – Internmedicin",
+      "points": 20,
+      "intro": "Du tjänstgör som jourhavande läkare på akuten på ett universitetssjukhus. Karl, 64 år, inkommer i ambulans efter att han ringt 112 pga hastigt påkommet kraftigt tryck över bröstet sedan en timme tillbaka. Ambulanspersonalen, som var på plats hos patienten 20 minuter efter att symtomen började, har skickat ett EKG till hjärtinfarktavdelningen (HIA) där man inte tycker sig se några ischemiska förändringar. Ambulansen dirigerades därför till akuten. När du träffar patienten har han nedsatt vakenhetsgrad som du bedömer Reaction Level Scale (RLS) 2-3 varför du har svårt att kommunicera med honom. När ambulanspersonalen rapporterar till dig framkommer att de fått ordination från HIA på 2,5 mg morfin iv. Pga missförstånd gav de istället 25 mg morfin iv till patienten varefter trycket i bröstet verkar ha minskat avsevärt men patienten har blivit alltmer somnolent under transporten in till sjukhuset.",
+      "pages": [
+        {
+          "id": "3-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "3-1-1",
+              "text": "Utifrån vad du vet ovan, vilka fyra parametrar är de första och viktigaste du vill värdera?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Saturation, blodtryck, andningsfrekvens och hjärtfrekvens"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-2",
+              "text": "Hur tolkar du avvikelserna i blodgasen och vad är genesen till detta?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Lågt pH, lågt pO2, högt pCO2, normalt BE talar för akut respiratorisk insufficiens sekundärt till hyporespiration pga överdos av morfin."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-3",
+              "text": "Vad är den mest sannolika orsaken till patientens nedsatta vakenhetsgrad och vad ordinerar du för att häva tillståndet?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Överdos av morfin. Du ordinerar naloxone"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-4",
+              "text": "Vilka tre differentialdiagnoser är mest sannolika?",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Akut koronart syndrom (hjärtinfarkt, instabil angina), lungemboli, aortadissektion."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-5",
+              "text": "Du begär också ett nytt EKG. Beskriv EKG.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-11/fall3_ekg.jpg",
+              "facit": [
+                "Sinusrytm. Inferiora (II, aVF och III) ST-lyft med reciproka STsänkningar lateralt (aVL och I). Frekvens 36 slag/min"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-6",
+              "text": "Vilken diagnos ställer du och, hur handlägger du patienten nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-11/fall3_ekg2.jpg",
+              "facit": [
+                "Patienten har ST-lyft inferiort talande för inferior STEMI. Det är därför av stor vikt att han snabbt kommer till akut koronarangio för PCI. Du kontaktar därför kardiolog och PCI jour."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-7",
+              "text": "Vilka läkemedel ordinerar du nu?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ASA 300-500 mg samt 5000 Heparin iv. Morfin ger inga poäng beaktande överdosen av morfin. Syrgas ger inga poäng då han saturerar sig på 96%. Atropin (frekvens 36-40) ger inga poäng då denna frekvens inte ger honom påverkan på blodtrycket."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-8",
+              "text": "Beaktande patientens status vid ankomsten till akuten, är det något annat du måste tänka på i handläggningen och planeringen samt vara beredd på innan han lämnar akuten? Sidbrytning",
+              "maxPoints": 1.5,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Eftersom patienten fick Naloxone iv kommer effekten av läkemedlet snabbt att avta och risk föreligger att han återigen går ner i vakenhetsgrad (0.5). Han behöver därför monitoreras frekvent med puls, blodtryck, andningsfrekvens och saturation (0.5). Man behöver därför ha Naloxone i beredskap (0.5)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-9",
+              "text": "Patienten ter sig orolig och stressad pga bröstsmärtan. Vad är den mest troliga orsaken till hypokalemin? Beskriv patofysiologin bakom fenomenet.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid stress utsöndras kortisol från binjurarna. Kortisol gör att natrium och vatten återresorberas i njuren medan kalium filtreras ut."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-10",
+              "text": "Patienten erhåller PCI mot höger kranskärl, dvs RCA. Vilka strukturer i hjärtat försörjs av detta kärl? Förklara (anatomiskt) varför bradykardin kvarstår trots att morfinöverdosen behandlats med Naloxon.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "AV-noden. Bradykardi med höggradigt AV-block"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-11",
+              "text": "Beskriv patogenesen till STEMI.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Vid STEMI uppstår, i de flesta fall, på grund av en ruptur (0,5P) i ett aterosklerotiskt plack (0,5P) i kranskärlen. Rupturen orsakar aktivering av trombocyter och koagulationsmekanismer (0,5P), vilket leder till akut trombosbildning (0,5P) som helt obstruerar blodflödet i kärlet. Tillståndet leder snabbt till myokardischemi i det aktuella kärlområdet och inom några minuter drabbas myokardiet av en progredierande cellnekros."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-12",
+              "text": "Vad misstänker du har hänt? Hur tar du reda på detta och vilka differentialdiagnoser beaktar du?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Transthorakalt ultraljud. Mekanisk komplikation såsom tamponad, klaffruptur eller VSD (ventrikelseptumdefekt)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-13",
+              "text": "Vilka kliniska tecken stöder diagnosen akut tamponad och vad blir din omedelbara åtgärd för att förbättra patientens situation tillfälligt för att överbrygga dessa minuter tills dränet är på plats?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "2-3 liter Ringeracetat snabbt med övertryck. Dubbla infarter."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "3-1-14",
+              "text": "Vilka läkemedel bör (om möjligt) patienten behandlas med, enligt riktlinjer, efter hjärtinfarkt när patienten skrivs hem?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "ASA, Brilique/Clopidogrel/Efient, Metoprolol/Bisoprolol, ACEi/ARB, statin\n\nFALL 4 - ALLMÄNMEDICIN Kerstin berättar att hon sedan flera år besvärats av tilltagande andfåddhet vid promenader och cykling, och att hon nu känt sig sämre sedan några månader. ……………………. För ett halvår sedan hade hon en ”ful luftrörskatarr”, och fick antibiotika på jourläkarcentralen."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "Fall 4 – Allmänmedicin",
+      "points": 20,
+      "intro": "Kerstin Du vikarierar som läkare på en vårdcentral i en medelstor kommun. På tidsbeställd mottagning kommer Kerstin, en 60-årig kvinna, som arbetar som undersköterska i kommunen. Kerstin söker för andfåddhet. Kerstin har sedan några år tillbaka en hypertoni, som är välreglerad på T Enalapril 10 mg x1. Kerstin berättar att hon sedan flera år besvärats av tilltagande andfåddhet vid promenader och cykling, och att hon nu känt sig sämre sedan några månader. Allra värst är det på morgnarna, när hon cyklar till arbetet. Hon har inga direkta bröstsmärtor, men däremot en lättare tryckkänsla mitt i bröstet. Mest känns det som om ”luften tar slut”. Hon har också sedan flera år lite slemhosta, mest på morgnarna, och ibland en del pip i bröstet vid sänggående. För ett halvår sedan hade hon en ”ful luftrörskatarr”, och fick antibiotika på jourläkarcentralen.",
+      "pages": [
+        {
+          "id": "4-1",
+          "context": null,
+          "contextImageUrl": null,
+          "questions": [
+            {
+              "id": "4-1-1",
+              "text": "Nämn fyra olika differentialdiagnoser som kan förklara Kerstins symtom.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "KOL, astma, angina pectoris, hjärtsvikt, lungemboli, andra lungsjukdomar (kronisk bronkit, lungfibros, lungcancer), anemi (2 p, 0,5 poäng för varje alternativ). Astma och hjärtsvikt obligatoriska för maxpoäng."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-2",
+              "text": "Nämn fyra anamnesuppgifter som du behöver för att komma vidare i handläggningen.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Rökning (nuvarande eller tidigare), arbetsmiljö, astma/allergi under barndom/yngre år, andfåddhet i vila/nattlig dyspne, samband mellan symtom och ansträngning, bensvullnad (2 p, 0,5 poäng för varje alternativ)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-3",
+              "text": "Ange fyra väsentliga patientnära laboratorieprover eller undersökningar med svar samma dag, som du vill komplettera den fysiska undersökningen med. Motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Hb (utesluta anemi), PEF/COPD-6 (screening för astma/KOL), EKG (instabil angina), O2 saturation (KOL,lungemboli), vikt+längd. 2 p (0,5 poäng för varje)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-4",
+              "text": "Vilken diagnos bedömer du vara mest sannolik, och vilka undersökningar/blodprov beställer du för att ta ställning till vidare utredning? Motivera ditt svar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "KOL (1 p); lungröntgen och spirometri med reversibilitet (0,5 p+0,5 p) för att hitta ev fynd som talar för KOL/hjärtsvikt; Poäng även för NT-pro BNP för att ta ställning till vidare utredning med UKG för ev hjärtsvikt"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-5",
+              "text": "Vilket värde i tabellen a) bekräftar eller utesluter en KOL diagnos och b) stadieindelar en eventuell KOL sjukdom?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "FEV1/FVC för diagnos och FEV1 efter bronkdilatation för stadieindelning."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-6",
+              "text": "Utifrån spirometriresultat och symtom, hur bedömer du sjukdomens svårighetsgrad (ange GOLD stadium)? (0,5p) Vad använder du denna stadieindelning till? (0,5p)",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "CAT 15 med betydande symtom och FEV1 55% av förväntat värde efter bronkdilatation ger ett KOL GOLD B. Stadieindelningen används till att ta ställning till behandling."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-7",
+              "text": "Nämn tre viktiga åtgärder, förutom läkemedelsbehandling, som du kan rekommendera till Kerstin nu.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "rökstopp, vaccination (influensa, pneumokocker), kostråd (ev dietist), regelbunden fysisk träning 2 p (0,5 poäng för varje rätt svar)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-8",
+              "text": "Vilket/vilka läkemedel kan du skriva ut till Kerstin för symtomlindring och minska risken för exacerbationer?",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "LAMA (long acting muscarinreceptor agonists)/LABA (long acting betareceptor agonists) 2 p (1 p för varje rätt)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-9",
+              "text": "Vilka biverkningar för LAMA eller LABA bör du informera Kerstin om?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "muntorrhet (LAMA) och hjärtklappningar (LABA)"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-1-10",
+              "text": "Vilken behandling skriver du ut till Kerstin? (preparat, dosering och behandlingslängd).\n\nEpilog\n\nMax poäng: 0\n\nEpilog - del 1 Du bedömer att Kerstin har en KOL exacerbation och skriver ut T Doxyferm 100 mg, två tabletter dagligen i tre dagar, sedan en tablett dagligen i ytterligare 4 dagar, samt T Betapred 0,5 mg, 6 tabletter dagligen som löses upp i vatten och sväljes varje dag i 5 dagar.",
+              "maxPoints": 2.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Sätter in behandling antibiotika (Amoxicillin 500-750 mgx3 eller Doxyferm (200 mg dag 1-3, sen 100 mg/dag, behandlingslängd 7 dagar. 1,5p (0,5 p för rätt preparat, 0,5 p för rätt dos och 0,5 p för rätt behandlingslängd) samt perorala steroider (Betapred 0,5 mg 6 tabletter/dag i 5 dagar eller Prednisolon 5 mg 6-8 tabletter/dag i 5 dagar) 0,5 p."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "context": "Efter cirka fem dagar med behandling ringer Kerstin upp. Hon blev mycket bättre med andningen och febern försvann, därför vågade hon sig en halvdag på stranden igen med barnbarnen. Igår upptäckte hon ett utslag på vänster sidan av bröstkorgen, under vänster arcus, som ser ilsket rött ut och gör även intensivt ont. Kerstin har inte haft något liknande tidigare. Du ber en distriktssköterska ta in henne på en akut tid och tittar in under tiden Kerstin är där. Du noterar att Kerstin har följande utslag under vänster arcus:",
+          "contextImageUrl": "/images/exams/2022-11/fall4_herpes_zoster.jpg",
+          "questions": [
+            {
+              "id": "4-2-1",
+              "text": "Vilken är den troligaste diagnosen, utifrån anamnes och symtombild?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "Herpes zoster (bältros)."
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-2",
+              "text": "Vad rekommenderar du för behandling, och vilka råd ger du Kerstin?",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": "/images/exams/2022-11/fall4_herpes_zoster2.jpg",
+              "facit": [
+                "Valacyklovir i en vecka (0,5p), eftersom det har gått mindre än 72 h från debut och hon är mycket besvärad. Informera att vätskan från blåsorna kan smitta med varicella virus och orsaka en primärinfektion av vattkoppor, 0,5p"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            },
+            {
+              "id": "4-2-3",
+              "text": "Vilken är den vanligaste komplikationen för herpes zoster?\n\nEpilog\n\nMax poäng: 0\n\nEpilog - del 2 Du skriver ut T Valaciklovir för en veckas behandling, eftersom det har gått mindre är 72 timmar från symtomdebut och Kerstin har påtagliga besvär. Du informerar också att vätskan från blåsorna kan smitta andra personer med varicella (vattkoppor), ifall de inte har haft infektionen tidigare. Den vanligaste komplikationen är post-herpetisk neuralgi, som drabbar cirka 60% av alla patienter över 60 år.",
+              "maxPoints": 1.0,
+              "hint": null,
+              "imageUrl": null,
+              "facit": [
+                "postherpetisk neuralgi"
+              ],
+              "facitExplanation": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
