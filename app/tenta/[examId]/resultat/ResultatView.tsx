@@ -195,8 +195,27 @@ export default function ResultatView({
 
           {openCases[c.id] && (
             <div className="border border-t-0 border-gray-200 rounded-b-xl overflow-hidden bg-gray-50">
-              {c.pages.map((page) =>
-                page.questions.map((q) => (
+              {c.pages.map((page) => (
+                <div key={page.id}>
+                  {(page.context || page.contextImageUrl) && (
+                    <div className="border-t border-gray-100 px-5 py-4 bg-gray-50">
+                      {page.context && (
+                        <p className="text-xs text-gray-600 whitespace-pre-wrap">{page.context}</p>
+                      )}
+                      {page.contextImageUrl && (
+                        <div className={page.context ? "mt-3" : ""}>
+                          <Image
+                            src={page.contextImageUrl}
+                            alt="Klinisk bild"
+                            width={550}
+                            height={400}
+                            className="rounded-lg w-full h-auto"
+                          />
+                        </div>
+                      )}
+                    </div>
+                  )}
+                  {page.questions.map((q) => (
                   <div key={q.id} className="border-t border-gray-100 p-5">
                     {/* Question */}
                     <p className="text-sm font-medium text-gray-800 mb-2">{q.text}</p>
@@ -258,8 +277,9 @@ export default function ResultatView({
                       <span className="text-xs text-gray-400">/ {q.maxPoints}</span>
                     </div>
                   </div>
-                ))
-              )}
+                ))}
+              </div>
+            ))}
             </div>
           )}
         </div>
