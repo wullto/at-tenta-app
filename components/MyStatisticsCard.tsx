@@ -4,6 +4,16 @@ import { useState } from "react"
 import DashboardStats from "@/components/DashboardStats"
 import RecentResultsCard from "@/components/RecentResultsCard"
 
+function clearAllLocalStorage() {
+  if (typeof window === "undefined") return
+  const keysToRemove: string[] = []
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i)
+    if (key?.startsWith("exam-session")) keysToRemove.push(key)
+  }
+  keysToRemove.forEach((key) => localStorage.removeItem(key))
+}
+
 type Stats = {
   completedCount: number
   inProgressCount: number
@@ -48,6 +58,19 @@ export default function MyStatisticsCard({
   recentResults: RecentResult[]
 }) {
   const [isOpen, setIsOpen] = useState(false)
+  const [confirming, setConfirming] = useState(false)
+  const [clearing, setClearing] = useState(false)
+
+  async function handleClearAll() {
+    if (!confirming) {
+      setConfirming(true)
+      return
+    }
+    setClearing(true)
+    clearAllLocalStorage()
+    await fetch("/api/exam-progress", { method: "DELETE" }).catch(() => {})
+    window.location.reload()
+  }
 
   return (
     <div className="mt-8 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
@@ -70,6 +93,29 @@ export default function MyStatisticsCard({
             serverProgressRows={serverProgressRows}
           />
           <RecentResultsCard results={recentResults} />
+          <div className="flex items-center justify-end gap-3">
+            {confirming && (
+              <button
+                type="button"
+                onClick={() => setConfirming(false)}
+                className="text-sm text-slate-500 hover:text-slate-700"
+              >
+                Avbryt
+              </button>
+            )}
+            <button
+              type="button"
+              onClick={handleClearAll}
+              disabled={clearing}
+              className={`rounded-lg px-3 py-1.5 text-sm font-medium transition-colors ${
+                confirming
+                  ? "bg-red-600 text-white hover:bg-red-700"
+                  : "border border-slate-200 text-slate-600 hover:border-red-300 hover:text-red-600"
+              } disabled:opacity-50`}
+            >
+              {clearing ? "Rensar…" : confirming ? "Ja, rensa allt" : "Rensa all historik"}
+            </button>
+          </div>
         </div>
       )}
     </div>
