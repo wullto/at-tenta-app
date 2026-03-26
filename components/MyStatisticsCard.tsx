@@ -3,16 +3,7 @@
 import { useState } from "react"
 import DashboardStats from "@/components/DashboardStats"
 import RecentResultsCard from "@/components/RecentResultsCard"
-
-function clearAllLocalStorage() {
-  if (typeof window === "undefined") return
-  const keysToRemove: string[] = []
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i)
-    if (key?.startsWith("exam-session")) keysToRemove.push(key)
-  }
-  keysToRemove.forEach((key) => localStorage.removeItem(key))
-}
+import { clearSession } from "@/lib/storage"
 
 type Stats = {
   completedCount: number
@@ -67,7 +58,7 @@ export default function MyStatisticsCard({
       return
     }
     setClearing(true)
-    clearAllLocalStorage()
+    examSummaries.forEach((exam) => clearSession(exam.id))
     await fetch("/api/exam-progress", { method: "DELETE" }).catch(() => {})
     window.location.reload()
   }
